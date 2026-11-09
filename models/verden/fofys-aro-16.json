@@ -1,0 +1,40 @@
+{
+  "ano": null,
+  "atualizado_em": "2026-11-08",
+  "categoria": "infantil",
+  "componentes": {
+    "grupo": null,
+    "peso_kg": null,
+    "tipo_freio": null,
+    "velocidades": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://verdenbikes.com/fofys-aro-16-verde-tiffany-e-lilas/"
+    },
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://verdenbikes.com/fofys-aro-16-rosa-e-fucsia/"
+    }
+  ],
+  "marca": "Verden",
+  "modelo": "Fofys Aro 16",
+  "preco_sugerido_brl": null,
+  "quadro": {
+    "aro": "16",
+    "curso_mm": null,
+    "material": "Aço carbono",
+    "suspensao": null,
+    "tamanhos": null
+  },
+  "slug": "fofys-aro-16",
+  "url_fabricante": "https://verdenbikes.com/fofys-aro-16-verde-tiffany-e-lilas/",
+  "imagem": {
+    "arquivo": "verden/fofys-aro-16.webp",
+    "fonte_url": "https://verdenbikes.com/fofys-aro-16-verde-tiffany-e-lilas/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "marca": "GTS",
+  "modelo": "ZT Rígida",
+  "ano": null,
+  "slug": "zt-rigida",
+  "categoria": "urbana",
+  "url_fabricante": "https://www.alfameqoficial.com.br/bicicletas/bicicleta-aro-29-gts-zt-aco-21-marchas-e-freio-a-disco",
+  "preco_sugerido_brl": 899.9,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Aço carbono",
+    "tamanhos": null,
+    "aro": "29",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": null,
+    "velocidades": 21,
+    "tipo_freio": "Disco mecânico",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.alfameqoficial.com.br/bicicletas/bicicleta-aro-29-gts-zt-aco-21-marchas-e-freio-a-disco",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "gts/zt-rigida.webp",
+    "fonte_url": "https://www.alfameqoficial.com.br/bicicletas/bicicleta-aro-29-gts-zt-aco-21-marchas-e-freio-a-disco"
+  }
+}

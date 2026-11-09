@@ -1,0 +1,35 @@
+{
+  "marca": "KRW",
+  "modelo": "KR11",
+  "ano": null,
+  "slug": "krw-kr11",
+  "categoria": "mtb",
+  "url_fabricante": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-24-vel-shimano-altus-freio-hidraulico-suspensao-trava-de-ombro-kr11/",
+  "preco_sugerido_brl": 1369,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061",
+    "tamanhos": null,
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano Altus",
+    "velocidades": 24,
+    "tipo_freio": "Disco hidráulico",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-24-vel-shimano-altus-freio-hidraulico-suspensao-trava-de-ombro-kr11/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "krw/krw-kr11.webp",
+    "fonte_url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-24-vel-shimano-altus-freio-hidraulico-suspensao-trava-de-ombro-kr11/"
+  }
+}

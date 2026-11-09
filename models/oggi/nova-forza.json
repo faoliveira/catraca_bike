@@ -1,0 +1,55 @@
+{
+  "marca": "Oggi",
+  "modelo": "Nova Forza",
+  "ano": null,
+  "slug": "nova-forza",
+  "categoria": "ebike",
+  "url_fabricante": "https://oggibikes.com.br/bike/nova-forza/",
+  "preco_sugerido_brl": 36900,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio",
+    "tamanhos": [
+      "S",
+      "M",
+      "L"
+    ],
+    "aro": "29",
+    "suspensao": "full",
+    "curso_mm": 160
+  },
+  "componentes": {
+    "grupo": "Shimano Cues 11V",
+    "velocidades": 11,
+    "tipo_freio": "Hidráulico Shimano M4100 rotores 220/203 mm",
+    "peso_kg": 25.7
+  },
+  "ebike": {
+    "motor_tipo": "Shimano EP6 (central)",
+    "potencia_w": 250,
+    "torque_nm": 85,
+    "bateria_wh": 630,
+    "autonomia_declarada_km": null,
+    "acelerador": null,
+    "assistencia_so_com_pedal": null,
+    "vel_max_kmh": null,
+    "largura_cm": null,
+    "entre_eixos_cm": null
+  },
+  "fontes": [
+    {
+      "url": "https://oggibikes.com.br/bike/nova-forza/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    },
+    {
+      "url": "https://oggibikes.com.br/modelos-eletricas/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "oggi/nova-forza.webp",
+    "fonte_url": "https://oggibikes.com.br/bike/nova-forza/"
+  }
+}

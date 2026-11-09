@@ -1,0 +1,40 @@
+{
+  "marca": "TSW",
+  "modelo": "Evo Quest Sport",
+  "ano": null,
+  "slug": "evo-quest-sport",
+  "categoria": "mtb",
+  "url_fabricante": "https://tswbike.com/p/2159/evo-quest-sport",
+  "preco_sugerido_brl": 14500,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono Toray T700/T800/T1000",
+    "tamanhos": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": 100
+  },
+  "componentes": {
+    "grupo": "SRAM NX Eagle",
+    "velocidades": 12,
+    "tipo_freio": "Disco hidráulico Shimano MT200",
+    "peso_kg": 12.4
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://tswbike.com/p/2159/evo-quest-sport",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "tsw/evo-quest-sport.webp",
+    "fonte_url": "https://tswbike.com/p/2159/evo-quest-sport"
+  }
+}

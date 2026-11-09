@@ -1,0 +1,31 @@
+{
+  "marca": "Colli",
+  "modelo": "Pitukinha",
+  "ano": null,
+  "slug": "pitukinha",
+  "categoria": "infantil",
+  "url_fabricante": "https://collibike.com.br/bicicletas/pitukinha/",
+  "preco_sugerido_brl": 459.9,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": null,
+    "tamanhos": null,
+    "aro": "12",
+    "suspensao": null,
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": null,
+    "velocidades": null,
+    "tipo_freio": null,
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://collibike.com.br/bicicletas/pitukinha/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "marca": "Scott",
+  "modelo": "Foil RC 20",
+  "ano": null,
+  "slug": "foil-rc-20",
+  "categoria": "speed",
+  "url_fabricante": "https://www.scott-sports.com/br/pt_BR/product/scott-foil-rc-20-bike",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "aro": "700c",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano 105 Di2 RD-R7150 24V, garfo FOIL Disc HMX",
+    "velocidades": 24,
+    "tipo_freio": "Disco hidráulico Shimano BR-R7170",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.scott-sports.com/br/pt_BR/product/scott-foil-rc-20-bike",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ]
+}

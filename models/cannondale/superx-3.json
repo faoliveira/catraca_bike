@@ -1,0 +1,40 @@
+{
+  "marca": "Cannondale",
+  "modelo": "SuperX 3",
+  "ano": null,
+  "slug": "superx-3",
+  "categoria": "gravel",
+  "url_fabricante": "https://www.cannondale.com/pt-br/bikes/road/gravel/superx/superx-3",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "54",
+      "51",
+      "46",
+      "56"
+    ],
+    "aro": "700c",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano GRX 820 12V, garfo SuperX Carbon",
+    "velocidades": 12,
+    "tipo_freio": "Shimano GRX 820, rotores 160/160 mm",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.cannondale.com/pt-br/bikes/road/gravel/superx/superx-3",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "cannondale/superx-3.webp",
+    "fonte_url": "https://www.cannondale.com/pt-br/bikes/road/gravel/superx/superx-3"
+  }
+}

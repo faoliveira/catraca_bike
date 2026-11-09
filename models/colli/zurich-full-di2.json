@@ -1,0 +1,36 @@
+{
+  "marca": "Colli",
+  "modelo": "Zurich Full Di2",
+  "ano": null,
+  "slug": "zurich-full-di2",
+  "categoria": "mtb",
+  "url_fabricante": "https://collibike.com.br/bicicletas/zurich-full-di2/",
+  "preco_sugerido_brl": 29999.9,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono T700/T800/T1000",
+    "tamanhos": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "29",
+    "suspensao": "full",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano Deore Di2 1x12 eletrônico (cassete M6100 10-51T), garfo RockShox SID Select, shock Deluxe Select R",
+    "velocidades": 12,
+    "tipo_freio": "Disco Shimano BL-M6100, rotores 180/160 mm",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://collibike.com.br/bicicletas/zurich-full-di2/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ]
+}

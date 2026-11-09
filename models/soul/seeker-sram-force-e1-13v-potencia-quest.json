@@ -1,0 +1,40 @@
+{
+  "marca": "Soul",
+  "modelo": "Seeker SRAM Force E1 13V Potência Quest",
+  "ano": null,
+  "slug": "seeker-sram-force-e1-13v-potencia-quest",
+  "categoria": "gravel",
+  "url_fabricante": "https://www.soulcycles.com.br/bicicleta-seeker-sram-force-e1-13v-potencia-quest/p",
+  "preco_sugerido_brl": 46000,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "aro": "700c",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "SRAM Force E1 XPLR 1x13",
+    "velocidades": 13,
+    "tipo_freio": "Disco hidráulico SRAM Force E1",
+    "peso_kg": 8.5
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.soulcycles.com.br/bicicleta-seeker-sram-force-e1-13v-potencia-quest/p",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "soul/seeker-sram-force-e1-13v-potencia-quest.webp",
+    "fonte_url": "https://www.soulcycles.com.br/bicicleta-seeker-sram-force-e1-13v-potencia-quest/p"
+  }
+}

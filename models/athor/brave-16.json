@@ -1,0 +1,35 @@
+{
+  "ano": null,
+  "atualizado_em": "2026-11-08",
+  "categoria": "infantil",
+  "componentes": {
+    "grupo": null,
+    "peso_kg": null,
+    "tipo_freio": "V-Brake alumínio",
+    "velocidades": 1
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://athorbikes.com.br/bicicleta/brave-16/"
+    }
+  ],
+  "marca": "Athor",
+  "modelo": "Brave 16",
+  "preco_sugerido_brl": null,
+  "quadro": {
+    "aro": "16",
+    "curso_mm": null,
+    "material": "Alumínio 6061",
+    "suspensao": "rigida",
+    "tamanhos": null
+  },
+  "slug": "brave-16",
+  "url_fabricante": "https://athorbikes.com.br/bicicleta/brave-16/",
+  "imagem": {
+    "arquivo": "athor/brave-16.webp",
+    "fonte_url": "https://athorbikes.com.br/bicicleta/brave-16/"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "marca": "Scott",
+  "modelo": "Scale 930",
+  "ano": null,
+  "slug": "scale-930",
+  "categoria": "mtb",
+  "url_fabricante": "https://www.scott-sports.com/br/pt_BR/product/scott-scale-930-bike",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio",
+    "tamanhos": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": 110
+  },
+  "componentes": {
+    "grupo": "SRAM NX Eagle 12 Speed 12V, garfo RockShox Judy Silver TK Solo Air",
+    "velocidades": 12,
+    "tipo_freio": "Disco Shimano MT200",
+    "peso_kg": 13.7
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.scott-sports.com/br/pt_BR/product/scott-scale-930-bike",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ]
+}

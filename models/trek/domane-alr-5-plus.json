@@ -1,0 +1,51 @@
+{
+  "marca": "Trek",
+  "modelo": "Domane+ ALR 5",
+  "ano": null,
+  "slug": "domane-alr-5-plus",
+  "categoria": "ebike",
+  "url_fabricante": "https://www.trekbikes.com/br/pt_BR/bicicletas/bicicletas-el%C3%A9tricas/bicicletas-el%C3%A9tricas-para-ciclismo-de-estrada/domane-alr-5/p/56175/",
+  "preco_sugerido_brl": 34990,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio",
+    "tamanhos": [
+      "P",
+      "M",
+      "MG",
+      "G"
+    ],
+    "aro": "700c",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "SRAM Apex XPLR 12V",
+    "velocidades": 12,
+    "tipo_freio": "SRAM Apex D1 hydraulic disc, flat mount",
+    "peso_kg": null
+  },
+  "ebike": {
+    "motor_tipo": "TQ-HPR60",
+    "potencia_w": 250,
+    "torque_nm": 60,
+    "bateria_wh": 360,
+    "autonomia_declarada_km": null,
+    "acelerador": null,
+    "assistencia_so_com_pedal": null,
+    "vel_max_kmh": null,
+    "largura_cm": null,
+    "entre_eixos_cm": null
+  },
+  "fontes": [
+    {
+      "url": "https://www.trekbikes.com/br/pt_BR/bicicletas/bicicletas-el%C3%A9tricas/bicicletas-el%C3%A9tricas-para-ciclismo-de-estrada/domane-alr-5/p/56175/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "trek/domane-alr-5-plus.webp",
+    "fonte_url": "https://www.trekbikes.com/br/pt_BR/bicicletas/bicicletas-el%C3%A9tricas/bicicletas-el%C3%A9tricas-para-ciclismo-de-estrada/domane-alr-5/p/56175/"
+  }
+}

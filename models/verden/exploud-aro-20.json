@@ -1,0 +1,35 @@
+{
+  "ano": null,
+  "atualizado_em": "2026-11-08",
+  "categoria": "infantil",
+  "componentes": {
+    "grupo": "Single (roda livre 18D)",
+    "peso_kg": null,
+    "tipo_freio": "V-Brake alumínio",
+    "velocidades": 1
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://verdenbikes.com/bicicleta-exploud-aro-20/"
+    }
+  ],
+  "marca": "Verden",
+  "modelo": "Exploud Aro 20",
+  "preco_sugerido_brl": null,
+  "quadro": {
+    "aro": "20",
+    "curso_mm": null,
+    "material": null,
+    "suspensao": null,
+    "tamanhos": null
+  },
+  "slug": "exploud-aro-20",
+  "url_fabricante": "https://verdenbikes.com/bicicleta-exploud-aro-20/",
+  "imagem": {
+    "arquivo": "verden/exploud-aro-20.webp",
+    "fonte_url": "https://verdenbikes.com/bicicleta-exploud-aro-20/"
+  }
+}

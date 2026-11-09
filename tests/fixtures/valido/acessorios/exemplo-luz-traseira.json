@@ -1,0 +1,10 @@
+{
+  "titulo": "Luz traseira recarregável",
+  "slug": "exemplo-luz-traseira",
+  "categoria": "luz",
+  "resumo": "Deixa a bike visível de trás à noite e com chuva. Prefira as que piscam e carregam por USB.",
+  "links": [
+    { "url": "https://loja.example/produto/luz-traseira", "rotulo": "Loja Exemplo" }
+  ],
+  "atualizado_em": "2026-11-09"
+}

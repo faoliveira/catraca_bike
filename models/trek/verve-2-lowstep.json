@@ -1,0 +1,39 @@
+{
+  "marca": "Trek",
+  "modelo": "Verve 2 Lowstep",
+  "ano": null,
+  "slug": "verve-2-lowstep",
+  "categoria": "urbana",
+  "url_fabricante": "https://www.trekbikes.com/br/pt_BR/bicicletas/bicicletas-h%C3%ADbridas/bicicletas-para-lazer/verve/verve-2-lowstep/p/79359/",
+  "preco_sugerido_brl": 5499,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio",
+    "tamanhos": [
+      "P",
+      "M",
+      "G"
+    ],
+    "aro": "700c",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano CUES U4000 9V",
+    "velocidades": 9,
+    "tipo_freio": "Disco hidráulico Tektro HD-M275",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.trekbikes.com/br/pt_BR/bicicletas/bicicletas-h%C3%ADbridas/bicicletas-para-lazer/verve/verve-2-lowstep/p/79359/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "trek/verve-2-lowstep.webp",
+    "fonte_url": "https://www.trekbikes.com/br/pt_BR/bicicletas/bicicletas-h%C3%ADbridas/bicicletas-para-lazer/verve/verve-2-lowstep/p/79359/"
+  }
+}

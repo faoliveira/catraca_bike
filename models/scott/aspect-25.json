@@ -1,0 +1,38 @@
+{
+  "marca": "Scott",
+  "modelo": "Aspect 25",
+  "ano": null,
+  "slug": "aspect-25",
+  "categoria": "mtb",
+  "url_fabricante": "https://www.scott-sports.com/br/pt_BR/product/scott-aspect-25-bike",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio",
+    "tamanhos": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "aro": null,
+    "suspensao": "hardtail",
+    "curso_mm": 100
+  },
+  "componentes": {
+    "grupo": "Shimano CUES RD-U4020-GS 18V, garfo Suntour XCT30-HLO",
+    "velocidades": 18,
+    "tipo_freio": "Disco hidráulico Shimano MT200",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.scott-sports.com/br/pt_BR/product/scott-aspect-25-bike",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ]
+}

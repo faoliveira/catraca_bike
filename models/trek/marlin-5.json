@@ -1,0 +1,42 @@
+{
+  "marca": "Trek",
+  "modelo": "Marlin 5 3ª geração",
+  "ano": null,
+  "slug": "marlin-5",
+  "categoria": "mtb",
+  "url_fabricante": "https://www.trekbikes.com/br/pt_BR/bicicletas/mountain-bikes/mountain-bikes-para-cross-country/marlin/marlin-5-3%C2%AA-gera%C3%A7%C3%A3o/p/57363/",
+  "preco_sugerido_brl": 6350,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio",
+    "tamanhos": [
+      "PP",
+      "P",
+      "M",
+      "MG",
+      "G",
+      "GG"
+    ],
+    "aro": "27.5/29",
+    "suspensao": "hardtail",
+    "curso_mm": 100
+  },
+  "componentes": {
+    "grupo": "Shimano CUES U4000 9V",
+    "velocidades": 9,
+    "tipo_freio": "Disco hidráulico Shimano MT200",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.trekbikes.com/br/pt_BR/bicicletas/mountain-bikes/mountain-bikes-para-cross-country/marlin/marlin-5-3%C2%AA-gera%C3%A7%C3%A3o/p/57363/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "trek/marlin-5.webp",
+    "fonte_url": "https://www.trekbikes.com/br/pt_BR/bicicletas/mountain-bikes/mountain-bikes-para-cross-country/marlin/marlin-5-3%C2%AA-gera%C3%A7%C3%A3o/p/57363/"
+  }
+}

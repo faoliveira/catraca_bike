@@ -1,0 +1,40 @@
+{
+  "marca": "Audax",
+  "modelo": "ADX 200 Deore 2025",
+  "ano": 2025,
+  "slug": "adx-200-deore-2025",
+  "categoria": "mtb",
+  "url_fabricante": "https://audaxbike.com/bike/223/adx-200-deore-2025",
+  "preco_sugerido_brl": 5587,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061 T6",
+    "tamanhos": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "29",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano Deore 20V",
+    "velocidades": 20,
+    "tipo_freio": null,
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://audaxbike.com/bike/223/adx-200-deore-2025",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "audax/adx-200-deore-2025.webp",
+    "fonte_url": "https://audaxbike.com/bike/223/adx-200-deore-2025"
+  }
+}

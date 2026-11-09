@@ -1,0 +1,35 @@
+{
+  "ano": null,
+  "atualizado_em": "2026-11-08",
+  "categoria": "urbana",
+  "componentes": {
+    "grupo": "Houston 3x7V (Grip-Shift 21V)",
+    "peso_kg": null,
+    "tipo_freio": "Disco mecânico",
+    "velocidades": 21
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://houston.com.br/bike/7/stinger-disco"
+    }
+  ],
+  "marca": "Houston",
+  "modelo": "Stinger Disco",
+  "preco_sugerido_brl": null,
+  "quadro": {
+    "aro": "26",
+    "curso_mm": 55,
+    "material": "Aço carbono",
+    "suspensao": "hardtail",
+    "tamanhos": null
+  },
+  "slug": "stinger-disco",
+  "url_fabricante": "https://houston.com.br/bike/7/stinger-disco",
+  "imagem": {
+    "arquivo": "houston/stinger-disco.webp",
+    "fonte_url": "https://houston.com.br/bike/7/stinger-disco"
+  }
+}

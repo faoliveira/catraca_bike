@@ -1,0 +1,39 @@
+{
+  "marca": "Athor",
+  "modelo": "Deore 2x10",
+  "ano": null,
+  "slug": "deore-2x10",
+  "categoria": "mtb",
+  "url_fabricante": "https://athorbikes.com.br/bicicleta/deore-2x10/",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061, cabeamento interno",
+    "tamanhos": [
+      "S",
+      "M",
+      "L"
+    ],
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": 100
+  },
+  "componentes": {
+    "grupo": "Shimano Deore 2x10V (M4100/M6025, 11/42d)",
+    "velocidades": 20,
+    "tipo_freio": "Disco hidráulico Shimano BL-MT201 160 mm",
+    "peso_kg": 13.8
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://athorbikes.com.br/bicicleta/deore-2x10/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "athor/deore-2x10.webp",
+    "fonte_url": "https://athorbikes.com.br/bicicleta/deore-2x10/"
+  }
+}

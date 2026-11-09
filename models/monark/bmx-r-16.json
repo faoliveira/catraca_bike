@@ -1,0 +1,40 @@
+{
+  "marca": "Monark",
+  "modelo": "BMX R 16",
+  "ano": null,
+  "slug": "bmx-r-16",
+  "categoria": "infantil",
+  "url_fabricante": "https://www.monark.com.br/bmx-r-16",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Aço carbono (oversize)",
+    "tamanhos": null,
+    "aro": "16",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": null,
+    "velocidades": 1,
+    "tipo_freio": "V-brake (cabos de aço)",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.monark.com.br/bmx-r-16",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    },
+    {
+      "url": "https://www.monark.com.br/_files/ugd/98c81d_3f17bc537932484698f260b913d04668.pdf",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "monark/bmx-r-16.webp",
+    "fonte_url": "https://www.monark.com.br/bmx-r-16"
+  }
+}

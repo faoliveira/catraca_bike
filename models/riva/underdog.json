@@ -1,0 +1,38 @@
+{
+  "marca": "Riva",
+  "modelo": "Underdog",
+  "ano": null,
+  "slug": "underdog",
+  "categoria": "urbana",
+  "url_fabricante": "https://rivacycles.com/products/bicicleta-riva-underdog",
+  "preco_sugerido_brl": 6890,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061",
+    "tamanhos": [
+      "55",
+      "59"
+    ],
+    "aro": "700c",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": null,
+    "velocidades": 1,
+    "tipo_freio": "Ferradura (rim brake) Tektro R315",
+    "peso_kg": 9.2
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://rivacycles.com/products/bicicleta-riva-underdog",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "riva/underdog.webp",
+    "fonte_url": "https://rivacycles.com/products/bicicleta-riva-underdog"
+  }
+}

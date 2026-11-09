@@ -1,0 +1,41 @@
+{
+  "marca": "Specialized",
+  "modelo": "Chisel",
+  "ano": null,
+  "slug": "chisel",
+  "categoria": "mtb",
+  "url_fabricante": "https://www.specialized.com/br/pt/chisel/p/4291035",
+  "preco_sugerido_brl": 19990,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio",
+    "tamanhos": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "29",
+    "suspensao": "full",
+    "curso_mm": 120
+  },
+  "componentes": {
+    "grupo": "SRAM S200 Eagle 12V, garfo Rockshox Recon Silver RL",
+    "velocidades": 12,
+    "tipo_freio": "Disco hidráulico SRAM DB4, rotores 180/160 mm",
+    "peso_kg": 14.16
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.specialized.com/br/pt/chisel/p/4291035",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "specialized/chisel.webp",
+    "fonte_url": "https://www.specialized.com/br/pt/chisel/p/4291035"
+  }
+}

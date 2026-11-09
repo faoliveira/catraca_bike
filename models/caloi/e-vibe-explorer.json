@@ -1,0 +1,51 @@
+{
+  "marca": "Caloi",
+  "modelo": "E-Vibe Explorer",
+  "ano": null,
+  "slug": "e-vibe-explorer",
+  "categoria": "ebike",
+  "url_fabricante": "https://caloi.com/produto/e-vibe-explorer/",
+  "preco_sugerido_brl": 9990,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061",
+    "tamanhos": [
+      "P",
+      "M",
+      "G",
+      "GG"
+    ],
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": 120
+  },
+  "componentes": {
+    "grupo": "Shimano Acera/Altus 8V (RD-M3020/SL-M315, cassete HG400 11-40D)",
+    "velocidades": 8,
+    "tipo_freio": "Disco hidráulico Logan M500",
+    "peso_kg": 22.95
+  },
+  "ebike": {
+    "motor_tipo": "Caloi C75 (central/mid-drive), 36V",
+    "potencia_w": 250,
+    "torque_nm": 75,
+    "bateria_wh": 504,
+    "autonomia_declarada_km": null,
+    "acelerador": true,
+    "assistencia_so_com_pedal": false,
+    "vel_max_kmh": 32,
+    "largura_cm": null,
+    "entre_eixos_cm": 121.8
+  },
+  "fontes": [
+    {
+      "url": "https://caloi.com/produto/e-vibe-explorer/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "caloi/e-vibe-explorer.webp",
+    "fonte_url": "https://caloi.com/produto/e-vibe-explorer/"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "marca": "Merida",
+  "modelo": "Scultura 4000",
+  "ano": 2027,
+  "slug": "scultura-4000-2027",
+  "categoria": "speed",
+  "url_fabricante": "https://www.merida-bikes.com/en/bike/6566/scultura-4000",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "3XS",
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "700c",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano 105 2x",
+    "velocidades": 24,
+    "tipo_freio": "Hidráulico Shimano 105, rotores 160 mm",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.merida-bikes.com/en/bike/6566/scultura-4000",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "merida/scultura-4000-2027.webp",
+    "fonte_url": "https://www.merida-bikes.com/en/bike/6566/scultura-4000"
+  }
+}

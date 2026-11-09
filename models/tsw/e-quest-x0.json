@@ -1,0 +1,51 @@
+{
+  "marca": "TSW",
+  "modelo": "E-Quest X0",
+  "ano": null,
+  "slug": "e-quest-x0",
+  "categoria": "ebike",
+  "url_fabricante": "https://tswbike.com/p/1222/e-quest-x0",
+  "preco_sugerido_brl": 79990,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono Toray",
+    "tamanhos": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "29",
+    "suspensao": "full",
+    "curso_mm": 160
+  },
+  "componentes": {
+    "grupo": "SRAM Eagle AXS T-Type",
+    "velocidades": 12,
+    "tipo_freio": "Hidráulico SRAM Code SLV rotores 220/200 mm",
+    "peso_kg": 23.2
+  },
+  "ebike": {
+    "motor_tipo": "Shimano EP8 (central)",
+    "potencia_w": null,
+    "torque_nm": 85,
+    "bateria_wh": 630,
+    "autonomia_declarada_km": null,
+    "acelerador": null,
+    "assistencia_so_com_pedal": null,
+    "vel_max_kmh": 25,
+    "largura_cm": null,
+    "entre_eixos_cm": null
+  },
+  "fontes": [
+    {
+      "url": "https://tswbike.com/p/1222/e-quest-x0",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "tsw/e-quest-x0.webp",
+    "fonte_url": "https://tswbike.com/p/1222/e-quest-x0"
+  }
+}

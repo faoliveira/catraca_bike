@@ -1,0 +1,31 @@
+{
+  "marca": "Colli",
+  "modelo": "Hills G2",
+  "ano": null,
+  "slug": "hills-g2",
+  "categoria": "mtb",
+  "url_fabricante": "https://collibike.com.br/bicicletas/hills-g2/",
+  "preco_sugerido_brl": 2699.9,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061 T4+T6",
+    "tamanhos": null,
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano Acera 2x8 (FC-M315 36/22D, cassete 11-32 8V)",
+    "velocidades": 16,
+    "tipo_freio": "Disco (rotor 160 mm)",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://collibike.com.br/bicicletas/hills-g2/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ]
+}

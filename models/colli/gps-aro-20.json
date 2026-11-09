@@ -1,0 +1,31 @@
+{
+  "marca": "Colli",
+  "modelo": "Colli GPS Aro 20",
+  "ano": null,
+  "slug": "gps-aro-20",
+  "categoria": "infantil",
+  "url_fabricante": "https://collibike.com.br/bicicletas/colli-gps/",
+  "preco_sugerido_brl": 999.9,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Aço carbono",
+    "tamanhos": null,
+    "aro": "20",
+    "suspensao": "full",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Triplo, roda livre 7V",
+    "velocidades": 21,
+    "tipo_freio": "V-brake",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://collibike.com.br/bicicletas/colli-gps/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ]
+}

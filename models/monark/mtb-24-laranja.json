@@ -1,0 +1,31 @@
+{
+  "marca": "Monark",
+  "modelo": "MTB 24 Laranja",
+  "ano": null,
+  "slug": "mtb-24-laranja",
+  "categoria": "mtb",
+  "url_fabricante": "https://www.monark.com.br/mtb-24-laranja",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio (Quadro Lifty 24, cabeamento embutido)",
+    "tamanhos": null,
+    "aro": "24",
+    "suspensao": "hardtail",
+    "curso_mm": 80
+  },
+  "componentes": {
+    "grupo": "Shimano TZ31 3x7V (catraca 7V 14-28D)",
+    "velocidades": 21,
+    "tipo_freio": "Disco mecânico (a cabo) First, rotor 160 mm",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.monark.com.br/mtb-24-laranja",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ]
+}

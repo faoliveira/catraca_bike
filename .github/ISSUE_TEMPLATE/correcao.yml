@@ -1,0 +1,33 @@
+name: Corrigir um modelo
+description: Aponte um dado errado ou desatualizado em uma ficha.
+title: "Correção: "
+labels: ["correção"]
+body:
+  - type: input
+    id: pagina
+    attributes:
+      label: Página do modelo
+      description: Link da ficha no catraca.bike.
+      placeholder: https://catraca.bike/caloi/strada-my20/
+    validations:
+      required: true
+  - type: input
+    id: campo
+    attributes:
+      label: Campo com problema
+      placeholder: peso, preço sugerido, potência…
+    validations:
+      required: true
+  - type: input
+    id: valor
+    attributes:
+      label: Valor correto
+    validations:
+      required: true
+  - type: input
+    id: fonte
+    attributes:
+      label: Fonte
+      description: Link que comprova o valor, de preferência a página do fabricante.
+    validations:
+      required: true

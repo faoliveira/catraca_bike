@@ -1,0 +1,35 @@
+{
+  "ano": null,
+  "atualizado_em": "2026-11-08",
+  "categoria": "mtb",
+  "componentes": {
+    "grupo": "Shimano Tourney 3x7V",
+    "peso_kg": 14.5,
+    "tipo_freio": "Disco mecânico",
+    "velocidades": 21
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://athorbikes.com.br/bicicleta/tn21/"
+    }
+  ],
+  "marca": "Athor",
+  "modelo": "TN21",
+  "preco_sugerido_brl": null,
+  "quadro": {
+    "aro": "29",
+    "curso_mm": 100,
+    "material": "Alumínio 6061",
+    "suspensao": "hardtail",
+    "tamanhos": null
+  },
+  "slug": "tn21",
+  "url_fabricante": "https://athorbikes.com.br/bicicleta/tn21/",
+  "imagem": {
+    "arquivo": "athor/tn21.webp",
+    "fonte_url": "https://athorbikes.com.br/bicicleta/tn21/"
+  }
+}

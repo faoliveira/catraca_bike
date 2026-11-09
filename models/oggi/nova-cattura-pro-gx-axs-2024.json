@@ -1,0 +1,45 @@
+{
+  "marca": "Oggi",
+  "modelo": "Nova Cattura Pro GX AXS 2024",
+  "ano": 2024,
+  "slug": "nova-cattura-pro-gx-axs-2024",
+  "categoria": "mtb",
+  "url_fabricante": "https://oggibikes.com.br/bike/nova-cattura-pro-gx-axs-2024/",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "29",
+    "suspensao": "full",
+    "curso_mm": 120
+  },
+  "componentes": {
+    "grupo": "SRAM GX AXS 12V",
+    "velocidades": 12,
+    "tipo_freio": "SRAM rotores 180/160 mm",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://oggibikes.com.br/bike/nova-cattura-pro-gx-axs-2024/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    },
+    {
+      "url": "https://oggibikes.com.br/modelos-mtb/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "oggi/nova-cattura-pro-gx-axs-2024.webp",
+    "fonte_url": "https://oggibikes.com.br/bike/nova-cattura-pro-gx-axs-2024/"
+  }
+}

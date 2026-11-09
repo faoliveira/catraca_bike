@@ -1,0 +1,37 @@
+{
+  "marca": "Trek",
+  "modelo": "Fuel EX 9.8 GX AXS T-Type 6ª Geração",
+  "ano": null,
+  "slug": "fuel-ex-9-8",
+  "categoria": "mtb",
+  "url_fabricante": "https://www.trekbikes.com/br/pt_BR/bicicletas/mountain-bikes/mountain-bikes-para-trilhas/bikes-para-all-mountain/fuel/fuel-ex/fuel-ex-9-8-gx-axs-t-type-6%C2%AA-gera%C3%A7%C3%A3o/p/41572/",
+  "preco_sugerido_brl": 34990,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "P",
+      "M",
+      "MG",
+      "G",
+      "GG"
+    ],
+    "aro": "29",
+    "suspensao": "full",
+    "curso_mm": 150
+  },
+  "componentes": {
+    "grupo": "SRAM GX Eagle AXS 12V",
+    "velocidades": 12,
+    "tipo_freio": "Freio a disco hidráulico de 4 pistões SRAM CODE Bronze",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.trekbikes.com/br/pt_BR/bicicletas/mountain-bikes/mountain-bikes-para-trilhas/bikes-para-all-mountain/fuel/fuel-ex/fuel-ex-9-8-gx-axs-t-type-6%C2%AA-gera%C3%A7%C3%A3o/p/41572/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "marca": "TSW",
+  "modelo": "TR01 Sprint 105 Di2",
+  "ano": null,
+  "slug": "tr01-sprint-105-di2",
+  "categoria": "speed",
+  "url_fabricante": "https://tswbike.com/p/1280/tr01-sprint-105-di2",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "490",
+      "520",
+      "540",
+      "560",
+      "580"
+    ],
+    "aro": "700c",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano 105 Di2",
+    "velocidades": 24,
+    "tipo_freio": "Hidráulico Shimano 105 ST-R7170 rotores 160/140 mm",
+    "peso_kg": 8.1
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://tswbike.com/p/1280/tr01-sprint-105-di2",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "tsw/tr01-sprint-105-di2.webp",
+    "fonte_url": "https://tswbike.com/p/1280/tr01-sprint-105-di2"
+  }
+}

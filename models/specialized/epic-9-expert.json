@@ -1,0 +1,40 @@
+{
+  "marca": "Specialized",
+  "modelo": "Epic 9 Expert",
+  "ano": null,
+  "slug": "epic-9-expert",
+  "categoria": "mtb",
+  "url_fabricante": "https://www.specialized.com/br/pt/epic-9-expert/p/4274033",
+  "preco_sugerido_brl": 64990,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "29",
+    "suspensao": "full",
+    "curso_mm": 120
+  },
+  "componentes": {
+    "grupo": "SRAM GX Eagle AXS Transmission 12V, garfo RockShox SID Select+",
+    "velocidades": 12,
+    "tipo_freio": "Disco hidráulico SRAM Motive Bronze, rotores 180/160 mm",
+    "peso_kg": 10.95
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.specialized.com/br/pt/epic-9-expert/p/4274033",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "specialized/epic-9-expert.webp",
+    "fonte_url": "https://www.specialized.com/br/pt/epic-9-expert/p/4274033"
+  }
+}

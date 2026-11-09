@@ -1,0 +1,40 @@
+{
+  "marca": "Audax",
+  "modelo": "FS 900 Deore XT",
+  "ano": null,
+  "slug": "fs-900-deore-xt",
+  "categoria": "mtb",
+  "url_fabricante": "https://audaxbike.com/bike/233/fs-900-deore-xt",
+  "preco_sugerido_brl": 21113,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono UD Toray T700/T800",
+    "tamanhos": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": null,
+    "suspensao": "hardtail",
+    "curso_mm": 120
+  },
+  "componentes": {
+    "grupo": null,
+    "velocidades": null,
+    "tipo_freio": null,
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://audaxbike.com/bike/233/fs-900-deore-xt",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "audax/fs-900-deore-xt.webp",
+    "fonte_url": "https://audaxbike.com/bike/233/fs-900-deore-xt"
+  }
+}

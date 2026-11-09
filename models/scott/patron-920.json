@@ -1,0 +1,47 @@
+{
+  "marca": "Scott",
+  "modelo": "Patron 920",
+  "ano": null,
+  "slug": "patron-920",
+  "categoria": "ebike",
+  "url_fabricante": "https://www.scott-sports.com/br/pt_BR/product/scott-patron-920-bike",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "29",
+    "suspensao": "full",
+    "curso_mm": 150
+  },
+  "componentes": {
+    "grupo": "Shimano Deore RD-M6100 SGS 12V, garfo RockShox Psylo Silver RC Air",
+    "velocidades": 12,
+    "tipo_freio": "Disco Shimano MT520 4 Piston, rotores 220/203 mm",
+    "peso_kg": null
+  },
+  "ebike": {
+    "motor_tipo": "Bosch Performance Line CX (BDU384Y)",
+    "potencia_w": null,
+    "torque_nm": null,
+    "bateria_wh": 800,
+    "autonomia_declarada_km": null,
+    "acelerador": null,
+    "assistencia_so_com_pedal": null,
+    "vel_max_kmh": 25,
+    "largura_cm": null,
+    "entre_eixos_cm": null
+  },
+  "fontes": [
+    {
+      "url": "https://www.scott-sports.com/br/pt_BR/product/scott-patron-920-bike",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ]
+}

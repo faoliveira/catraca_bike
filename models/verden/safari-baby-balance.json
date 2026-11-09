@@ -1,0 +1,40 @@
+{
+  "ano": null,
+  "atualizado_em": "2026-11-08",
+  "categoria": "infantil",
+  "componentes": {
+    "grupo": null,
+    "peso_kg": null,
+    "tipo_freio": null,
+    "velocidades": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://verdenbikes.com/safari-baby-balance-bege-e-verde-militar/"
+    },
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://verdenbikes.com/safari-baby-balance-bege-e-goiaba/"
+    }
+  ],
+  "marca": "Verden",
+  "modelo": "Safari Baby Balance",
+  "preco_sugerido_brl": null,
+  "quadro": {
+    "aro": null,
+    "curso_mm": null,
+    "material": "Alumínio",
+    "suspensao": null,
+    "tamanhos": null
+  },
+  "slug": "safari-baby-balance",
+  "url_fabricante": "https://verdenbikes.com/safari-baby-balance-bege-e-verde-militar/",
+  "imagem": {
+    "arquivo": "verden/safari-baby-balance.webp",
+    "fonte_url": "https://verdenbikes.com/safari-baby-balance-bege-e-verde-militar/"
+  }
+}

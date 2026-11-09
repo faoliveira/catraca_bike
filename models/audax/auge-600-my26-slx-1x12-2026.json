@@ -1,0 +1,40 @@
+{
+  "marca": "Audax",
+  "modelo": "Auge 600 MY26 SLX 1X12 2026",
+  "ano": 2026,
+  "slug": "auge-600-my26-slx-1x12-2026",
+  "categoria": "mtb",
+  "url_fabricante": "https://audaxbike.com/bike/240/auge-600-my26-slx-1x12-2026",
+  "preco_sugerido_brl": 15599,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono UD Toray T1000/T800",
+    "tamanhos": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": 100
+  },
+  "componentes": {
+    "grupo": "Shimano 24V",
+    "velocidades": 24,
+    "tipo_freio": "Disco hidráulico Shimano M7100 rotores 160 mm",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://audaxbike.com/bike/240/auge-600-my26-slx-1x12-2026",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "audax/auge-600-my26-slx-1x12-2026.webp",
+    "fonte_url": "https://audaxbike.com/bike/240/auge-600-my26-slx-1x12-2026"
+  }
+}

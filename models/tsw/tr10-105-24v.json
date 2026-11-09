@@ -1,0 +1,41 @@
+{
+  "marca": "TSW",
+  "modelo": "TR10 105 24V",
+  "ano": null,
+  "slug": "tr10-105-24v",
+  "categoria": "speed",
+  "url_fabricante": "https://tswbike.com/p/1378/tr10-105-24v",
+  "preco_sugerido_brl": 12900,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061",
+    "tamanhos": [
+      "490",
+      "510",
+      "540",
+      "560",
+      "580"
+    ],
+    "aro": "700c",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano 105",
+    "velocidades": 24,
+    "tipo_freio": "Hidráulico Shimano 105 ST-R7170 rotores 160/140 mm",
+    "peso_kg": 10.35
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://tswbike.com/p/1378/tr10-105-24v",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "tsw/tr10-105-24v.webp",
+    "fonte_url": "https://tswbike.com/p/1378/tr10-105-24v"
+  }
+}

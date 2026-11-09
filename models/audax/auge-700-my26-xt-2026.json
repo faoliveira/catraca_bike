@@ -1,0 +1,40 @@
+{
+  "marca": "Audax",
+  "modelo": "Auge 700 MY26 XT 2026",
+  "ano": 2026,
+  "slug": "auge-700-my26-xt-2026",
+  "categoria": "mtb",
+  "url_fabricante": "https://audaxbike.com/bike/241/auge-700-my26-xt-2026",
+  "preco_sugerido_brl": 17499,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono UD Toray T1000/T800",
+    "tamanhos": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "29",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano 24V",
+    "velocidades": 24,
+    "tipo_freio": "Shimano BL-M7100 rotores 160 mm",
+    "peso_kg": 11.5
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://audaxbike.com/bike/241/auge-700-my26-xt-2026",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "audax/auge-700-my26-xt-2026.webp",
+    "fonte_url": "https://audaxbike.com/bike/241/auge-700-my26-xt-2026"
+  }
+}

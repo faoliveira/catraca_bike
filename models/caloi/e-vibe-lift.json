@@ -1,0 +1,51 @@
+{
+  "marca": "Caloi",
+  "modelo": "E-Vibe Lift",
+  "ano": null,
+  "slug": "e-vibe-lift",
+  "categoria": "ebike",
+  "url_fabricante": "https://caloi.com/produto/e-vibe-lift/",
+  "preco_sugerido_brl": 29900,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061",
+    "tamanhos": [
+      "P",
+      "M",
+      "G",
+      "GG"
+    ],
+    "aro": "29",
+    "suspensao": "full",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano Cues 11V (RD-U6000, cassete LG400 11-50D), garfo RockShox Psylo 160 mm",
+    "velocidades": 11,
+    "tipo_freio": "Disco Shimano M4100, rotores 203 mm",
+    "peso_kg": 29.75
+  },
+  "ebike": {
+    "motor_tipo": "Caloi MidSystem C130 (central/mid-drive), 48V",
+    "potencia_w": 500,
+    "torque_nm": 130,
+    "bateria_wh": 940,
+    "autonomia_declarada_km": 100,
+    "acelerador": null,
+    "assistencia_so_com_pedal": null,
+    "vel_max_kmh": 45,
+    "largura_cm": null,
+    "entre_eixos_cm": null
+  },
+  "fontes": [
+    {
+      "url": "https://caloi.com/produto/e-vibe-lift/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "caloi/e-vibe-lift.webp",
+    "fonte_url": "https://caloi.com/produto/e-vibe-lift/"
+  }
+}

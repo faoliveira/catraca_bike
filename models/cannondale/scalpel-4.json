@@ -1,0 +1,40 @@
+{
+  "marca": "Cannondale",
+  "modelo": "Scalpel 4",
+  "ano": null,
+  "slug": "scalpel-4",
+  "categoria": "mtb",
+  "url_fabricante": "https://www.cannondale.com/pt-br/bikes/mountain/cross-country/scalpel/scalpel-4",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "S",
+      "L",
+      "M",
+      "XL"
+    ],
+    "aro": "29",
+    "suspensao": "full",
+    "curso_mm": 120
+  },
+  "componentes": {
+    "grupo": "Shimano Deore 6100 12V, garfo RockShox SID",
+    "velocidades": 12,
+    "tipo_freio": "Disco hidráulico Shimano MT501, rotores 180/160 mm",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.cannondale.com/pt-br/bikes/mountain/cross-country/scalpel/scalpel-4",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "cannondale/scalpel-4.webp",
+    "fonte_url": "https://www.cannondale.com/pt-br/bikes/mountain/cross-country/scalpel/scalpel-4"
+  }
+}

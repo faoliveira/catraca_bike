@@ -1,0 +1,41 @@
+{
+  "marca": "Audax",
+  "modelo": "Ventus 3000 105 2025",
+  "ano": 2025,
+  "slug": "ventus-3000-105-2025",
+  "categoria": "speed",
+  "url_fabricante": "https://www.audaxbike.com/bike/209/ventus-3000-105-2025",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono UD",
+    "tamanhos": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "700c",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano 105",
+    "velocidades": 22,
+    "tipo_freio": "Disco hidráulico Shimano 105",
+    "peso_kg": 8.43
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.audaxbike.com/bike/209/ventus-3000-105-2025",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "audax/ventus-3000-105-2025.webp",
+    "fonte_url": "https://www.audaxbike.com/bike/209/ventus-3000-105-2025"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "marca": "Colli",
+  "modelo": "Vêneto Carbon",
+  "ano": null,
+  "slug": "veneto-carbon",
+  "categoria": "gravel",
+  "url_fabricante": "https://collibike.com.br/bicicletas/5590/",
+  "preco_sugerido_brl": 23999.9,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono T700/T800",
+    "tamanhos": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "700c",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano GRX 1x12 (cassete XT 10-51D)",
+    "velocidades": 12,
+    "tipo_freio": "Disco Shimano GRX 820, rotores 160 mm",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://collibike.com.br/bicicletas/5590/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ]
+}

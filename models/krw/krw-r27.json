@@ -1,0 +1,37 @@
+{
+  "marca": "KRW",
+  "modelo": "R27",
+  "ano": null,
+  "slug": "krw-r27",
+  "categoria": "mtb",
+  "url_fabricante": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-27-vel-freio-a-disco-r27-outlet-442li/",
+  "preco_sugerido_brl": 889,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061",
+    "tamanhos": [
+      "17"
+    ],
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": null,
+    "velocidades": 27,
+    "tipo_freio": "Disco mecânico",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-27-vel-freio-a-disco-r27-outlet-442li/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "krw/krw-r27.webp",
+    "fonte_url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-27-vel-freio-a-disco-r27-outlet-442li/"
+  }
+}

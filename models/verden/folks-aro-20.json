@@ -1,0 +1,50 @@
+{
+  "ano": null,
+  "atualizado_em": "2026-11-08",
+  "categoria": "infantil",
+  "componentes": {
+    "grupo": null,
+    "peso_kg": null,
+    "tipo_freio": null,
+    "velocidades": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://verdenbikes.com/folks-aro-20-preto/"
+    },
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://verdenbikes.com/folks-aro-20-azul/"
+    },
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://verdenbikes.com/folks-aro-20-preto-e-rosa/"
+    },
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://verdenbikes.com/folks-aro-20-rosa/"
+    }
+  ],
+  "marca": "Verden",
+  "modelo": "Folks Aro 20",
+  "preco_sugerido_brl": null,
+  "quadro": {
+    "aro": "20",
+    "curso_mm": null,
+    "material": null,
+    "suspensao": null,
+    "tamanhos": null
+  },
+  "slug": "folks-aro-20",
+  "url_fabricante": "https://verdenbikes.com/folks-aro-20-preto/",
+  "imagem": {
+    "arquivo": "verden/folks-aro-20.webp",
+    "fonte_url": "https://verdenbikes.com/folks-aro-20-preto/"
+  }
+}

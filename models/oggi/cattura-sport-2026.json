@@ -1,0 +1,45 @@
+{
+  "marca": "Oggi",
+  "modelo": "Cattura Sport 2026",
+  "ano": 2026,
+  "slug": "cattura-sport-2026",
+  "categoria": "mtb",
+  "url_fabricante": "https://oggibikes.com.br/bike/cattura-sport-2026/",
+  "preco_sugerido_brl": 19999,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "29",
+    "suspensao": "full",
+    "curso_mm": 120
+  },
+  "componentes": {
+    "grupo": "Shimano Deore Di2 12V",
+    "velocidades": 12,
+    "tipo_freio": "Hidráulico Shimano Deore MT410, rotores 180/160 mm",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://oggibikes.com.br/bike/cattura-sport-2026/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    },
+    {
+      "url": "https://oggibikes.com.br/modelos/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "oggi/cattura-sport-2026.webp",
+    "fonte_url": "https://oggibikes.com.br/bike/cattura-sport-2026/"
+  }
+}

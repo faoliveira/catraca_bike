@@ -1,0 +1,40 @@
+{
+  "marca": "Nathor",
+  "modelo": "Bicicleta Aro 20 Apollo",
+  "ano": null,
+  "slug": "aro-20-apollo",
+  "categoria": "infantil",
+  "url_fabricante": "https://nathor.com/produto/bicicleta-aro-20-apollo/",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Aço carbono",
+    "tamanhos": null,
+    "aro": "20",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": null,
+    "velocidades": 1,
+    "tipo_freio": "V-brake dianteiro e traseiro",
+    "peso_kg": 10.6
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://nathor.com/produto/bicicleta-aro-20-apollo/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    },
+    {
+      "url": "https://nathor.com/linha/aro-20/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "nathor/aro-20-apollo.webp",
+    "fonte_url": "https://nathor.com/produto/bicicleta-aro-20-apollo/"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "marca": "Groove",
+  "modelo": "Slap 9 Full Carbon 2026",
+  "ano": 2026,
+  "slug": "slap-9-carbon-2026",
+  "categoria": "mtb",
+  "url_fabricante": "https://groovebikes.com.br/produto/bicicleta-groove-slap-9-12v-full-carbon-2026/",
+  "preco_sugerido_brl": 26999.9,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "S (16)",
+      "M (17.5)",
+      "L (18.5)",
+      "XL (20.5)"
+    ],
+    "aro": "29",
+    "suspensao": "full",
+    "curso_mm": 120
+  },
+  "componentes": {
+    "grupo": "Shimano Deore Di2",
+    "velocidades": 12,
+    "tipo_freio": "Disco hidráulico Shimano BR-M6100",
+    "peso_kg": 12.6
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://groovebikes.com.br/produto/bicicleta-groove-slap-9-12v-full-carbon-2026/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "groove/slap-9-carbon-2026.webp",
+    "fonte_url": "https://groovebikes.com.br/produto/bicicleta-groove-slap-9-12v-full-carbon-2026/"
+  }
+}

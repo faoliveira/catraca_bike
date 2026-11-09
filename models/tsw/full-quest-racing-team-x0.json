@@ -1,0 +1,40 @@
+{
+  "marca": "TSW",
+  "modelo": "Full Quest Racing Team X0",
+  "ano": 2025,
+  "slug": "full-quest-racing-team-x0",
+  "categoria": "mtb",
+  "url_fabricante": "https://tswbike.com/p/1803/full-quest-racing-team-x0-2025",
+  "preco_sugerido_brl": 51500,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono Toray T700/T800/T1000",
+    "tamanhos": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "29",
+    "suspensao": "full",
+    "curso_mm": 120
+  },
+  "componentes": {
+    "grupo": "SRAM X0 Eagle AXS T-Type",
+    "velocidades": 12,
+    "tipo_freio": "Disco hidráulico SRAM Level",
+    "peso_kg": 11.92
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://tswbike.com/p/1803/full-quest-racing-team-x0-2025",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "tsw/full-quest-racing-team-x0.webp",
+    "fonte_url": "https://tswbike.com/p/1803/full-quest-racing-team-x0-2025"
+  }
+}

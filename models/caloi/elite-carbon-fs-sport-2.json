@@ -1,0 +1,40 @@
+{
+  "marca": "Caloi",
+  "modelo": "Elite Carbon FS Sport 2026",
+  "ano": 2026,
+  "slug": "elite-carbon-fs-sport-2",
+  "categoria": "mtb",
+  "url_fabricante": "https://caloi.com/produto/elite-carbon-fs-sport-2/",
+  "preco_sugerido_brl": 15799,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "P",
+      "M",
+      "G",
+      "GG"
+    ],
+    "aro": "29",
+    "suspensao": "full",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano Deore M6100 12V (cassete 10-51T), garfo RockShox Judy Silver TK 120 mm",
+    "velocidades": 12,
+    "tipo_freio": "Disco Shimano MT200, rotores 160/180 mm",
+    "peso_kg": 12.67
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://caloi.com/produto/elite-carbon-fs-sport-2/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "caloi/elite-carbon-fs-sport-2.webp",
+    "fonte_url": "https://caloi.com/produto/elite-carbon-fs-sport-2/"
+  }
+}

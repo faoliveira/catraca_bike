@@ -1,0 +1,51 @@
+{
+  "marca": "Sense",
+  "modelo": "Exalt E-Trail AL Evo Forty-5",
+  "ano": null,
+  "slug": "exalt-e-trail-al-evo-forty-5-3uxzx",
+  "categoria": "ebike",
+  "url_fabricante": "https://www.sensebike.com.br/produtos/exalt-e-trail-al-evo-forty-5-3uxzx/",
+  "preco_sugerido_brl": 44990,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061",
+    "tamanhos": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "29",
+    "suspensao": "full",
+    "curso_mm": 160
+  },
+  "componentes": {
+    "grupo": "Shimano 12V",
+    "velocidades": 12,
+    "tipo_freio": "Shimano M7100 rotores 203/180 mm",
+    "peso_kg": null
+  },
+  "ebike": {
+    "motor_tipo": "Shimano DU-EP801 (central)",
+    "potencia_w": null,
+    "torque_nm": null,
+    "bateria_wh": 725,
+    "autonomia_declarada_km": null,
+    "acelerador": null,
+    "assistencia_so_com_pedal": null,
+    "vel_max_kmh": null,
+    "largura_cm": null,
+    "entre_eixos_cm": null
+  },
+  "fontes": [
+    {
+      "url": "https://www.sensebike.com.br/produtos/exalt-e-trail-al-evo-forty-5-3uxzx/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "sense/exalt-e-trail-al-evo-forty-5-3uxzx.webp",
+    "fonte_url": "https://www.sensebike.com.br/produtos/exalt-e-trail-al-evo-forty-5-3uxzx/"
+  }
+}

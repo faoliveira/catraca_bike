@@ -1,0 +1,39 @@
+{
+  "marca": "Rockrider",
+  "modelo": "Explore 100 29",
+  "ano": null,
+  "slug": "explore-100-29",
+  "categoria": "mtb",
+  "url_fabricante": "https://www.decathlon.com.br/bicicleta-mountain-bike-expl-100-aro-29-cinza-8977370-rockrider/p",
+  "preco_sugerido_brl": 1999.99,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061 T4T6",
+    "tamanhos": [
+      "P",
+      "M",
+      "G"
+    ],
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": 100
+  },
+  "componentes": {
+    "grupo": "Shimano Tourney 3x7",
+    "velocidades": 21,
+    "tipo_freio": "Disco mecânico, rotores 160 mm",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.decathlon.com.br/bicicleta-mountain-bike-expl-100-aro-29-cinza-8977370-rockrider/p",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "rockrider/explore-100-29.webp",
+    "fonte_url": "https://www.decathlon.com.br/bicicleta-mountain-bike-expl-100-aro-29-cinza-8977370-rockrider/p"
+  }
+}

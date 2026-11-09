@@ -1,0 +1,40 @@
+{
+  "marca": "Caloi",
+  "modelo": "Arenita",
+  "ano": null,
+  "slug": "arenita",
+  "categoria": "gravel",
+  "url_fabricante": "https://caloi.com/produto/arenita/",
+  "preco_sugerido_brl": 10990,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio",
+    "tamanhos": [
+      "P",
+      "M",
+      "G",
+      "GG"
+    ],
+    "aro": "700c",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano GRX/Deore 1x12 (cassete 10-51T, garfo rígido de carbono)",
+    "velocidades": 12,
+    "tipo_freio": "Disco Shimano GRX RX610 hidráulico, flat mount",
+    "peso_kg": 11.59
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://caloi.com/produto/arenita/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "caloi/arenita.webp",
+    "fonte_url": "https://caloi.com/produto/arenita/"
+  }
+}

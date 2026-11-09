@@ -1,0 +1,41 @@
+{
+  "marca": "Audax",
+  "modelo": "ADX 70",
+  "ano": null,
+  "slug": "adx-70",
+  "categoria": "mtb",
+  "url_fabricante": "https://audaxbike.com/bike/228/adx-70",
+  "preco_sugerido_brl": 2456,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061 T6",
+    "tamanhos": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano Tourney 14V",
+    "velocidades": 14,
+    "tipo_freio": "Disco hidráulico rotores 160 mm",
+    "peso_kg": 15
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://audaxbike.com/bike/228/adx-70",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "audax/adx-70.webp",
+    "fonte_url": "https://audaxbike.com/bike/228/adx-70"
+  }
+}

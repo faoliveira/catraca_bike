@@ -1,0 +1,41 @@
+{
+  "marca": "Swift",
+  "modelo": "Racevox Comp SSL G2",
+  "ano": null,
+  "slug": "racevox-comp-ssl-g2",
+  "categoria": "speed",
+  "url_fabricante": "https://www.sensebike.com.br/produtos/racevox-comp-ssl-g2/",
+  "preco_sugerido_brl": 35990,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono Mitsubishi",
+    "tamanhos": [
+      "49",
+      "51",
+      "54",
+      "56",
+      "59"
+    ],
+    "aro": "700c",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "SRAM Rival AXS",
+    "velocidades": null,
+    "tipo_freio": "Hidráulico SRAM",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.sensebike.com.br/produtos/racevox-comp-ssl-g2/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "swift/racevox-comp-ssl-g2.webp",
+    "fonte_url": "https://www.sensebike.com.br/produtos/racevox-comp-ssl-g2/"
+  }
+}

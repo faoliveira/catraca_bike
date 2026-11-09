@@ -1,0 +1,31 @@
+{
+  "ano": null,
+  "atualizado_em": "2026-11-08",
+  "categoria": "infantil",
+  "componentes": {
+    "grupo": null,
+    "peso_kg": 3.9,
+    "tipo_freio": "Tambor dianteiro",
+    "velocidades": 1
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://athorbikes.com.br/bicicleta/athornauta/"
+    }
+  ],
+  "marca": "Athor",
+  "modelo": "Athornauta",
+  "preco_sugerido_brl": null,
+  "quadro": {
+    "aro": "12",
+    "curso_mm": null,
+    "material": "Aço carbono",
+    "suspensao": null,
+    "tamanhos": null
+  },
+  "slug": "athornauta",
+  "url_fabricante": "https://athorbikes.com.br/bicicleta/athornauta/"
+}

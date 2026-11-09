@@ -1,0 +1,40 @@
+{
+  "marca": "TSW",
+  "modelo": "Evo Quest White Angel NX",
+  "ano": null,
+  "slug": "evo-quest-white-angel-nx",
+  "categoria": "mtb",
+  "url_fabricante": "https://tswbike.com/p/884/evo-quest-white-angel-nx",
+  "preco_sugerido_brl": 14500,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono Toray T700/T800/T1000",
+    "tamanhos": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": 100
+  },
+  "componentes": {
+    "grupo": "SRAM NX Eagle",
+    "velocidades": 12,
+    "tipo_freio": "Hidráulico Shimano MT200 rotores 180/160 mm",
+    "peso_kg": 11.99
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://tswbike.com/p/884/evo-quest-white-angel-nx",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "tsw/evo-quest-white-angel-nx.webp",
+    "fonte_url": "https://tswbike.com/p/884/evo-quest-white-angel-nx"
+  }
+}

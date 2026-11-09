@@ -1,0 +1,40 @@
+{
+  "marca": "Focus",
+  "modelo": "Jam 8.8",
+  "ano": null,
+  "slug": "jam-8-8",
+  "categoria": "mtb",
+  "url_fabricante": "https://www.focus-bikes.com/int/jam-8-8",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "29",
+    "suspensao": "full",
+    "curso_mm": 150
+  },
+  "componentes": {
+    "grupo": "SRAM NX Eagle",
+    "velocidades": 12,
+    "tipo_freio": "Hidráulico SRAM DB8, rotores 200 mm",
+    "peso_kg": 15.3
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.focus-bikes.com/int/jam-8-8",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "focus/jam-8-8.webp",
+    "fonte_url": "https://www.focus-bikes.com/int/jam-8-8"
+  }
+}

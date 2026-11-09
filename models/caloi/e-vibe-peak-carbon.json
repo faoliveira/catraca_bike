@@ -1,0 +1,51 @@
+{
+  "marca": "Caloi",
+  "modelo": "E-Vibe Peak Carbon",
+  "ano": null,
+  "slug": "e-vibe-peak-carbon",
+  "categoria": "ebike",
+  "url_fabricante": "https://caloi.com/produto/e-vibe-peak-carbon/",
+  "preco_sugerido_brl": 43990,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono (triângulo dianteiro) / Alumínio 7005 (traseiro)",
+    "tamanhos": [
+      "P",
+      "M",
+      "G",
+      "GG"
+    ],
+    "aro": "29",
+    "suspensao": "full",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "SRAM GX/NX Eagle 12V (cassete PG1230 11-50D), garfo RockShox Lyrik Base 160 mm",
+    "velocidades": 12,
+    "tipo_freio": "Disco SRAM DB8, rotor 203 mm",
+    "peso_kg": 25.08
+  },
+  "ebike": {
+    "motor_tipo": "Bosch Performance Line CXR G4 (central), 36V",
+    "potencia_w": 250,
+    "torque_nm": 85,
+    "bateria_wh": 750,
+    "autonomia_declarada_km": null,
+    "acelerador": null,
+    "assistencia_so_com_pedal": null,
+    "vel_max_kmh": 32,
+    "largura_cm": null,
+    "entre_eixos_cm": null
+  },
+  "fontes": [
+    {
+      "url": "https://caloi.com/produto/e-vibe-peak-carbon/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "caloi/e-vibe-peak-carbon.webp",
+    "fonte_url": "https://caloi.com/produto/e-vibe-peak-carbon/"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "ano": null,
+  "atualizado_em": "2026-11-08",
+  "categoria": "mtb",
+  "componentes": {
+    "grupo": "Shimano Essa/Altus 1x8V",
+    "peso_kg": null,
+    "tipo_freio": "Disco hidráulico",
+    "velocidades": 8
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://verdenbikes.com/vortex-three-aro-29/"
+    }
+  ],
+  "marca": "Verden",
+  "modelo": "Vortex Three Aro 29",
+  "preco_sugerido_brl": null,
+  "quadro": {
+    "aro": "29",
+    "curso_mm": null,
+    "material": "Alumínio 6061",
+    "suspensao": "hardtail",
+    "tamanhos": [
+      "15",
+      "17",
+      "19"
+    ]
+  },
+  "slug": "vortex-three-aro-29",
+  "url_fabricante": "https://verdenbikes.com/vortex-three-aro-29/",
+  "imagem": {
+    "arquivo": "verden/vortex-three-aro-29.webp",
+    "fonte_url": "https://verdenbikes.com/vortex-three-aro-29/"
+  }
+}

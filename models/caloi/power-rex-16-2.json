@@ -1,0 +1,35 @@
+{
+  "marca": "Caloi",
+  "modelo": "Power Rex 16",
+  "ano": null,
+  "slug": "power-rex-16-2",
+  "categoria": "infantil",
+  "url_fabricante": "https://caloi.com/produto/power-rex-16-2/",
+  "preco_sugerido_brl": 579,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Aço",
+    "tamanhos": null,
+    "aro": "16",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Roda livre 1 velocidade",
+    "velocidades": 1,
+    "tipo_freio": "Cantilever/tambor",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://caloi.com/produto/power-rex-16-2/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "caloi/power-rex-16-2.webp",
+    "fonte_url": "https://caloi.com/produto/power-rex-16-2/"
+  }
+}

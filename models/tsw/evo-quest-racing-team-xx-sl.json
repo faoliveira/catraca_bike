@@ -1,0 +1,40 @@
+{
+  "marca": "TSW",
+  "modelo": "Evo Quest Racing Team XX SL",
+  "ano": null,
+  "slug": "evo-quest-racing-team-xx-sl",
+  "categoria": "mtb",
+  "url_fabricante": "https://tswbike.com/p/902/evo-quest-racing-team-xx-sl",
+  "preco_sugerido_brl": 44900,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono Toray T700/T800/T1000",
+    "tamanhos": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": 100
+  },
+  "componentes": {
+    "grupo": "SRAM XX Eagle AXS T-Type",
+    "velocidades": 12,
+    "tipo_freio": "Hidráulico SRAM Level Ultimate rotores 180/160 mm",
+    "peso_kg": 9.8
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://tswbike.com/p/902/evo-quest-racing-team-xx-sl",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "tsw/evo-quest-racing-team-xx-sl.webp",
+    "fonte_url": "https://tswbike.com/p/902/evo-quest-racing-team-xx-sl"
+  }
+}

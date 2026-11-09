@@ -1,0 +1,40 @@
+{
+  "ano": null,
+  "atualizado_em": "2026-11-08",
+  "categoria": "mtb",
+  "componentes": {
+    "grupo": "Indexado 3x7V",
+    "peso_kg": null,
+    "tipo_freio": "Disco mecânico",
+    "velocidades": 21
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://verdenbikes.com/challenge-aro-29-preto-fosco/"
+    },
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://verdenbikes.com/challenge-aro-29-verde-militar-fosco/"
+    }
+  ],
+  "marca": "Verden",
+  "modelo": "Challenge Aro 29",
+  "preco_sugerido_brl": null,
+  "quadro": {
+    "aro": "29",
+    "curso_mm": null,
+    "material": "Alumínio",
+    "suspensao": "hardtail",
+    "tamanhos": null
+  },
+  "slug": "challenge-aro-29",
+  "url_fabricante": "https://verdenbikes.com/challenge-aro-29-preto-fosco/",
+  "imagem": {
+    "arquivo": "verden/challenge-aro-29.webp",
+    "fonte_url": "https://verdenbikes.com/challenge-aro-29-preto-fosco/"
+  }
+}

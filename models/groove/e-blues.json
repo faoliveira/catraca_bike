@@ -1,0 +1,48 @@
+{
+  "marca": "Groove",
+  "modelo": "E-Blues",
+  "ano": null,
+  "slug": "e-blues",
+  "categoria": "ebike",
+  "url_fabricante": "https://groovebikes.com.br/produto/bicicleta-eletrica-groove-e-blues/",
+  "preco_sugerido_brl": 8499.9,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Aço",
+    "tamanhos": [
+      "Único"
+    ],
+    "aro": "20",
+    "suspensao": "full",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano",
+    "velocidades": 7,
+    "tipo_freio": "Disco hidráulico Karasawa HDM-5E",
+    "peso_kg": 36.2
+  },
+  "ebike": {
+    "motor_tipo": "Motor no cubo traseiro 48V",
+    "potencia_w": 750,
+    "torque_nm": 85,
+    "bateria_wh": 768,
+    "autonomia_declarada_km": 50,
+    "acelerador": true,
+    "assistencia_so_com_pedal": false,
+    "vel_max_kmh": 32,
+    "largura_cm": null,
+    "entre_eixos_cm": null
+  },
+  "fontes": [
+    {
+      "url": "https://groovebikes.com.br/produto/bicicleta-eletrica-groove-e-blues/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "groove/e-blues.webp",
+    "fonte_url": "https://groovebikes.com.br/produto/bicicleta-eletrica-groove-e-blues/"
+  }
+}

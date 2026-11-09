@@ -1,0 +1,39 @@
+{
+  "marca": "Soul",
+  "modelo": "Volcano G3 Shimano XT Di2 SID Wolf",
+  "ano": null,
+  "slug": "volcano-g3-shimano-xt-di2-sid-wolf",
+  "categoria": "mtb",
+  "url_fabricante": "https://www.soulcycles.com.br/bicicleta-volcano-g3-shimano-xt-di2-sid-wolf/p",
+  "preco_sugerido_brl": 44000,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "S",
+      "M",
+      "L"
+    ],
+    "aro": "29",
+    "suspensao": "full",
+    "curso_mm": 110
+  },
+  "componentes": {
+    "grupo": "Shimano XT Di2 / Deore 12V",
+    "velocidades": 12,
+    "tipo_freio": "Disco hidráulico Shimano Deore M6100",
+    "peso_kg": 12.4
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.soulcycles.com.br/bicicleta-volcano-g3-shimano-xt-di2-sid-wolf/p",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "soul/volcano-g3-shimano-xt-di2-sid-wolf.webp",
+    "fonte_url": "https://www.soulcycles.com.br/bicicleta-volcano-g3-shimano-xt-di2-sid-wolf/p"
+  }
+}

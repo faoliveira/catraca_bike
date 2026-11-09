@@ -1,0 +1,44 @@
+{
+  "marca": "Oggi",
+  "modelo": "Hacker HDS",
+  "ano": null,
+  "slug": "hacker-hds",
+  "categoria": "mtb",
+  "url_fabricante": "https://oggibikes.com.br/bike/hacker-hds/",
+  "preco_sugerido_brl": 2649,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061",
+    "tamanhos": [
+      "15.5",
+      "17",
+      "19"
+    ],
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": 100
+  },
+  "componentes": {
+    "grupo": "Shimano Tourney 24V",
+    "velocidades": 24,
+    "tipo_freio": "HD-M220",
+    "peso_kg": 14.5
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://oggibikes.com.br/bike/hacker-hds/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    },
+    {
+      "url": "https://oggibikes.com.br/modelos-mtb/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "oggi/hacker-hds.webp",
+    "fonte_url": "https://oggibikes.com.br/bike/hacker-hds/"
+  }
+}

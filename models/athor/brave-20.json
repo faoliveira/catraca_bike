@@ -1,0 +1,35 @@
+{
+  "ano": null,
+  "atualizado_em": "2026-11-08",
+  "categoria": "infantil",
+  "componentes": {
+    "grupo": "Shimano Tourney 1x7V",
+    "peso_kg": 10.2,
+    "tipo_freio": "V-Brake alumínio",
+    "velocidades": 7
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://athorbikes.com.br/bicicleta/brave-20/"
+    }
+  ],
+  "marca": "Athor",
+  "modelo": "Brave 20",
+  "preco_sugerido_brl": null,
+  "quadro": {
+    "aro": "20",
+    "curso_mm": null,
+    "material": "Alumínio 6061",
+    "suspensao": "rigida",
+    "tamanhos": null
+  },
+  "slug": "brave-20",
+  "url_fabricante": "https://athorbikes.com.br/bicicleta/brave-20/",
+  "imagem": {
+    "arquivo": "athor/brave-20.webp",
+    "fonte_url": "https://athorbikes.com.br/bicicleta/brave-20/"
+  }
+}

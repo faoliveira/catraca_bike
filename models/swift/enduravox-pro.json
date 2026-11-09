@@ -1,0 +1,41 @@
+{
+  "marca": "Swift",
+  "modelo": "Enduravox Pro",
+  "ano": null,
+  "slug": "enduravox-pro",
+  "categoria": "speed",
+  "url_fabricante": "https://www.sensebike.com.br/produtos/enduravox-pro/",
+  "preco_sugerido_brl": 6990,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6069",
+    "tamanhos": [
+      "49",
+      "51",
+      "54",
+      "56",
+      "59"
+    ],
+    "aro": "700c",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano Sora 18V",
+    "velocidades": 18,
+    "tipo_freio": "Mecânico Shimano BR-RS305",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.sensebike.com.br/produtos/enduravox-pro/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "swift/enduravox-pro.webp",
+    "fonte_url": "https://www.sensebike.com.br/produtos/enduravox-pro/"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "marca": "Oggi",
+  "modelo": "Agile Pro S1000 2025",
+  "ano": 2025,
+  "slug": "agile-pro-s1000-2025",
+  "categoria": "mtb",
+  "url_fabricante": "https://oggibikes.com.br/bike/agile-pro-s1000-2025/",
+  "preco_sugerido_brl": 19890,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": 100
+  },
+  "componentes": {
+    "grupo": "SRAM AXS 12V",
+    "velocidades": 12,
+    "tipo_freio": "SRAM rotores 180/160 mm",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://oggibikes.com.br/bike/agile-pro-s1000-2025/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    },
+    {
+      "url": "https://oggibikes.com.br/modelos-mtb/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "oggi/agile-pro-s1000-2025.webp",
+    "fonte_url": "https://oggibikes.com.br/bike/agile-pro-s1000-2025/"
+  }
+}

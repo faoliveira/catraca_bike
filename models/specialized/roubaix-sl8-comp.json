@@ -1,0 +1,44 @@
+{
+  "marca": "Specialized",
+  "modelo": "Roubaix SL8 Comp",
+  "ano": null,
+  "slug": "roubaix-sl8-comp",
+  "categoria": "speed",
+  "url_fabricante": "https://www.specialized.com/br/pt/roubaix-sl8-comp-sram-rival-axs/p/4293933",
+  "preco_sugerido_brl": 36990,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "FACT 10R, Rider First Engineered™ (RFE), FreeFoil Shape Libr",
+    "tamanhos": [
+      "44",
+      "49",
+      "52",
+      "54",
+      "56",
+      "58",
+      "61",
+      "64"
+    ],
+    "aro": "700c",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "SRAM Rival AXS E1 12V, garfo Future Shock 3.2 w/ Smooth Boot",
+    "velocidades": 12,
+    "tipo_freio": "Disco hidráulico SRAM Rival AXS E1, rotores 160/160 mm",
+    "peso_kg": 8.75
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.specialized.com/br/pt/roubaix-sl8-comp-sram-rival-axs/p/4293933",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "specialized/roubaix-sl8-comp.webp",
+    "fonte_url": "https://www.specialized.com/br/pt/roubaix-sl8-comp-sram-rival-axs/p/4293933"
+  }
+}

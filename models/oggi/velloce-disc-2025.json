@@ -1,0 +1,46 @@
+{
+  "marca": "Oggi",
+  "modelo": "Velloce Disc 2025",
+  "ano": 2025,
+  "slug": "velloce-disc-2025",
+  "categoria": "speed",
+  "url_fabricante": "https://oggibikes.com.br/bike/velloce-disc-2025/",
+  "preco_sugerido_brl": 4499,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio",
+    "tamanhos": [
+      "48",
+      "50",
+      "52",
+      "54",
+      "56"
+    ],
+    "aro": "700c",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano Claris 16V",
+    "velocidades": 16,
+    "tipo_freio": "Shimano BR-R317 rotores 160 mm",
+    "peso_kg": 11.7
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://oggibikes.com.br/bike/velloce-disc-2025/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    },
+    {
+      "url": "https://oggibikes.com.br/modelos-speed/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "oggi/velloce-disc-2025.webp",
+    "fonte_url": "https://oggibikes.com.br/bike/velloce-disc-2025/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "marca": "KRW",
+  "modelo": "BMX Cross",
+  "ano": null,
+  "slug": "krw-bmx-cross",
+  "categoria": "infantil",
+  "url_fabricante": "https://www.krwbikes.com.br/produtos/bicicleta-infantil-aro-20-aero-krw-bmx-cross-freio-v-brake-sem-marchas/",
+  "preco_sugerido_brl": 559,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Aço carbono",
+    "tamanhos": null,
+    "aro": "20",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": null,
+    "velocidades": null,
+    "tipo_freio": "V-Brake",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.krwbikes.com.br/produtos/bicicleta-infantil-aro-20-aero-krw-bmx-cross-freio-v-brake-sem-marchas/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "krw/krw-bmx-cross.webp",
+    "fonte_url": "https://www.krwbikes.com.br/produtos/bicicleta-infantil-aro-20-aero-krw-bmx-cross-freio-v-brake-sem-marchas/"
+  }
+}

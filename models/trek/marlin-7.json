@@ -1,0 +1,40 @@
+{
+  "marca": "Trek",
+  "modelo": "Marlin 7 3ª Geração",
+  "ano": null,
+  "slug": "marlin-7",
+  "categoria": "mtb",
+  "url_fabricante": "https://www.trekbikes.com/br/pt_BR/bicicletas/mountain-bikes/mountain-bikes-para-cross-country/marlin/marlin-7-3%C2%AA-gera%C3%A7%C3%A3o/p/57367/",
+  "preco_sugerido_brl": 8990,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio",
+    "tamanhos": [
+      "P",
+      "M",
+      "MG",
+      "G"
+    ],
+    "aro": "27.5/29",
+    "suspensao": "hardtail",
+    "curso_mm": 100
+  },
+  "componentes": {
+    "grupo": "SRAM NX Eagle 12V",
+    "velocidades": 12,
+    "tipo_freio": "Disco hidráulico Shimano MT200",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.trekbikes.com/br/pt_BR/bicicletas/mountain-bikes/mountain-bikes-para-cross-country/marlin/marlin-7-3%C2%AA-gera%C3%A7%C3%A3o/p/57367/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "trek/marlin-7.webp",
+    "fonte_url": "https://www.trekbikes.com/br/pt_BR/bicicletas/mountain-bikes/mountain-bikes-para-cross-country/marlin/marlin-7-3%C2%AA-gera%C3%A7%C3%A3o/p/57367/"
+  }
+}

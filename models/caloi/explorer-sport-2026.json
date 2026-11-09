@@ -1,0 +1,41 @@
+{
+  "marca": "Caloi",
+  "modelo": "Explorer Sport",
+  "ano": 2026,
+  "slug": "explorer-sport-2026",
+  "categoria": "mtb",
+  "url_fabricante": "https://caloi.com/produto/explorer-sport-2026/",
+  "preco_sugerido_brl": 3590,
+  "atualizado_em": "2026-11-07",
+  "quadro": {
+    "material": "Alumínio 6061 e 6069, tubos hidroformados",
+    "tamanhos": [
+      "PP",
+      "P",
+      "M",
+      "G",
+      "GG"
+    ],
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": 100
+  },
+  "componentes": {
+    "grupo": "Shimano Cues",
+    "velocidades": 9,
+    "tipo_freio": "Disco hidráulico Logan, rotores de 160/180 mm",
+    "peso_kg": 14.61
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://caloi.com/produto/explorer-sport-2026/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-07"
+    }
+  ],
+  "imagem": {
+    "arquivo": "caloi/explorer-sport-2026.webp",
+    "fonte_url": "https://caloi.com/produto/explorer-sport-2026/"
+  }
+}

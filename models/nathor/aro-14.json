@@ -1,0 +1,40 @@
+{
+  "ano": null,
+  "atualizado_em": "2026-11-08",
+  "categoria": "infantil",
+  "componentes": {
+    "grupo": null,
+    "peso_kg": null,
+    "tipo_freio": null,
+    "velocidades": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://nathor.com/produto/bicicleta-aro-14-zigbim/"
+    },
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://nathor.com/produto/bicicleta-aro-14-cecizinha/"
+    }
+  ],
+  "marca": "Nathor",
+  "modelo": "Bicicleta Aro 14",
+  "preco_sugerido_brl": null,
+  "quadro": {
+    "aro": "14",
+    "curso_mm": null,
+    "material": null,
+    "suspensao": "rigida",
+    "tamanhos": null
+  },
+  "slug": "aro-14",
+  "url_fabricante": "https://nathor.com/produto/bicicleta-aro-14-zigbim/",
+  "imagem": {
+    "arquivo": "nathor/aro-14.webp",
+    "fonte_url": "https://nathor.com/produto/bicicleta-aro-14-zigbim/"
+  }
+}

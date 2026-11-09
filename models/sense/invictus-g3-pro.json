@@ -1,0 +1,39 @@
+{
+  "marca": "Sense",
+  "modelo": "Invictus G3 Pro",
+  "ano": null,
+  "slug": "invictus-g3-pro",
+  "categoria": "mtb",
+  "url_fabricante": "https://www.sensebike.com.br/produtos/invictus-g3-pro/",
+  "preco_sugerido_brl": 32990,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono Mitsubishi MR60/HR40",
+    "tamanhos": [
+      "S",
+      "M",
+      "L"
+    ],
+    "aro": "29",
+    "suspensao": "full",
+    "curso_mm": 120
+  },
+  "componentes": {
+    "grupo": "SRAM S1000 Eagle AXS T-Type",
+    "velocidades": 12,
+    "tipo_freio": "Hidráulico Shimano Deore BR-M6100 2 pistões, discos 180/160 mm",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.sensebike.com.br/produtos/invictus-g3-pro/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "sense/invictus-g3-pro.webp",
+    "fonte_url": "https://www.sensebike.com.br/produtos/invictus-g3-pro/"
+  }
+}

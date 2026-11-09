@@ -1,0 +1,40 @@
+{
+  "marca": "KRW",
+  "modelo": "CS1",
+  "ano": null,
+  "slug": "krw-cs1",
+  "categoria": "mtb",
+  "url_fabricante": "https://www.krwbikes.com.br/produtos/bicicleta-krw-cs1-aro-29-aluminio-shimano-cues-9v/",
+  "preco_sugerido_brl": 2999.9,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061 K 4.0",
+    "tamanhos": [
+      "15.5",
+      "17",
+      "19",
+      "21"
+    ],
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano CUES",
+    "velocidades": 9,
+    "tipo_freio": "Disco hidráulico",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.krwbikes.com.br/produtos/bicicleta-krw-cs1-aro-29-aluminio-shimano-cues-9v/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "krw/krw-cs1.webp",
+    "fonte_url": "https://www.krwbikes.com.br/produtos/bicicleta-krw-cs1-aro-29-aluminio-shimano-cues-9v/"
+  }
+}

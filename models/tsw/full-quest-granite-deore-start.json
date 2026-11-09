@@ -1,0 +1,40 @@
+{
+  "marca": "TSW",
+  "modelo": "Full Quest Granite Deore Start",
+  "ano": null,
+  "slug": "full-quest-granite-deore-start",
+  "categoria": "mtb",
+  "url_fabricante": "https://tswbike.com/p/920/full-quest-granite-deore-start",
+  "preco_sugerido_brl": 21900,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono Toray T700/T800/T1000",
+    "tamanhos": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "29",
+    "suspensao": "full",
+    "curso_mm": 120
+  },
+  "componentes": {
+    "grupo": "Shimano Deore",
+    "velocidades": 12,
+    "tipo_freio": "Hidráulico Shimano Deore BL-M4100 rotores 180/160 mm",
+    "peso_kg": 13.6
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://tswbike.com/p/920/full-quest-granite-deore-start",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "tsw/full-quest-granite-deore-start.webp",
+    "fonte_url": "https://tswbike.com/p/920/full-quest-granite-deore-start"
+  }
+}

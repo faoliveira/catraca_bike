@@ -1,0 +1,47 @@
+{
+  "marca": "Lev",
+  "modelo": "Model C",
+  "ano": null,
+  "slug": "model-c",
+  "categoria": "ebike",
+  "url_fabricante": "https://golev.com.br/products/model-c",
+  "preco_sugerido_brl": 7980,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Aço carbono",
+    "tamanhos": null,
+    "aro": "20",
+    "suspensao": "full",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano",
+    "velocidades": 7,
+    "tipo_freio": "Disco",
+    "peso_kg": 34
+  },
+  "ebike": {
+    "motor_tipo": "Motor elétrico 1000 W",
+    "potencia_w": 1000,
+    "torque_nm": null,
+    "bateria_wh": 648,
+    "autonomia_declarada_km": 40,
+    "acelerador": null,
+    "assistencia_so_com_pedal": null,
+    "vel_max_kmh": null,
+    "largura_cm": null,
+    "entre_eixos_cm": null
+  },
+  "fontes": [
+    {
+      "url": "https://golev.com.br/products/model-c",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    },
+    {
+      "url": "https://golev.com.br/pages/modelc",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ]
+}

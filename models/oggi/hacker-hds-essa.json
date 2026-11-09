@@ -1,0 +1,45 @@
+{
+  "marca": "Oggi",
+  "modelo": "Hacker HDS Essa",
+  "ano": null,
+  "slug": "hacker-hds-essa",
+  "categoria": "mtb",
+  "url_fabricante": "https://oggibikes.com.br/bike/hacker-hds-essa/",
+  "preco_sugerido_brl": 2799,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061 T6",
+    "tamanhos": [
+      "15.5",
+      "17",
+      "19",
+      "21"
+    ],
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": 100
+  },
+  "componentes": {
+    "grupo": "Shimano 8V",
+    "velocidades": 8,
+    "tipo_freio": "Hidráulico Shimano BR-MT200 rotores 160 mm",
+    "peso_kg": 14.5
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://oggibikes.com.br/bike/hacker-hds-essa/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    },
+    {
+      "url": "https://oggibikes.com.br/modelos-mtb/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "oggi/hacker-hds-essa.webp",
+    "fonte_url": "https://oggibikes.com.br/bike/hacker-hds-essa/"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "marca": "Verden",
+  "modelo": "Vortex One Aro 29",
+  "ano": null,
+  "slug": "vortex-one-aro-29",
+  "categoria": "mtb",
+  "url_fabricante": "https://verdenbikes.com/vortex-one-aro-29/",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061 tratado e conformado",
+    "tamanhos": [
+      "15",
+      "17",
+      "19"
+    ],
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Indexado 3x7V",
+    "velocidades": 21,
+    "tipo_freio": "Disco mecânico",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://verdenbikes.com/vortex-one-aro-29/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "verden/vortex-one-aro-29.webp",
+    "fonte_url": "https://verdenbikes.com/vortex-one-aro-29/"
+  }
+}

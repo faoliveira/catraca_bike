@@ -1,0 +1,41 @@
+{
+  "marca": "Audax",
+  "modelo": "ADX 90",
+  "ano": null,
+  "slug": "adx-90",
+  "categoria": "mtb",
+  "url_fabricante": "https://audaxbike.com/bike/230/adx-90",
+  "preco_sugerido_brl": 3115,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061 T6",
+    "tamanhos": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano Alivio 18V",
+    "velocidades": 18,
+    "tipo_freio": "Disco hidráulico Shimano rotores 160 mm",
+    "peso_kg": 14.5
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://audaxbike.com/bike/230/adx-90",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "audax/adx-90.webp",
+    "fonte_url": "https://audaxbike.com/bike/230/adx-90"
+  }
+}

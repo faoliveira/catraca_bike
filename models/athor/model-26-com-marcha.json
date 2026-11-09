@@ -1,0 +1,35 @@
+{
+  "ano": null,
+  "atualizado_em": "2026-11-08",
+  "categoria": "urbana",
+  "componentes": {
+    "grupo": null,
+    "peso_kg": null,
+    "tipo_freio": "V-Brake nylon",
+    "velocidades": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://athorbikes.com.br/bicicleta/model-26-com-marcha/"
+    }
+  ],
+  "marca": "Athor",
+  "modelo": "Model 26 com Marcha",
+  "preco_sugerido_brl": null,
+  "quadro": {
+    "aro": "26",
+    "curso_mm": null,
+    "material": "Aço carbono",
+    "suspensao": null,
+    "tamanhos": null
+  },
+  "slug": "model-26-com-marcha",
+  "url_fabricante": "https://athorbikes.com.br/bicicleta/model-26-com-marcha/",
+  "imagem": {
+    "arquivo": "athor/model-26-com-marcha.webp",
+    "fonte_url": "https://athorbikes.com.br/bicicleta/model-26-com-marcha/"
+  }
+}

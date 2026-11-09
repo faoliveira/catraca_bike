@@ -1,0 +1,38 @@
+{
+  "marca": "Exemplo",
+  "modelo": "Trilha 29",
+  "ano": 2026,
+  "slug": "exemplo-trilha-29",
+  "categoria": "mtb",
+  "url_fabricante": "https://fabricante.example/bikes/trilha-29",
+  "preco_sugerido_brl": 4990,
+  "atualizado_em": "2026-11-09",
+  "quadro": {
+    "material": "Alumínio",
+    "tamanhos": ["P", "M", "G"],
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": 100
+  },
+  "componentes": {
+    "grupo": "Shimano Cues 1x10",
+    "velocidades": 10,
+    "tipo_freio": "Disco hidráulico",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://fabricante.example/bikes/trilha-29",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-09"
+    }
+  ],
+  "imagem": {
+    "arquivo": "exemplo/exemplo-trilha-29.webp",
+    "fonte_url": "https://fabricante.example/bikes/trilha-29"
+  },
+  "links_compra": [
+    { "url": "https://loja.example/produto/trilha-29" }
+  ]
+}

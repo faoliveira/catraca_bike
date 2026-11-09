@@ -1,0 +1,40 @@
+{
+  "ano": null,
+  "atualizado_em": "2026-11-08",
+  "categoria": "urbana",
+  "componentes": {
+    "grupo": null,
+    "peso_kg": null,
+    "tipo_freio": null,
+    "velocidades": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://verdenbikes.com/jolie-violeta-c-ac-br-aro-26/"
+    },
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://verdenbikes.com/jolie-rs-verniz-c-ac-br-aro-26/"
+    }
+  ],
+  "marca": "Verden",
+  "modelo": "Jolie Aro 26",
+  "preco_sugerido_brl": null,
+  "quadro": {
+    "aro": "26",
+    "curso_mm": null,
+    "material": null,
+    "suspensao": null,
+    "tamanhos": null
+  },
+  "slug": "jolie-aro-26",
+  "url_fabricante": "https://verdenbikes.com/jolie-violeta-c-ac-br-aro-26/",
+  "imagem": {
+    "arquivo": "verden/jolie-aro-26.webp",
+    "fonte_url": "https://verdenbikes.com/jolie-violeta-c-ac-br-aro-26/"
+  }
+}

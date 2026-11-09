@@ -1,0 +1,39 @@
+{
+  "marca": "Trek",
+  "modelo": "FX 1",
+  "ano": null,
+  "slug": "fx-1",
+  "categoria": "urbana",
+  "url_fabricante": "https://www.trekbikes.com/br/pt_BR/bicicletas/bicicletas-h%C3%ADbridas/bicicletas-para-fitness/fx/fx-1/p/57134/",
+  "preco_sugerido_brl": 4499,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio",
+    "tamanhos": [
+      "P",
+      "M",
+      "G"
+    ],
+    "aro": "700c",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano Acera M3020-8 8V",
+    "velocidades": 8,
+    "tipo_freio": "Freio a disco mecânico Tektro MD-U310",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.trekbikes.com/br/pt_BR/bicicletas/bicicletas-h%C3%ADbridas/bicicletas-para-fitness/fx/fx-1/p/57134/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "trek/fx-1.webp",
+    "fonte_url": "https://www.trekbikes.com/br/pt_BR/bicicletas/bicicletas-h%C3%ADbridas/bicicletas-para-fitness/fx/fx-1/p/57134/"
+  }
+}

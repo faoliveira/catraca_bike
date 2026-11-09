@@ -1,0 +1,40 @@
+{
+  "marca": "KRW",
+  "modelo": "KR7",
+  "ano": null,
+  "slug": "krw-kr7",
+  "categoria": "mtb",
+  "url_fabricante": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-shimano-tz-21-velocidades-freio-a-disco-kr7/",
+  "preco_sugerido_brl": 879,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061",
+    "tamanhos": [
+      "15.5",
+      "17",
+      "19",
+      "21"
+    ],
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano TZ",
+    "velocidades": 21,
+    "tipo_freio": "Disco mecânico",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-shimano-tz-21-velocidades-freio-a-disco-kr7/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "krw/krw-kr7.webp",
+    "fonte_url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-shimano-tz-21-velocidades-freio-a-disco-kr7/"
+  }
+}

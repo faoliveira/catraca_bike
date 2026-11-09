@@ -1,0 +1,51 @@
+{
+  "marca": "Specialized",
+  "modelo": "Turbo Vado 2 3.0 IGH",
+  "ano": null,
+  "slug": "turbo-vado-2-3-0-igh",
+  "categoria": "ebike",
+  "url_fabricante": "https://www.specialized.com/br/pt/bicicleta-turbo-vado-2-30-igh/p/218559",
+  "preco_sugerido_brl": 22990,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio",
+    "tamanhos": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "27.5",
+    "suspensao": "hardtail",
+    "curso_mm": 80
+  },
+  "componentes": {
+    "grupo": "Enviolo Integrated Gear Hub, garfo SR Suntour MobieA32",
+    "velocidades": null,
+    "tipo_freio": "Disco hidráulico Shimano BR-MT200, rotores 180/180 mm",
+    "peso_kg": 26.4
+  },
+  "ebike": {
+    "motor_tipo": "Specialized 2.0E",
+    "potencia_w": 250,
+    "torque_nm": 50,
+    "bateria_wh": 530,
+    "autonomia_declarada_km": null,
+    "acelerador": null,
+    "assistencia_so_com_pedal": null,
+    "vel_max_kmh": null,
+    "largura_cm": null,
+    "entre_eixos_cm": null
+  },
+  "fontes": [
+    {
+      "url": "https://www.specialized.com/br/pt/bicicleta-turbo-vado-2-30-igh/p/218559",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "specialized/turbo-vado-2-3-0-igh.webp",
+    "fonte_url": "https://www.specialized.com/br/pt/bicicleta-turbo-vado-2-30-igh/p/218559"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "marca": "TSW",
+  "modelo": "Steps 12",
+  "ano": null,
+  "slug": "steps-12",
+  "categoria": "infantil",
+  "url_fabricante": "https://tswbike.com/p/1199/steps-12",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio",
+    "tamanhos": null,
+    "aro": "12",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": null,
+    "velocidades": null,
+    "tipo_freio": null,
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://tswbike.com/p/1199/steps-12",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "tsw/steps-12.webp",
+    "fonte_url": "https://tswbike.com/p/1199/steps-12"
+  }
+}

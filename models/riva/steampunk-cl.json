@@ -1,0 +1,38 @@
+{
+  "marca": "Riva",
+  "modelo": "Steampunk CL",
+  "ano": null,
+  "slug": "steampunk-cl",
+  "categoria": "urbana",
+  "url_fabricante": "https://rivacycles.com/products/bicicleta-riva-steampunk-cl",
+  "preco_sugerido_brl": 5690,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Aço Cromoly SAE 4130",
+    "tamanhos": [
+      "M",
+      "G"
+    ],
+    "aro": "700c",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Sturmey Archer IGH 3V",
+    "velocidades": 3,
+    "tipo_freio": "Disco hidráulico Shimano M315",
+    "peso_kg": 12.3
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://rivacycles.com/products/bicicleta-riva-steampunk-cl",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "riva/steampunk-cl.webp",
+    "fonte_url": "https://rivacycles.com/products/bicicleta-riva-steampunk-cl"
+  }
+}

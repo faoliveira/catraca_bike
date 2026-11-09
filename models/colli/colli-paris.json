@@ -1,0 +1,31 @@
+{
+  "marca": "Colli",
+  "modelo": "Colli Paris",
+  "ano": null,
+  "slug": "colli-paris",
+  "categoria": "urbana",
+  "url_fabricante": "https://collibike.com.br/bicicletas/colli-paris/",
+  "preco_sugerido_brl": 1199.9,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Aço carbono",
+    "tamanhos": null,
+    "aro": "26",
+    "suspensao": "hardtail",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Triplo 24/34/42, roda livre 7V",
+    "velocidades": 21,
+    "tipo_freio": "Disco mecânico",
+    "peso_kg": 16.5
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://collibike.com.br/bicicletas/colli-paris/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ]
+}

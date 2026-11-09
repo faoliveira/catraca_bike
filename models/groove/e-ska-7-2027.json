@@ -1,0 +1,50 @@
+{
+  "marca": "Groove",
+  "modelo": "E-SKA 7 2027",
+  "ano": 2027,
+  "slug": "e-ska-7-2027",
+  "categoria": "ebike",
+  "url_fabricante": "https://groovebikes.com.br/produto/bicicleta-eletrica-groove-e-ska-7-2027/",
+  "preco_sugerido_brl": 16999.9,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio",
+    "tamanhos": [
+      "S (15)",
+      "M (17)",
+      "L (19)"
+    ],
+    "aro": null,
+    "suspensao": "hardtail",
+    "curso_mm": 100
+  },
+  "componentes": {
+    "grupo": "Shimano Deore",
+    "velocidades": 11,
+    "tipo_freio": null,
+    "peso_kg": 34
+  },
+  "ebike": {
+    "motor_tipo": "Motor central Bafang M430",
+    "potencia_w": 350,
+    "torque_nm": 110,
+    "bateria_wh": 655,
+    "autonomia_declarada_km": 100,
+    "acelerador": true,
+    "assistencia_so_com_pedal": false,
+    "vel_max_kmh": 45,
+    "largura_cm": null,
+    "entre_eixos_cm": null
+  },
+  "fontes": [
+    {
+      "url": "https://groovebikes.com.br/produto/bicicleta-eletrica-groove-e-ska-7-2027/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "groove/e-ska-7-2027.webp",
+    "fonte_url": "https://groovebikes.com.br/produto/bicicleta-eletrica-groove-e-ska-7-2027/"
+  }
+}

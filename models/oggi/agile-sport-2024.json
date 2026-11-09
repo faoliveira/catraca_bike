@@ -1,0 +1,45 @@
+{
+  "marca": "Oggi",
+  "modelo": "Agile Sport 2024",
+  "ano": 2024,
+  "slug": "agile-sport-2024",
+  "categoria": "mtb",
+  "url_fabricante": "https://oggibikes.com.br/bike/agile-sport-2024/",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": 100
+  },
+  "componentes": {
+    "grupo": "Shimano Deore 12V",
+    "velocidades": 12,
+    "tipo_freio": "Shimano MT410 rotores 160 mm",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://oggibikes.com.br/bike/agile-sport-2024/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    },
+    {
+      "url": "https://oggibikes.com.br/modelos-mtb/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "oggi/agile-sport-2024.webp",
+    "fonte_url": "https://oggibikes.com.br/bike/agile-sport-2024/"
+  }
+}

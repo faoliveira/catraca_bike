@@ -1,0 +1,40 @@
+{
+  "marca": "KRW",
+  "modelo": "KR2",
+  "ano": null,
+  "slug": "krw-kr2",
+  "categoria": "mtb",
+  "url_fabricante": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-24-velocidades-freio-hidraulico-kr2-am7l3/",
+  "preco_sugerido_brl": 979,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061",
+    "tamanhos": [
+      "15.5",
+      "17",
+      "19",
+      "21"
+    ],
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": null,
+    "velocidades": 24,
+    "tipo_freio": "Disco hidráulico",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-24-velocidades-freio-hidraulico-kr2-am7l3/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "krw/krw-kr2.webp",
+    "fonte_url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-24-velocidades-freio-hidraulico-kr2-am7l3/"
+  }
+}

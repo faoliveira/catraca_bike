@@ -1,0 +1,40 @@
+{
+  "marca": "TSW",
+  "modelo": "Full Quest Racing Team Xt-Xtr",
+  "ano": null,
+  "slug": "full-quest-racing-team-xt-xtr",
+  "categoria": "mtb",
+  "url_fabricante": "https://tswbike.com/p/945/full-quest-racing-team-xt-xtr",
+  "preco_sugerido_brl": 35900,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono Toray T700/T800/T1000",
+    "tamanhos": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "29",
+    "suspensao": "full",
+    "curso_mm": 120
+  },
+  "componentes": {
+    "grupo": "Shimano",
+    "velocidades": 12,
+    "tipo_freio": "Hidráulico Shimano Deore XT M8100 rotores 180/160 mm",
+    "peso_kg": 11.4
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://tswbike.com/p/945/full-quest-racing-team-xt-xtr",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "tsw/full-quest-racing-team-xt-xtr.webp",
+    "fonte_url": "https://tswbike.com/p/945/full-quest-racing-team-xt-xtr"
+  }
+}

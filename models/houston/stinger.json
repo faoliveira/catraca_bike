@@ -1,0 +1,35 @@
+{
+  "ano": null,
+  "atualizado_em": "2026-11-08",
+  "categoria": "urbana",
+  "componentes": {
+    "grupo": "Shimano 3x7V (RD-TZ31A, Grip-Shift 21V)",
+    "peso_kg": null,
+    "tipo_freio": "V-Brake",
+    "velocidades": 21
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://houston.com.br/bike/8/stinger"
+    }
+  ],
+  "marca": "Houston",
+  "modelo": "Stinger",
+  "preco_sugerido_brl": null,
+  "quadro": {
+    "aro": "26",
+    "curso_mm": 55,
+    "material": "Aço carbono",
+    "suspensao": "hardtail",
+    "tamanhos": null
+  },
+  "slug": "stinger",
+  "url_fabricante": "https://houston.com.br/bike/8/stinger",
+  "imagem": {
+    "arquivo": "houston/stinger.webp",
+    "fonte_url": "https://houston.com.br/bike/8/stinger"
+  }
+}

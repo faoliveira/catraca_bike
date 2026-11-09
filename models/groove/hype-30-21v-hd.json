@@ -1,0 +1,45 @@
+{
+  "marca": "Groove",
+  "modelo": "Hype 30 21V HD",
+  "ano": null,
+  "slug": "hype-30-21v-hd",
+  "categoria": "mtb",
+  "url_fabricante": "https://groovebikes.com.br/produto/bicicleta-groove-hype-30-21v-hd-mountain-bike-aro-29-r2-19990-2025/",
+  "preco_sugerido_brl": 2199.9,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio",
+    "tamanhos": [
+      "15",
+      "17",
+      "19",
+      "20.5"
+    ],
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": 80
+  },
+  "componentes": {
+    "grupo": "Shimano",
+    "velocidades": 21,
+    "tipo_freio": "Disco hidráulico M220",
+    "peso_kg": 15
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://groovebikes.com.br/produto/bicicleta-groove-hype-30-21v-hd-mountain-bike-aro-29-r2-19990-2025/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    },
+    {
+      "url": "https://groovebikes.com.br/produto/bicicleta-mountain-bike-aro-29-groove-hype-30-21-marchas/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "groove/hype-30-21v-hd.webp",
+    "fonte_url": "https://groovebikes.com.br/produto/bicicleta-groove-hype-30-21v-hd-mountain-bike-aro-29-r2-19990-2025/"
+  }
+}

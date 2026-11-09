@@ -1,0 +1,37 @@
+{
+  "marca": "Rockrider",
+  "modelo": "Explore 500 29",
+  "ano": null,
+  "slug": "explore-500-29",
+  "categoria": "mtb",
+  "url_fabricante": "https://www.decathlon.com.br/bicicleta-de-mountain-bike-explore-500-aro-29-preta-8966956-rockrider/p",
+  "preco_sugerido_brl": 2599.99,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061 T4T6",
+    "tamanhos": [
+      "P"
+    ],
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": 100
+  },
+  "componentes": {
+    "grupo": "Shimano Cues 1x10",
+    "velocidades": 10,
+    "tipo_freio": "Hidráulico Shimano MT200, rotores 160 mm",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.decathlon.com.br/bicicleta-de-mountain-bike-explore-500-aro-29-preta-8966956-rockrider/p",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "rockrider/explore-500-29.webp",
+    "fonte_url": "https://www.decathlon.com.br/bicicleta-de-mountain-bike-explore-500-aro-29-preta-8966956-rockrider/p"
+  }
+}

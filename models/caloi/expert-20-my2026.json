@@ -1,0 +1,35 @@
+{
+  "marca": "Caloi",
+  "modelo": "Expert 20",
+  "ano": 2026,
+  "slug": "expert-20-my2026",
+  "categoria": "infantil",
+  "url_fabricante": "https://caloi.com/produto/expert-20-my2026/",
+  "preco_sugerido_brl": 899,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Aço",
+    "tamanhos": null,
+    "aro": "20",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Roda livre 1 velocidade",
+    "velocidades": 1,
+    "tipo_freio": "V-brake de aço",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://caloi.com/produto/expert-20-my2026/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "caloi/expert-20-my2026.webp",
+    "fonte_url": "https://caloi.com/produto/expert-20-my2026/"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "ano": null,
+  "atualizado_em": "2026-11-08",
+  "categoria": "infantil",
+  "componentes": {
+    "grupo": null,
+    "peso_kg": null,
+    "tipo_freio": "V-brake dianteiro e traseiro",
+    "velocidades": 1
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://nathor.com/produto/bicicleta-aro-20-antonella-teen-rosa/"
+    },
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://nathor.com/produto/bicicleta-aro-20-antonella-teen-verde/"
+    }
+  ],
+  "marca": "Nathor",
+  "modelo": "Bicicleta Aro 20 Antonella Teen",
+  "preco_sugerido_brl": null,
+  "quadro": {
+    "aro": "20",
+    "curso_mm": null,
+    "material": "Aço carbono",
+    "suspensao": "rigida",
+    "tamanhos": null
+  },
+  "slug": "aro-20-antonella-teen",
+  "url_fabricante": "https://nathor.com/produto/bicicleta-aro-20-antonella-teen-rosa/",
+  "imagem": {
+    "arquivo": "nathor/aro-20-antonella-teen.webp",
+    "fonte_url": "https://nathor.com/produto/bicicleta-aro-20-antonella-teen-rosa/"
+  }
+}

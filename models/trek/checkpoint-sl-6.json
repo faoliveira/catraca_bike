@@ -1,0 +1,40 @@
+{
+  "marca": "Trek",
+  "modelo": "Checkpoint SL 6 AXS 3ª Geração",
+  "ano": null,
+  "slug": "checkpoint-sl-6",
+  "categoria": "gravel",
+  "url_fabricante": "https://www.trekbikes.com/br/pt_BR/bicicletas/bicicletas-para-turismo-e-bikepacking/checkpoint/checkpoint-sl/checkpoint-sl-6-axs-3%C2%AA-gera%C3%A7%C3%A3o/p/55098/",
+  "preco_sugerido_brl": 35990,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "P",
+      "M",
+      "MG",
+      "G"
+    ],
+    "aro": "700c",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "SRAM Rival XPLR AXS 13V",
+    "velocidades": 13,
+    "tipo_freio": null,
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.trekbikes.com/br/pt_BR/bicicletas/bicicletas-para-turismo-e-bikepacking/checkpoint/checkpoint-sl/checkpoint-sl-6-axs-3%C2%AA-gera%C3%A7%C3%A3o/p/55098/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "trek/checkpoint-sl-6.webp",
+    "fonte_url": "https://www.trekbikes.com/br/pt_BR/bicicletas/bicicletas-para-turismo-e-bikepacking/checkpoint/checkpoint-sl/checkpoint-sl-6-axs-3%C2%AA-gera%C3%A7%C3%A3o/p/55098/"
+  }
+}

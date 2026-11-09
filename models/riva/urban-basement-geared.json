@@ -1,0 +1,39 @@
+{
+  "marca": "Riva",
+  "modelo": "Urban Basement Geared",
+  "ano": null,
+  "slug": "urban-basement-geared",
+  "categoria": "urbana",
+  "url_fabricante": "https://rivacycles.com/products/bicicleta-riva-urban-basement-geared",
+  "preco_sugerido_brl": 5990,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Aço Cromoly SAE 4130",
+    "tamanhos": [
+      "52",
+      "55",
+      "59"
+    ],
+    "aro": "700c",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Sturmey Archer RX-RF5",
+    "velocidades": 5,
+    "tipo_freio": null,
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://rivacycles.com/products/bicicleta-riva-urban-basement-geared",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "riva/urban-basement-geared.webp",
+    "fonte_url": "https://rivacycles.com/products/bicicleta-riva-urban-basement-geared"
+  }
+}

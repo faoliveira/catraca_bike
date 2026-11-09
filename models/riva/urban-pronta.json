@@ -1,0 +1,39 @@
+{
+  "marca": "Riva",
+  "modelo": "Urban Pronta",
+  "ano": null,
+  "slug": "urban-pronta",
+  "categoria": "urbana",
+  "url_fabricante": "https://rivacycles.com/products/bicicleta-riva-urban-pronta",
+  "preco_sugerido_brl": 5890,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Aço Cromoly SAE 4130",
+    "tamanhos": [
+      "52",
+      "55",
+      "59"
+    ],
+    "aro": "700c",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": null,
+    "velocidades": 1,
+    "tipo_freio": "Ferradura (rim brake) Promax R315/RL570",
+    "peso_kg": 9.7
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://rivacycles.com/products/bicicleta-riva-urban-pronta",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "riva/urban-pronta.webp",
+    "fonte_url": "https://rivacycles.com/products/bicicleta-riva-urban-pronta"
+  }
+}

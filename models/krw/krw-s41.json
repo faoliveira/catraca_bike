@@ -1,0 +1,40 @@
+{
+  "marca": "KRW",
+  "modelo": "S41",
+  "ano": null,
+  "slug": "krw-s41",
+  "categoria": "mtb",
+  "url_fabricante": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-shimano-tz-24-velocidades-freio-hidraulico-s41-gobwk/",
+  "preco_sugerido_brl": 999,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061",
+    "tamanhos": [
+      "15.5",
+      "17",
+      "19",
+      "21"
+    ],
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano TZ",
+    "velocidades": 24,
+    "tipo_freio": "Disco hidráulico",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-shimano-tz-24-velocidades-freio-hidraulico-s41-gobwk/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "krw/krw-s41.webp",
+    "fonte_url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-shimano-tz-24-velocidades-freio-hidraulico-s41-gobwk/"
+  }
+}

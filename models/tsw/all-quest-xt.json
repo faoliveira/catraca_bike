@@ -1,0 +1,35 @@
+{
+  "marca": "TSW",
+  "modelo": "All Quest XT",
+  "ano": null,
+  "slug": "all-quest-xt",
+  "categoria": "mtb",
+  "url_fabricante": "https://tswbike.com/p/790/all-quest-xt",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "S",
+      "M",
+      "L"
+    ],
+    "aro": "29",
+    "suspensao": "full",
+    "curso_mm": 160
+  },
+  "componentes": {
+    "grupo": "Shimano",
+    "velocidades": 12,
+    "tipo_freio": "Hidráulico Shimano Deore XT M8100 rotores 203/180 mm",
+    "peso_kg": 16.7
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://tswbike.com/p/790/all-quest-xt",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ]
+}

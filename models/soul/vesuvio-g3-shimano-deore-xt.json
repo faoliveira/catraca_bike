@@ -1,0 +1,39 @@
+{
+  "marca": "Soul",
+  "modelo": "Vesuvio G3 Shimano Deore XT",
+  "ano": null,
+  "slug": "vesuvio-g3-shimano-deore-xt",
+  "categoria": "mtb",
+  "url_fabricante": "https://www.soulcycles.com.br/bicicleta-vesuvio-g3-shimano-deore-xt-sierra-negra/p",
+  "preco_sugerido_brl": 20000,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "S",
+      "M",
+      "L"
+    ],
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": 110
+  },
+  "componentes": {
+    "grupo": "Shimano Deore / XT 12V",
+    "velocidades": 12,
+    "tipo_freio": "Disco hidráulico Shimano",
+    "peso_kg": 11.5
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.soulcycles.com.br/bicicleta-vesuvio-g3-shimano-deore-xt-sierra-negra/p",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "soul/vesuvio-g3-shimano-deore-xt.webp",
+    "fonte_url": "https://www.soulcycles.com.br/bicicleta-vesuvio-g3-shimano-deore-xt-sierra-negra/p"
+  }
+}

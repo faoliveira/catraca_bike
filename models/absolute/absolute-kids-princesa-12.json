@@ -1,0 +1,35 @@
+{
+  "marca": "Absolute",
+  "modelo": "Kids Princesa 12",
+  "ano": null,
+  "slug": "absolute-kids-princesa-12",
+  "categoria": "infantil",
+  "url_fabricante": "https://absolutebikes.com.br/product/bicicleta-aro-12-kidsrincesa/",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": null,
+    "tamanhos": null,
+    "aro": "12",
+    "suspensao": null,
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": null,
+    "velocidades": null,
+    "tipo_freio": null,
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://absolutebikes.com.br/product/bicicleta-aro-12-kidsrincesa/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "absolute/absolute-kids-princesa-12.webp",
+    "fonte_url": "https://absolutebikes.com.br/product/bicicleta-aro-12-kidsrincesa/"
+  }
+}

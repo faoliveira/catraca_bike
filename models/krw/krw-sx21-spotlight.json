@@ -1,0 +1,35 @@
+{
+  "marca": "KRW",
+  "modelo": "SX21 Spotlight",
+  "ano": null,
+  "slug": "krw-sx21-spotlight",
+  "categoria": "mtb",
+  "url_fabricante": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-spotlight-aluminio-shimano-altus-24-vel-freio-hidraulico-cassete-sx21-outlet/",
+  "preco_sugerido_brl": 1219,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061",
+    "tamanhos": null,
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano Altus",
+    "velocidades": 24,
+    "tipo_freio": "Disco hidráulico",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-spotlight-aluminio-shimano-altus-24-vel-freio-hidraulico-cassete-sx21-outlet/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "krw/krw-sx21-spotlight.webp",
+    "fonte_url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-spotlight-aluminio-shimano-altus-24-vel-freio-hidraulico-cassete-sx21-outlet/"
+  }
+}

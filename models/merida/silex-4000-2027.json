@@ -1,0 +1,42 @@
+{
+  "marca": "Merida",
+  "modelo": "Silex 4000",
+  "ano": 2027,
+  "slug": "silex-4000-2027",
+  "categoria": "gravel",
+  "url_fabricante": "https://www.merida-bikes.com/en/bike/6589/silex-4000",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "700c",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano 2x",
+    "velocidades": 20,
+    "tipo_freio": "Hidráulico Shimano GRX400 / Shimano GRX 400, rotores 180 mm",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.merida-bikes.com/en/bike/6589/silex-4000",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "merida/silex-4000-2027.webp",
+    "fonte_url": "https://www.merida-bikes.com/en/bike/6589/silex-4000"
+  }
+}

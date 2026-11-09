@@ -1,0 +1,40 @@
+{
+  "marca": "Sense",
+  "modelo": "Invictus G3 Black Edition",
+  "ano": null,
+  "slug": "invictus-g3-black-edition",
+  "categoria": "mtb",
+  "url_fabricante": "https://www.sensebike.com.br/produtos/invictus-g3-black-edition/",
+  "preco_sugerido_brl": 79990,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono Mitsubishi",
+    "tamanhos": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "29",
+    "suspensao": "full",
+    "curso_mm": 120
+  },
+  "componentes": {
+    "grupo": "SRAM Eagle AXS T-Type 12V",
+    "velocidades": 12,
+    "tipo_freio": "SRAM",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.sensebike.com.br/produtos/invictus-g3-black-edition/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "sense/invictus-g3-black-edition.webp",
+    "fonte_url": "https://www.sensebike.com.br/produtos/invictus-g3-black-edition/"
+  }
+}

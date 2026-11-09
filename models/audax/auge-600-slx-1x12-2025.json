@@ -1,0 +1,40 @@
+{
+  "marca": "Audax",
+  "modelo": "Auge 600 SLX 1X12 2025",
+  "ano": 2025,
+  "slug": "auge-600-slx-1x12-2025",
+  "categoria": "mtb",
+  "url_fabricante": "https://audaxbike.com/bike/217/auge-600-slx-1x12-2025",
+  "preco_sugerido_brl": 14667,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono UD Toray T800",
+    "tamanhos": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": 100
+  },
+  "componentes": {
+    "grupo": "Shimano 24V",
+    "velocidades": 24,
+    "tipo_freio": "Shimano BL-M7100 rotores 160 mm",
+    "peso_kg": 11.7
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://audaxbike.com/bike/217/auge-600-slx-1x12-2025",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "audax/auge-600-slx-1x12-2025.webp",
+    "fonte_url": "https://audaxbike.com/bike/217/auge-600-slx-1x12-2025"
+  }
+}

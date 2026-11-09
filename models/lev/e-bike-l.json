@@ -1,0 +1,46 @@
+{
+  "marca": "Lev",
+  "modelo": "E-bike L",
+  "ano": null,
+  "slug": "e-bike-l",
+  "categoria": "ebike",
+  "url_fabricante": "https://golev.com.br/products/ebikel",
+  "preco_sugerido_brl": 7980,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio",
+    "tamanhos": null,
+    "aro": "24",
+    "suspensao": "hardtail",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano",
+    "velocidades": 7,
+    "tipo_freio": "Disco",
+    "peso_kg": 27
+  },
+  "ebike": {
+    "motor_tipo": "Motor elétrico 350 W",
+    "potencia_w": 350,
+    "torque_nm": null,
+    "bateria_wh": 360,
+    "autonomia_declarada_km": 30,
+    "acelerador": null,
+    "assistencia_so_com_pedal": null,
+    "vel_max_kmh": 29,
+    "largura_cm": null,
+    "entre_eixos_cm": null
+  },
+  "fontes": [
+    {
+      "url": "https://golev.com.br/products/ebikel",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "lev/e-bike-l.webp",
+    "fonte_url": "https://golev.com.br/products/ebikel"
+  }
+}

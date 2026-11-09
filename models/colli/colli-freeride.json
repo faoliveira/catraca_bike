@@ -1,0 +1,31 @@
+{
+  "marca": "Colli",
+  "modelo": "Colli Freeride",
+  "ano": null,
+  "slug": "colli-freeride",
+  "categoria": "mtb",
+  "url_fabricante": "https://collibike.com.br/bicicletas/colli-freeride/",
+  "preco_sugerido_brl": 2099.9,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 13,5''",
+    "tamanhos": null,
+    "aro": "26",
+    "suspensao": "hardtail",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano Tourney 3x7V (TZ500, triplo 24/34/42)",
+    "velocidades": 21,
+    "tipo_freio": "Disco mecânico 160 mm",
+    "peso_kg": 16.5
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://collibike.com.br/bicicletas/colli-freeride/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ]
+}

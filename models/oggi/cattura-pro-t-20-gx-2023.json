@@ -1,0 +1,45 @@
+{
+  "marca": "Oggi",
+  "modelo": "Cattura Pro T 20 GX 2023",
+  "ano": 2023,
+  "slug": "cattura-pro-t-20-gx-2023",
+  "categoria": "mtb",
+  "url_fabricante": "https://oggibikes.com.br/bike/cattura-pro-t-20-gx-2023/",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "29",
+    "suspensao": "full",
+    "curso_mm": 120
+  },
+  "componentes": {
+    "grupo": "SRAM GX 12V",
+    "velocidades": 12,
+    "tipo_freio": "Hidráulico SRAM rotores 180/160 mm",
+    "peso_kg": 11.7
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://oggibikes.com.br/bike/cattura-pro-t-20-gx-2023/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    },
+    {
+      "url": "https://oggibikes.com.br/modelos-mtb/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "oggi/cattura-pro-t-20-gx-2023.webp",
+    "fonte_url": "https://oggibikes.com.br/bike/cattura-pro-t-20-gx-2023/"
+  }
+}

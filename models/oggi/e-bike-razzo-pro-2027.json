@@ -1,0 +1,55 @@
+{
+  "marca": "Oggi",
+  "modelo": "E-Bike Razzo Pro 2027",
+  "ano": 2027,
+  "slug": "e-bike-razzo-pro-2027",
+  "categoria": "ebike",
+  "url_fabricante": "https://oggibikes.com.br/bike/e-bike-razzo-pro-2027/",
+  "preco_sugerido_brl": 39900,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio",
+    "tamanhos": [
+      "S",
+      "M",
+      "L"
+    ],
+    "aro": "29",
+    "suspensao": "full",
+    "curso_mm": 160
+  },
+  "componentes": {
+    "grupo": "SRAM 12V",
+    "velocidades": 12,
+    "tipo_freio": "Hidráulico Shimano M8200 rotores 203 mm",
+    "peso_kg": 25.5
+  },
+  "ebike": {
+    "motor_tipo": "Oggi T-130 (central)",
+    "potencia_w": 500,
+    "torque_nm": 130,
+    "bateria_wh": 840,
+    "autonomia_declarada_km": null,
+    "acelerador": null,
+    "assistencia_so_com_pedal": null,
+    "vel_max_kmh": null,
+    "largura_cm": null,
+    "entre_eixos_cm": null
+  },
+  "fontes": [
+    {
+      "url": "https://oggibikes.com.br/bike/e-bike-razzo-pro-2027/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    },
+    {
+      "url": "https://oggibikes.com.br/modelos-eletricas/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "oggi/e-bike-razzo-pro-2027.webp",
+    "fonte_url": "https://oggibikes.com.br/bike/e-bike-razzo-pro-2027/"
+  }
+}

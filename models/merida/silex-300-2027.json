@@ -1,0 +1,42 @@
+{
+  "marca": "Merida",
+  "modelo": "Silex 300",
+  "ano": 2027,
+  "slug": "silex-300-2027",
+  "categoria": "gravel",
+  "url_fabricante": "https://www.merida-bikes.com/en/bike/6593/silex-400",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio",
+    "tamanhos": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "700c",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano Cues",
+    "velocidades": 9,
+    "tipo_freio": "Hidráulico Shimano Cues, rotores 180 mm",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.merida-bikes.com/en/bike/6593/silex-400",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "merida/silex-300-2027.webp",
+    "fonte_url": "https://www.merida-bikes.com/en/bike/6593/silex-400"
+  }
+}

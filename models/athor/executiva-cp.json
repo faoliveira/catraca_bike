@@ -1,0 +1,37 @@
+{
+  "ano": null,
+  "atualizado_em": "2026-11-08",
+  "categoria": "urbana",
+  "componentes": {
+    "grupo": null,
+    "peso_kg": null,
+    "tipo_freio": "Contra-pedal",
+    "velocidades": 1
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://athorbikes.com.br/bicicleta/executiva-cp/"
+    }
+  ],
+  "marca": "Athor",
+  "modelo": "Executiva Contra-pedal",
+  "preco_sugerido_brl": null,
+  "quadro": {
+    "aro": "26",
+    "curso_mm": null,
+    "material": "Aço carbono",
+    "suspensao": null,
+    "tamanhos": [
+      "20"
+    ]
+  },
+  "slug": "executiva-cp",
+  "url_fabricante": "https://athorbikes.com.br/bicicleta/executiva-cp/",
+  "imagem": {
+    "arquivo": "athor/executiva-cp.webp",
+    "fonte_url": "https://athorbikes.com.br/bicicleta/executiva-cp/"
+  }
+}

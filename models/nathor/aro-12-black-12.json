@@ -1,0 +1,40 @@
+{
+  "marca": "Nathor",
+  "modelo": "Bicicleta Aro 12 Black 12",
+  "ano": null,
+  "slug": "aro-12-black-12",
+  "categoria": "infantil",
+  "url_fabricante": "https://nathor.com/produto/bicicleta-aro-12-black-12/",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": null,
+    "tamanhos": null,
+    "aro": "12",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": null,
+    "velocidades": 1,
+    "tipo_freio": null,
+    "peso_kg": 3.98
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://nathor.com/produto/bicicleta-aro-12-black-12/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    },
+    {
+      "url": "https://nathor.com/nossos-produtos/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "nathor/aro-12-black-12.webp",
+    "fonte_url": "https://nathor.com/produto/bicicleta-aro-12-black-12/"
+  }
+}

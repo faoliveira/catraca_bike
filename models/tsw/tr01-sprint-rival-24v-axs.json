@@ -1,0 +1,41 @@
+{
+  "marca": "TSW",
+  "modelo": "TR01 Sprint Rival 24V AXS",
+  "ano": null,
+  "slug": "tr01-sprint-rival-24v-axs",
+  "categoria": "speed",
+  "url_fabricante": "https://tswbike.com/p/1343/tr01-sprint-rival-24v-axs",
+  "preco_sugerido_brl": 39900,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "490",
+      "520",
+      "540",
+      "560",
+      "580"
+    ],
+    "aro": "700c",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "SRAM Rival eTap AXS",
+    "velocidades": 24,
+    "tipo_freio": "Disco hidráulico SRAM Rival",
+    "peso_kg": 8.14
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://tswbike.com/p/1343/tr01-sprint-rival-24v-axs",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "tsw/tr01-sprint-rival-24v-axs.webp",
+    "fonte_url": "https://tswbike.com/p/1343/tr01-sprint-rival-24v-axs"
+  }
+}

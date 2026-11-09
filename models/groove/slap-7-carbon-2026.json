@@ -1,0 +1,40 @@
+{
+  "marca": "Groove",
+  "modelo": "Slap 7 Full Carbon 2026",
+  "ano": 2026,
+  "slug": "slap-7-carbon-2026",
+  "categoria": "mtb",
+  "url_fabricante": "https://groovebikes.com.br/produto/bicicleta-groove-slap-7-12v-full-carbon-2026/",
+  "preco_sugerido_brl": 19999.9,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "S (16)",
+      "M (17.5)",
+      "L (18.5)",
+      "XL (20.5)"
+    ],
+    "aro": "29",
+    "suspensao": "full",
+    "curso_mm": 120
+  },
+  "componentes": {
+    "grupo": "Shimano Deore",
+    "velocidades": 12,
+    "tipo_freio": "Disco hidráulico Shimano BR-MT410",
+    "peso_kg": 13.5
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://groovebikes.com.br/produto/bicicleta-groove-slap-7-12v-full-carbon-2026/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "groove/slap-7-carbon-2026.webp",
+    "fonte_url": "https://groovebikes.com.br/produto/bicicleta-groove-slap-7-12v-full-carbon-2026/"
+  }
+}

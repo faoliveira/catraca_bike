@@ -1,0 +1,40 @@
+{
+  "marca": "TSW",
+  "modelo": "Evo Quest Red Devil Deore SR 200",
+  "ano": null,
+  "slug": "evo-quest-red-devil-deore-sr-200",
+  "categoria": "mtb",
+  "url_fabricante": "https://tswbike.com/p/867/evo-quest-red-devil-deore-sr-200",
+  "preco_sugerido_brl": 13990,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono Toray T700/T800/T1000",
+    "tamanhos": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": 100
+  },
+  "componentes": {
+    "grupo": "Shimano Deore",
+    "velocidades": 12,
+    "tipo_freio": "Hidráulico Shimano MT200 rotores 180/160 mm",
+    "peso_kg": 11.9
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://tswbike.com/p/867/evo-quest-red-devil-deore-sr-200",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "tsw/evo-quest-red-devil-deore-sr-200.webp",
+    "fonte_url": "https://tswbike.com/p/867/evo-quest-red-devil-deore-sr-200"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "ano": null,
+  "atualizado_em": "2026-11-08",
+  "categoria": "mtb",
+  "componentes": {
+    "grupo": "Shimano Tourney 3x7V",
+    "peso_kg": 14,
+    "tipo_freio": "Disco hidráulico",
+    "velocidades": 21
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://athorbikes.com.br/bicicleta/ultimate/"
+    }
+  ],
+  "marca": "Athor",
+  "modelo": "Ultimate",
+  "preco_sugerido_brl": null,
+  "quadro": {
+    "aro": "29",
+    "curso_mm": 100,
+    "material": "Alumínio 6061",
+    "suspensao": "hardtail",
+    "tamanhos": null
+  },
+  "slug": "ultimate",
+  "url_fabricante": "https://athorbikes.com.br/bicicleta/ultimate/",
+  "imagem": {
+    "arquivo": "athor/ultimate.webp",
+    "fonte_url": "https://athorbikes.com.br/bicicleta/ultimate/"
+  }
+}

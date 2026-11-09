@@ -1,0 +1,39 @@
+{
+  "ano": null,
+  "atualizado_em": "2026-11-08",
+  "categoria": "mtb",
+  "componentes": {
+    "grupo": "Shimano 3x7V (EZfire EF500/RD-TZ31)",
+    "peso_kg": null,
+    "tipo_freio": "Disco mecânico",
+    "velocidades": 21
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://verdenbikes.com/vortex-two-aro-29/"
+    }
+  ],
+  "marca": "Verden",
+  "modelo": "Vortex Two Aro 29",
+  "preco_sugerido_brl": null,
+  "quadro": {
+    "aro": "29",
+    "curso_mm": null,
+    "material": "Alumínio 6061",
+    "suspensao": "hardtail",
+    "tamanhos": [
+      "15",
+      "17",
+      "19"
+    ]
+  },
+  "slug": "vortex-two-aro-29",
+  "url_fabricante": "https://verdenbikes.com/vortex-two-aro-29/",
+  "imagem": {
+    "arquivo": "verden/vortex-two-aro-29.webp",
+    "fonte_url": "https://verdenbikes.com/vortex-two-aro-29/"
+  }
+}

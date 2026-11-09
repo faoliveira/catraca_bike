@@ -1,0 +1,40 @@
+{
+  "marca": "Specialized",
+  "modelo": "Epic 9 Pro",
+  "ano": null,
+  "slug": "epic-9-pro",
+  "categoria": "mtb",
+  "url_fabricante": "https://www.specialized.com/br/pt/epic-9-pro/p/4274031",
+  "preco_sugerido_brl": 94990,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "29",
+    "suspensao": "full",
+    "curso_mm": 120
+  },
+  "componentes": {
+    "grupo": "SRAM X0 Eagle Transmission 12V, garfo RockShox SID ULTIMATE Flight Attendant",
+    "velocidades": 12,
+    "tipo_freio": "Disco hidráulico SRAM Motive Silver, rotores 180/160 mm",
+    "peso_kg": 10.39
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.specialized.com/br/pt/epic-9-pro/p/4274031",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "specialized/epic-9-pro.webp",
+    "fonte_url": "https://www.specialized.com/br/pt/epic-9-pro/p/4274031"
+  }
+}

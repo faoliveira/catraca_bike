@@ -1,0 +1,40 @@
+{
+  "marca": "Audax",
+  "modelo": "FS 900 GX",
+  "ano": null,
+  "slug": "fs-900-gx",
+  "categoria": "mtb",
+  "url_fabricante": "https://audaxbike.com/bike/234/fs-900-gx",
+  "preco_sugerido_brl": 38999,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono UD Toray T800",
+    "tamanhos": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "29",
+    "suspensao": "full",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "SRAM GX AXS T-Type",
+    "velocidades": null,
+    "tipo_freio": "Shimano M7100 rotores 160 mm",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://audaxbike.com/bike/234/fs-900-gx",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "audax/fs-900-gx.webp",
+    "fonte_url": "https://audaxbike.com/bike/234/fs-900-gx"
+  }
+}

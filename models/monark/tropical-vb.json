@@ -1,0 +1,35 @@
+{
+  "marca": "Monark",
+  "modelo": "Tropical VB",
+  "ano": null,
+  "slug": "tropical-vb",
+  "categoria": "urbana",
+  "url_fabricante": "https://www.monark.com.br/tropical-vb",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Aço carbono",
+    "tamanhos": null,
+    "aro": "26",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": null,
+    "velocidades": 1,
+    "tipo_freio": "V-brake (varão)",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.monark.com.br/tropical-vb",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "monark/tropical-vb.webp",
+    "fonte_url": "https://www.monark.com.br/tropical-vb"
+  }
+}

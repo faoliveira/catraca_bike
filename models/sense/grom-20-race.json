@@ -1,0 +1,37 @@
+{
+  "marca": "Sense",
+  "modelo": "Grom 20 Race",
+  "ano": null,
+  "slug": "grom-20-race",
+  "categoria": "infantil",
+  "url_fabricante": "https://www.sensebike.com.br/produtos/grom-20-race/",
+  "preco_sugerido_brl": 3790,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061",
+    "tamanhos": [
+      "Único"
+    ],
+    "aro": "20",
+    "suspensao": "hardtail",
+    "curso_mm": 63
+  },
+  "componentes": {
+    "grupo": "Shimano Cues 9V",
+    "velocidades": 9,
+    "tipo_freio": "Hidráulico Tektro rotores 160 mm",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.sensebike.com.br/produtos/grom-20-race/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "sense/grom-20-race.webp",
+    "fonte_url": "https://www.sensebike.com.br/produtos/grom-20-race/"
+  }
+}

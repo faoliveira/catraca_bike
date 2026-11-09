@@ -1,0 +1,39 @@
+{
+  "marca": "Merida",
+  "modelo": "Big Seven 20",
+  "ano": 2027,
+  "slug": "bigseven-20-2027",
+  "categoria": "mtb",
+  "url_fabricante": "https://www.merida-bikes.com/en/bike/6505/bigseven-20",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio",
+    "tamanhos": [
+      "XXS",
+      "XS",
+      "S"
+    ],
+    "aro": null,
+    "suspensao": "hardtail",
+    "curso_mm": 120
+  },
+  "componentes": {
+    "grupo": "Shimano Essa",
+    "velocidades": 8,
+    "tipo_freio": "Hidráulico Shimano MT200, rotores 160 mm",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.merida-bikes.com/en/bike/6505/bigseven-20",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "merida/bigseven-20-2027.webp",
+    "fonte_url": "https://www.merida-bikes.com/en/bike/6505/bigseven-20"
+  }
+}

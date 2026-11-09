@@ -1,0 +1,31 @@
+{
+  "marca": "Colli",
+  "modelo": "Colli Berlim",
+  "ano": null,
+  "slug": "colli-berlim",
+  "categoria": "urbana",
+  "url_fabricante": "https://collibike.com.br/bicicletas/colli-berlim-2/",
+  "preco_sugerido_brl": 1249.9,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Aço carbono 26''",
+    "tamanhos": null,
+    "aro": "26",
+    "suspensao": "hardtail",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano Tourney 3x7V (TZ500/TY300, triplo 24/34/42)",
+    "velocidades": 21,
+    "tipo_freio": "Disco mecânico 160 mm",
+    "peso_kg": 16.5
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://collibike.com.br/bicicletas/colli-berlim-2/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ]
+}

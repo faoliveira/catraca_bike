@@ -1,0 +1,41 @@
+{
+  "marca": "Merida",
+  "modelo": "Big Nine XT",
+  "ano": 2027,
+  "slug": "bignine-xt-2027",
+  "categoria": "mtb",
+  "url_fabricante": "https://www.merida-bikes.com/en/bike/6535/bignine-xt",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": 100
+  },
+  "componentes": {
+    "grupo": "Shimano XT",
+    "velocidades": 12,
+    "tipo_freio": "Hidráulico Shimano XT M8200, rotores 180 mm",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.merida-bikes.com/en/bike/6535/bignine-xt",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "merida/bignine-xt-2027.webp",
+    "fonte_url": "https://www.merida-bikes.com/en/bike/6535/bignine-xt"
+  }
+}

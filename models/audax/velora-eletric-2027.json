@@ -1,0 +1,49 @@
+{
+  "marca": "Audax",
+  "modelo": "Velora Eletric 2027",
+  "ano": 2027,
+  "slug": "velora-eletric-2027",
+  "categoria": "ebike",
+  "url_fabricante": "https://audaxbike.com/bike/254/velora-eletric-2027",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061",
+    "tamanhos": [
+      "S",
+      "M"
+    ],
+    "aro": "29",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "LTWOO 10V",
+    "velocidades": 10,
+    "tipo_freio": "Shimano BL-MT200 rotores 160 mm",
+    "peso_kg": null
+  },
+  "ebike": {
+    "motor_tipo": "ANANDA M60 (central)",
+    "potencia_w": 250,
+    "torque_nm": 70,
+    "bateria_wh": 374.4,
+    "autonomia_declarada_km": 45,
+    "acelerador": null,
+    "assistencia_so_com_pedal": null,
+    "vel_max_kmh": 25,
+    "largura_cm": null,
+    "entre_eixos_cm": null
+  },
+  "fontes": [
+    {
+      "url": "https://audaxbike.com/bike/254/velora-eletric-2027",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "audax/velora-eletric-2027.webp",
+    "fonte_url": "https://audaxbike.com/bike/254/velora-eletric-2027"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "marca": "Trek",
+  "modelo": "Checkpoint ALR 3 3ª Geração",
+  "ano": null,
+  "slug": "checkpoint-alr-3",
+  "categoria": "gravel",
+  "url_fabricante": "https://www.trekbikes.com/br/pt_BR/bicicletas/bicicletas-para-turismo-e-bikepacking/checkpoint/checkpoint-alr/checkpoint-alr-3-3%C2%AA-gera%C3%A7%C3%A3o/p/49944/",
+  "preco_sugerido_brl": 11990,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio",
+    "tamanhos": [
+      "XP",
+      "P",
+      "M",
+      "MG",
+      "G",
+      "GG"
+    ],
+    "aro": "700c",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano CUES U6000 GS 10V",
+    "velocidades": 10,
+    "tipo_freio": "Shimano CUES U3030; Tektro C550 mechanical disc brake, dual piston, flat mount 0 offset; Tektro C550 mechanical disc brake, dual piston, flat mount, N",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.trekbikes.com/br/pt_BR/bicicletas/bicicletas-para-turismo-e-bikepacking/checkpoint/checkpoint-alr/checkpoint-alr-3-3%C2%AA-gera%C3%A7%C3%A3o/p/49944/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "trek/checkpoint-alr-3.webp",
+    "fonte_url": "https://www.trekbikes.com/br/pt_BR/bicicletas/bicicletas-para-turismo-e-bikepacking/checkpoint/checkpoint-alr/checkpoint-alr-3-3%C2%AA-gera%C3%A7%C3%A3o/p/49944/"
+  }
+}

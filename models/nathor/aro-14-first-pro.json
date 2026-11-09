@@ -1,0 +1,40 @@
+{
+  "ano": null,
+  "atualizado_em": "2026-11-08",
+  "categoria": "infantil",
+  "componentes": {
+    "grupo": null,
+    "peso_kg": null,
+    "tipo_freio": "Freio a disco",
+    "velocidades": 1
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://nathor.com/produto/bicicleta-aro-14-first-pro-masculina/"
+    },
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://nathor.com/produto/bicicleta-aro-14-first-pro-feminina/"
+    }
+  ],
+  "marca": "Nathor",
+  "modelo": "Bicicleta Aro 14 First Pro",
+  "preco_sugerido_brl": null,
+  "quadro": {
+    "aro": "14",
+    "curso_mm": null,
+    "material": "Alumínio",
+    "suspensao": "rigida",
+    "tamanhos": null
+  },
+  "slug": "aro-14-first-pro",
+  "url_fabricante": "https://nathor.com/produto/bicicleta-aro-14-first-pro-masculina/",
+  "imagem": {
+    "arquivo": "nathor/aro-14-first-pro.webp",
+    "fonte_url": "https://nathor.com/produto/bicicleta-aro-14-first-pro-masculina/"
+  }
+}

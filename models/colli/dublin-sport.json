@@ -1,0 +1,31 @@
+{
+  "marca": "Colli",
+  "modelo": "Dublin Sport",
+  "ano": null,
+  "slug": "dublin-sport",
+  "categoria": "urbana",
+  "url_fabricante": "https://collibike.com.br/bicicletas/dublin-sport/",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio",
+    "tamanhos": null,
+    "aro": "20",
+    "suspensao": "hardtail",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Single, EZ-Fire 7V",
+    "velocidades": 7,
+    "tipo_freio": "Disco dianteiro e traseiro",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://collibike.com.br/bicicletas/dublin-sport/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ]
+}

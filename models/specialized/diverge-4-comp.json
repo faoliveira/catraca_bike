@@ -1,0 +1,42 @@
+{
+  "marca": "Specialized",
+  "modelo": "Diverge 4 Comp",
+  "ano": null,
+  "slug": "diverge-4-comp",
+  "categoria": "gravel",
+  "url_fabricante": "https://www.specialized.com/br/pt/diverge-4-comp-sram-apexs1000/p/4223513",
+  "preco_sugerido_brl": 34990,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "49",
+      "52",
+      "54",
+      "56",
+      "58",
+      "61"
+    ],
+    "aro": "700c",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "SRAM S1000 Eagle AXS 12V, garfo Future Shock 3.2 w/ Smooth Boot",
+    "velocidades": 12,
+    "tipo_freio": "Disco hidráulico SRAM Apex",
+    "peso_kg": 9.7
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.specialized.com/br/pt/diverge-4-comp-sram-apexs1000/p/4223513",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "specialized/diverge-4-comp.webp",
+    "fonte_url": "https://www.specialized.com/br/pt/diverge-4-comp-sram-apexs1000/p/4223513"
+  }
+}

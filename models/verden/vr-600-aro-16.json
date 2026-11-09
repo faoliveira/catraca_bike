@@ -1,0 +1,40 @@
+{
+  "ano": null,
+  "atualizado_em": "2026-11-08",
+  "categoria": "infantil",
+  "componentes": {
+    "grupo": null,
+    "peso_kg": null,
+    "tipo_freio": null,
+    "velocidades": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://verdenbikes.com/vr-600-aro-16-vermelho-e-preto/"
+    },
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://verdenbikes.com/vr-600-aro-16-verde-e-preto/"
+    }
+  ],
+  "marca": "Verden",
+  "modelo": "VR 600 Aro 16",
+  "preco_sugerido_brl": null,
+  "quadro": {
+    "aro": "16",
+    "curso_mm": null,
+    "material": "Aço carbono",
+    "suspensao": null,
+    "tamanhos": null
+  },
+  "slug": "vr-600-aro-16",
+  "url_fabricante": "https://verdenbikes.com/vr-600-aro-16-vermelho-e-preto/",
+  "imagem": {
+    "arquivo": "verden/vr-600-aro-16.webp",
+    "fonte_url": "https://verdenbikes.com/vr-600-aro-16-vermelho-e-preto/"
+  }
+}

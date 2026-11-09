@@ -1,0 +1,40 @@
+{
+  "marca": "TSW",
+  "modelo": "TR01 Sprint Force 24V AXS",
+  "ano": null,
+  "slug": "tr01-sprint-force-24v-axs",
+  "categoria": "speed",
+  "url_fabricante": "https://tswbike.com/p/1338/tr01-sprint-force-24v-axs",
+  "preco_sugerido_brl": 44900,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "520",
+      "540",
+      "560",
+      "580"
+    ],
+    "aro": "700c",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "SRAM Force eTap AXS",
+    "velocidades": 24,
+    "tipo_freio": null,
+    "peso_kg": 7.95
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://tswbike.com/p/1338/tr01-sprint-force-24v-axs",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "tsw/tr01-sprint-force-24v-axs.webp",
+    "fonte_url": "https://tswbike.com/p/1338/tr01-sprint-force-24v-axs"
+  }
+}

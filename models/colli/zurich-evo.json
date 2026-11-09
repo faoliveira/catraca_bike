@@ -1,0 +1,36 @@
+{
+  "marca": "Colli",
+  "modelo": "Zurich EVO",
+  "ano": null,
+  "slug": "zurich-evo",
+  "categoria": "mtb",
+  "url_fabricante": "https://collibike.com.br/bicicletas/zurich-evo/",
+  "preco_sugerido_brl": 17999.9,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono T700/T800/T1000",
+    "tamanhos": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "SRAM Eagle 1x12 (cassete XS 1270 10-52D), garfo RockShox",
+    "velocidades": 12,
+    "tipo_freio": "Disco SRAM DB4, rotores 180/160 mm",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://collibike.com.br/bicicletas/zurich-evo/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ]
+}

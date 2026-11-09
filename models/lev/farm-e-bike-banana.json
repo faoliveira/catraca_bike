@@ -1,0 +1,42 @@
+{
+  "marca": "Lev",
+  "modelo": "Farm E-bike Banana",
+  "ano": null,
+  "slug": "farm-e-bike-banana",
+  "categoria": "ebike",
+  "url_fabricante": "https://golev.com.br/products/farm-ebike-bossa-banana",
+  "preco_sugerido_brl": 6990,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": null,
+    "tamanhos": null,
+    "aro": null,
+    "suspensao": null,
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": null,
+    "velocidades": null,
+    "tipo_freio": null,
+    "peso_kg": null
+  },
+  "ebike": {
+    "motor_tipo": "Motor elétrico 350 W",
+    "potencia_w": 350,
+    "torque_nm": null,
+    "bateria_wh": null,
+    "autonomia_declarada_km": null,
+    "acelerador": null,
+    "assistencia_so_com_pedal": null,
+    "vel_max_kmh": null,
+    "largura_cm": null,
+    "entre_eixos_cm": null
+  },
+  "fontes": [
+    {
+      "url": "https://golev.com.br/products/farm-ebike-bossa-banana",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "ano": null,
+  "atualizado_em": "2026-11-08",
+  "categoria": "urbana",
+  "componentes": {
+    "grupo": "Shimano Tourney 1x7V (RD-TZ31/RevoShift)",
+    "peso_kg": null,
+    "tipo_freio": "Disco mecânico",
+    "velocidades": 7
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://verdenbikes.com/praiana-verde-cidreira-aro-29/"
+    },
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://verdenbikes.com/praiana-salmao-aro-29/"
+    },
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://verdenbikes.com/praiana-branca-aro-29/"
+    }
+  ],
+  "marca": "Verden",
+  "modelo": "Praiana Aro 29",
+  "preco_sugerido_brl": null,
+  "quadro": {
+    "aro": "29",
+    "curso_mm": null,
+    "material": null,
+    "suspensao": "rigida",
+    "tamanhos": null
+  },
+  "slug": "praiana-aro-29",
+  "url_fabricante": "https://verdenbikes.com/praiana-verde-cidreira-aro-29/",
+  "imagem": {
+    "arquivo": "verden/praiana-aro-29.webp",
+    "fonte_url": "https://verdenbikes.com/praiana-verde-cidreira-aro-29/"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "marca": "XLAB",
+  "modelo": "AD8 105 Di2",
+  "ano": null,
+  "slug": "xlab-ad8-105-di2",
+  "categoria": "speed",
+  "url_fabricante": "https://xlabbikes.com.br/ad8-105/",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono Toray T800",
+    "tamanhos": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "700c",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano 105 Di2",
+    "velocidades": 24,
+    "tipo_freio": "Disco hidráulico",
+    "peso_kg": 7.41
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://xlabbikes.com.br/ad8-105/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "xlab/xlab-ad8-105-di2.webp",
+    "fonte_url": "https://xlabbikes.com.br/ad8-105/"
+  }
+}

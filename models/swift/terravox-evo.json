@@ -1,0 +1,44 @@
+{
+  "marca": "Swift",
+  "modelo": "Terravox Evo",
+  "ano": null,
+  "slug": "terravox-evo",
+  "categoria": "gravel",
+  "url_fabricante": "https://www.sensebike.com.br/produtos/terravox-evo/",
+  "preco_sugerido_brl": 14990,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6069",
+    "tamanhos": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "49",
+      "51",
+      "54",
+      "56"
+    ],
+    "aro": "700c",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano Deore 12V",
+    "velocidades": 12,
+    "tipo_freio": "Hidráulico Shimano BR-RX820",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.sensebike.com.br/produtos/terravox-evo/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "swift/terravox-evo.webp",
+    "fonte_url": "https://www.sensebike.com.br/produtos/terravox-evo/"
+  }
+}

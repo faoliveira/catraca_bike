@@ -1,0 +1,51 @@
+{
+  "marca": "Oggi",
+  "modelo": "E-Bike Big Wheel 8.4 2026",
+  "ano": 2026,
+  "slug": "e-bike-big-wheel-8-4-2026",
+  "categoria": "ebike",
+  "url_fabricante": "https://oggibikes.com.br/bike/e-bike-big-wheel-8-4-2026/",
+  "preco_sugerido_brl": 21900,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio",
+    "tamanhos": [
+      "S",
+      "M",
+      "L"
+    ],
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": 120
+  },
+  "componentes": {
+    "grupo": "SRAM 12V",
+    "velocidades": 12,
+    "tipo_freio": "Hidráulico Shimano M6200 rotores 180 mm",
+    "peso_kg": 22.2
+  },
+  "ebike": {
+    "motor_tipo": "Oggi T-130 (central)",
+    "potencia_w": 500,
+    "torque_nm": 130,
+    "bateria_wh": 840,
+    "autonomia_declarada_km": null,
+    "acelerador": null,
+    "assistencia_so_com_pedal": null,
+    "vel_max_kmh": null,
+    "largura_cm": null,
+    "entre_eixos_cm": null
+  },
+  "fontes": [
+    {
+      "url": "https://oggibikes.com.br/bike/e-bike-big-wheel-8-4-2026/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    },
+    {
+      "url": "https://oggibikes.com.br/modelos-eletricas/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ]
+}

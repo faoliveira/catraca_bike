@@ -1,0 +1,39 @@
+{
+  "marca": "KSW",
+  "modelo": "Gravel Single 10V",
+  "ano": null,
+  "slug": "ksw-gravel-single-10v",
+  "categoria": "gravel",
+  "url_fabricante": "https://www.kswbikes.com.br/bicicletas/gravel/single-1x10v/bicicleta-ksw-gravel-10v-single",
+  "preco_sugerido_brl": 6200,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061 T4 + T6",
+    "tamanhos": [
+      "52",
+      "54",
+      "56"
+    ],
+    "aro": "700c",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Microshift Advent",
+    "velocidades": 10,
+    "tipo_freio": "Disco mecânico",
+    "peso_kg": 13.5
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.kswbikes.com.br/bicicletas/gravel/single-1x10v/bicicleta-ksw-gravel-10v-single",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "ksw/ksw-gravel-single-10v.webp",
+    "fonte_url": "https://www.kswbikes.com.br/bicicletas/gravel/single-1x10v/bicicleta-ksw-gravel-10v-single"
+  }
+}

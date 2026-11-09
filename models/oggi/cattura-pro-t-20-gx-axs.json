@@ -1,0 +1,45 @@
+{
+  "marca": "Oggi",
+  "modelo": "Cattura Pro T 20 GX AXS",
+  "ano": null,
+  "slug": "cattura-pro-t-20-gx-axs",
+  "categoria": "mtb",
+  "url_fabricante": "https://oggibikes.com.br/bike/cattura-pro-t-20-gx-axs/",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "29",
+    "suspensao": "full",
+    "curso_mm": 120
+  },
+  "componentes": {
+    "grupo": "SRAM GX AXS 12V",
+    "velocidades": 12,
+    "tipo_freio": "SRAM rotores 180/160 mm",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://oggibikes.com.br/bike/cattura-pro-t-20-gx-axs/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    },
+    {
+      "url": "https://oggibikes.com.br/modelos-mtb/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "oggi/cattura-pro-t-20-gx-axs.webp",
+    "fonte_url": "https://oggibikes.com.br/bike/cattura-pro-t-20-gx-axs/"
+  }
+}

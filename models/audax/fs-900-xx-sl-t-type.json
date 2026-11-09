@@ -1,0 +1,40 @@
+{
+  "marca": "Audax",
+  "modelo": "FS 900 XX SL T-TYPE",
+  "ano": null,
+  "slug": "fs-900-xx-sl-t-type",
+  "categoria": "mtb",
+  "url_fabricante": "https://audaxbike.com/bike/235/fs-900-xx-sl-t-type",
+  "preco_sugerido_brl": 52899,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono UD Toray T800",
+    "tamanhos": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "29",
+    "suspensao": "full",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "SRAM XX SL AXS T-Type",
+    "velocidades": null,
+    "tipo_freio": "Shimano BL-M8100 rotores 160 mm",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://audaxbike.com/bike/235/fs-900-xx-sl-t-type",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "audax/fs-900-xx-sl-t-type.webp",
+    "fonte_url": "https://audaxbike.com/bike/235/fs-900-xx-sl-t-type"
+  }
+}

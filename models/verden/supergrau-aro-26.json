@@ -1,0 +1,47 @@
+{
+  "ano": null,
+  "atualizado_em": "2026-11-08",
+  "categoria": "mtb",
+  "componentes": {
+    "grupo": "Shimano Tourney 1x7V (RD-TZ31/Revoshift)",
+    "peso_kg": null,
+    "tipo_freio": "Disco mecânico",
+    "velocidades": 7
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://verdenbikes.com/supergrau-rs-verniz-c-pto-aro-26/"
+    },
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://verdenbikes.com/supergrau-prata-c-pto-aro-26/"
+    },
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://verdenbikes.com/supergrau-az-hunter-c-pto-aro-26/"
+    }
+  ],
+  "marca": "Verden",
+  "modelo": "SuperGrau Aro 26",
+  "preco_sugerido_brl": null,
+  "quadro": {
+    "aro": "26",
+    "curso_mm": 100,
+    "material": null,
+    "suspensao": "hardtail",
+    "tamanhos": [
+      "13,5"
+    ]
+  },
+  "slug": "supergrau-aro-26",
+  "url_fabricante": "https://verdenbikes.com/supergrau-rs-verniz-c-pto-aro-26/",
+  "imagem": {
+    "arquivo": "verden/supergrau-aro-26.webp",
+    "fonte_url": "https://verdenbikes.com/supergrau-rs-verniz-c-pto-aro-26/"
+  }
+}

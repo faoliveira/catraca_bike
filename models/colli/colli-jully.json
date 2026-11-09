@@ -1,0 +1,31 @@
+{
+  "marca": "Colli",
+  "modelo": "Colli Jully",
+  "ano": null,
+  "slug": "colli-jully",
+  "categoria": "infantil",
+  "url_fabricante": "https://collibike.com.br/bicicletas/colli-jully/",
+  "preco_sugerido_brl": 789.9,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Aço carbono",
+    "tamanhos": null,
+    "aro": "20",
+    "suspensao": null,
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Single 36D",
+    "velocidades": 1,
+    "tipo_freio": "V-brake",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://collibike.com.br/bicicletas/colli-jully/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ]
+}

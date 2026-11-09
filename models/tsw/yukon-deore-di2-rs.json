@@ -1,0 +1,40 @@
+{
+  "marca": "TSW",
+  "modelo": "Yukon Deore Di2 RS",
+  "ano": null,
+  "slug": "yukon-deore-di2-rs",
+  "categoria": "mtb",
+  "url_fabricante": "https://tswbike.com/p/2400/yukon-deore-di2-rs",
+  "preco_sugerido_brl": 12400,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061",
+    "tamanhos": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": 120
+  },
+  "componentes": {
+    "grupo": "Shimano Deore Di2",
+    "velocidades": 12,
+    "tipo_freio": "Hidráulico Shimano BL-MT501 rotores 160 mm",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://tswbike.com/p/2400/yukon-deore-di2-rs",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "tsw/yukon-deore-di2-rs.webp",
+    "fonte_url": "https://tswbike.com/p/2400/yukon-deore-di2-rs"
+  }
+}

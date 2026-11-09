@@ -1,0 +1,42 @@
+{
+  "marca": "Specialized",
+  "modelo": "Aethos 2 Expert",
+  "ano": null,
+  "slug": "aethos-2-expert",
+  "categoria": "speed",
+  "url_fabricante": "https://www.specialized.com/br/pt/aethos-2-expert-shimano-ultegra-di2/p/4221565",
+  "preco_sugerido_brl": 58990,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "49",
+      "52",
+      "54",
+      "56",
+      "58",
+      "61"
+    ],
+    "aro": "700c",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano Ultegra Di2 R8150 12V, garfo Aethos 2 FACT 10r Carbon",
+    "velocidades": 12,
+    "tipo_freio": "Disco hidráulico Shimano Ultegra BR-R8170 Hydraulic Brake",
+    "peso_kg": 7.12
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.specialized.com/br/pt/aethos-2-expert-shimano-ultegra-di2/p/4221565",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "specialized/aethos-2-expert.webp",
+    "fonte_url": "https://www.specialized.com/br/pt/aethos-2-expert-shimano-ultegra-di2/p/4221565"
+  }
+}

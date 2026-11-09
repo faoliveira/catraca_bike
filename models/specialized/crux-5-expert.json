@@ -1,0 +1,42 @@
+{
+  "marca": "Specialized",
+  "modelo": "Crux 5 Expert",
+  "ano": null,
+  "slug": "crux-5-expert",
+  "categoria": "gravel",
+  "url_fabricante": "https://www.specialized.com/br/pt/crux-5-expert-sram-force-xplr/p/4294830",
+  "preco_sugerido_brl": 49990,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "49",
+      "52",
+      "54",
+      "56",
+      "58",
+      "61"
+    ],
+    "aro": "700c",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "SRAM Force AXS E1 XPLR 13V, garfo S-Works FACT Carbon",
+    "velocidades": 13,
+    "tipo_freio": "Disco hidráulico SRAM Force E1",
+    "peso_kg": 8.22
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.specialized.com/br/pt/crux-5-expert-sram-force-xplr/p/4294830",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "specialized/crux-5-expert.webp",
+    "fonte_url": "https://www.specialized.com/br/pt/crux-5-expert-sram-force-xplr/p/4294830"
+  }
+}

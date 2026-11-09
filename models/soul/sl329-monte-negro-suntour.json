@@ -1,0 +1,41 @@
+{
+  "marca": "Soul",
+  "modelo": "SL329 Monte Negro Suntour",
+  "ano": null,
+  "slug": "sl329-monte-negro-suntour",
+  "categoria": "mtb",
+  "url_fabricante": "https://www.soulcycles.com.br/sl329-monte-negro-suntour/p",
+  "preco_sugerido_brl": 3500,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061",
+    "tamanhos": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": 100
+  },
+  "componentes": {
+    "grupo": "Microshift Mezzo 2x8",
+    "velocidades": 16,
+    "tipo_freio": "Disco hidráulico Brave",
+    "peso_kg": 14.39
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.soulcycles.com.br/sl329-monte-negro-suntour/p",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "soul/sl329-monte-negro-suntour.webp",
+    "fonte_url": "https://www.soulcycles.com.br/sl329-monte-negro-suntour/p"
+  }
+}

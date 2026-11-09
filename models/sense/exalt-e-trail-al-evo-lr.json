@@ -1,0 +1,51 @@
+{
+  "marca": "Sense",
+  "modelo": "Exalt E-Trail AL Evo LR",
+  "ano": null,
+  "slug": "exalt-e-trail-al-evo-lr",
+  "categoria": "ebike",
+  "url_fabricante": "https://www.sensebike.com.br/produtos/exalt-e-trail-al-evo-lr/",
+  "preco_sugerido_brl": 49990,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061 hidroformado",
+    "tamanhos": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "29",
+    "suspensao": "full",
+    "curso_mm": 160
+  },
+  "componentes": {
+    "grupo": "Shimano Deore 12V",
+    "velocidades": 12,
+    "tipo_freio": "Hidráulico Shimano Deore XT BR-M8220, rotores 203 mm",
+    "peso_kg": null
+  },
+  "ebike": {
+    "motor_tipo": "Shimano DU-EP801 (central)",
+    "potencia_w": 600,
+    "torque_nm": null,
+    "bateria_wh": 871,
+    "autonomia_declarada_km": null,
+    "acelerador": null,
+    "assistencia_so_com_pedal": null,
+    "vel_max_kmh": 45,
+    "largura_cm": null,
+    "entre_eixos_cm": null
+  },
+  "fontes": [
+    {
+      "url": "https://www.sensebike.com.br/produtos/exalt-e-trail-al-evo-lr/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "sense/exalt-e-trail-al-evo-lr.webp",
+    "fonte_url": "https://www.sensebike.com.br/produtos/exalt-e-trail-al-evo-lr/"
+  }
+}

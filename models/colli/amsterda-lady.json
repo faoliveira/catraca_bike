@@ -1,0 +1,31 @@
+{
+  "marca": "Colli",
+  "modelo": "Amsterdã Lady",
+  "ano": null,
+  "slug": "amsterda-lady",
+  "categoria": "urbana",
+  "url_fabricante": "https://collibike.com.br/bicicletas/amsterda-lady/",
+  "preco_sugerido_brl": 3499.9,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061 (Colli Urbano Low)",
+    "tamanhos": null,
+    "aro": "700c",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano ESSA 1x8 (cassete 11-45D)",
+    "velocidades": 8,
+    "tipo_freio": "Disco Shimano MT-200, rotor 160 mm",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://collibike.com.br/bicicletas/amsterda-lady/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ]
+}

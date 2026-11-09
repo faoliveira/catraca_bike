@@ -1,0 +1,37 @@
+{
+  "marca": "Alfameq",
+  "modelo": "Na Quebrada",
+  "ano": null,
+  "slug": "na-quebrada",
+  "categoria": "mtb",
+  "url_fabricante": "https://www.alfameqoficial.com.br/bicicletas/bicicleta-alfameq-freeride-na-quebrada-aro-26-freio-a-disco-21-marchas",
+  "preco_sugerido_brl": 1379,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio",
+    "tamanhos": [
+      "13"
+    ],
+    "aro": "26",
+    "suspensao": "hardtail",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": null,
+    "velocidades": 21,
+    "tipo_freio": "Disco mecânico",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.alfameqoficial.com.br/bicicletas/bicicleta-alfameq-freeride-na-quebrada-aro-26-freio-a-disco-21-marchas",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "alfameq/na-quebrada.webp",
+    "fonte_url": "https://www.alfameqoficial.com.br/bicicletas/bicicleta-alfameq-freeride-na-quebrada-aro-26-freio-a-disco-21-marchas"
+  }
+}

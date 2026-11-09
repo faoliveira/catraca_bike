@@ -1,0 +1,46 @@
+{
+  "marca": "Oggi",
+  "modelo": "Cadenza 600",
+  "ano": null,
+  "slug": "cadenza-600",
+  "categoria": "speed",
+  "url_fabricante": "https://oggibikes.com.br/bike/cadenza-600/",
+  "preco_sugerido_brl": 29999,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "700c",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano 105 Di2 24V",
+    "velocidades": 24,
+    "tipo_freio": "Shimano BR-R7170 rotores 160/140 mm",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://oggibikes.com.br/bike/cadenza-600/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    },
+    {
+      "url": "https://oggibikes.com.br/modelos-speed/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "oggi/cadenza-600.webp",
+    "fonte_url": "https://oggibikes.com.br/bike/cadenza-600/"
+  }
+}

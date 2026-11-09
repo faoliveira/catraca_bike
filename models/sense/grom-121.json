@@ -1,0 +1,37 @@
+{
+  "marca": "Sense",
+  "modelo": "Grom 12",
+  "ano": null,
+  "slug": "grom-121",
+  "categoria": "infantil",
+  "url_fabricante": "https://www.sensebike.com.br/produtos/grom-121/",
+  "preco_sugerido_brl": 1390,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061",
+    "tamanhos": [
+      "Único"
+    ],
+    "aro": "12",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": null,
+    "velocidades": null,
+    "tipo_freio": null,
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.sensebike.com.br/produtos/grom-121/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "sense/grom-121.webp",
+    "fonte_url": "https://www.sensebike.com.br/produtos/grom-121/"
+  }
+}

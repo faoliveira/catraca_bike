@@ -1,0 +1,31 @@
+{
+  "marca": "Colli",
+  "modelo": "Airon Aro 16",
+  "ano": null,
+  "slug": "airon-aro-16",
+  "categoria": "infantil",
+  "url_fabricante": "https://collibike.com.br/bicicletas/airon-aro-16/",
+  "preco_sugerido_brl": 949.9,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Aço carbono 12''",
+    "tamanhos": null,
+    "aro": "16",
+    "suspensao": null,
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Single 28D, alavanca 7V",
+    "velocidades": 7,
+    "tipo_freio": "Disco dianteiro e traseiro",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://collibike.com.br/bicicletas/airon-aro-16/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ]
+}

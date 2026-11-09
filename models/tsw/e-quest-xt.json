@@ -1,0 +1,51 @@
+{
+  "marca": "TSW",
+  "modelo": "E-Quest XT",
+  "ano": null,
+  "slug": "e-quest-xt",
+  "categoria": "ebike",
+  "url_fabricante": "https://tswbike.com/p/1220/e-quest-xt",
+  "preco_sugerido_brl": 42900,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono Toray",
+    "tamanhos": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "29",
+    "suspensao": "full",
+    "curso_mm": 160
+  },
+  "componentes": {
+    "grupo": "Shimano",
+    "velocidades": 12,
+    "tipo_freio": "Hidráulico Shimano SLX M7100 rotores 203/180 mm",
+    "peso_kg": null
+  },
+  "ebike": {
+    "motor_tipo": "Shimano EP8 (central)",
+    "potencia_w": null,
+    "torque_nm": 85,
+    "bateria_wh": 630,
+    "autonomia_declarada_km": null,
+    "acelerador": null,
+    "assistencia_so_com_pedal": null,
+    "vel_max_kmh": 25,
+    "largura_cm": null,
+    "entre_eixos_cm": null
+  },
+  "fontes": [
+    {
+      "url": "https://tswbike.com/p/1220/e-quest-xt",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "tsw/e-quest-xt.webp",
+    "fonte_url": "https://tswbike.com/p/1220/e-quest-xt"
+  }
+}

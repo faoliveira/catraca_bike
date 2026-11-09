@@ -1,0 +1,36 @@
+{
+  "marca": "Scott",
+  "modelo": "Spark RC Team",
+  "ano": null,
+  "slug": "spark-rc-team",
+  "categoria": "mtb",
+  "url_fabricante": "https://www.scott-sports.com/br/pt_BR/product/scott-spark-rc-team-bike",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "29",
+    "suspensao": "full",
+    "curso_mm": 120
+  },
+  "componentes": {
+    "grupo": "SRAM S1000 Eagle AXS Transmission 12 Speed 12V, garfo RockShox SID 3P Air",
+    "velocidades": 12,
+    "tipo_freio": "Disco SRAM DB6 4-Piston",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.scott-sports.com/br/pt_BR/product/scott-spark-rc-team-bike",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "ano": null,
+  "atualizado_em": "2026-11-08",
+  "categoria": "infantil",
+  "componentes": {
+    "grupo": null,
+    "peso_kg": null,
+    "tipo_freio": null,
+    "velocidades": 1
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://nathor.com/produto/bicicleta-aro-20-princesas/"
+    },
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://nathor.com/produto/bicicleta-aro-20-spider-man/"
+    },
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://nathor.com/produto/bicicleta-aro-20-hot-wheels/"
+    },
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://nathor.com/produto/bicicleta-aro-20-barbie/"
+    }
+  ],
+  "marca": "Nathor",
+  "modelo": "Bicicleta Aro 20 Licenciados",
+  "preco_sugerido_brl": null,
+  "quadro": {
+    "aro": "20",
+    "curso_mm": null,
+    "material": null,
+    "suspensao": "rigida",
+    "tamanhos": null
+  },
+  "slug": "aro-20-licenciados",
+  "url_fabricante": "https://nathor.com/produto/bicicleta-aro-20-princesas/",
+  "imagem": {
+    "arquivo": "nathor/aro-20-licenciados.webp",
+    "fonte_url": "https://nathor.com/produto/bicicleta-aro-20-princesas/"
+  }
+}

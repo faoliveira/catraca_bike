@@ -1,0 +1,39 @@
+{
+  "marca": "Audax",
+  "modelo": "Auge 600 Non Series",
+  "ano": null,
+  "slug": "auge-600-non-series",
+  "categoria": "mtb",
+  "url_fabricante": "https://audaxbike.com/bike/236/auge-600-non-series",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6069",
+    "tamanhos": [
+      "15",
+      "19",
+      "21"
+    ],
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": 100
+  },
+  "componentes": {
+    "grupo": "SRAM SX 12V",
+    "velocidades": 12,
+    "tipo_freio": "Disco hidráulico Shimano BL-MT201R rotores 160 mm",
+    "peso_kg": 13.21
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://audaxbike.com/bike/236/auge-600-non-series",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "audax/auge-600-non-series.webp",
+    "fonte_url": "https://audaxbike.com/bike/236/auge-600-non-series"
+  }
+}

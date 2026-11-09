@@ -1,0 +1,40 @@
+{
+  "ano": null,
+  "atualizado_em": "2026-11-08",
+  "categoria": "infantil",
+  "componentes": {
+    "grupo": null,
+    "peso_kg": null,
+    "tipo_freio": null,
+    "velocidades": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://verdenbikes.com/bic-lolla-rs-c-ac-az-am-aro-16/"
+    },
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://verdenbikes.com/bic-lolla-br-c-ac-lr-ll-aro-16/"
+    }
+  ],
+  "marca": "Verden",
+  "modelo": "Lolla Aro 16",
+  "preco_sugerido_brl": null,
+  "quadro": {
+    "aro": "16",
+    "curso_mm": null,
+    "material": null,
+    "suspensao": null,
+    "tamanhos": null
+  },
+  "slug": "lolla-aro-16",
+  "url_fabricante": "https://verdenbikes.com/bic-lolla-rs-c-ac-az-am-aro-16/",
+  "imagem": {
+    "arquivo": "verden/lolla-aro-16.webp",
+    "fonte_url": "https://verdenbikes.com/bic-lolla-rs-c-ac-az-am-aro-16/"
+  }
+}

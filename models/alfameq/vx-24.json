@@ -1,0 +1,35 @@
+{
+  "marca": "Alfameq",
+  "modelo": "VX 24",
+  "ano": null,
+  "slug": "vx-24",
+  "categoria": "mtb",
+  "url_fabricante": "https://www.alfameqoficial.com.br/bicicletas/bicicleta-aro-29-alfameq-vx-24-marchas-e-freio-a-disco",
+  "preco_sugerido_brl": 879,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio",
+    "tamanhos": null,
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": null,
+    "velocidades": 24,
+    "tipo_freio": "Disco mecânico",
+    "peso_kg": 15
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.alfameqoficial.com.br/bicicletas/bicicleta-aro-29-alfameq-vx-24-marchas-e-freio-a-disco",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "alfameq/vx-24.webp",
+    "fonte_url": "https://www.alfameqoficial.com.br/bicicletas/bicicleta-aro-29-alfameq-vx-24-marchas-e-freio-a-disco"
+  }
+}

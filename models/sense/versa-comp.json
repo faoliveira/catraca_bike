@@ -1,0 +1,44 @@
+{
+  "marca": "Sense",
+  "modelo": "Versa Comp",
+  "ano": null,
+  "slug": "versa-comp",
+  "categoria": "gravel",
+  "url_fabricante": "https://www.sensebike.com.br/produtos/versa-comp/",
+  "preco_sugerido_brl": 6490,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061",
+    "tamanhos": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "49",
+      "51",
+      "54",
+      "56"
+    ],
+    "aro": "700c",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano Sora 22V",
+    "velocidades": 22,
+    "tipo_freio": "Mecânico Shimano",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.sensebike.com.br/produtos/versa-comp/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "sense/versa-comp.webp",
+    "fonte_url": "https://www.sensebike.com.br/produtos/versa-comp/"
+  }
+}

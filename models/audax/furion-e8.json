@@ -1,0 +1,50 @@
+{
+  "marca": "Audax",
+  "modelo": "Furion E8",
+  "ano": null,
+  "slug": "furion-e8",
+  "categoria": "ebike",
+  "url_fabricante": "https://audaxbike.com/bike/232/furion-e8",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono UD Toray T700/T800",
+    "tamanhos": [
+      "S",
+      "M",
+      "L"
+    ],
+    "aro": "29",
+    "suspensao": "full",
+    "curso_mm": 160
+  },
+  "componentes": {
+    "grupo": "SRAM GX AXS T-Type",
+    "velocidades": null,
+    "tipo_freio": "Disco hidráulico Shimano BR-M7120 rotores 203/180 mm",
+    "peso_kg": null
+  },
+  "ebike": {
+    "motor_tipo": "Shimano EP8 (central)",
+    "potencia_w": 250,
+    "torque_nm": 85,
+    "bateria_wh": 630,
+    "autonomia_declarada_km": null,
+    "acelerador": null,
+    "assistencia_so_com_pedal": null,
+    "vel_max_kmh": 45,
+    "largura_cm": null,
+    "entre_eixos_cm": null
+  },
+  "fontes": [
+    {
+      "url": "https://audaxbike.com/bike/232/furion-e8",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "audax/furion-e8.webp",
+    "fonte_url": "https://audaxbike.com/bike/232/furion-e8"
+  }
+}

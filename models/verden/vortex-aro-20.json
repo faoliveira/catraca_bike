@@ -1,0 +1,42 @@
+{
+  "ano": null,
+  "atualizado_em": "2026-11-08",
+  "categoria": "infantil",
+  "componentes": {
+    "grupo": "Shimano Tourney 1x7V",
+    "peso_kg": null,
+    "tipo_freio": "Disco mecânico",
+    "velocidades": 7
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://verdenbikes.com/vortex-r20-t9-5-v7-laranja-neon-a26/"
+    },
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://verdenbikes.com/bic-vortex-r20-t9-5-v21-azul-mistral-a26/"
+    }
+  ],
+  "marca": "Verden",
+  "modelo": "Vortex Aro 20",
+  "preco_sugerido_brl": null,
+  "quadro": {
+    "aro": "20",
+    "curso_mm": null,
+    "material": "Alumínio",
+    "suspensao": null,
+    "tamanhos": [
+      "9,5"
+    ]
+  },
+  "slug": "vortex-aro-20",
+  "url_fabricante": "https://verdenbikes.com/vortex-r20-t9-5-v7-laranja-neon-a26/",
+  "imagem": {
+    "arquivo": "verden/vortex-aro-20.webp",
+    "fonte_url": "https://verdenbikes.com/vortex-r20-t9-5-v7-laranja-neon-a26/"
+  }
+}

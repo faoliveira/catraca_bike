@@ -1,0 +1,35 @@
+{
+  "marca": "KRW",
+  "modelo": "SX53 Spotlight",
+  "ano": null,
+  "slug": "krw-sx53-spotlight",
+  "categoria": "mtb",
+  "url_fabricante": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-spotlight-aluminio-27v-freio-hidraulico-trava-sx53-outlet-qya2a/",
+  "preco_sugerido_brl": 1169,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061",
+    "tamanhos": null,
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": null,
+    "velocidades": 27,
+    "tipo_freio": "Disco hidráulico",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-spotlight-aluminio-27v-freio-hidraulico-trava-sx53-outlet-qya2a/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "krw/krw-sx53-spotlight.webp",
+    "fonte_url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-spotlight-aluminio-27v-freio-hidraulico-trava-sx53-outlet-qya2a/"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "ano": null,
+  "atualizado_em": "2026-11-08",
+  "categoria": "infantil",
+  "componentes": {
+    "grupo": null,
+    "peso_kg": null,
+    "tipo_freio": null,
+    "velocidades": 1
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://nathor.com/produto/bicicleta-aro-16-pixie-2/"
+    },
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://nathor.com/produto/bicicleta-aro-16-lady-3/"
+    },
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://nathor.com/produto/bicicleta-aro-16-apollo-4/"
+    },
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://nathor.com/produto/bicicleta-aro-16-top-girls-5-2/"
+    },
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://nathor.com/produto/bicicleta-aro-16-tech-boys-5-2/"
+    },
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://nathor.com/produto/bicicleta-aro-16-butterfly/"
+    },
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://nathor.com/produto/bicicleta-aro-16-unicorn/"
+    },
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://nathor.com/produto/bicicleta-aro-16-extreme-2026/"
+    },
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://nathor.com/produto/bicicleta-aro-16-extreme/"
+    }
+  ],
+  "marca": "Nathor",
+  "modelo": "Bicicleta Aro 16",
+  "preco_sugerido_brl": null,
+  "quadro": {
+    "aro": "16",
+    "curso_mm": null,
+    "material": "Aço carbono",
+    "suspensao": "rigida",
+    "tamanhos": null
+  },
+  "slug": "aro-16-linha",
+  "url_fabricante": "https://nathor.com/produto/bicicleta-aro-16-pixie-2/",
+  "imagem": {
+    "arquivo": "nathor/aro-16-linha.webp",
+    "fonte_url": "https://nathor.com/produto/bicicleta-aro-16-pixie-2/"
+  }
+}

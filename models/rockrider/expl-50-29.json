@@ -1,0 +1,39 @@
+{
+  "marca": "Rockrider",
+  "modelo": "Expl 50 29",
+  "ano": null,
+  "slug": "expl-50-29",
+  "categoria": "mtb",
+  "url_fabricante": "https://www.decathlon.com.br/bicicleta-adulta-de-mtb-expl-50-aro-29-vermelha-vermelho-8994150-rockrider/p",
+  "preco_sugerido_brl": 1499.99,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061 T4T6",
+    "tamanhos": [
+      "P",
+      "M",
+      "G"
+    ],
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano 3x7",
+    "velocidades": 21,
+    "tipo_freio": "Disco mecânico Joysun, rotores 160 mm",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.decathlon.com.br/bicicleta-adulta-de-mtb-expl-50-aro-29-vermelha-vermelho-8994150-rockrider/p",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "rockrider/expl-50-29.webp",
+    "fonte_url": "https://www.decathlon.com.br/bicicleta-adulta-de-mtb-expl-50-aro-29-vermelha-vermelho-8994150-rockrider/p"
+  }
+}

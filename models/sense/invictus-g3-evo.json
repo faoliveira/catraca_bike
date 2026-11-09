@@ -1,0 +1,40 @@
+{
+  "marca": "Sense",
+  "modelo": "Invictus G3 Evo",
+  "ano": null,
+  "slug": "invictus-g3-evo",
+  "categoria": "mtb",
+  "url_fabricante": "https://www.sensebike.com.br/produtos/invictus-g3-evo/",
+  "preco_sugerido_brl": 42990,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono Mitsubishi",
+    "tamanhos": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": 120
+  },
+  "componentes": {
+    "grupo": "Shimano Deore XT Di2 12V",
+    "velocidades": 12,
+    "tipo_freio": "Shimano M8200",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.sensebike.com.br/produtos/invictus-g3-evo/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "sense/invictus-g3-evo.webp",
+    "fonte_url": "https://www.sensebike.com.br/produtos/invictus-g3-evo/"
+  }
+}

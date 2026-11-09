@@ -1,0 +1,37 @@
+{
+  "marca": "Sense",
+  "modelo": "Grom 24 Race",
+  "ano": null,
+  "slug": "grom-24-race",
+  "categoria": "mtb",
+  "url_fabricante": "https://www.sensebike.com.br/produtos/grom-24-race/",
+  "preco_sugerido_brl": 4290,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061",
+    "tamanhos": [
+      "Único"
+    ],
+    "aro": "24",
+    "suspensao": "hardtail",
+    "curso_mm": 80
+  },
+  "componentes": {
+    "grupo": "Shimano Cues 22V",
+    "velocidades": 22,
+    "tipo_freio": "Hidráulico Tektro rotores 160 mm",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.sensebike.com.br/produtos/grom-24-race/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "sense/grom-24-race.webp",
+    "fonte_url": "https://www.sensebike.com.br/produtos/grom-24-race/"
+  }
+}

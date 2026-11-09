@@ -1,0 +1,35 @@
+{
+  "ano": null,
+  "atualizado_em": "2026-11-08",
+  "categoria": "infantil",
+  "componentes": {
+    "grupo": null,
+    "peso_kg": null,
+    "tipo_freio": null,
+    "velocidades": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://verdenbikes.com/amy-aro-12-lilas-e-rosa/"
+    }
+  ],
+  "marca": "Verden",
+  "modelo": "Amy Aro 12",
+  "preco_sugerido_brl": null,
+  "quadro": {
+    "aro": "12",
+    "curso_mm": null,
+    "material": null,
+    "suspensao": null,
+    "tamanhos": null
+  },
+  "slug": "amy-aro-12",
+  "url_fabricante": "https://verdenbikes.com/amy-aro-12-lilas-e-rosa/",
+  "imagem": {
+    "arquivo": "verden/amy-aro-12.webp",
+    "fonte_url": "https://verdenbikes.com/amy-aro-12-lilas-e-rosa/"
+  }
+}

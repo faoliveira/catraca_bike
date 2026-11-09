@@ -1,0 +1,39 @@
+{
+  "marca": "Scott",
+  "modelo": "Addict RC 20",
+  "ano": null,
+  "slug": "addict-rc-20",
+  "categoria": "speed",
+  "url_fabricante": "https://www.scott-sports.com/br/pt_BR/product/scott-addict-rc-20-bike",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "aro": "700c",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano Ultegra Di2 RD-R8150 24 Speed 24V, garfo Addict RC HMX Flatmount Disc",
+    "velocidades": 24,
+    "tipo_freio": "Disco hidráulico Shimano BR-R8170, rotores 160/140 mm",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.scott-sports.com/br/pt_BR/product/scott-addict-rc-20-bike",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ]
+}

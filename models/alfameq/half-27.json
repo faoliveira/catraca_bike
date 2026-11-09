@@ -1,0 +1,35 @@
+{
+  "marca": "Alfameq",
+  "modelo": "Half 27",
+  "ano": null,
+  "slug": "half-27",
+  "categoria": "mtb",
+  "url_fabricante": "https://www.alfameqoficial.com.br/bicicletas/bicicleta-aro-29-alfameq-half-freio-disco-27-marchas-freio-a-disco-hidraulico",
+  "preco_sugerido_brl": 1299.9,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio",
+    "tamanhos": null,
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": null,
+    "velocidades": 27,
+    "tipo_freio": "Disco hidráulico",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.alfameqoficial.com.br/bicicletas/bicicleta-aro-29-alfameq-half-freio-disco-27-marchas-freio-a-disco-hidraulico",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "alfameq/half-27.webp",
+    "fonte_url": "https://www.alfameqoficial.com.br/bicicletas/bicicleta-aro-29-alfameq-half-freio-disco-27-marchas-freio-a-disco-hidraulico"
+  }
+}

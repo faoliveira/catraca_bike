@@ -1,0 +1,46 @@
+{
+  "marca": "Caloi",
+  "modelo": "E-Vibe Peak",
+  "ano": null,
+  "slug": "e-vibe-peak",
+  "categoria": "ebike",
+  "url_fabricante": "https://caloi.com/produto/e-vibe-peak/",
+  "preco_sugerido_brl": 33990,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": null,
+    "tamanhos": null,
+    "aro": null,
+    "suspensao": "full",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": null,
+    "velocidades": null,
+    "tipo_freio": null,
+    "peso_kg": 27.6
+  },
+  "ebike": {
+    "motor_tipo": "Bosch Performance Line CX",
+    "potencia_w": null,
+    "torque_nm": 85,
+    "bateria_wh": 750,
+    "autonomia_declarada_km": null,
+    "acelerador": null,
+    "assistencia_so_com_pedal": null,
+    "vel_max_kmh": 45,
+    "largura_cm": null,
+    "entre_eixos_cm": null
+  },
+  "fontes": [
+    {
+      "url": "https://caloi.com/produto/e-vibe-peak/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "caloi/e-vibe-peak.webp",
+    "fonte_url": "https://caloi.com/produto/e-vibe-peak/"
+  }
+}

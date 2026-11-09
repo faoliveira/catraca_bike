@@ -1,0 +1,40 @@
+{
+  "marca": "Caloi",
+  "modelo": "Elite Carbon FS Sport",
+  "ano": null,
+  "slug": "elite-carbon-fs-sport",
+  "categoria": "mtb",
+  "url_fabricante": "https://caloi.com/produto/elite-carbon-fs-sport/",
+  "preco_sugerido_brl": 23990,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "P",
+      "M",
+      "G",
+      "GG"
+    ],
+    "aro": "29",
+    "suspensao": "full",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano SLX M7100 12V (cassete 10-51T), garfo RockShox SID Base 120 mm",
+    "velocidades": 12,
+    "tipo_freio": "Disco Tektro M520 hidráulico, rotores 160/180 mm",
+    "peso_kg": 13.7
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://caloi.com/produto/elite-carbon-fs-sport/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "caloi/elite-carbon-fs-sport.webp",
+    "fonte_url": "https://caloi.com/produto/elite-carbon-fs-sport/"
+  }
+}

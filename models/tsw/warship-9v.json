@@ -1,0 +1,37 @@
+{
+  "marca": "TSW",
+  "modelo": "Warship 9V",
+  "ano": null,
+  "slug": "warship-9v",
+  "categoria": "mtb",
+  "url_fabricante": "https://tswbike.com/p/779/warship-9v",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061",
+    "tamanhos": [
+      "unico"
+    ],
+    "aro": "26",
+    "suspensao": "hardtail",
+    "curso_mm": 100
+  },
+  "componentes": {
+    "grupo": "Shimano",
+    "velocidades": 9,
+    "tipo_freio": "Hidráulico X-Time Hidráulico rotores 160 mm",
+    "peso_kg": 13.7
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://tswbike.com/p/779/warship-9v",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "tsw/warship-9v.webp",
+    "fonte_url": "https://tswbike.com/p/779/warship-9v"
+  }
+}

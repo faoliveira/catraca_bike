@@ -1,0 +1,40 @@
+{
+  "marca": "Nathor",
+  "modelo": "Bicicleta Aro 16 Apollo",
+  "ano": null,
+  "slug": "aro-16-apollo",
+  "categoria": "infantil",
+  "url_fabricante": "https://nathor.com/produto/bicicleta-aro-16-apollo-4/",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Aço carbono",
+    "tamanhos": null,
+    "aro": "16",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": null,
+    "velocidades": 1,
+    "tipo_freio": null,
+    "peso_kg": 9.5
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://nathor.com/produto/bicicleta-aro-16-apollo-4/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    },
+    {
+      "url": "https://nathor.com/linha/aro-16/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "nathor/aro-16-apollo.webp",
+    "fonte_url": "https://nathor.com/produto/bicicleta-aro-16-apollo-4/"
+  }
+}

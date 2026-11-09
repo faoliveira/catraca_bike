@@ -1,0 +1,41 @@
+{
+  "marca": "Swift",
+  "modelo": "Univox Gr Evo",
+  "ano": null,
+  "slug": "univox-gr-evo-1i6uw",
+  "categoria": "gravel",
+  "url_fabricante": "https://www.sensebike.com.br/produtos/univox-gr-evo-1i6uw/",
+  "preco_sugerido_brl": 25990,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "49",
+      "51",
+      "54",
+      "56",
+      "59"
+    ],
+    "aro": "700c",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "SRAM Rival AXS 24V",
+    "velocidades": 24,
+    "tipo_freio": "Hidráulico SRAM",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.sensebike.com.br/produtos/univox-gr-evo-1i6uw/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "swift/univox-gr-evo-1i6uw.webp",
+    "fonte_url": "https://www.sensebike.com.br/produtos/univox-gr-evo-1i6uw/"
+  }
+}

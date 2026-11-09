@@ -1,0 +1,37 @@
+{
+  "marca": "Groove",
+  "modelo": "Ragga 16",
+  "ano": null,
+  "slug": "ragga-16",
+  "categoria": "infantil",
+  "url_fabricante": "https://groovebikes.com.br/produto/bicicleta-infantil-groove-ragga-16-2/",
+  "preco_sugerido_brl": 899.9,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Aço",
+    "tamanhos": [
+      "Único"
+    ],
+    "aro": "16",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": null,
+    "velocidades": null,
+    "tipo_freio": "V-Brake",
+    "peso_kg": 9.6
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://groovebikes.com.br/produto/bicicleta-infantil-groove-ragga-16-2/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "groove/ragga-16.webp",
+    "fonte_url": "https://groovebikes.com.br/produto/bicicleta-infantil-groove-ragga-16-2/"
+  }
+}

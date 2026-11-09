@@ -1,0 +1,41 @@
+{
+  "marca": "Specialized",
+  "modelo": "Chisel Comp",
+  "ano": null,
+  "slug": "chisel-comp",
+  "categoria": "mtb",
+  "url_fabricante": "https://www.specialized.com/br/pt/bicicleta-chisel-comp/p/4291036",
+  "preco_sugerido_brl": 25990,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio",
+    "tamanhos": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "29",
+    "suspensao": "full",
+    "curso_mm": 120
+  },
+  "componentes": {
+    "grupo": "SRAM Eagle 70 Transmission 12V, garfo RockShox SID",
+    "velocidades": 12,
+    "tipo_freio": "Disco hidráulico SRAM DB6, rotores 180/160 mm",
+    "peso_kg": 13.11
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.specialized.com/br/pt/bicicleta-chisel-comp/p/4291036",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "specialized/chisel-comp.webp",
+    "fonte_url": "https://www.specialized.com/br/pt/bicicleta-chisel-comp/p/4291036"
+  }
+}

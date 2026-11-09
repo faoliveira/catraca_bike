@@ -1,0 +1,36 @@
+{
+  "marca": "Merida",
+  "modelo": "Ninety-Six 6000",
+  "ano": 2027,
+  "slug": "ninety-six-6000-2027",
+  "categoria": "mtb",
+  "url_fabricante": "https://www.merida-bikes.com/en/bike/6531/ninety-six-6000",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "29",
+    "suspensao": "full",
+    "curso_mm": 120
+  },
+  "componentes": {
+    "grupo": "SRAM Eagle 70",
+    "velocidades": 12,
+    "tipo_freio": "Hidráulico Sram DB8 stealth, rotores 180 mm",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.merida-bikes.com/en/bike/6531/ninety-six-6000",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ]
+}

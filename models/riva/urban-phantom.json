@@ -1,0 +1,39 @@
+{
+  "marca": "Riva",
+  "modelo": "Urban Phantom",
+  "ano": null,
+  "slug": "urban-phantom",
+  "categoria": "urbana",
+  "url_fabricante": "https://rivacycles.com/products/bicicleta-riva-urban-phantom",
+  "preco_sugerido_brl": 4390,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Aço Cromoly SAE 4130",
+    "tamanhos": [
+      "52",
+      "55",
+      "59"
+    ],
+    "aro": "700c",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": null,
+    "velocidades": 1,
+    "tipo_freio": "Ferradura (rim brake) Promax RC-482",
+    "peso_kg": 9.7
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://rivacycles.com/products/bicicleta-riva-urban-phantom",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "riva/urban-phantom.webp",
+    "fonte_url": "https://rivacycles.com/products/bicicleta-riva-urban-phantom"
+  }
+}

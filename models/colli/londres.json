@@ -1,0 +1,31 @@
+{
+  "marca": "Colli",
+  "modelo": "Londres",
+  "ano": null,
+  "slug": "londres",
+  "categoria": "urbana",
+  "url_fabricante": "https://collibike.com.br/bicicletas/londres/",
+  "preco_sugerido_brl": 1199.9,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Aço carbono",
+    "tamanhos": null,
+    "aro": "24",
+    "suspensao": null,
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Single, alavanca 7V",
+    "velocidades": 7,
+    "tipo_freio": "Disco dianteiro e traseiro",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://collibike.com.br/bicicletas/londres/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ]
+}

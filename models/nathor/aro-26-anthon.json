@@ -1,0 +1,40 @@
+{
+  "ano": null,
+  "atualizado_em": "2026-11-08",
+  "categoria": "urbana",
+  "componentes": {
+    "grupo": null,
+    "peso_kg": null,
+    "tipo_freio": null,
+    "velocidades": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://nathor.com/produto/bicicleta-aro-26-anthon-cinza/"
+    },
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://nathor.com/produto/bicicleta-aro-26-anthon-azul/"
+    }
+  ],
+  "marca": "Nathor",
+  "modelo": "Bicicleta Aro 26 Anthon",
+  "preco_sugerido_brl": null,
+  "quadro": {
+    "aro": "26",
+    "curso_mm": null,
+    "material": null,
+    "suspensao": null,
+    "tamanhos": null
+  },
+  "slug": "aro-26-anthon",
+  "url_fabricante": "https://nathor.com/produto/bicicleta-aro-26-anthon-cinza/",
+  "imagem": {
+    "arquivo": "nathor/aro-26-anthon.webp",
+    "fonte_url": "https://nathor.com/produto/bicicleta-aro-26-anthon-cinza/"
+  }
+}

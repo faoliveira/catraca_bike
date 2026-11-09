@@ -1,0 +1,51 @@
+{
+  "marca": "Moura",
+  "modelo": "Ella Ride",
+  "ano": null,
+  "slug": "ella-ride",
+  "categoria": "ebike",
+  "url_fabricante": "https://www.ebikeella.com.br/products/ella-ride",
+  "preco_sugerido_brl": 12990,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio",
+    "tamanhos": null,
+    "aro": "20",
+    "suspensao": "full",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano Altus",
+    "velocidades": 8,
+    "tipo_freio": "Disco hidráulico 180mm Tektro HD-E3120",
+    "peso_kg": 41
+  },
+  "ebike": {
+    "motor_tipo": "Bafang H550 traseiro (cubo)",
+    "potencia_w": 500,
+    "torque_nm": 70,
+    "bateria_wh": 960,
+    "autonomia_declarada_km": 80,
+    "acelerador": true,
+    "assistencia_so_com_pedal": false,
+    "vel_max_kmh": 32,
+    "largura_cm": 66,
+    "entre_eixos_cm": null
+  },
+  "fontes": [
+    {
+      "url": "https://www.ebikeella.com.br/products/ella-ride",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    },
+    {
+      "url": "https://www.ebikeella.com.br/pages/ella-ride",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "moura/ella-ride.webp",
+    "fonte_url": "https://www.ebikeella.com.br/products/ella-ride"
+  }
+}

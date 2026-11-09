@@ -1,0 +1,40 @@
+{
+  "marca": "Rockrider",
+  "modelo": "Explorer 540 29",
+  "ano": null,
+  "slug": "explorer-540-29",
+  "categoria": "mtb",
+  "url_fabricante": "https://www.decathlon.com.br/bicicleta-de-mountain-bike-explore-540-aro-29-8952488-rockrider/p",
+  "preco_sugerido_brl": 5999.99,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061 T4T6",
+    "tamanhos": [
+      "P",
+      "M",
+      "G",
+      "GG"
+    ],
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": 120
+  },
+  "componentes": {
+    "grupo": "Shimano Deore 1x12",
+    "velocidades": 12,
+    "tipo_freio": "Hidráulico Shimano Deore, rotores 180/160 mm",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.decathlon.com.br/bicicleta-de-mountain-bike-explore-540-aro-29-8952488-rockrider/p",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "rockrider/explorer-540-29.webp",
+    "fonte_url": "https://www.decathlon.com.br/bicicleta-de-mountain-bike-explore-540-aro-29-8952488-rockrider/p"
+  }
+}

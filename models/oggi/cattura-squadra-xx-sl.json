@@ -1,0 +1,45 @@
+{
+  "marca": "Oggi",
+  "modelo": "Cattura Squadra XX SL",
+  "ano": null,
+  "slug": "cattura-squadra-xx-sl",
+  "categoria": "mtb",
+  "url_fabricante": "https://oggibikes.com.br/bike/cattura-squadra-xx-sl/",
+  "preco_sugerido_brl": 64900,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "29",
+    "suspensao": "full",
+    "curso_mm": 120
+  },
+  "componentes": {
+    "grupo": "SRAM XX AXS 12V",
+    "velocidades": 12,
+    "tipo_freio": "SRAM rotores 180/160 mm",
+    "peso_kg": 11.8
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://oggibikes.com.br/bike/cattura-squadra-xx-sl/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    },
+    {
+      "url": "https://oggibikes.com.br/modelos-mtb/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "oggi/cattura-squadra-xx-sl.webp",
+    "fonte_url": "https://oggibikes.com.br/bike/cattura-squadra-xx-sl/"
+  }
+}

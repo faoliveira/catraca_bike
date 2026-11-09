@@ -1,0 +1,35 @@
+{
+  "marca": "Caloi",
+  "modelo": "Aspen MY2026",
+  "ano": 2026,
+  "slug": "aspen-my2026",
+  "categoria": "mtb",
+  "url_fabricante": "https://caloi.com/produto/aspen-my2026/",
+  "preco_sugerido_brl": 1799,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061",
+    "tamanhos": null,
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": 80
+  },
+  "componentes": {
+    "grupo": "Shimano Tourney TX800 3x8V (cassete Sunrace 11-34D)",
+    "velocidades": 24,
+    "tipo_freio": "Disco hidráulico Logan HDM500",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://caloi.com/produto/aspen-my2026/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "caloi/aspen-my2026.webp",
+    "fonte_url": "https://caloi.com/produto/aspen-my2026/"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "marca": "Houston",
+  "modelo": "Kamp",
+  "ano": null,
+  "slug": "kamp",
+  "categoria": "mtb",
+  "url_fabricante": "https://houston.com.br/bike/4/kamp",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061 T6",
+    "tamanhos": [
+      "15",
+      "17",
+      "19"
+    ],
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano Tourney 3x7V (TY301/RD-TY300)",
+    "velocidades": 21,
+    "tipo_freio": "Disco mecânico 160 mm",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://houston.com.br/bike/4/kamp",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "houston/kamp.webp",
+    "fonte_url": "https://houston.com.br/bike/4/kamp"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "marca": "Trek",
+  "modelo": "Madone SL 5 8ª Geração",
+  "ano": null,
+  "slug": "madone-sl-5",
+  "categoria": "speed",
+  "url_fabricante": "https://www.trekbikes.com/br/pt_BR/bicicletas/bicicletas-de-estrada/bicicletas-de-estrada-de-alto-desempenho/madone/madone-sl/madone-sl-5-8%C2%AA-gera%C3%A7%C3%A3o/p/57653/",
+  "preco_sugerido_brl": 28500,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "XP",
+      "P",
+      "M",
+      "MG",
+      "G",
+      "GG"
+    ],
+    "aro": "700c",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano 105 R7100 12V",
+    "velocidades": 12,
+    "tipo_freio": "Disco hidráulico Shimano 105, montagem plana",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.trekbikes.com/br/pt_BR/bicicletas/bicicletas-de-estrada/bicicletas-de-estrada-de-alto-desempenho/madone/madone-sl/madone-sl-5-8%C2%AA-gera%C3%A7%C3%A3o/p/57653/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "trek/madone-sl-5.webp",
+    "fonte_url": "https://www.trekbikes.com/br/pt_BR/bicicletas/bicicletas-de-estrada/bicicletas-de-estrada-de-alto-desempenho/madone/madone-sl/madone-sl-5-8%C2%AA-gera%C3%A7%C3%A3o/p/57653/"
+  }
+}

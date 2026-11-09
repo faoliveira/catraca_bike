@@ -1,0 +1,40 @@
+{
+  "marca": "Cannondale",
+  "modelo": "Topstone 2 CUES 1x",
+  "ano": null,
+  "slug": "topstone-2",
+  "categoria": "gravel",
+  "url_fabricante": "https://www.cannondale.com/pt-br/bikes/road/gravel/topstone-alloy/topstone-2-cues-1x",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio",
+    "tamanhos": [
+      "S",
+      "L",
+      "M",
+      "XS"
+    ],
+    "aro": "700c",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano CUES U6000 GS 11V, garfo Topstone Carbon",
+    "velocidades": 11,
+    "tipo_freio": "Disco hidráulico Shimano CUES 6030, rotores 180/160 mm",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.cannondale.com/pt-br/bikes/road/gravel/topstone-alloy/topstone-2-cues-1x",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "cannondale/topstone-2.webp",
+    "fonte_url": "https://www.cannondale.com/pt-br/bikes/road/gravel/topstone-alloy/topstone-2-cues-1x"
+  }
+}

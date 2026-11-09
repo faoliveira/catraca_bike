@@ -1,0 +1,50 @@
+{
+  "marca": "Soul",
+  "modelo": "Etna EP8 Deore XT E-Bike Pulse",
+  "ano": null,
+  "slug": "etna-ep8-deore-xt-e-bike-pulse",
+  "categoria": "ebike",
+  "url_fabricante": "https://www.soulcycles.com.br/bicicleta-etna-ep8-deore-xt-e-bike-pulse/p",
+  "preco_sugerido_brl": 60000,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "S",
+      "M",
+      "L"
+    ],
+    "aro": "29",
+    "suspensao": "full",
+    "curso_mm": 150
+  },
+  "componentes": {
+    "grupo": "Shimano Deore / XT 12V (10-51T)",
+    "velocidades": 12,
+    "tipo_freio": "Disco hidráulico Shimano Deore, discos 203mm SMRT86",
+    "peso_kg": 23
+  },
+  "ebike": {
+    "motor_tipo": "Shimano EP8 (DUEP801) central",
+    "potencia_w": null,
+    "torque_nm": 85,
+    "bateria_wh": 630,
+    "autonomia_declarada_km": null,
+    "acelerador": null,
+    "assistencia_so_com_pedal": null,
+    "vel_max_kmh": null,
+    "largura_cm": null,
+    "entre_eixos_cm": null
+  },
+  "fontes": [
+    {
+      "url": "https://www.soulcycles.com.br/bicicleta-etna-ep8-deore-xt-e-bike-pulse/p",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "soul/etna-ep8-deore-xt-e-bike-pulse.webp",
+    "fonte_url": "https://www.soulcycles.com.br/bicicleta-etna-ep8-deore-xt-e-bike-pulse/p"
+  }
+}

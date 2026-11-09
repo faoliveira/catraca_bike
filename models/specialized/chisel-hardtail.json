@@ -1,0 +1,41 @@
+{
+  "marca": "Specialized",
+  "modelo": "Chisel Hardtail",
+  "ano": null,
+  "slug": "chisel-hardtail",
+  "categoria": "mtb",
+  "url_fabricante": "https://www.specialized.com/br/pt/chisel-hardtail/p/4221779",
+  "preco_sugerido_brl": 13990,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio",
+    "tamanhos": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": 100
+  },
+  "componentes": {
+    "grupo": "SRAM NX Eagle 12V, garfo Rockshox Recon Silver RL",
+    "velocidades": 12,
+    "tipo_freio": "Disco hidráulico SRAM DB6, rotores 180/160 mm",
+    "peso_kg": 12.58
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.specialized.com/br/pt/chisel-hardtail/p/4221779",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "specialized/chisel-hardtail.webp",
+    "fonte_url": "https://www.specialized.com/br/pt/chisel-hardtail/p/4221779"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "marca": "Oggi",
+  "modelo": "Nova Cattura Pro T 20 XT",
+  "ano": null,
+  "slug": "nova-cattura-pro-t-20-xt",
+  "categoria": "mtb",
+  "url_fabricante": "https://oggibikes.com.br/bike/nova-cattura-pro-t-20-xt/",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "29",
+    "suspensao": "full",
+    "curso_mm": 120
+  },
+  "componentes": {
+    "grupo": "Shimano Deore XT 12V",
+    "velocidades": 12,
+    "tipo_freio": "Shimano M8100 rotores 180/160 mm",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://oggibikes.com.br/bike/nova-cattura-pro-t-20-xt/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    },
+    {
+      "url": "https://oggibikes.com.br/modelos-mtb/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "oggi/nova-cattura-pro-t-20-xt.webp",
+    "fonte_url": "https://oggibikes.com.br/bike/nova-cattura-pro-t-20-xt/"
+  }
+}

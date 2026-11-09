@@ -1,0 +1,40 @@
+{
+  "marca": "Caloi",
+  "modelo": "Elite Carbon FS NX",
+  "ano": null,
+  "slug": "elite-carbon-fs-nx",
+  "categoria": "mtb",
+  "url_fabricante": "https://caloi.com/produto/elite-carbon-fs-nx/",
+  "preco_sugerido_brl": 17990,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "P",
+      "M",
+      "G",
+      "GG"
+    ],
+    "aro": "29",
+    "suspensao": "full",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "SRAM NX 12V (cassete PG1210 11-50D), garfo RockShox Judy Silver TK 120 mm",
+    "velocidades": 12,
+    "tipo_freio": "Disco SRAM Level, rotores 160/180 mm",
+    "peso_kg": 13.73
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://caloi.com/produto/elite-carbon-fs-nx/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "caloi/elite-carbon-fs-nx.webp",
+    "fonte_url": "https://caloi.com/produto/elite-carbon-fs-nx/"
+  }
+}

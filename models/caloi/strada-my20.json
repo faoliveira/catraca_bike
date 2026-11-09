@@ -1,0 +1,35 @@
+{
+  "marca": "Caloi",
+  "modelo": "Strada MY20",
+  "ano": 2020,
+  "slug": "strada-my20",
+  "categoria": "speed",
+  "url_fabricante": "http://docs.caloi.com/02%20-%20ESTRADA/Strada/Ficha%20t%C3%A9cnica%20-%20Strada_MY20_V1.pdf",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-07",
+  "quadro": {
+    "material": "Alumínio 6061 tratado e conformado",
+    "tamanhos": [
+      "P",
+      "M",
+      "G"
+    ],
+    "aro": "700c",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano Claris R2000",
+    "velocidades": null,
+    "tipo_freio": null,
+    "peso_kg": 9.5
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "http://docs.caloi.com/02%20-%20ESTRADA/Strada/Ficha%20t%C3%A9cnica%20-%20Strada_MY20_V1.pdf",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-07"
+    }
+  ]
+}

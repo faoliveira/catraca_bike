@@ -1,0 +1,52 @@
+{
+  "marca": "Specialized",
+  "modelo": "Turbo Levo 4 Comp",
+  "ano": null,
+  "slug": "turbo-levo-4-comp",
+  "categoria": "ebike",
+  "url_fabricante": "https://www.specialized.com/br/pt/turbo-levo-4-comp/p/4278662",
+  "preco_sugerido_brl": 72990,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "S2",
+      "S3",
+      "S4",
+      "S5",
+      "S6"
+    ],
+    "aro": "27.5/29",
+    "suspensao": "full",
+    "curso_mm": 160
+  },
+  "componentes": {
+    "grupo": "SRAM S1000 Eagle Transmission 12V, garfo FOX FLOAT 36 Rhythm",
+    "velocidades": 12,
+    "tipo_freio": "Disco hidráulico SRAM Maven Bronze, rotores 220/200 mm",
+    "peso_kg": 24.41
+  },
+  "ebike": {
+    "motor_tipo": "Specialized 3.1 Motor",
+    "potencia_w": 810,
+    "torque_nm": 105,
+    "bateria_wh": 840,
+    "autonomia_declarada_km": null,
+    "acelerador": null,
+    "assistencia_so_com_pedal": null,
+    "vel_max_kmh": null,
+    "largura_cm": null,
+    "entre_eixos_cm": null
+  },
+  "fontes": [
+    {
+      "url": "https://www.specialized.com/br/pt/turbo-levo-4-comp/p/4278662",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "specialized/turbo-levo-4-comp.webp",
+    "fonte_url": "https://www.specialized.com/br/pt/turbo-levo-4-comp/p/4278662"
+  }
+}

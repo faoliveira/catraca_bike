@@ -1,0 +1,43 @@
+{
+  "marca": "Oggi",
+  "modelo": "Float 5.0 HDS",
+  "ano": null,
+  "slug": "float-5-0-hds",
+  "categoria": "urbana",
+  "url_fabricante": "https://oggibikes.com.br/bike/float-5-0-hds/",
+  "preco_sugerido_brl": 2649,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061 T6",
+    "tamanhos": [
+      "15.5",
+      "17"
+    ],
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": 100
+  },
+  "componentes": {
+    "grupo": "Shimano Altus 24V",
+    "velocidades": 24,
+    "tipo_freio": "HD-M220",
+    "peso_kg": 14.3
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://oggibikes.com.br/bike/float-5-0-hds/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    },
+    {
+      "url": "https://oggibikes.com.br/modelos-urbana/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "oggi/float-5-0-hds.webp",
+    "fonte_url": "https://oggibikes.com.br/bike/float-5-0-hds/"
+  }
+}

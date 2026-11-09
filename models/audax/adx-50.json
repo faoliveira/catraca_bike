@@ -1,0 +1,39 @@
+{
+  "marca": "Audax",
+  "modelo": "ADX 50",
+  "ano": null,
+  "slug": "adx-50",
+  "categoria": "mtb",
+  "url_fabricante": "https://audaxbike.com/bike/249/adx-50",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio",
+    "tamanhos": [
+      "S",
+      "M",
+      "L"
+    ],
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano Tourney 14V",
+    "velocidades": 14,
+    "tipo_freio": "Disco hidráulico",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://audaxbike.com/bike/249/adx-50",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "audax/adx-50.webp",
+    "fonte_url": "https://audaxbike.com/bike/249/adx-50"
+  }
+}

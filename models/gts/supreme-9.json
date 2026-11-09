@@ -1,0 +1,35 @@
+{
+  "marca": "GTS",
+  "modelo": "Supreme 9",
+  "ano": null,
+  "slug": "supreme-9",
+  "categoria": "mtb",
+  "url_fabricante": "https://www.alfameqoficial.com.br/bicicletas/bicicleta-aro-29-gts-supreme-9-velocidades-freio-a-disco-hidraulico-quadro-aluminio",
+  "preco_sugerido_brl": 1699,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio",
+    "tamanhos": null,
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": null,
+    "velocidades": 9,
+    "tipo_freio": "Disco hidráulico",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.alfameqoficial.com.br/bicicletas/bicicleta-aro-29-gts-supreme-9-velocidades-freio-a-disco-hidraulico-quadro-aluminio",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "gts/supreme-9.webp",
+    "fonte_url": "https://www.alfameqoficial.com.br/bicicletas/bicicleta-aro-29-gts-supreme-9-velocidades-freio-a-disco-hidraulico-quadro-aluminio"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "marca": "Soul",
+  "modelo": "Spry G3 SRAM Apex 1x12 Stride",
+  "ano": null,
+  "slug": "spry-g3-sram-apex-1x12-stride",
+  "categoria": "gravel",
+  "url_fabricante": "https://www.soulcycles.com.br/bicicleta-soul-spry-g3-sram-apex-1x12-stride/p",
+  "preco_sugerido_brl": 14000,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio",
+    "tamanhos": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "aro": "700c",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "SRAM Apex Eagle 1x12",
+    "velocidades": 12,
+    "tipo_freio": "Disco hidráulico SRAM Apex",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.soulcycles.com.br/bicicleta-soul-spry-g3-sram-apex-1x12-stride/p",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "soul/spry-g3-sram-apex-1x12-stride.webp",
+    "fonte_url": "https://www.soulcycles.com.br/bicicleta-soul-spry-g3-sram-apex-1x12-stride/p"
+  }
+}

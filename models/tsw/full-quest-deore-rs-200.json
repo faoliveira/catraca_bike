@@ -1,0 +1,40 @@
+{
+  "marca": "TSW",
+  "modelo": "Full Quest Deore RS 200",
+  "ano": null,
+  "slug": "full-quest-deore-rs-200",
+  "categoria": "mtb",
+  "url_fabricante": "https://tswbike.com/p/2404/full-quest-deore-rs-200",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono Toray T700/T800/T1000",
+    "tamanhos": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "29",
+    "suspensao": "full",
+    "curso_mm": 120
+  },
+  "componentes": {
+    "grupo": "Shimano Deore",
+    "velocidades": 12,
+    "tipo_freio": "Hidráulico Shimano MT200 rotores 180/160 mm",
+    "peso_kg": 12.59
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://tswbike.com/p/2404/full-quest-deore-rs-200",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "tsw/full-quest-deore-rs-200.webp",
+    "fonte_url": "https://tswbike.com/p/2404/full-quest-deore-rs-200"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "marca": "Rockrider",
+  "modelo": "Race 740",
+  "ano": null,
+  "slug": "race-740",
+  "categoria": "mtb",
+  "url_fabricante": "https://www.decathlon.com.br/bicicleta-de-mountain-bike-cross-country-race-740-verde-8731767-rockrider/p",
+  "preco_sugerido_brl": 12999.99,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "GG"
+    ],
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": 100
+  },
+  "componentes": {
+    "grupo": "SRAM GX Eagle 1x12",
+    "velocidades": 12,
+    "tipo_freio": "Hidráulico SRAM Level T, rotores 180/160 mm",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.decathlon.com.br/bicicleta-de-mountain-bike-cross-country-race-740-verde-8731767-rockrider/p",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "rockrider/race-740.webp",
+    "fonte_url": "https://www.decathlon.com.br/bicicleta-de-mountain-bike-cross-country-race-740-verde-8731767-rockrider/p"
+  }
+}

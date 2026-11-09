@@ -1,0 +1,31 @@
+{
+  "marca": "Colli",
+  "modelo": "Colli Aurora",
+  "ano": null,
+  "slug": "colli-aurora",
+  "categoria": "infantil",
+  "url_fabricante": "https://collibike.com.br/bicicletas/colli-aurora/",
+  "preco_sugerido_brl": 679.9,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Aço carbono",
+    "tamanhos": null,
+    "aro": "16",
+    "suspensao": null,
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Single",
+    "velocidades": 1,
+    "tipo_freio": "V-brake",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://collibike.com.br/bicicletas/colli-aurora/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ]
+}

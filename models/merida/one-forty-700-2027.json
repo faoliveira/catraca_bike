@@ -1,0 +1,41 @@
+{
+  "marca": "Merida",
+  "modelo": "One-Forty 700",
+  "ano": 2027,
+  "slug": "one-forty-700-2027",
+  "categoria": "mtb",
+  "url_fabricante": "https://www.merida-bikes.com/en/bike/6525/one-forty-700",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio",
+    "tamanhos": [
+      "XShort",
+      "Short",
+      "Mid",
+      "Long",
+      "XLong"
+    ],
+    "aro": "29",
+    "suspensao": "full",
+    "curso_mm": 150
+  },
+  "componentes": {
+    "grupo": "SRAM Eagle 90",
+    "velocidades": 12,
+    "tipo_freio": "Hidráulico Sram DB8 stealth, rotores 200 mm",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.merida-bikes.com/en/bike/6525/one-forty-700",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "merida/one-forty-700-2027.webp",
+    "fonte_url": "https://www.merida-bikes.com/en/bike/6525/one-forty-700"
+  }
+}

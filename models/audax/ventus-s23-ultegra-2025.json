@@ -1,0 +1,42 @@
+{
+  "marca": "Audax",
+  "modelo": "Ventus S23 Ultegra 2025",
+  "ano": 2025,
+  "slug": "ventus-s23-ultegra-2025",
+  "categoria": "speed",
+  "url_fabricante": "https://audaxbike.com/bike/212/ventus-s23-ultegra-2025",
+  "preco_sugerido_brl": 46349,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono UD",
+    "tamanhos": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "700c",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano Ultegra 24V",
+    "velocidades": 24,
+    "tipo_freio": "INTEGRADA À ALAVANCA",
+    "peso_kg": 8.04
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://audaxbike.com/bike/212/ventus-s23-ultegra-2025",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "audax/ventus-s23-ultegra-2025.webp",
+    "fonte_url": "https://audaxbike.com/bike/212/ventus-s23-ultegra-2025"
+  }
+}

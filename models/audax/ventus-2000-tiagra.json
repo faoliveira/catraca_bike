@@ -1,0 +1,40 @@
+{
+  "marca": "Audax",
+  "modelo": "Ventus 2000 Tiagra",
+  "ano": null,
+  "slug": "ventus-2000-tiagra",
+  "categoria": "speed",
+  "url_fabricante": "https://audaxbike.com/bike/192/ventus-2000-tiagra",
+  "preco_sugerido_brl": 8999,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061 T6",
+    "tamanhos": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "700c",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano Tiagra 20V",
+    "velocidades": 20,
+    "tipo_freio": "Disco mecânico Shimano rotores 160 mm",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://audaxbike.com/bike/192/ventus-2000-tiagra",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "audax/ventus-2000-tiagra.webp",
+    "fonte_url": "https://audaxbike.com/bike/192/ventus-2000-tiagra"
+  }
+}

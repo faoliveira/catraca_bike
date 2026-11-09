@@ -1,0 +1,39 @@
+{
+  "marca": "Scott",
+  "modelo": "Speedster Gravel 20",
+  "ano": null,
+  "slug": "speedster-gravel-20",
+  "categoria": "gravel",
+  "url_fabricante": "https://www.scott-sports.com/br/pt_BR/product/scott-speedster-gravel-20-bike",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio",
+    "tamanhos": [
+      "XXS47",
+      "XS49",
+      "S52",
+      "M54",
+      "L56",
+      "XL58",
+      "XXL61"
+    ],
+    "aro": "700c",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano GRX RD-RX810 22V, garfo Speedster Gravel HMF Flatmount Disc",
+    "velocidades": 22,
+    "tipo_freio": "Disco hidráulico Shimano BR-RX400 Hyd.",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.scott-sports.com/br/pt_BR/product/scott-speedster-gravel-20-bike",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ]
+}

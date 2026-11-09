@@ -1,0 +1,55 @@
+{
+  "marca": "Oggi",
+  "modelo": "Potenza Pro",
+  "ano": null,
+  "slug": "potenza-pro",
+  "categoria": "ebike",
+  "url_fabricante": "https://oggibikes.com.br/bike/potenza-pro/",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "S",
+      "M",
+      "L"
+    ],
+    "aro": "29",
+    "suspensao": "full",
+    "curso_mm": 160
+  },
+  "componentes": {
+    "grupo": "Shimano XT Di2 12V",
+    "velocidades": 12,
+    "tipo_freio": "Hidráulico Shimano M8100 rotores 203 mm",
+    "peso_kg": 23.9
+  },
+  "ebike": {
+    "motor_tipo": "Shimano EP801 (central)",
+    "potencia_w": 250,
+    "torque_nm": 85,
+    "bateria_wh": 630,
+    "autonomia_declarada_km": null,
+    "acelerador": null,
+    "assistencia_so_com_pedal": null,
+    "vel_max_kmh": null,
+    "largura_cm": null,
+    "entre_eixos_cm": null
+  },
+  "fontes": [
+    {
+      "url": "https://oggibikes.com.br/bike/potenza-pro/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    },
+    {
+      "url": "https://oggibikes.com.br/modelos-eletricas/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "oggi/potenza-pro.webp",
+    "fonte_url": "https://oggibikes.com.br/bike/potenza-pro/"
+  }
+}

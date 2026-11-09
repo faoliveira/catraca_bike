@@ -1,0 +1,51 @@
+{
+  "marca": "Caloi",
+  "modelo": "E-Vibe Rush",
+  "ano": null,
+  "slug": "e-vibe-rush",
+  "categoria": "ebike",
+  "url_fabricante": "https://caloi.com/produto/e-vibe-rush/",
+  "preco_sugerido_brl": 5490,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio hidroformado, liga 6061, tapered",
+    "tamanhos": [
+      "P",
+      "M",
+      "G",
+      "XG"
+    ],
+    "aro": "700c",
+    "suspensao": "hardtail",
+    "curso_mm": 25
+  },
+  "componentes": {
+    "grupo": "Shimano Tourney (RD-TY300/TX30, 7V), cassete Shunfeng 14-34D",
+    "velocidades": 7,
+    "tipo_freio": "Disco hidráulico Logan M500, rotores 160/180 mm",
+    "peso_kg": 18.59
+  },
+  "ebike": {
+    "motor_tipo": "Caloi C40 (motor de cubo), 36V, com sensor de cadência",
+    "potencia_w": 250,
+    "torque_nm": 40,
+    "bateria_wh": 176.4,
+    "autonomia_declarada_km": 25,
+    "acelerador": true,
+    "assistencia_so_com_pedal": false,
+    "vel_max_kmh": 32,
+    "largura_cm": null,
+    "entre_eixos_cm": null
+  },
+  "fontes": [
+    {
+      "url": "https://caloi.com/produto/e-vibe-rush/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "caloi/e-vibe-rush.webp",
+    "fonte_url": "https://caloi.com/produto/e-vibe-rush/"
+  }
+}

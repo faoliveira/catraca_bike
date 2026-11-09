@@ -1,0 +1,40 @@
+{
+  "marca": "Audax",
+  "modelo": "Auge 800",
+  "ano": null,
+  "slug": "auge-800",
+  "categoria": "mtb",
+  "url_fabricante": "https://audaxbike.com/bike/227/auge-800",
+  "preco_sugerido_brl": 17947,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono UD Toray T800",
+    "tamanhos": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "29",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "SRAM NX 12V",
+    "velocidades": 12,
+    "tipo_freio": "Disco hidráulico Shimano M7100 rotores 160 mm",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://audaxbike.com/bike/227/auge-800",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "audax/auge-800.webp",
+    "fonte_url": "https://audaxbike.com/bike/227/auge-800"
+  }
+}

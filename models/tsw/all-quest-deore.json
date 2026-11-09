@@ -1,0 +1,39 @@
+{
+  "marca": "TSW",
+  "modelo": "All Quest Deore",
+  "ano": null,
+  "slug": "all-quest-deore",
+  "categoria": "mtb",
+  "url_fabricante": "https://tswbike.com/p/786/all-quest-deore",
+  "preco_sugerido_brl": 19199,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "S",
+      "M",
+      "L"
+    ],
+    "aro": "29",
+    "suspensao": "full",
+    "curso_mm": 160
+  },
+  "componentes": {
+    "grupo": "Shimano Deore",
+    "velocidades": 12,
+    "tipo_freio": "Hidráulico Shimano SLX M7100",
+    "peso_kg": 16.7
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://tswbike.com/p/786/all-quest-deore",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "tsw/all-quest-deore.webp",
+    "fonte_url": "https://tswbike.com/p/786/all-quest-deore"
+  }
+}

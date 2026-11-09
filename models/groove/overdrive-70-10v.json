@@ -1,0 +1,40 @@
+{
+  "marca": "Groove",
+  "modelo": "Overdrive 70 10V",
+  "ano": null,
+  "slug": "overdrive-70-10v",
+  "categoria": "speed",
+  "url_fabricante": "https://groovebikes.com.br/produto/bicicleta-speed-groove-overdrive-70-2/",
+  "preco_sugerido_brl": 6999.9,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio",
+    "tamanhos": [
+      "PP (48)",
+      "P (51)",
+      "M (54)",
+      "G (56)"
+    ],
+    "aro": "700c",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano Tiagra",
+    "velocidades": 20,
+    "tipo_freio": "Disco hidráulico Shimano BR-4770",
+    "peso_kg": 9.6
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://groovebikes.com.br/produto/bicicleta-speed-groove-overdrive-70-2/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "groove/overdrive-70-10v.webp",
+    "fonte_url": "https://groovebikes.com.br/produto/bicicleta-speed-groove-overdrive-70-2/"
+  }
+}

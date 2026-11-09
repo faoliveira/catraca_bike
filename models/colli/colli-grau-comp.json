@@ -1,0 +1,36 @@
+{
+  "marca": "Colli",
+  "modelo": "Colli Grau Comp",
+  "ano": null,
+  "slug": "colli-grau-comp",
+  "categoria": "urbana",
+  "url_fabricante": "https://collibike.com.br/bicicletas/colli-grau-comp/",
+  "preco_sugerido_brl": 3499.9,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061 T4+T6",
+    "tamanhos": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "26",
+    "suspensao": "hardtail",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano Cues 1x10 (cassete 11-48D)",
+    "velocidades": 10,
+    "tipo_freio": "Disco hidráulico (rotor 160 mm)",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://collibike.com.br/bicicletas/colli-grau-comp/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "ano": null,
+  "atualizado_em": "2026-11-08",
+  "categoria": "urbana",
+  "componentes": {
+    "grupo": null,
+    "peso_kg": null,
+    "tipo_freio": null,
+    "velocidades": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://verdenbikes.com/tork-vm-c-ac-pto-aro-26/"
+    },
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://verdenbikes.com/tork-bege-c-ac-vm-aro-26/"
+    },
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://verdenbikes.com/tork-bege-c-ac-az-aro-26/"
+    },
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://verdenbikes.com/tork-azul-hunter-c-ac-pto-aro-26/"
+    }
+  ],
+  "marca": "Verden",
+  "modelo": "Tork Aro 26",
+  "preco_sugerido_brl": null,
+  "quadro": {
+    "aro": "26",
+    "curso_mm": null,
+    "material": null,
+    "suspensao": null,
+    "tamanhos": null
+  },
+  "slug": "tork-aro-26",
+  "url_fabricante": "https://verdenbikes.com/tork-vm-c-ac-pto-aro-26/",
+  "imagem": {
+    "arquivo": "verden/tork-aro-26.webp",
+    "fonte_url": "https://verdenbikes.com/tork-vm-c-ac-pto-aro-26/"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "marca": "Caloi",
+  "modelo": "Elite Carbon HT Sport 2026",
+  "ano": 2026,
+  "slug": "elite-carbon-ht-sport-deore",
+  "categoria": "mtb",
+  "url_fabricante": "https://caloi.com/produto/elite-carbon-ht-sport-deore/",
+  "preco_sugerido_brl": 11190,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "P",
+      "M",
+      "G",
+      "GG"
+    ],
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": 110
+  },
+  "componentes": {
+    "grupo": "Shimano Deore M6100 12V (cassete 10-51T), garfo RockShox Judy Silver TK",
+    "velocidades": 12,
+    "tipo_freio": "Disco Shimano MT200, rotores 160/180 mm",
+    "peso_kg": 12.74
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://caloi.com/produto/elite-carbon-ht-sport-deore/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "caloi/elite-carbon-ht-sport-deore.webp",
+    "fonte_url": "https://caloi.com/produto/elite-carbon-ht-sport-deore/"
+  }
+}

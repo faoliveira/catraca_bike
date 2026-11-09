@@ -1,0 +1,39 @@
+{
+  "marca": "Audax",
+  "modelo": "ADX 60 2027",
+  "ano": 2027,
+  "slug": "adx-60-2027",
+  "categoria": "mtb",
+  "url_fabricante": "https://audaxbike.com/bike/255/adx-60-2027",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio",
+    "tamanhos": [
+      "S",
+      "M",
+      "L"
+    ],
+    "aro": "29",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": null,
+    "velocidades": 12,
+    "tipo_freio": "Disco hidráulico",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://audaxbike.com/bike/255/adx-60-2027",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "audax/adx-60-2027.webp",
+    "fonte_url": "https://audaxbike.com/bike/255/adx-60-2027"
+  }
+}

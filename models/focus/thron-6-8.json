@@ -1,0 +1,40 @@
+{
+  "marca": "Focus",
+  "modelo": "Thron 6.8",
+  "ano": null,
+  "slug": "thron-6-8",
+  "categoria": "mtb",
+  "url_fabricante": "https://www.focus-bikes.com/int/thron-6-8",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio",
+    "tamanhos": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "29",
+    "suspensao": "full",
+    "curso_mm": 130
+  },
+  "componentes": {
+    "grupo": "Shimano Cues",
+    "velocidades": 10,
+    "tipo_freio": "Hidráulico Magura MT30, rotores 203 mm",
+    "peso_kg": 16.5
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.focus-bikes.com/int/thron-6-8",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "focus/thron-6-8.webp",
+    "fonte_url": "https://www.focus-bikes.com/int/thron-6-8"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "marca": "Soul",
+  "modelo": "E-Spry Gravel SRAM Apex 1x11",
+  "ano": null,
+  "slug": "e-spry-gravel-sram-apex-1x11-11-42t",
+  "categoria": "ebike",
+  "url_fabricante": "https://www.soulcycles.com.br/e-spry-gravel-sram-apex-1x11-11-42t/p",
+  "preco_sugerido_brl": 22800,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "700c",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "SRAM Apex 1x11 (11-42T)",
+    "velocidades": 11,
+    "tipo_freio": "Disco hidráulico SRAM Apex",
+    "peso_kg": 13
+  },
+  "ebike": {
+    "motor_tipo": "MAHLE (cubo traseiro)",
+    "potencia_w": null,
+    "torque_nm": 40,
+    "bateria_wh": 250,
+    "autonomia_declarada_km": 100,
+    "acelerador": null,
+    "assistencia_so_com_pedal": null,
+    "vel_max_kmh": null,
+    "largura_cm": null,
+    "entre_eixos_cm": null
+  },
+  "fontes": [
+    {
+      "url": "https://www.soulcycles.com.br/e-spry-gravel-sram-apex-1x11-11-42t/p",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "soul/e-spry-gravel-sram-apex-1x11-11-42t.webp",
+    "fonte_url": "https://www.soulcycles.com.br/e-spry-gravel-sram-apex-1x11-11-42t/p"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "marca": "Caloi",
+  "modelo": "Elite Carbon FS Sport AXS",
+  "ano": null,
+  "slug": "elite-carbon-fs-sport-axs",
+  "categoria": "mtb",
+  "url_fabricante": "https://caloi.com/produto/elite-carbon-fs-sport-axs/",
+  "preco_sugerido_brl": 29990,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "P",
+      "M",
+      "G"
+    ],
+    "aro": "29",
+    "suspensao": "full",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "SRAM S1000/GX T-Type AXS 12V eletrônico (cassete E70 10-52T), garfo RockShox Recon Silver 120 mm",
+    "velocidades": 12,
+    "tipo_freio": "Disco SRAM Level, rotores 160/180 mm",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://caloi.com/produto/elite-carbon-fs-sport-axs/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "caloi/elite-carbon-fs-sport-axs.webp",
+    "fonte_url": "https://caloi.com/produto/elite-carbon-fs-sport-axs/"
+  }
+}

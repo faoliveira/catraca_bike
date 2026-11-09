@@ -1,0 +1,40 @@
+{
+  "marca": "Soul",
+  "modelo": "Seeker SRAM Apex AXS Eagle 12V",
+  "ano": null,
+  "slug": "seeker-sram-apex-axs-eagle-12v-11-50t",
+  "categoria": "gravel",
+  "url_fabricante": "https://www.soulcycles.com.br/bicicleta-seeker-sram-apex-axs-eagle-12v-11-50t/p",
+  "preco_sugerido_brl": 24000,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "aro": "700c",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "SRAM Apex AXS Eagle 1x12",
+    "velocidades": 12,
+    "tipo_freio": "Disco hidráulico SRAM Apex",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.soulcycles.com.br/bicicleta-seeker-sram-apex-axs-eagle-12v-11-50t/p",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "soul/seeker-sram-apex-axs-eagle-12v-11-50t.webp",
+    "fonte_url": "https://www.soulcycles.com.br/bicicleta-seeker-sram-apex-axs-eagle-12v-11-50t/p"
+  }
+}

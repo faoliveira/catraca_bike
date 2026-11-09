@@ -1,0 +1,37 @@
+{
+  "marca": "Sense",
+  "modelo": "Grom 20 Fun G2",
+  "ano": null,
+  "slug": "grom-20-fun-g2",
+  "categoria": "infantil",
+  "url_fabricante": "https://www.sensebike.com.br/produtos/grom-20-fun-g2/",
+  "preco_sugerido_brl": 3490,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061",
+    "tamanhos": [
+      "Único"
+    ],
+    "aro": "20",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano Altus 8V",
+    "velocidades": 8,
+    "tipo_freio": "Mecânico",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.sensebike.com.br/produtos/grom-20-fun-g2/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "sense/grom-20-fun-g2.webp",
+    "fonte_url": "https://www.sensebike.com.br/produtos/grom-20-fun-g2/"
+  }
+}

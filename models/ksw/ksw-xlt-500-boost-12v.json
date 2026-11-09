@@ -1,0 +1,40 @@
+{
+  "marca": "KSW",
+  "modelo": "XLT 500 Boost 12V",
+  "ano": null,
+  "slug": "ksw-xlt-500-boost-12v",
+  "categoria": "mtb",
+  "url_fabricante": "https://www.kswbikes.com.br/bicicletas/mtb/xlt-500-boost/bicicleta-ksw-xlt-500-boost-12v-aro-29-suspensao-a-ar",
+  "preco_sugerido_brl": 5650,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061 T4 + T6",
+    "tamanhos": [
+      "15",
+      "17",
+      "19",
+      "21"
+    ],
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": 120
+  },
+  "componentes": {
+    "grupo": "GTA RX",
+    "velocidades": 12,
+    "tipo_freio": "Disco hidráulico",
+    "peso_kg": 14.2
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.kswbikes.com.br/bicicletas/mtb/xlt-500-boost/bicicleta-ksw-xlt-500-boost-12v-aro-29-suspensao-a-ar",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "ksw/ksw-xlt-500-boost-12v.webp",
+    "fonte_url": "https://www.kswbikes.com.br/bicicletas/mtb/xlt-500-boost/bicicleta-ksw-xlt-500-boost-12v-aro-29-suspensao-a-ar"
+  }
+}

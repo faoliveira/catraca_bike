@@ -1,0 +1,55 @@
+{
+  "marca": "Oggi",
+  "modelo": "Potenza Sport 2026",
+  "ano": 2026,
+  "slug": "potenza-sport-2026",
+  "categoria": "ebike",
+  "url_fabricante": "https://oggibikes.com.br/bike/potenza-sport-2026/",
+  "preco_sugerido_brl": 39999,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "S",
+      "M",
+      "L"
+    ],
+    "aro": "29",
+    "suspensao": "full",
+    "curso_mm": 160
+  },
+  "componentes": {
+    "grupo": "Shimano Deore 12V",
+    "velocidades": 12,
+    "tipo_freio": "Hidráulico Shimano M4100 rotores 220/203 mm",
+    "peso_kg": 25
+  },
+  "ebike": {
+    "motor_tipo": "Shimano EP6 (central)",
+    "potencia_w": 250,
+    "torque_nm": 85,
+    "bateria_wh": 630,
+    "autonomia_declarada_km": null,
+    "acelerador": null,
+    "assistencia_so_com_pedal": null,
+    "vel_max_kmh": null,
+    "largura_cm": null,
+    "entre_eixos_cm": null
+  },
+  "fontes": [
+    {
+      "url": "https://oggibikes.com.br/bike/potenza-sport-2026/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    },
+    {
+      "url": "https://oggibikes.com.br/modelos-eletricas/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "oggi/potenza-sport-2026.webp",
+    "fonte_url": "https://oggibikes.com.br/bike/potenza-sport-2026/"
+  }
+}

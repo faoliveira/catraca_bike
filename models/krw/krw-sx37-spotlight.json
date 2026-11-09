@@ -1,0 +1,35 @@
+{
+  "marca": "KRW",
+  "modelo": "SX37 Spotlight",
+  "ano": null,
+  "slug": "krw-sx37-spotlight",
+  "categoria": "mtb",
+  "url_fabricante": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-spotlight-aluminio-21-velocidades-freio-a-disco-sx37-outlet/",
+  "preco_sugerido_brl": 834,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061",
+    "tamanhos": null,
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": null,
+    "velocidades": 21,
+    "tipo_freio": "Disco mecânico",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-spotlight-aluminio-21-velocidades-freio-a-disco-sx37-outlet/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "krw/krw-sx37-spotlight.webp",
+    "fonte_url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-spotlight-aluminio-21-velocidades-freio-a-disco-sx37-outlet/"
+  }
+}

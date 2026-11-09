@@ -1,0 +1,36 @@
+{
+  "marca": "Colli",
+  "modelo": "Colli Grau Sport",
+  "ano": null,
+  "slug": "colli-grau-sport",
+  "categoria": "urbana",
+  "url_fabricante": "https://collibike.com.br/bicicletas/colli-grau-sport/",
+  "preco_sugerido_brl": 2799.9,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061 T4+T6",
+    "tamanhos": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "26",
+    "suspensao": "hardtail",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Colli single 34D, pinhão 16D",
+    "velocidades": 1,
+    "tipo_freio": "Disco (rotor 160 mm)",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://collibike.com.br/bicicletas/colli-grau-sport/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ]
+}

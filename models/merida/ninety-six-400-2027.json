@@ -1,0 +1,41 @@
+{
+  "marca": "Merida",
+  "modelo": "Ninety-Six 400",
+  "ano": 2027,
+  "slug": "ninety-six-400-2027",
+  "categoria": "mtb",
+  "url_fabricante": "https://www.merida-bikes.com/en/bike/6532/ninety-six-400",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio",
+    "tamanhos": [
+      "XShort",
+      "Short",
+      "Mid",
+      "Long",
+      "XLong"
+    ],
+    "aro": "29",
+    "suspensao": "full",
+    "curso_mm": 120
+  },
+  "componentes": {
+    "grupo": "Shimano Deore",
+    "velocidades": 12,
+    "tipo_freio": "Hidráulico Shimano MT200, rotores 180 mm",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.merida-bikes.com/en/bike/6532/ninety-six-400",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "merida/ninety-six-400-2027.webp",
+    "fonte_url": "https://www.merida-bikes.com/en/bike/6532/ninety-six-400"
+  }
+}

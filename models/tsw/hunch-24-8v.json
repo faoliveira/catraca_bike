@@ -1,0 +1,35 @@
+{
+  "marca": "TSW",
+  "modelo": "Hunch 24 8V",
+  "ano": null,
+  "slug": "hunch-24-8v",
+  "categoria": "mtb",
+  "url_fabricante": "https://tswbike.com/p/2124/hunch-24-8v",
+  "preco_sugerido_brl": 3300,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061",
+    "tamanhos": null,
+    "aro": "24",
+    "suspensao": "hardtail",
+    "curso_mm": 100
+  },
+  "componentes": {
+    "grupo": "Shimano Acera",
+    "velocidades": 8,
+    "tipo_freio": "Hidráulico Shimano BR-MT410 rotores 160 mm",
+    "peso_kg": 12.1
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://tswbike.com/p/2124/hunch-24-8v",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "tsw/hunch-24-8v.webp",
+    "fonte_url": "https://tswbike.com/p/2124/hunch-24-8v"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "marca": "Merida",
+  "modelo": "Big Seven 60",
+  "ano": 2027,
+  "slug": "bigseven-60-2027",
+  "categoria": "mtb",
+  "url_fabricante": "https://www.merida-bikes.com/en/bike/6503/bigseven-60",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio",
+    "tamanhos": [
+      "XXS",
+      "XS",
+      "S"
+    ],
+    "aro": null,
+    "suspensao": "hardtail",
+    "curso_mm": 120
+  },
+  "componentes": {
+    "grupo": "Shimano Cues 2x",
+    "velocidades": 18,
+    "tipo_freio": "Hidráulico Shimano MT200, rotores 160 mm",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.merida-bikes.com/en/bike/6503/bigseven-60",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "merida/bigseven-60-2027.webp",
+    "fonte_url": "https://www.merida-bikes.com/en/bike/6503/bigseven-60"
+  }
+}

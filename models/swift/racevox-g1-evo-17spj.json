@@ -1,0 +1,41 @@
+{
+  "marca": "Swift",
+  "modelo": "Racevox G1 Evo",
+  "ano": null,
+  "slug": "racevox-g1-evo-17spj",
+  "categoria": "speed",
+  "url_fabricante": "https://www.sensebike.com.br/produtos/racevox-g1-evo-17spj/",
+  "preco_sugerido_brl": 42990,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono Mitsubishi",
+    "tamanhos": [
+      "49",
+      "51",
+      "54",
+      "56",
+      "59"
+    ],
+    "aro": "700c",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano Ultegra Di2 24V",
+    "velocidades": 24,
+    "tipo_freio": "Hidráulico Shimano BR-R8170",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.sensebike.com.br/produtos/racevox-g1-evo-17spj/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "swift/racevox-g1-evo-17spj.webp",
+    "fonte_url": "https://www.sensebike.com.br/produtos/racevox-g1-evo-17spj/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "marca": "Colli",
+  "modelo": "Colli Sevilha Cues",
+  "ano": null,
+  "slug": "colli-sevilha-cues",
+  "categoria": "mtb",
+  "url_fabricante": "https://collibike.com.br/bicicletas/colli-sevilha-cues/",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061, cabeamento interno, Boost 12x148 mm",
+    "tamanhos": [
+      "15,5",
+      "17",
+      "19",
+      "21"
+    ],
+    "aro": "29",
+    "suspensao": null,
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano Cues 1x11 (cassete LG400 11-50D)",
+    "velocidades": 11,
+    "tipo_freio": null,
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://collibike.com.br/bicicletas/colli-sevilha-cues/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "marca": "Merida",
+  "modelo": "One-Sixty 6000",
+  "ano": 2027,
+  "slug": "one-sixty-6000-2027",
+  "categoria": "mtb",
+  "url_fabricante": "https://www.merida-bikes.com/en/bike/6519/one-sixty-6000",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "XShort",
+      "Short",
+      "Mid",
+      "Long",
+      "XLong"
+    ],
+    "aro": "29",
+    "suspensao": "full",
+    "curso_mm": 170
+  },
+  "componentes": {
+    "grupo": "SRAM Eagle 70",
+    "velocidades": 12,
+    "tipo_freio": "Hidráulico TRP Evo Comp HD-M7040, rotores 200 mm",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.merida-bikes.com/en/bike/6519/one-sixty-6000",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "merida/one-sixty-6000-2027.webp",
+    "fonte_url": "https://www.merida-bikes.com/en/bike/6519/one-sixty-6000"
+  }
+}

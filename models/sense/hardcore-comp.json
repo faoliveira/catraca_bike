@@ -1,0 +1,41 @@
+{
+  "marca": "Sense",
+  "modelo": "Hardcore Comp",
+  "ano": null,
+  "slug": "hardcore-comp",
+  "categoria": "mtb",
+  "url_fabricante": "https://www.sensebike.com.br/produtos/hardcore-comp/",
+  "preco_sugerido_brl": 8990,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio",
+    "tamanhos": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": 140
+  },
+  "componentes": {
+    "grupo": "Shimano Deore 11V",
+    "velocidades": 11,
+    "tipo_freio": "Shimano MT401",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.sensebike.com.br/produtos/hardcore-comp/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "sense/hardcore-comp.webp",
+    "fonte_url": "https://www.sensebike.com.br/produtos/hardcore-comp/"
+  }
+}

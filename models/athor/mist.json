@@ -1,0 +1,35 @@
+{
+  "ano": null,
+  "atualizado_em": "2026-11-08",
+  "categoria": "infantil",
+  "componentes": {
+    "grupo": null,
+    "peso_kg": null,
+    "tipo_freio": "V-Brake nylon",
+    "velocidades": 1
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://athorbikes.com.br/bicicleta/mist/"
+    }
+  ],
+  "marca": "Athor",
+  "modelo": "Mist",
+  "preco_sugerido_brl": null,
+  "quadro": {
+    "aro": "20",
+    "curso_mm": null,
+    "material": "Aço carbono",
+    "suspensao": null,
+    "tamanhos": null
+  },
+  "slug": "mist",
+  "url_fabricante": "https://athorbikes.com.br/bicicleta/mist/",
+  "imagem": {
+    "arquivo": "athor/mist.webp",
+    "fonte_url": "https://athorbikes.com.br/bicicleta/mist/"
+  }
+}

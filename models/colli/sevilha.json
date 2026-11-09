@@ -1,0 +1,36 @@
+{
+  "marca": "Colli",
+  "modelo": "Sevilha",
+  "ano": null,
+  "slug": "sevilha",
+  "categoria": "mtb",
+  "url_fabricante": "https://collibike.com.br/bicicletas/sevilha/",
+  "preco_sugerido_brl": 6899.9,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061 T4+T6 Boost",
+    "tamanhos": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano Cues 1x11 (cassete LG400 11-50T), garfo Suntour X1-Boost Air",
+    "velocidades": 11,
+    "tipo_freio": "Disco Shimano MT-200, rotor 160 mm",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://collibike.com.br/bicicletas/sevilha/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "marca": "Soul",
+  "modelo": "3R5 SRAM Force E1 24V Potência",
+  "ano": null,
+  "slug": "3r5-sram-force-e1-24v-potencia",
+  "categoria": "speed",
+  "url_fabricante": "https://www.soulcycles.com.br/bicicleta-3r5-sram-force-e1-24v-potencia/p",
+  "preco_sugerido_brl": 49000,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "aro": "700c",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "SRAM Force E1 AXS 2x12",
+    "velocidades": 24,
+    "tipo_freio": "Disco hidráulico SRAM Force E1",
+    "peso_kg": 7.6
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.soulcycles.com.br/bicicleta-3r5-sram-force-e1-24v-potencia/p",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "soul/3r5-sram-force-e1-24v-potencia.webp",
+    "fonte_url": "https://www.soulcycles.com.br/bicicleta-3r5-sram-force-e1-24v-potencia/p"
+  }
+}

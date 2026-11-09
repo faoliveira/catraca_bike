@@ -1,0 +1,35 @@
+{
+  "marca": "Caloi",
+  "modelo": "Balance Caloi",
+  "ano": null,
+  "slug": "balance-bike-caloi",
+  "categoria": "infantil",
+  "url_fabricante": "https://caloi.com/produto/balance-bike-caloi/",
+  "preco_sugerido_brl": 269.9,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Aço",
+    "tamanhos": null,
+    "aro": "12",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": null,
+    "velocidades": null,
+    "tipo_freio": "Freio traseiro a tambor",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://caloi.com/produto/balance-bike-caloi/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "caloi/balance-bike-caloi.webp",
+    "fonte_url": "https://caloi.com/produto/balance-bike-caloi/"
+  }
+}

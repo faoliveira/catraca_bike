@@ -1,0 +1,35 @@
+{
+  "ano": null,
+  "atualizado_em": "2026-11-08",
+  "categoria": "infantil",
+  "componentes": {
+    "grupo": null,
+    "peso_kg": null,
+    "tipo_freio": null,
+    "velocidades": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://verdenbikes.com/breeze-aro-20-branco-e-pink/"
+    }
+  ],
+  "marca": "Verden",
+  "modelo": "Breeze Aro 20",
+  "preco_sugerido_brl": null,
+  "quadro": {
+    "aro": "20",
+    "curso_mm": null,
+    "material": null,
+    "suspensao": null,
+    "tamanhos": null
+  },
+  "slug": "breeze-aro-20",
+  "url_fabricante": "https://verdenbikes.com/breeze-aro-20-branco-e-pink/",
+  "imagem": {
+    "arquivo": "verden/breeze-aro-20.webp",
+    "fonte_url": "https://verdenbikes.com/breeze-aro-20-branco-e-pink/"
+  }
+}

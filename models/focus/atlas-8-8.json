@@ -1,0 +1,41 @@
+{
+  "marca": "Focus",
+  "modelo": "Atlas 8.8",
+  "ano": null,
+  "slug": "atlas-8-8",
+  "categoria": "gravel",
+  "url_fabricante": "https://www.focus-bikes.com/int/atlas-8-8",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": null,
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "SRAM S1000 Eagle AXS",
+    "velocidades": 12,
+    "tipo_freio": "Hidráulico SRAM Apex, rotores 160/180 mm",
+    "peso_kg": 9.7
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.focus-bikes.com/int/atlas-8-8",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "focus/atlas-8-8.webp",
+    "fonte_url": "https://www.focus-bikes.com/int/atlas-8-8"
+  }
+}

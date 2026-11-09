@@ -1,0 +1,39 @@
+{
+  "marca": "Swift",
+  "modelo": "Mk3 Evo SSL",
+  "ano": null,
+  "slug": "mk3-evo-ssl",
+  "categoria": "speed",
+  "url_fabricante": "https://www.sensebike.com.br/produtos/mk3-evo-ssl/",
+  "preco_sugerido_brl": 76990,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "49",
+      "51",
+      "52"
+    ],
+    "aro": "700c",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "SRAM Red AXS",
+    "velocidades": null,
+    "tipo_freio": "SRAM",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.sensebike.com.br/produtos/mk3-evo-ssl/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "swift/mk3-evo-ssl.webp",
+    "fonte_url": "https://www.sensebike.com.br/produtos/mk3-evo-ssl/"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "marca": "Sense",
+  "modelo": "Grom 24 Race G2",
+  "ano": null,
+  "slug": "grom-24-race-g2",
+  "categoria": "mtb",
+  "url_fabricante": "https://www.sensebike.com.br/produtos/grom-24-race-g2/",
+  "preco_sugerido_brl": 5490,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061",
+    "tamanhos": [
+      "Único"
+    ],
+    "aro": "24",
+    "suspensao": "hardtail",
+    "curso_mm": 80
+  },
+  "componentes": {
+    "grupo": "Shimano Cues 20V",
+    "velocidades": 20,
+    "tipo_freio": "Tektro",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.sensebike.com.br/produtos/grom-24-race-g2/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "sense/grom-24-race-g2.webp",
+    "fonte_url": "https://www.sensebike.com.br/produtos/grom-24-race-g2/"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "marca": "Trek",
+  "modelo": "Domane SL 5 4ª Geração",
+  "ano": null,
+  "slug": "domane-sl-5",
+  "categoria": "speed",
+  "url_fabricante": "https://www.trekbikes.com/br/pt_BR/bicicletas/bicicletas-de-estrada/bicicletas-de-estrada-de-alto-desempenho/domane/domane-sl/domane-sl-5-4%C2%AA-gera%C3%A7%C3%A3o/p/57629/",
+  "preco_sugerido_brl": 24990,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "44",
+      "47",
+      "50",
+      "52",
+      "54",
+      "56",
+      "58",
+      "60",
+      "62"
+    ],
+    "aro": "700c",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano 105 R7100 12V",
+    "velocidades": 12,
+    "tipo_freio": null,
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.trekbikes.com/br/pt_BR/bicicletas/bicicletas-de-estrada/bicicletas-de-estrada-de-alto-desempenho/domane/domane-sl/domane-sl-5-4%C2%AA-gera%C3%A7%C3%A3o/p/57629/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ]
+}

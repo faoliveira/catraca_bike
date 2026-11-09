@@ -1,0 +1,40 @@
+{
+  "marca": "Audax",
+  "modelo": "ADX 400 Deore 2025",
+  "ano": 2025,
+  "slug": "adx-400-deore-2025",
+  "categoria": "mtb",
+  "url_fabricante": "https://www.audaxbike.com/bike/225/adx-400-deore-2025",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061 T6",
+    "tamanhos": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": 100
+  },
+  "componentes": {
+    "grupo": "Shimano Deore",
+    "velocidades": 12,
+    "tipo_freio": "Disco hidráulico Shimano 4 pistões",
+    "peso_kg": 13.6
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.audaxbike.com/bike/225/adx-400-deore-2025",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "audax/adx-400-deore-2025.webp",
+    "fonte_url": "https://www.audaxbike.com/bike/225/adx-400-deore-2025"
+  }
+}

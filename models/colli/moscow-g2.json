@@ -1,0 +1,31 @@
+{
+  "marca": "Colli",
+  "modelo": "Moscow G2",
+  "ano": null,
+  "slug": "moscow-g2",
+  "categoria": "mtb",
+  "url_fabricante": "https://collibike.com.br/bicicletas/moscow-g2/",
+  "preco_sugerido_brl": 3999.9,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061 T4+T6",
+    "tamanhos": null,
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Inviktus 1x12 com câmbio traseiro Shimano Deore M6100 (cassete 11-50D)",
+    "velocidades": 12,
+    "tipo_freio": "Disco (rotor 160 mm)",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://collibike.com.br/bicicletas/moscow-g2/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "marca": "Caloi",
+  "modelo": "Explorer EVO",
+  "ano": null,
+  "slug": "explorer-evo",
+  "categoria": "mtb",
+  "url_fabricante": "https://caloi.com/produto/explorer-evo/",
+  "preco_sugerido_brl": 8990,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6069 hidroformado, tapered, Boost, cabeamento interno",
+    "tamanhos": [
+      "PP",
+      "P",
+      "M",
+      "G",
+      "GG"
+    ],
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": 100
+  },
+  "componentes": {
+    "grupo": "Shimano Deore M6100 12V (cassete 10-51T), garfo RockShox Judy Silver",
+    "velocidades": 12,
+    "tipo_freio": "Disco Shimano M4100, rotores 160/180 mm",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://caloi.com/produto/explorer-evo/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "caloi/explorer-evo.webp",
+    "fonte_url": "https://caloi.com/produto/explorer-evo/"
+  }
+}

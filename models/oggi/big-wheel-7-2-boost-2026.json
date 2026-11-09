@@ -1,0 +1,45 @@
+{
+  "marca": "Oggi",
+  "modelo": "Big Wheel 7.2 Boost 2026",
+  "ano": 2026,
+  "slug": "big-wheel-7-2-boost-2026",
+  "categoria": "mtb",
+  "url_fabricante": "https://oggibikes.com.br/bike/big-wheel-7-2-boost-2026/",
+  "preco_sugerido_brl": 6499,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061 T6",
+    "tamanhos": [
+      "15.5",
+      "17",
+      "19",
+      "21"
+    ],
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": 100
+  },
+  "componentes": {
+    "grupo": "Shimano Deore 12V",
+    "velocidades": 12,
+    "tipo_freio": "Hidráulico Shimano MT200 rotores 160 mm",
+    "peso_kg": 12.6
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://oggibikes.com.br/bike/big-wheel-7-2-boost-2026/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    },
+    {
+      "url": "https://oggibikes.com.br/modelos-mtb/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "oggi/big-wheel-7-2-boost-2026.webp",
+    "fonte_url": "https://oggibikes.com.br/bike/big-wheel-7-2-boost-2026/"
+  }
+}

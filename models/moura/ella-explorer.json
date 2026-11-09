@@ -1,0 +1,51 @@
+{
+  "marca": "Moura",
+  "modelo": "Ella Explorer",
+  "ano": null,
+  "slug": "ella-explorer",
+  "categoria": "ebike",
+  "url_fabricante": "https://www.ebikeella.com.br/products/ella-explorer",
+  "preco_sugerido_brl": 11990,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio",
+    "tamanhos": null,
+    "aro": "29",
+    "suspensao": "full",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano Altus",
+    "velocidades": 8,
+    "tipo_freio": "Disco hidráulico 160mm Shimano MT-200",
+    "peso_kg": 26
+  },
+  "ebike": {
+    "motor_tipo": "Bafang M430 central",
+    "potencia_w": 350,
+    "torque_nm": 120,
+    "bateria_wh": 720,
+    "autonomia_declarada_km": 80,
+    "acelerador": true,
+    "assistencia_so_com_pedal": false,
+    "vel_max_kmh": 32,
+    "largura_cm": 72,
+    "entre_eixos_cm": null
+  },
+  "fontes": [
+    {
+      "url": "https://www.ebikeella.com.br/products/ella-explorer",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    },
+    {
+      "url": "https://www.ebikeella.com.br/pages/ella-explorer",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "moura/ella-explorer.webp",
+    "fonte_url": "https://www.ebikeella.com.br/products/ella-explorer"
+  }
+}

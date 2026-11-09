@@ -1,0 +1,35 @@
+{
+  "marca": "Caloi",
+  "modelo": "Aluminum Pro",
+  "ano": null,
+  "slug": "aluminum-pro",
+  "categoria": "mtb",
+  "url_fabricante": "https://caloi.com/produto/aluminum-pro/",
+  "preco_sugerido_brl": 2399,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio",
+    "tamanhos": null,
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": 100
+  },
+  "componentes": {
+    "grupo": "Microshift XLE 2x10V (cassete CS-H093 11-42D)",
+    "velocidades": 20,
+    "tipo_freio": "Disco hidráulico Logan HDM500",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://caloi.com/produto/aluminum-pro/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "caloi/aluminum-pro.webp",
+    "fonte_url": "https://caloi.com/produto/aluminum-pro/"
+  }
+}

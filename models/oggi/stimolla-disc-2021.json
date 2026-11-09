@@ -1,0 +1,48 @@
+{
+  "marca": "Oggi",
+  "modelo": "Stimolla Disc 2021",
+  "ano": 2021,
+  "slug": "stimolla-disc-2021",
+  "categoria": "speed",
+  "url_fabricante": "https://oggibikes.com.br/bike/stimolla-disc-2021/",
+  "preco_sugerido_brl": 8590,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio",
+    "tamanhos": [
+      "XS",
+      "S",
+      "(S",
+      "M)",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "700c",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano Tiagra 20V",
+    "velocidades": 20,
+    "tipo_freio": "Hidráulico Shimano",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://oggibikes.com.br/bike/stimolla-disc-2021/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    },
+    {
+      "url": "https://oggibikes.com.br/modelos-speed/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "oggi/stimolla-disc-2021.webp",
+    "fonte_url": "https://oggibikes.com.br/bike/stimolla-disc-2021/"
+  }
+}

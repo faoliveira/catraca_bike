@@ -1,0 +1,31 @@
+{
+  "marca": "Colli",
+  "modelo": "Colli GPS Aro 26",
+  "ano": null,
+  "slug": "colli-gps-aro-26",
+  "categoria": "urbana",
+  "url_fabricante": "https://collibike.com.br/bicicletas/colli-gps-aro-26/",
+  "preco_sugerido_brl": 999.9,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Aço carbono",
+    "tamanhos": null,
+    "aro": "26",
+    "suspensao": "full",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Triplo em aço, roda livre 7V, Grip-Shift",
+    "velocidades": 21,
+    "tipo_freio": "V-brake",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://collibike.com.br/bicicletas/colli-gps-aro-26/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ]
+}

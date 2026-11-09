@@ -1,0 +1,35 @@
+{
+  "marca": "Caloi",
+  "modelo": "Max 24",
+  "ano": 2026,
+  "slug": "max-24-my2026",
+  "categoria": "urbana",
+  "url_fabricante": "https://caloi.com/produto/max-24-my2026/",
+  "preco_sugerido_brl": 1119,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Aço",
+    "tamanhos": null,
+    "aro": "24",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Caloi Indexado 3x7V",
+    "velocidades": 21,
+    "tipo_freio": "V-brake de aço",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://caloi.com/produto/max-24-my2026/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "caloi/max-24-my2026.webp",
+    "fonte_url": "https://caloi.com/produto/max-24-my2026/"
+  }
+}

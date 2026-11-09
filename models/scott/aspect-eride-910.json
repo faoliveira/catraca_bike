@@ -1,0 +1,48 @@
+{
+  "marca": "Scott",
+  "modelo": "Aspect eRIDE 910",
+  "ano": null,
+  "slug": "aspect-eride-910",
+  "categoria": "ebike",
+  "url_fabricante": "https://www.scott-sports.com/br/pt_BR/product/scott-aspect-eride-910-bike",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio",
+    "tamanhos": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": 120
+  },
+  "componentes": {
+    "grupo": "SRAM NX Eagle 12V, garfo SR Suntour XCM34 RL Coil",
+    "velocidades": 12,
+    "tipo_freio": "Disco Shimano BR-MT420, rotores 180/180 mm",
+    "peso_kg": null
+  },
+  "ebike": {
+    "motor_tipo": "Bosch Performance Line CX (BDU384Y)",
+    "potencia_w": null,
+    "torque_nm": null,
+    "bateria_wh": 600,
+    "autonomia_declarada_km": null,
+    "acelerador": null,
+    "assistencia_so_com_pedal": null,
+    "vel_max_kmh": 25,
+    "largura_cm": null,
+    "entre_eixos_cm": null
+  },
+  "fontes": [
+    {
+      "url": "https://www.scott-sports.com/br/pt_BR/product/scott-aspect-eride-910-bike",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ]
+}

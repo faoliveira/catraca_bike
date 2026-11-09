@@ -1,0 +1,38 @@
+{
+  "marca": "Athor",
+  "modelo": "Carbon Pro",
+  "ano": null,
+  "slug": "carbon-pro",
+  "categoria": "mtb",
+  "url_fabricante": "https://athorbikes.com.br/bicicleta/carbon-pro/",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Fibra de carbono Toray T700, cabeamento interno, eixo Boost 12x148 mm",
+    "tamanhos": [
+      "S",
+      "M"
+    ],
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": 100
+  },
+  "componentes": {
+    "grupo": "Shimano Deore M6100 1x12V (10x51d)",
+    "velocidades": 12,
+    "tipo_freio": "Disco hidráulico Shimano BL-M4100 160 mm",
+    "peso_kg": 11.9
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://athorbikes.com.br/bicicleta/carbon-pro/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "athor/carbon-pro.webp",
+    "fonte_url": "https://athorbikes.com.br/bicicleta/carbon-pro/"
+  }
+}

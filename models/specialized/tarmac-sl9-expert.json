@@ -1,0 +1,43 @@
+{
+  "marca": "Specialized",
+  "modelo": "Tarmac SL9 Expert",
+  "ano": null,
+  "slug": "tarmac-sl9-expert",
+  "categoria": "speed",
+  "url_fabricante": "https://www.specialized.com/br/pt/tarmac-sl9-expert--sram-force-axs/p/4293530",
+  "preco_sugerido_brl": 59990,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "44",
+      "49",
+      "52",
+      "54",
+      "56",
+      "58",
+      "61"
+    ],
+    "aro": "700c",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "SRAM Force AXS E1 12V, garfo FACT 12r Carbon",
+    "velocidades": 12,
+    "tipo_freio": "Disco hidráulico SRAM Force E1",
+    "peso_kg": 7.55
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.specialized.com/br/pt/tarmac-sl9-expert--sram-force-axs/p/4293530",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "specialized/tarmac-sl9-expert.webp",
+    "fonte_url": "https://www.specialized.com/br/pt/tarmac-sl9-expert--sram-force-axs/p/4293530"
+  }
+}

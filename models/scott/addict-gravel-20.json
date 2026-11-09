@@ -1,0 +1,39 @@
+{
+  "marca": "Scott",
+  "modelo": "Addict Gravel 20",
+  "ano": null,
+  "slug": "addict-gravel-20",
+  "categoria": "gravel",
+  "url_fabricante": "https://www.scott-sports.com/br/pt_BR/product/scott-addict-gravel-20-bike-427614",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "XXS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "aro": "700c",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "SRAM FORCE XPLR AXS 13V, garfo Addict Gravel HMF Flatmount Disc",
+    "velocidades": 13,
+    "tipo_freio": "Disco SRAM FORCE AXS HRD Shift- System, rotores 160/160 mm",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.scott-sports.com/br/pt_BR/product/scott-addict-gravel-20-bike-427614",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ]
+}

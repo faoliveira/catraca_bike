@@ -1,0 +1,40 @@
+{
+  "marca": "TSW",
+  "modelo": "Evo Quest SL",
+  "ano": null,
+  "slug": "evo-quest-sl",
+  "categoria": "mtb",
+  "url_fabricante": "https://tswbike.com/p/1379/evo-quest-sl",
+  "preco_sugerido_brl": 56900,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono Toray T700/T800/T1000",
+    "tamanhos": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": 110
+  },
+  "componentes": {
+    "grupo": "SRAM XX Eagle AXS T-Type",
+    "velocidades": 12,
+    "tipo_freio": "Hidráulico SRAM Level Stealth Ultimate rotores 180/160 mm",
+    "peso_kg": 9.4
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://tswbike.com/p/1379/evo-quest-sl",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "tsw/evo-quest-sl.webp",
+    "fonte_url": "https://tswbike.com/p/1379/evo-quest-sl"
+  }
+}

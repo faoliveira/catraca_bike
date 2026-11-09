@@ -1,0 +1,51 @@
+{
+  "marca": "Sense",
+  "modelo": "Impulse E-Trail Sport",
+  "ano": null,
+  "slug": "impulse-e-trail-sport",
+  "categoria": "ebike",
+  "url_fabricante": "https://www.sensebike.com.br/produtos/impulse-e-trail-sport/",
+  "preco_sugerido_brl": 23990,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061",
+    "tamanhos": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "29",
+    "suspensao": "full",
+    "curso_mm": 160
+  },
+  "componentes": {
+    "grupo": "Shimano Cues 11V",
+    "velocidades": 11,
+    "tipo_freio": "Shimano M4100 rotores 203 mm",
+    "peso_kg": null
+  },
+  "ebike": {
+    "motor_tipo": "Shimano DU-E8000 (central)",
+    "potencia_w": null,
+    "torque_nm": null,
+    "bateria_wh": 630,
+    "autonomia_declarada_km": null,
+    "acelerador": null,
+    "assistencia_so_com_pedal": null,
+    "vel_max_kmh": null,
+    "largura_cm": null,
+    "entre_eixos_cm": null
+  },
+  "fontes": [
+    {
+      "url": "https://www.sensebike.com.br/produtos/impulse-e-trail-sport/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "sense/impulse-e-trail-sport.webp",
+    "fonte_url": "https://www.sensebike.com.br/produtos/impulse-e-trail-sport/"
+  }
+}

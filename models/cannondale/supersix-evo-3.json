@@ -1,0 +1,41 @@
+{
+  "marca": "Cannondale",
+  "modelo": "SuperSix EVO 3",
+  "ano": null,
+  "slug": "supersix-evo-3",
+  "categoria": "speed",
+  "url_fabricante": "https://www.cannondale.com/pt-br/bikes/road/race/supersix-evo/supersix-evo-3",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "51",
+      "54",
+      "56",
+      "48",
+      "58"
+    ],
+    "aro": "700c",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano 105 Di2 R7150 12V, garfo SuperSix EVO Carbon",
+    "velocidades": 12,
+    "tipo_freio": "Disco hidráulico Shimano 105 R7170, rotores 160/160 mm",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.cannondale.com/pt-br/bikes/road/race/supersix-evo/supersix-evo-3",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "cannondale/supersix-evo-3.webp",
+    "fonte_url": "https://www.cannondale.com/pt-br/bikes/road/race/supersix-evo/supersix-evo-3"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "ano": null,
+  "atualizado_em": "2026-11-08",
+  "categoria": "urbana",
+  "componentes": {
+    "grupo": null,
+    "peso_kg": null,
+    "tipo_freio": "V-Brake",
+    "velocidades": 1
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://athorbikes.com.br/bicicleta/athor-m/"
+    }
+  ],
+  "marca": "Athor",
+  "modelo": "Athor M",
+  "preco_sugerido_brl": null,
+  "quadro": {
+    "aro": null,
+    "curso_mm": null,
+    "material": "Aço carbono",
+    "suspensao": null,
+    "tamanhos": null
+  },
+  "slug": "athor-m",
+  "url_fabricante": "https://athorbikes.com.br/bicicleta/athor-m/",
+  "imagem": {
+    "arquivo": "athor/athor-m.webp",
+    "fonte_url": "https://athorbikes.com.br/bicicleta/athor-m/"
+  }
+}

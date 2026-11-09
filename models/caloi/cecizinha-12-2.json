@@ -1,0 +1,35 @@
+{
+  "marca": "Caloi",
+  "modelo": "Cecizinha 12",
+  "ano": null,
+  "slug": "cecizinha-12-2",
+  "categoria": "infantil",
+  "url_fabricante": "https://caloi.com/produto/cecizinha-12-2/",
+  "preco_sugerido_brl": 299.9,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Aço",
+    "tamanhos": null,
+    "aro": "12",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Roda livre 1 velocidade",
+    "velocidades": 1,
+    "tipo_freio": "Freio a tambor",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://caloi.com/produto/cecizinha-12-2/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "caloi/cecizinha-12-2.webp",
+    "fonte_url": "https://caloi.com/produto/cecizinha-12-2/"
+  }
+}

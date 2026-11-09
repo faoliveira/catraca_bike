@@ -1,0 +1,49 @@
+{
+  "marca": "Groove",
+  "modelo": "E-Slap Alloy 2027",
+  "ano": 2027,
+  "slug": "e-slap-alloy-2027",
+  "categoria": "ebike",
+  "url_fabricante": "https://groovebikes.com.br/produto/bicicleta-eletrica-groove-e-slap-alloy-2027/",
+  "preco_sugerido_brl": 33999.9,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio",
+    "tamanhos": [
+      "S (15.5)",
+      "M (17.5)"
+    ],
+    "aro": "29",
+    "suspensao": "full",
+    "curso_mm": 160
+  },
+  "componentes": {
+    "grupo": "Shimano Deore",
+    "velocidades": 12,
+    "tipo_freio": "Disco hidráulico Shimano Deore 4 pistões",
+    "peso_kg": 28
+  },
+  "ebike": {
+    "motor_tipo": "Motor central Bafang M430",
+    "potencia_w": 500,
+    "torque_nm": 140,
+    "bateria_wh": 840,
+    "autonomia_declarada_km": 140,
+    "acelerador": null,
+    "assistencia_so_com_pedal": null,
+    "vel_max_kmh": 45,
+    "largura_cm": null,
+    "entre_eixos_cm": null
+  },
+  "fontes": [
+    {
+      "url": "https://groovebikes.com.br/produto/bicicleta-eletrica-groove-e-slap-alloy-2027/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "groove/e-slap-alloy-2027.webp",
+    "fonte_url": "https://groovebikes.com.br/produto/bicicleta-eletrica-groove-e-slap-alloy-2027/"
+  }
+}

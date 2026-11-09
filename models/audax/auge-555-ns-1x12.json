@@ -1,0 +1,39 @@
+{
+  "marca": "Audax",
+  "modelo": "Auge 555 NS 1X12",
+  "ano": null,
+  "slug": "auge-555-ns-1x12",
+  "categoria": "mtb",
+  "url_fabricante": "https://audaxbike.com/bike/244/auge-555-ns-1x12",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono UD",
+    "tamanhos": [
+      "S",
+      "M",
+      "L"
+    ],
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": 100
+  },
+  "componentes": {
+    "grupo": "Shimano Deore 24V",
+    "velocidades": 24,
+    "tipo_freio": "Disco hidráulico Shimano BL-MT200 rotores 160 mm",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://audaxbike.com/bike/244/auge-555-ns-1x12",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "audax/auge-555-ns-1x12.webp",
+    "fonte_url": "https://audaxbike.com/bike/244/auge-555-ns-1x12"
+  }
+}

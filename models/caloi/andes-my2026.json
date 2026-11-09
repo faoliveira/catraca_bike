@@ -1,0 +1,35 @@
+{
+  "marca": "Caloi",
+  "modelo": "Andes MY2026",
+  "ano": 2026,
+  "slug": "andes-my2026",
+  "categoria": "mtb",
+  "url_fabricante": "https://caloi.com/produto/andes-my2026/",
+  "preco_sugerido_brl": 1229,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Aço",
+    "tamanhos": null,
+    "aro": "26",
+    "suspensao": "hardtail",
+    "curso_mm": 30
+  },
+  "componentes": {
+    "grupo": "Caloi Indexado 3x7V",
+    "velocidades": 21,
+    "tipo_freio": "V-brake de alumínio",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://caloi.com/produto/andes-my2026/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "caloi/andes-my2026.webp",
+    "fonte_url": "https://caloi.com/produto/andes-my2026/"
+  }
+}

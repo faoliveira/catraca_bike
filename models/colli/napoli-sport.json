@@ -1,0 +1,31 @@
+{
+  "marca": "Colli",
+  "modelo": "Napoli Sport",
+  "ano": null,
+  "slug": "napoli-sport",
+  "categoria": "urbana",
+  "url_fabricante": "https://collibike.com.br/bicicletas/napoli-sport/",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 15,5",
+    "tamanhos": null,
+    "aro": "24",
+    "suspensao": "hardtail",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "21 velocidades, roda livre 7V",
+    "velocidades": 21,
+    "tipo_freio": "Disco dianteiro e traseiro",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://collibike.com.br/bicicletas/napoli-sport/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ]
+}

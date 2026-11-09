@@ -1,0 +1,40 @@
+{
+  "marca": "Caloi",
+  "modelo": "Elite Carbon Sport 2025",
+  "ano": 2025,
+  "slug": "elite-carbon-team-2",
+  "categoria": "mtb",
+  "url_fabricante": "https://caloi.com/produto/elite-carbon-team-2/",
+  "preco_sugerido_brl": 14990,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "P",
+      "M",
+      "G",
+      "GG"
+    ],
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": 100
+  },
+  "componentes": {
+    "grupo": "Shimano SLX M7100 12V (cassete 10-51T), garfo RockShox Recon Silver",
+    "velocidades": 12,
+    "tipo_freio": "Disco Shimano M4100, rotores 160/180 mm",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://caloi.com/produto/elite-carbon-team-2/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "caloi/elite-carbon-team-2.webp",
+    "fonte_url": "https://caloi.com/produto/elite-carbon-team-2/"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "marca": "Trek",
+  "modelo": "Rail+ 9.7 5ª Geração",
+  "ano": null,
+  "slug": "rail-9-7",
+  "categoria": "ebike",
+  "url_fabricante": "https://www.trekbikes.com/br/pt_BR/bicicletas/mountain-bikes/mountain-bikes-el%C3%A9tricas/rail/rail-9-7-5%C2%AA-gera%C3%A7%C3%A3o/p/48469/",
+  "preco_sugerido_brl": 62990,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "P",
+      "M",
+      "G",
+      "GG"
+    ],
+    "aro": "27.5/29",
+    "suspensao": "full",
+    "curso_mm": 160
+  },
+  "componentes": {
+    "grupo": "Shimano XT M8100 12V",
+    "velocidades": 12,
+    "tipo_freio": "Freio hidráulico a disco de 4 pistões SRAM DB 8",
+    "peso_kg": null
+  },
+  "ebike": {
+    "motor_tipo": "Bosch Performance Line CX",
+    "potencia_w": null,
+    "torque_nm": null,
+    "bateria_wh": 800,
+    "autonomia_declarada_km": null,
+    "acelerador": null,
+    "assistencia_so_com_pedal": null,
+    "vel_max_kmh": null,
+    "largura_cm": null,
+    "entre_eixos_cm": null
+  },
+  "fontes": [
+    {
+      "url": "https://www.trekbikes.com/br/pt_BR/bicicletas/mountain-bikes/mountain-bikes-el%C3%A9tricas/rail/rail-9-7-5%C2%AA-gera%C3%A7%C3%A3o/p/48469/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "trek/rail-9-7.webp",
+    "fonte_url": "https://www.trekbikes.com/br/pt_BR/bicicletas/mountain-bikes/mountain-bikes-el%C3%A9tricas/rail/rail-9-7-5%C2%AA-gera%C3%A7%C3%A3o/p/48469/"
+  }
+}

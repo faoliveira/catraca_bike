@@ -1,0 +1,35 @@
+{
+  "ano": null,
+  "atualizado_em": "2026-11-08",
+  "categoria": "urbana",
+  "componentes": {
+    "grupo": null,
+    "peso_kg": null,
+    "tipo_freio": "V-Brake alumínio",
+    "velocidades": 1
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://athorbikes.com.br/bicicleta/montadinha/"
+    }
+  ],
+  "marca": "Athor",
+  "modelo": "Montadinha",
+  "preco_sugerido_brl": null,
+  "quadro": {
+    "aro": "26",
+    "curso_mm": null,
+    "material": "Aço carbono",
+    "suspensao": null,
+    "tamanhos": null
+  },
+  "slug": "montadinha",
+  "url_fabricante": "https://athorbikes.com.br/bicicleta/montadinha/",
+  "imagem": {
+    "arquivo": "athor/montadinha.webp",
+    "fonte_url": "https://athorbikes.com.br/bicicleta/montadinha/"
+  }
+}

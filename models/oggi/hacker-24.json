@@ -1,0 +1,42 @@
+{
+  "marca": "Oggi",
+  "modelo": "Hacker 24",
+  "ano": null,
+  "slug": "hacker-24",
+  "categoria": "mtb",
+  "url_fabricante": "https://oggibikes.com.br/bike/hacker-24/",
+  "preco_sugerido_brl": 1999,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061 T6",
+    "tamanhos": [
+      "13"
+    ],
+    "aro": "24",
+    "suspensao": "hardtail",
+    "curso_mm": 50
+  },
+  "componentes": {
+    "grupo": "Shimano Altus 21V",
+    "velocidades": 21,
+    "tipo_freio": "Mecânico rotores 160 mm",
+    "peso_kg": 12.8
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://oggibikes.com.br/bike/hacker-24/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    },
+    {
+      "url": "https://oggibikes.com.br/modelos-mtb/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "oggi/hacker-24.webp",
+    "fonte_url": "https://oggibikes.com.br/bike/hacker-24/"
+  }
+}

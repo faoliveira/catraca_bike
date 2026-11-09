@@ -1,0 +1,35 @@
+{
+  "marca": "Colli",
+  "modelo": "Colli Denver",
+  "ano": null,
+  "slug": "colli-denver",
+  "categoria": "urbana",
+  "url_fabricante": "https://collibike.com.br/bicicletas/colli-denver/",
+  "preco_sugerido_brl": 1599.9,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061, cabeamento interno",
+    "tamanhos": [
+      "15,5",
+      "17",
+      "19"
+    ],
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano Tourney/Altus 3x7V (Altus M313, Tourney TY300)",
+    "velocidades": 21,
+    "tipo_freio": "Disco mecânico",
+    "peso_kg": 14.5
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://collibike.com.br/bicicletas/colli-denver/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ]
+}

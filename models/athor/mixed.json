@@ -1,0 +1,37 @@
+{
+  "ano": null,
+  "atualizado_em": "2026-11-08",
+  "categoria": "mtb",
+  "componentes": {
+    "grupo": "3x7V Rapid Fire",
+    "peso_kg": 15.9,
+    "tipo_freio": "Disco mecânico",
+    "velocidades": 21
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://athorbikes.com.br/bicicleta/mixed/"
+    }
+  ],
+  "marca": "Athor",
+  "modelo": "Mixed",
+  "preco_sugerido_brl": null,
+  "quadro": {
+    "aro": "29",
+    "curso_mm": 100,
+    "material": "Aço carbono",
+    "suspensao": "hardtail",
+    "tamanhos": [
+      "17"
+    ]
+  },
+  "slug": "mixed",
+  "url_fabricante": "https://athorbikes.com.br/bicicleta/mixed/",
+  "imagem": {
+    "arquivo": "athor/mixed.webp",
+    "fonte_url": "https://athorbikes.com.br/bicicleta/mixed/"
+  }
+}

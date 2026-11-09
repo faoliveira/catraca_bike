@@ -1,0 +1,38 @@
+{
+  "marca": "Groove",
+  "modelo": "Indie 10 21V",
+  "ano": null,
+  "slug": "indie-10-21v",
+  "categoria": "mtb",
+  "url_fabricante": "https://groovebikes.com.br/produto/bicicleta-mountain-bike-aro-29-groove-indie-10-21-marchas/",
+  "preco_sugerido_brl": 1899.9,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio",
+    "tamanhos": [
+      "15",
+      "17"
+    ],
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": 80
+  },
+  "componentes": {
+    "grupo": "Shimano",
+    "velocidades": 21,
+    "tipo_freio": "Disco mecânico",
+    "peso_kg": 15
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://groovebikes.com.br/produto/bicicleta-mountain-bike-aro-29-groove-indie-10-21-marchas/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "groove/indie-10-21v.webp",
+    "fonte_url": "https://groovebikes.com.br/produto/bicicleta-mountain-bike-aro-29-groove-indie-10-21-marchas/"
+  }
+}

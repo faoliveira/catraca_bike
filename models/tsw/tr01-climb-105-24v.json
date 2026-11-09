@@ -1,0 +1,41 @@
+{
+  "marca": "TSW",
+  "modelo": "TR01 Climb 105 24V",
+  "ano": null,
+  "slug": "tr01-climb-105-24v",
+  "categoria": "speed",
+  "url_fabricante": "https://tswbike.com/p/1367/tr01-climb-105-24v",
+  "preco_sugerido_brl": 22900,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "480",
+      "510",
+      "540",
+      "560",
+      "580"
+    ],
+    "aro": "700c",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano 105",
+    "velocidades": 24,
+    "tipo_freio": "Hidráulico Shimano 105 ST-R7170 rotores 160/140 mm",
+    "peso_kg": 8.7
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://tswbike.com/p/1367/tr01-climb-105-24v",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "tsw/tr01-climb-105-24v.webp",
+    "fonte_url": "https://tswbike.com/p/1367/tr01-climb-105-24v"
+  }
+}

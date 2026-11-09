@@ -1,0 +1,31 @@
+{
+  "marca": "Colli",
+  "modelo": "Colli Grau",
+  "ano": null,
+  "slug": "colli-grau",
+  "categoria": "urbana",
+  "url_fabricante": "https://collibike.com.br/bicicletas/colli-grau/",
+  "preco_sugerido_brl": 1799.9,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Aço carbono 13,5",
+    "tamanhos": null,
+    "aro": "26",
+    "suspensao": "hardtail",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Rapid Fire 3x7V, pedivela triplo em aço",
+    "velocidades": 21,
+    "tipo_freio": "Disco dianteiro e traseiro",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://collibike.com.br/bicicletas/colli-grau/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ]
+}

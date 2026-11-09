@@ -1,0 +1,45 @@
+{
+  "ano": null,
+  "atualizado_em": "2026-11-08",
+  "categoria": "infantil",
+  "componentes": {
+    "grupo": "7 velocidades",
+    "peso_kg": null,
+    "tipo_freio": "Alumínio (V-Brake)",
+    "velocidades": 7
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://verdenbikes.com/folks-aro-20-preto-7-velocidades/"
+    },
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://verdenbikes.com/folks-aro-20-azul-7-velocidades/"
+    },
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://verdenbikes.com/folks-aro-20-preta-e-rosa-7-velocidades/"
+    }
+  ],
+  "marca": "Verden",
+  "modelo": "Folks Aro 20 7V",
+  "preco_sugerido_brl": null,
+  "quadro": {
+    "aro": "20",
+    "curso_mm": null,
+    "material": null,
+    "suspensao": null,
+    "tamanhos": null
+  },
+  "slug": "folks-aro-20-7v",
+  "url_fabricante": "https://verdenbikes.com/folks-aro-20-preto-7-velocidades/",
+  "imagem": {
+    "arquivo": "verden/folks-aro-20-7v.webp",
+    "fonte_url": "https://verdenbikes.com/folks-aro-20-preto-7-velocidades/"
+  }
+}

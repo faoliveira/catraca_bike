@@ -1,0 +1,40 @@
+{
+  "marca": "Soul",
+  "modelo": "Volcano GX 12V SID Tambora",
+  "ano": null,
+  "slug": "volcano-gx-12v-sid-tambora",
+  "categoria": "mtb",
+  "url_fabricante": "https://www.soulcycles.com.br/bicicleta-volcano-gx-12v-sid-tambora/p",
+  "preco_sugerido_brl": 28000,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "29",
+    "suspensao": "full",
+    "curso_mm": 100
+  },
+  "componentes": {
+    "grupo": "SRAM GX Eagle 12V",
+    "velocidades": 12,
+    "tipo_freio": "Disco hidráulico Magura MT4",
+    "peso_kg": 11.5
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.soulcycles.com.br/bicicleta-volcano-gx-12v-sid-tambora/p",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "soul/volcano-gx-12v-sid-tambora.webp",
+    "fonte_url": "https://www.soulcycles.com.br/bicicleta-volcano-gx-12v-sid-tambora/p"
+  }
+}

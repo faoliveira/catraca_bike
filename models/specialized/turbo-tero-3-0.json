@@ -1,0 +1,51 @@
+{
+  "marca": "Specialized",
+  "modelo": "Turbo Tero 3.0",
+  "ano": null,
+  "slug": "turbo-tero-3-0",
+  "categoria": "ebike",
+  "url_fabricante": "https://www.specialized.com/br/pt/bicicleta-turbo-tero-30/p/216846",
+  "preco_sugerido_brl": 26990,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio",
+    "tamanhos": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": 110
+  },
+  "componentes": {
+    "grupo": "Shimano Alivio 9V, garfo SR Suntour XCM32",
+    "velocidades": 9,
+    "tipo_freio": "Disco hidráulico Shimano BR-MT200, rotores 180/180 mm",
+    "peso_kg": 23
+  },
+  "ebike": {
+    "motor_tipo": "Specialized 2.0E",
+    "potencia_w": 250,
+    "torque_nm": 50,
+    "bateria_wh": 530,
+    "autonomia_declarada_km": null,
+    "acelerador": null,
+    "assistencia_so_com_pedal": null,
+    "vel_max_kmh": null,
+    "largura_cm": null,
+    "entre_eixos_cm": null
+  },
+  "fontes": [
+    {
+      "url": "https://www.specialized.com/br/pt/bicicleta-turbo-tero-30/p/216846",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "specialized/turbo-tero-3-0.webp",
+    "fonte_url": "https://www.specialized.com/br/pt/bicicleta-turbo-tero-30/p/216846"
+  }
+}

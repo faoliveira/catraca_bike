@@ -1,0 +1,41 @@
+{
+  "marca": "Sense",
+  "modelo": "React Comp V1",
+  "ano": null,
+  "slug": "react-comp-v1",
+  "categoria": "mtb",
+  "url_fabricante": "https://www.sensebike.com.br/produtos/react-comp-v1/",
+  "preco_sugerido_brl": 5490,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061",
+    "tamanhos": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano Cues 22V",
+    "velocidades": 22,
+    "tipo_freio": "Hidráulico Shimano MT200",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.sensebike.com.br/produtos/react-comp-v1/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "sense/react-comp-v1.webp",
+    "fonte_url": "https://www.sensebike.com.br/produtos/react-comp-v1/"
+  }
+}

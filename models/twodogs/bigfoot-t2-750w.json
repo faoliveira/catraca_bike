@@ -1,0 +1,42 @@
+{
+  "marca": "Two Dogs",
+  "modelo": "Bigfoot T2 750W",
+  "ano": null,
+  "slug": "bigfoot-t2-750w",
+  "categoria": "ebike",
+  "url_fabricante": "https://twodogs.com/produto/bicicleta-eletrica-dobravel-two-dogs-bigfoot2/",
+  "preco_sugerido_brl": 12340.5,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061",
+    "tamanhos": null,
+    "aro": null,
+    "suspensao": null,
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano",
+    "velocidades": 7,
+    "tipo_freio": "Disco hidráulico Tektro",
+    "peso_kg": null
+  },
+  "ebike": {
+    "motor_tipo": "Hub 750W 48V Brushless",
+    "potencia_w": 750,
+    "torque_nm": null,
+    "bateria_wh": null,
+    "autonomia_declarada_km": 65,
+    "acelerador": null,
+    "assistencia_so_com_pedal": null,
+    "vel_max_kmh": 32,
+    "largura_cm": null,
+    "entre_eixos_cm": null
+  },
+  "fontes": [
+    {
+      "url": "https://twodogs.com/produto/bicicleta-eletrica-dobravel-two-dogs-bigfoot2/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ]
+}

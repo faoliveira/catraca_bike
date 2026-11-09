@@ -1,0 +1,35 @@
+{
+  "marca": "KSW",
+  "modelo": "XLT 100 21V",
+  "ano": null,
+  "slug": "ksw-xlt-100-21v",
+  "categoria": "mtb",
+  "url_fabricante": "https://www.kswbikes.com.br/bicicletas/mtb/xlt-100/bicicleta-ksw-xlt-100-21v-roda-livre-aro-29-freio-a-disco",
+  "preco_sugerido_brl": 829,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061 T4 + T6",
+    "tamanhos": null,
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Sun Run",
+    "velocidades": 21,
+    "tipo_freio": "Disco mecânico",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.kswbikes.com.br/bicicletas/mtb/xlt-100/bicicleta-ksw-xlt-100-21v-roda-livre-aro-29-freio-a-disco",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "ksw/ksw-xlt-100-21v.webp",
+    "fonte_url": "https://www.kswbikes.com.br/bicicletas/mtb/xlt-100/bicicleta-ksw-xlt-100-21v-roda-livre-aro-29-freio-a-disco"
+  }
+}

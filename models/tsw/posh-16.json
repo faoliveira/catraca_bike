@@ -1,0 +1,35 @@
+{
+  "marca": "TSW",
+  "modelo": "Posh 16",
+  "ano": null,
+  "slug": "posh-16",
+  "categoria": "infantil",
+  "url_fabricante": "https://tswbike.com/p/1163/posh-16",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061",
+    "tamanhos": null,
+    "aro": "16",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": null,
+    "velocidades": null,
+    "tipo_freio": "Mecânico TSW Bike Infantil",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://tswbike.com/p/1163/posh-16",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "tsw/posh-16.webp",
+    "fonte_url": "https://tswbike.com/p/1163/posh-16"
+  }
+}

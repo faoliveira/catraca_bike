@@ -1,0 +1,41 @@
+{
+  "marca": "Focus",
+  "modelo": "Paralane 8.8",
+  "ano": null,
+  "slug": "paralane-8-8",
+  "categoria": "speed",
+  "url_fabricante": "https://www.focus-bikes.com/int/paralane-8-8",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "700c",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "SRAM Rival AXS",
+    "velocidades": 24,
+    "tipo_freio": "Hidráulico SRAM Rival eTap AXS, rotores 160 mm",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.focus-bikes.com/int/paralane-8-8",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "focus/paralane-8-8.webp",
+    "fonte_url": "https://www.focus-bikes.com/int/paralane-8-8"
+  }
+}

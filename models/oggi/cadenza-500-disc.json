@@ -1,0 +1,46 @@
+{
+  "marca": "Oggi",
+  "modelo": "Cadenza 500 Disc",
+  "ano": null,
+  "slug": "cadenza-500-disc",
+  "categoria": "speed",
+  "url_fabricante": "https://oggibikes.com.br/bike/cadenza-500-disc/",
+  "preco_sugerido_brl": 17890,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "700c",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano 105 22V",
+    "velocidades": 22,
+    "tipo_freio": "rotores 160/140 mm",
+    "peso_kg": 8.4
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://oggibikes.com.br/bike/cadenza-500-disc/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    },
+    {
+      "url": "https://oggibikes.com.br/modelos-speed/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "oggi/cadenza-500-disc.webp",
+    "fonte_url": "https://oggibikes.com.br/bike/cadenza-500-disc/"
+  }
+}

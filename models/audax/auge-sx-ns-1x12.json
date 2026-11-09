@@ -1,0 +1,39 @@
+{
+  "marca": "Audax",
+  "modelo": "Auge SX NS 1X12",
+  "ano": null,
+  "slug": "auge-sx-ns-1x12",
+  "categoria": "mtb",
+  "url_fabricante": "https://audaxbike.com/bike/245/auge-sx-ns-1x12",
+  "preco_sugerido_brl": 5900,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6069 T6",
+    "tamanhos": [
+      "S",
+      "L",
+      "XL"
+    ],
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": 100
+  },
+  "componentes": {
+    "grupo": "SRAM SX 12V",
+    "velocidades": 12,
+    "tipo_freio": "Disco hidráulico Shimano BL-MT201R rotores 160 mm",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://audaxbike.com/bike/245/auge-sx-ns-1x12",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "audax/auge-sx-ns-1x12.webp",
+    "fonte_url": "https://audaxbike.com/bike/245/auge-sx-ns-1x12"
+  }
+}

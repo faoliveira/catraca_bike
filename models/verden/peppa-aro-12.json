@@ -1,0 +1,35 @@
+{
+  "ano": null,
+  "atualizado_em": "2026-11-08",
+  "categoria": "infantil",
+  "componentes": {
+    "grupo": null,
+    "peso_kg": null,
+    "tipo_freio": null,
+    "velocidades": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "acessado_em": "2026-11-08",
+      "tipo": "fabricante",
+      "url": "https://verdenbikes.com/peppa-rs-aro-12/"
+    }
+  ],
+  "marca": "Verden",
+  "modelo": "Peppa Aro 12",
+  "preco_sugerido_brl": null,
+  "quadro": {
+    "aro": "12",
+    "curso_mm": null,
+    "material": "Aço carbono",
+    "suspensao": null,
+    "tamanhos": null
+  },
+  "slug": "peppa-aro-12",
+  "url_fabricante": "https://verdenbikes.com/peppa-rs-aro-12/",
+  "imagem": {
+    "arquivo": "verden/peppa-aro-12.webp",
+    "fonte_url": "https://verdenbikes.com/peppa-rs-aro-12/"
+  }
+}

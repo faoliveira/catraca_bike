@@ -1,0 +1,40 @@
+{
+  "marca": "Cannondale",
+  "modelo": "Scalpel 3",
+  "ano": null,
+  "slug": "scalpel-3",
+  "categoria": "mtb",
+  "url_fabricante": "https://www.cannondale.com/pt-br/bikes/mountain/cross-country/scalpel/scalpel-3",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "L",
+      "M",
+      "S",
+      "XL"
+    ],
+    "aro": "29",
+    "suspensao": "full",
+    "curso_mm": 120
+  },
+  "componentes": {
+    "grupo": "Shimano XT 12V, garfo RockShox SID Select",
+    "velocidades": 12,
+    "tipo_freio": "Shimano Deore M6100, rotores 180/160 mm",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.cannondale.com/pt-br/bikes/mountain/cross-country/scalpel/scalpel-3",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "cannondale/scalpel-3.webp",
+    "fonte_url": "https://www.cannondale.com/pt-br/bikes/mountain/cross-country/scalpel/scalpel-3"
+  }
+}

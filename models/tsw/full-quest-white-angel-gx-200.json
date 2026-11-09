@@ -1,0 +1,40 @@
+{
+  "marca": "TSW",
+  "modelo": "Full Quest White Angel GX 200",
+  "ano": null,
+  "slug": "full-quest-white-angel-gx-200",
+  "categoria": "mtb",
+  "url_fabricante": "https://tswbike.com/p/970/full-quest-white-angel-gx-200",
+  "preco_sugerido_brl": 23900,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono Toray T700/T800/T1000",
+    "tamanhos": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "29",
+    "suspensao": "full",
+    "curso_mm": 120
+  },
+  "componentes": {
+    "grupo": "SRAM GX Eagle",
+    "velocidades": 12,
+    "tipo_freio": "Hidráulico Shimano MT200 rotores 180/160 mm",
+    "peso_kg": 13.13
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://tswbike.com/p/970/full-quest-white-angel-gx-200",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "tsw/full-quest-white-angel-gx-200.webp",
+    "fonte_url": "https://tswbike.com/p/970/full-quest-white-angel-gx-200"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "marca": "TSW",
+  "modelo": "Hunch 20 8V",
+  "ano": null,
+  "slug": "hunch-20-8v",
+  "categoria": "infantil",
+  "url_fabricante": "https://tswbike.com/p/2111/hunch-20-8v",
+  "preco_sugerido_brl": 3390,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061",
+    "tamanhos": null,
+    "aro": "20",
+    "suspensao": "hardtail",
+    "curso_mm": 80
+  },
+  "componentes": {
+    "grupo": "Shimano Altus",
+    "velocidades": 8,
+    "tipo_freio": "Hidráulico Shimano M4100 rotores 160 mm",
+    "peso_kg": 11.5
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://tswbike.com/p/2111/hunch-20-8v",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "tsw/hunch-20-8v.webp",
+    "fonte_url": "https://tswbike.com/p/2111/hunch-20-8v"
+  }
+}

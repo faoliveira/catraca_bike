@@ -1,0 +1,40 @@
+{
+  "marca": "Soul",
+  "modelo": "SL929 G5 SRAM 70 T-Type",
+  "ano": null,
+  "slug": "sl929-g5-sram-70-t-type",
+  "categoria": "mtb",
+  "url_fabricante": "https://www.soulcycles.com.br/bicicleta-sl929-g5-sram-70-ttype-pedra-riscada/p",
+  "preco_sugerido_brl": 15000,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio",
+    "tamanhos": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": 110
+  },
+  "componentes": {
+    "grupo": "SRAM Eagle 70 T-Type 12V",
+    "velocidades": 12,
+    "tipo_freio": "Disco hidráulico SRAM Level",
+    "peso_kg": 12.7
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.soulcycles.com.br/bicicleta-sl929-g5-sram-70-ttype-pedra-riscada/p",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "soul/sl929-g5-sram-70-t-type.webp",
+    "fonte_url": "https://www.soulcycles.com.br/bicicleta-sl929-g5-sram-70-ttype-pedra-riscada/p"
+  }
+}

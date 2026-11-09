@@ -1,0 +1,39 @@
+{
+  "marca": "TSW",
+  "modelo": "TR30 Tourney 14V",
+  "ano": null,
+  "slug": "tr30-tourney-14v",
+  "categoria": "speed",
+  "url_fabricante": "https://tswbike.com/p/1302/tr30-tourney-14v",
+  "preco_sugerido_brl": 3290,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061",
+    "tamanhos": [
+      "510",
+      "540",
+      "560"
+    ],
+    "aro": "700c",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano Tourney",
+    "velocidades": 14,
+    "tipo_freio": "Mecânico TSW Bike",
+    "peso_kg": 11.3
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://tswbike.com/p/1302/tr30-tourney-14v",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "tsw/tr30-tourney-14v.webp",
+    "fonte_url": "https://tswbike.com/p/1302/tr30-tourney-14v"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "marca": "TSW",
+  "modelo": "Full Quest Comp",
+  "ano": null,
+  "slug": "full-quest-comp",
+  "categoria": "mtb",
+  "url_fabricante": "https://tswbike.com/p/1811/full-quest-comp",
+  "preco_sugerido_brl": 29900,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono Toray T700/T800/T1000",
+    "tamanhos": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "29",
+    "suspensao": "full",
+    "curso_mm": 120
+  },
+  "componentes": {
+    "grupo": "SRAM AXS T-Type",
+    "velocidades": 12,
+    "tipo_freio": "Hidráulico Shimano SLX M7100 rotores 180/160 mm",
+    "peso_kg": 13.097
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://tswbike.com/p/1811/full-quest-comp",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "tsw/full-quest-comp.webp",
+    "fonte_url": "https://tswbike.com/p/1811/full-quest-comp"
+  }
+}

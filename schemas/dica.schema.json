@@ -1,0 +1,88 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://catraca.bike/schemas/dica.schema.json",
+  "title": "Dica de acessório Catraca",
+  "type": "object",
+  "properties": {
+    "titulo": {
+      "type": "string",
+      "minLength": 1
+    },
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "categoria": {
+      "type": "string",
+      "enum": [
+        "capacete",
+        "luz",
+        "cadeado",
+        "bomba",
+        "ferramenta",
+        "outro"
+      ]
+    },
+    "resumo": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Por que vale a pena, em uma ou duas frases."
+    },
+    "links": {
+      "anyOf": [
+        {
+          "minItems": 1,
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "url": {
+                "type": "string",
+                "allOf": [
+                  {
+                    "pattern": "^https?:\\/\\/"
+                  },
+                  {
+                    "pattern": "^(?![^#]*[?&](?:utm_[^=&#]*|tag|ref|matt_[^=&#]*|partner_id)=)"
+                  },
+                  {
+                    "pattern": "^(?!https?:\\/\\/(?:amzn\\.to|a\\.co|shope\\.ee|s\\.shopee\\.com\\.br)(?:[/?#:]|$))(?!https?:\\/\\/(?:www\\.)?mercadolivre\\.com\\/sec\\/)"
+                  },
+                  {
+                    "pattern": "^(?!https?:\\/\\/(?:[^/?#]*\\.)?magazinevoce\\.com\\.br(?:[/?#:]|$))"
+                  }
+                ]
+              },
+              "rotulo": {
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "required": [
+              "url",
+              "rotulo"
+            ],
+            "additionalProperties": false
+          }
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "atualizado_em": {
+      "type": "string",
+      "format": "date",
+      "pattern": "^(?:(?:\\d\\d[2468][048]|\\d\\d[13579][26]|\\d\\d0[48]|[02468][048]00|[13579][26]00)-02-29|\\d{4}-(?:(?:0[13578]|1[02])-(?:0[1-9]|[12]\\d|3[01])|(?:0[469]|11)-(?:0[1-9]|[12]\\d|30)|(?:02)-(?:0[1-9]|1\\d|2[0-8])))$"
+    }
+  },
+  "required": [
+    "titulo",
+    "slug",
+    "categoria",
+    "resumo",
+    "links",
+    "atualizado_em"
+  ],
+  "additionalProperties": false
+}

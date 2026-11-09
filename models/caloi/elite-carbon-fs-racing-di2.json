@@ -1,0 +1,40 @@
+{
+  "marca": "Caloi",
+  "modelo": "Elite Carbon FS Racing Di2",
+  "ano": null,
+  "slug": "elite-carbon-fs-racing-di2",
+  "categoria": "mtb",
+  "url_fabricante": "https://caloi.com/produto/elite-carbon-fs-racing-di2/",
+  "preco_sugerido_brl": 26990,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "P",
+      "M",
+      "G",
+      "GG"
+    ],
+    "aro": "29",
+    "suspensao": "full",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano Deore Di2 M6250 12V eletrônico (cassete 10-51T), garfo RockShox SID Select 120 mm",
+    "velocidades": 12,
+    "tipo_freio": "Disco Shimano M4100, rotores 160/180 mm",
+    "peso_kg": 11.87
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://caloi.com/produto/elite-carbon-fs-racing-di2/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "caloi/elite-carbon-fs-racing-di2.webp",
+    "fonte_url": "https://caloi.com/produto/elite-carbon-fs-racing-di2/"
+  }
+}

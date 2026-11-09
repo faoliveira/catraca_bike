@@ -1,0 +1,39 @@
+{
+  "marca": "Athor",
+  "modelo": "Fury Cues 1x9",
+  "ano": null,
+  "slug": "fury-cues-1x9",
+  "categoria": "mtb",
+  "url_fabricante": "https://athorbikes.com.br/bicicleta/cues-1x9/",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061, cabeamento interno",
+    "tamanhos": [
+      "S",
+      "M",
+      "L"
+    ],
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": 100
+  },
+  "componentes": {
+    "grupo": "Shimano Cues 1x9V (11x46d)",
+    "velocidades": 9,
+    "tipo_freio": "Disco hidráulico Shimano MT200 160 mm",
+    "peso_kg": 13.6
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://athorbikes.com.br/bicicleta/cues-1x9/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "athor/fury-cues-1x9.webp",
+    "fonte_url": "https://athorbikes.com.br/bicicleta/cues-1x9/"
+  }
+}

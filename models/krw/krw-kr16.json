@@ -1,0 +1,31 @@
+{
+  "marca": "KRW",
+  "modelo": "KR16",
+  "ano": null,
+  "slug": "krw-kr16",
+  "categoria": "mtb",
+  "url_fabricante": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-12-velocidades-ltwoo-suspensao-hidraulica-kr16-silver-1a7c5/",
+  "preco_sugerido_brl": 2369,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061",
+    "tamanhos": null,
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": 100
+  },
+  "componentes": {
+    "grupo": "LTWOO Silver",
+    "velocidades": 12,
+    "tipo_freio": "Disco hidráulico",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-12-velocidades-ltwoo-suspensao-hidraulica-kr16-silver-1a7c5/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ]
+}

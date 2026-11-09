@@ -1,0 +1,36 @@
+{
+  "marca": "Colli",
+  "modelo": "Firenze",
+  "ano": null,
+  "slug": "firenze",
+  "categoria": "speed",
+  "url_fabricante": "https://collibike.com.br/bicicletas/firenze/",
+  "preco_sugerido_brl": 6999.9,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061 T4+T6",
+    "tamanhos": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "700c",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano Cues 2x10 (50-34D, cassete 11-39D)",
+    "velocidades": 20,
+    "tipo_freio": "Disco mecânico Shimano BR-RS305, rotores 160 mm",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://collibike.com.br/bicicletas/firenze/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ]
+}

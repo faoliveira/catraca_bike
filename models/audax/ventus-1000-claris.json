@@ -1,0 +1,40 @@
+{
+  "marca": "Audax",
+  "modelo": "Ventus 1000 Claris",
+  "ano": null,
+  "slug": "ventus-1000-claris",
+  "categoria": "speed",
+  "url_fabricante": "https://audaxbike.com/bike/207/ventus-1000-claris",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061 T6",
+    "tamanhos": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "700c",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano Claris 14V",
+    "velocidades": 14,
+    "tipo_freio": "Disco mecânico TEKTRO",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://audaxbike.com/bike/207/ventus-1000-claris",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "audax/ventus-1000-claris.webp",
+    "fonte_url": "https://audaxbike.com/bike/207/ventus-1000-claris"
+  }
+}

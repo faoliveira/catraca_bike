@@ -1,0 +1,34 @@
+{
+  "marca": "Colli",
+  "modelo": "Amsterdã Man",
+  "ano": null,
+  "slug": "amsterda-man",
+  "categoria": "urbana",
+  "url_fabricante": "https://collibike.com.br/bicicletas/amsterda-man/",
+  "preco_sugerido_brl": 3499.9,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061 T4/T6",
+    "tamanhos": [
+      "S/M",
+      "M/L"
+    ],
+    "aro": "700c",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano ESSA 1x8 (cassete 11-45D)",
+    "velocidades": 8,
+    "tipo_freio": "Disco Shimano MT-200, rotor 160 mm",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://collibike.com.br/bicicletas/amsterda-man/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ]
+}

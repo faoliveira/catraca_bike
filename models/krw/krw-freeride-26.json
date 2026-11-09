@@ -1,0 +1,35 @@
+{
+  "marca": "KRW",
+  "modelo": "Freeride 26",
+  "ano": null,
+  "slug": "krw-freeride-26",
+  "categoria": "mtb",
+  "url_fabricante": "https://www.krwbikes.com.br/produtos/bicicleta-freeride-krw-aro-26-freio-a-disco-24-velocidades/",
+  "preco_sugerido_brl": 1569,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061",
+    "tamanhos": null,
+    "aro": "26",
+    "suspensao": "hardtail",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano",
+    "velocidades": 24,
+    "tipo_freio": "Disco mecânico",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.krwbikes.com.br/produtos/bicicleta-freeride-krw-aro-26-freio-a-disco-24-velocidades/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "krw/krw-freeride-26.webp",
+    "fonte_url": "https://www.krwbikes.com.br/produtos/bicicleta-freeride-krw-aro-26-freio-a-disco-24-velocidades/"
+  }
+}

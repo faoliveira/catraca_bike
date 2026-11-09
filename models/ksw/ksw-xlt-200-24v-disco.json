@@ -1,0 +1,35 @@
+{
+  "marca": "KSW",
+  "modelo": "XLT 200 24V Disco",
+  "ano": null,
+  "slug": "ksw-xlt-200-24v-disco",
+  "categoria": "mtb",
+  "url_fabricante": "https://www.kswbikes.com.br/bicicletas/mtb/xlt-200/bicicleta-ksw-xlt-200-24v-shimano-roda-livre-aro-29-freio-a-disco",
+  "preco_sugerido_brl": 979,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061 T4 + T6",
+    "tamanhos": null,
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": "Shimano Tourney",
+    "velocidades": 24,
+    "tipo_freio": "Disco mecânico",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.kswbikes.com.br/bicicletas/mtb/xlt-200/bicicleta-ksw-xlt-200-24v-shimano-roda-livre-aro-29-freio-a-disco",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "ksw/ksw-xlt-200-24v-disco.webp",
+    "fonte_url": "https://www.kswbikes.com.br/bicicletas/mtb/xlt-200/bicicleta-ksw-xlt-200-24v-shimano-roda-livre-aro-29-freio-a-disco"
+  }
+}

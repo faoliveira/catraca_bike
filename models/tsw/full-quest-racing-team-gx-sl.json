@@ -1,0 +1,36 @@
+{
+  "marca": "TSW",
+  "modelo": "Full Quest Racing Team GX SL",
+  "ano": null,
+  "slug": "full-quest-racing-team-gx-sl",
+  "categoria": "mtb",
+  "url_fabricante": "https://tswbike.com/p/935/full-quest-racing-team-gx-sl",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono Toray T700/T800/T1000",
+    "tamanhos": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "29",
+    "suspensao": "full",
+    "curso_mm": 120
+  },
+  "componentes": {
+    "grupo": "SRAM GX Eagle AXS T-Type",
+    "velocidades": 12,
+    "tipo_freio": "Hidráulico SRAM Level TL rotores 180/160 mm",
+    "peso_kg": 11.15
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://tswbike.com/p/935/full-quest-racing-team-gx-sl",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ]
+}

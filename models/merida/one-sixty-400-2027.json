@@ -1,0 +1,41 @@
+{
+  "marca": "Merida",
+  "modelo": "One-Sixty 400",
+  "ano": 2027,
+  "slug": "one-sixty-400-2027",
+  "categoria": "mtb",
+  "url_fabricante": "https://www.merida-bikes.com/en/bike/6522/one-sixty-400",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio",
+    "tamanhos": [
+      "XShort",
+      "Short",
+      "Mid",
+      "Long",
+      "XLong"
+    ],
+    "aro": "29",
+    "suspensao": "full",
+    "curso_mm": 170
+  },
+  "componentes": {
+    "grupo": "Shimano Cues",
+    "velocidades": 11,
+    "tipo_freio": "Hidráulico Sram DB4, rotores 200 mm",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.merida-bikes.com/en/bike/6522/one-sixty-400",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "merida/one-sixty-400-2027.webp",
+    "fonte_url": "https://www.merida-bikes.com/en/bike/6522/one-sixty-400"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "marca": "Oggi",
+  "modelo": "Cattura Pro S1000 2025",
+  "ano": 2025,
+  "slug": "cattura-pro-s1000-2025",
+  "categoria": "mtb",
+  "url_fabricante": "https://oggibikes.com.br/bike/cattura-pro-s1000-2025/",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Carbono",
+    "tamanhos": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "29",
+    "suspensao": "full",
+    "curso_mm": 120
+  },
+  "componentes": {
+    "grupo": "SRAM AXS 12V",
+    "velocidades": 12,
+    "tipo_freio": "SRAM rotores 180/160 mm",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://oggibikes.com.br/bike/cattura-pro-s1000-2025/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    },
+    {
+      "url": "https://oggibikes.com.br/modelos-mtb/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "oggi/cattura-pro-s1000-2025.webp",
+    "fonte_url": "https://oggibikes.com.br/bike/cattura-pro-s1000-2025/"
+  }
+}

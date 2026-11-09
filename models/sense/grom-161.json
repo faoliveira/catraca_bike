@@ -1,0 +1,37 @@
+{
+  "marca": "Sense",
+  "modelo": "Grom 16",
+  "ano": null,
+  "slug": "grom-161",
+  "categoria": "infantil",
+  "url_fabricante": "https://www.sensebike.com.br/produtos/grom-161/",
+  "preco_sugerido_brl": 2590,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio 6061",
+    "tamanhos": [
+      "Único"
+    ],
+    "aro": "16",
+    "suspensao": "rigida",
+    "curso_mm": null
+  },
+  "componentes": {
+    "grupo": null,
+    "velocidades": null,
+    "tipo_freio": "Mecânico Tektro",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.sensebike.com.br/produtos/grom-161/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "sense/grom-161.webp",
+    "fonte_url": "https://www.sensebike.com.br/produtos/grom-161/"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "marca": "Trek",
+  "modelo": "Procaliber 6",
+  "ano": null,
+  "slug": "procaliber-6",
+  "categoria": "mtb",
+  "url_fabricante": "https://www.trekbikes.com/br/pt_BR/bicicletas/mountain-bikes/mountain-bikes-para-cross-country/procaliber/procaliber-6/p/80310/",
+  "preco_sugerido_brl": 11499,
+  "atualizado_em": "2026-11-08",
+  "quadro": {
+    "material": "Alumínio",
+    "tamanhos": [
+      "P",
+      "M",
+      "MG",
+      "G",
+      "GG"
+    ],
+    "aro": "29",
+    "suspensao": "hardtail",
+    "curso_mm": 120
+  },
+  "componentes": {
+    "grupo": "Shimano Deore M6200 12V",
+    "velocidades": 12,
+    "tipo_freio": "Disco hidráulico Shimano MT200",
+    "peso_kg": null
+  },
+  "ebike": null,
+  "fontes": [
+    {
+      "url": "https://www.trekbikes.com/br/pt_BR/bicicletas/mountain-bikes/mountain-bikes-para-cross-country/procaliber/procaliber-6/p/80310/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-08"
+    }
+  ],
+  "imagem": {
+    "arquivo": "trek/procaliber-6.webp",
+    "fonte_url": "https://www.trekbikes.com/br/pt_BR/bicicletas/mountain-bikes/mountain-bikes-para-cross-country/procaliber/procaliber-6/p/80310/"
+  }
+}
