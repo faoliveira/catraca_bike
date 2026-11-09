@@ -67,7 +67,7 @@ bun run validar   # JSON, schema, slug, pasta da marca, datas e comparações
 bun test          # testa o próprio validador
 ```
 
-O site lê este repositório num commit fixado. Depois do merge, a mudança aparece em [catraca.bike](https://catraca.bike) quando o site passa a apontar para o commit novo.
+O site lê este repositório num commit fixado. Quando um merge muda dados, o site é avisado, troca para o commit novo e publica em [catraca.bike](https://catraca.bike), desde que os testes e o build dele passem.
 
 ## Licença
 

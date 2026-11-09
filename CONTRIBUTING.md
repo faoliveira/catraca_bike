@@ -9,7 +9,7 @@ Toda alteração passa por Pull Request. Não há formulário de envio nem colet
 3. Preencha os campos seguindo [Campos de um modelo](#campos-de-um-modelo). Dado desconhecido é `null`; não estime nem copie de outra versão do modelo.
 4. Rode `bun install` uma vez e depois `bun run validar`. Corrija o que ele apontar: a mensagem diz o arquivo, o campo e o que mudar.
 5. Abra o Pull Request para `main` com o nome do modelo e os links usados na descrição.
-6. Espere o CI verde e a revisão humana. Depois do merge, o site passa a mostrar o modelo na próxima atualização do catálogo.
+6. Espere o CI verde e a revisão humana. Depois do merge, o site busca o catálogo novo sozinho e passa a mostrar o modelo assim que o build dele passa.
 
 Pela interface do GitHub, os passos 1 a 3 cabem em **Add file → Create new file** no seu fork; a validação roda no Pull Request do mesmo jeito.
 

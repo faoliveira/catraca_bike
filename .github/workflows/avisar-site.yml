@@ -1,0 +1,36 @@
+name: Avisar o site
+
+# Depois de um merge no main que muda dados, avisa o site, que troca o catálogo fixado, roda os testes e o build
+# dele e publica. Mudança só de documentação, validador ou CI não dispara nada. Para testar o token sem um merge
+# de dados: Actions → Avisar o site → Run workflow.
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "models/**"
+      - "acessorios/**"
+      - "comparisons.json"
+      - "schemas/**"
+
+permissions: {}
+
+jobs:
+  avisar:
+    name: Avisar o catraca_bike_site
+    # Forks não têm o token e não precisam avisar ninguém.
+    if: github.repository == 'faoliveira/catraca_bike'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Enviar o aviso
+        env:
+          GH_TOKEN: ${{ secrets.SITE_DISPATCH_TOKEN }}
+        run: |
+          if [ -z "$GH_TOKEN" ]; then
+            echo "::error::Falta o secret SITE_DISPATCH_TOKEN neste repositório."
+            exit 1
+          fi
+          gh api "repos/faoliveira/catraca_bike_site/dispatches" \
+            -f event_type=catalogo-atualizado \
+            -f "client_payload[sha]=${GITHUB_SHA:0:7}"
