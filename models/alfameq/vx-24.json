@@ -31,5 +31,10 @@
   "imagem": {
     "arquivo": "alfameq/vx-24.webp",
     "fonte_url": "https://www.alfameqoficial.com.br/bicicletas/bicicleta-aro-29-alfameq-vx-24-marchas-e-freio-a-disco"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.alfameqoficial.com.br/bicicletas/bicicleta-aro-29-alfameq-vx-24-marchas-e-freio-a-disco"
+    }
+  ]
 }

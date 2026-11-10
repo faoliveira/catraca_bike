@@ -36,5 +36,10 @@
   "imagem": {
     "arquivo": "soul/sl929-g5-shimano-deore-xt.webp",
     "fonte_url": "https://www.soulcycles.com.br/bicicleta-sl929-g5-shimano-deore-xt-pedra-riscada/p"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.soulcycles.com.br/bicicleta-sl929-g5-shimano-deore-xt-pedra-riscada/p"
+    }
+  ]
 }

@@ -35,5 +35,10 @@
   "imagem": {
     "arquivo": "swift/mk3-pro.webp",
     "fonte_url": "https://www.sensebike.com.br/produtos/mk3-pro/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.sensebike.com.br/produtos/mk3-pro/"
+    }
+  ]
 }

@@ -35,5 +35,10 @@
   "imagem": {
     "arquivo": "gts/supreme-21.webp",
     "fonte_url": "https://www.alfameqoficial.com.br/bicicletas/bicicleta-aro-29-gts-supreme-cambios-shimano-21-marchas-e-freio-a-disco"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.alfameqoficial.com.br/bicicletas/bicicleta-aro-29-gts-supreme-cambios-shimano-21-marchas-e-freio-a-disco"
+    }
+  ]
 }

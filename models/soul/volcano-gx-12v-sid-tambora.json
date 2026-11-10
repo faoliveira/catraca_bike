@@ -41,5 +41,10 @@
   "imagem": {
     "arquivo": "soul/volcano-gx-12v-sid-tambora.webp",
     "fonte_url": "https://www.soulcycles.com.br/bicicleta-volcano-gx-12v-sid-tambora/p"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.soulcycles.com.br/bicicleta-volcano-gx-12v-sid-tambora/p"
+    }
+  ]
 }

@@ -35,5 +35,10 @@
   "imagem": {
     "arquivo": "riva/urban-basement.webp",
     "fonte_url": "https://rivacycles.com/products/bicicleta-riva-urban-basement"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://rivacycles.com/products/bicicleta-riva-urban-basement"
+    }
+  ]
 }

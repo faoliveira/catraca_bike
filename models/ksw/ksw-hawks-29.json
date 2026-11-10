@@ -36,5 +36,10 @@
   "imagem": {
     "arquivo": "ksw/ksw-hawks-29.webp",
     "fonte_url": "https://www.kswbikes.com.br/bicicleta/bicicleta-aro-29-hawks-aluminio-24-marchas-freio-disco"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.kswbikes.com.br/bicicleta/bicicleta-aro-29-hawks-aluminio-24-marchas-freio-disco"
+    }
+  ]
 }

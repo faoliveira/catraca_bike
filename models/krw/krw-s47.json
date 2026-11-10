@@ -36,5 +36,10 @@
   "imagem": {
     "arquivo": "krw/krw-s47.webp",
     "fonte_url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-24-vel-freio-hidraulico-cassete-s47/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-24-vel-freio-hidraulico-cassete-s47/"
+    }
+  ]
 }

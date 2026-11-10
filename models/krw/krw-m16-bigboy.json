@@ -33,5 +33,10 @@
   "imagem": {
     "arquivo": "krw/krw-m16-bigboy.webp",
     "fonte_url": "https://www.krwbikes.com.br/produtos/bicicleta-krw-infantil-aro-16-bigboy-menino-aco-carbono-freio-v-brake-com-descanco-lateral-m16/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.krwbikes.com.br/produtos/bicicleta-krw-infantil-aro-16-bigboy-menino-aco-carbono-freio-v-brake-com-descanco-lateral-m16/"
+    }
+  ]
 }

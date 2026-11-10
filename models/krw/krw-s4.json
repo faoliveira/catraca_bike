@@ -36,5 +36,10 @@
   "imagem": {
     "arquivo": "krw/krw-s4.webp",
     "fonte_url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-shimano-24-velocidades-freio-a-disco-s4-qeml5/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-shimano-24-velocidades-freio-a-disco-s4-qeml5/"
+    }
+  ]
 }

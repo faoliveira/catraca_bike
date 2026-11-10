@@ -36,5 +36,10 @@
   "imagem": {
     "arquivo": "groove/ska-1-70-12v.webp",
     "fonte_url": "https://groovebikes.com.br/produto/bicicleta-mountain-bike-aro-29-groove-ska-1-70-12v/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://groovebikes.com.br/produto/bicicleta-mountain-bike-aro-29-groove-ska-1-70-12v/"
+    }
+  ]
 }

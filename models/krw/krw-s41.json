@@ -36,5 +36,10 @@
   "imagem": {
     "arquivo": "krw/krw-s41.webp",
     "fonte_url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-shimano-tz-24-velocidades-freio-hidraulico-s41-gobwk/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-shimano-tz-24-velocidades-freio-hidraulico-s41-gobwk/"
+    }
+  ]
 }

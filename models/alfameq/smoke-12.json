@@ -35,5 +35,10 @@
   "imagem": {
     "arquivo": "alfameq/smoke-12.webp",
     "fonte_url": "https://www.alfameqoficial.com.br/bicicletas/bicicleta-aro-29-alfameq-smoke-12v-freio-a-disco-hidraulico"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.alfameqoficial.com.br/bicicletas/bicicleta-aro-29-alfameq-smoke-12v-freio-a-disco-hidraulico"
+    }
+  ]
 }

@@ -36,5 +36,10 @@
   "imagem": {
     "arquivo": "sense/reactiv-pro.webp",
     "fonte_url": "https://www.sensebike.com.br/produtos/reactiv-pro/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.sensebike.com.br/produtos/reactiv-pro/"
+    }
+  ]
 }

@@ -37,5 +37,10 @@
   "imagem": {
     "arquivo": "swift/enduravox-pro.webp",
     "fonte_url": "https://www.sensebike.com.br/produtos/enduravox-pro/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.sensebike.com.br/produtos/enduravox-pro/"
+    }
+  ]
 }

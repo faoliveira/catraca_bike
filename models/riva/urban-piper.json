@@ -35,5 +35,10 @@
   "imagem": {
     "arquivo": "riva/urban-piper.webp",
     "fonte_url": "https://rivacycles.com/products/bicicleta-riva-urban-piper"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://rivacycles.com/products/bicicleta-riva-urban-piper"
+    }
+  ]
 }

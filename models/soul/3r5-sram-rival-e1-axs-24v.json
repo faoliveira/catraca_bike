@@ -36,5 +36,10 @@
   "imagem": {
     "arquivo": "soul/3r5-sram-rival-e1-axs-24v.webp",
     "fonte_url": "https://www.soulcycles.com.br/bicicleta-3r5-sram-rival-e1-axs-24v/p"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.soulcycles.com.br/bicicleta-3r5-sram-rival-e1-axs-24v/p"
+    }
+  ]
 }

@@ -36,5 +36,10 @@
   "imagem": {
     "arquivo": "krw/krw-x43.webp",
     "fonte_url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-24-vel-freio-a-disco-hidraulico-x43/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-24-vel-freio-a-disco-hidraulico-x43/"
+    }
+  ]
 }

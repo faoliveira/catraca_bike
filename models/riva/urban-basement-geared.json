@@ -35,5 +35,10 @@
   "imagem": {
     "arquivo": "riva/urban-basement-geared.webp",
     "fonte_url": "https://rivacycles.com/products/bicicleta-riva-urban-basement-geared"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://rivacycles.com/products/bicicleta-riva-urban-basement-geared"
+    }
+  ]
 }

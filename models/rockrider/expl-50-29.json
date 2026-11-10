@@ -35,5 +35,10 @@
   "imagem": {
     "arquivo": "rockrider/expl-50-29.webp",
     "fonte_url": "https://www.decathlon.com.br/bicicleta-adulta-de-mtb-expl-50-aro-29-vermelha-vermelho-8994150-rockrider/p"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.decathlon.com.br/bicicleta-adulta-de-mtb-expl-50-aro-29-vermelha-vermelho-8994150-rockrider/p"
+    }
+  ]
 }

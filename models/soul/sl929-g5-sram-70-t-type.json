@@ -41,5 +41,10 @@
   "imagem": {
     "arquivo": "soul/sl929-g5-sram-70-t-type.webp",
     "fonte_url": "https://www.soulcycles.com.br/bicicleta-sl929-g5-sram-70-ttype-pedra-riscada/p"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.soulcycles.com.br/bicicleta-sl929-g5-sram-70-ttype-pedra-riscada/p"
+    }
+  ]
 }

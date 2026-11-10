@@ -40,5 +40,10 @@
   "imagem": {
     "arquivo": "soul/vesuvio-g3-shimano-deore-xt.webp",
     "fonte_url": "https://www.soulcycles.com.br/bicicleta-vesuvio-g3-shimano-deore-xt-sierra-negra/p"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.soulcycles.com.br/bicicleta-vesuvio-g3-shimano-deore-xt-sierra-negra/p"
+    }
+  ]
 }

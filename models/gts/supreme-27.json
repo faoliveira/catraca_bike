@@ -35,5 +35,10 @@
   "imagem": {
     "arquivo": "gts/supreme-27.webp",
     "fonte_url": "https://www.alfameqoficial.com.br/bicicletas/bicicleta-aro-29-gts-supreme-quadro-aluminio-27-marchas-e-freio-a-disco-hidraulico"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.alfameqoficial.com.br/bicicletas/bicicleta-aro-29-gts-supreme-quadro-aluminio-27-marchas-e-freio-a-disco-hidraulico"
+    }
+  ]
 }

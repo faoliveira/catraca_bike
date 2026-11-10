@@ -37,5 +37,10 @@
   "imagem": {
     "arquivo": "sense/react-pro-v2.webp",
     "fonte_url": "https://www.sensebike.com.br/produtos/react-pro-v2/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.sensebike.com.br/produtos/react-pro-v2/"
+    }
+  ]
 }

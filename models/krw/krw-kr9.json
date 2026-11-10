@@ -36,5 +36,10 @@
   "imagem": {
     "arquivo": "krw/krw-kr9.webp",
     "fonte_url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-shimano-tz-24-velocidades-freio-a-disco-kr9/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-shimano-tz-24-velocidades-freio-a-disco-kr9/"
+    }
+  ]
 }

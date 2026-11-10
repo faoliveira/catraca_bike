@@ -33,5 +33,10 @@
   "imagem": {
     "arquivo": "groove/ragga-16.webp",
     "fonte_url": "https://groovebikes.com.br/produto/bicicleta-infantil-groove-ragga-16-2/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://groovebikes.com.br/produto/bicicleta-infantil-groove-ragga-16-2/"
+    }
+  ]
 }

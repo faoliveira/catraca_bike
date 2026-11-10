@@ -36,5 +36,10 @@
   "imagem": {
     "arquivo": "swift/enduravox-gr-evo.webp",
     "fonte_url": "https://www.sensebike.com.br/produtos/enduravox-gr-evo/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.sensebike.com.br/produtos/enduravox-gr-evo/"
+    }
+  ]
 }

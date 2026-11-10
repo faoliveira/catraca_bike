@@ -36,5 +36,10 @@
   "imagem": {
     "arquivo": "krw/krw-s6.webp",
     "fonte_url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-shimano-21-velocidades-freio-a-disco-s6/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-shimano-21-velocidades-freio-a-disco-s6/"
+    }
+  ]
 }

@@ -36,5 +36,10 @@
   "imagem": {
     "arquivo": "groove/overdrive-70-10v.webp",
     "fonte_url": "https://groovebikes.com.br/produto/bicicleta-speed-groove-overdrive-70-2/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://groovebikes.com.br/produto/bicicleta-speed-groove-overdrive-70-2/"
+    }
+  ]
 }

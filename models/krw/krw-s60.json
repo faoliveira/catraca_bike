@@ -36,5 +36,10 @@
   "imagem": {
     "arquivo": "krw/krw-s60.webp",
     "fonte_url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-alum-shimano-tz-21vel-freio-a-disco-s60/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-alum-shimano-tz-21vel-freio-a-disco-s60/"
+    }
+  ]
 }

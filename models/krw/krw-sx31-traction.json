@@ -36,5 +36,10 @@
   "imagem": {
     "arquivo": "krw/krw-sx31-traction.webp",
     "fonte_url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-traction-aluminio-24-vel-freio-a-disco-sx31-outlet/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-traction-aluminio-24-vel-freio-a-disco-sx31-outlet/"
+    }
+  ]
 }

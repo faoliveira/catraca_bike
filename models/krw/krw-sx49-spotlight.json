@@ -33,5 +33,10 @@
   "imagem": {
     "arquivo": "krw/krw-sx49-spotlight.webp",
     "fonte_url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-spotlight-aluminio-27v-freio-a-disco-sx49-outlet-su27w/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-spotlight-aluminio-27v-freio-a-disco-sx49-outlet-su27w/"
+    }
+  ]
 }

@@ -36,5 +36,10 @@
   "imagem": {
     "arquivo": "krw/krw-s5.webp",
     "fonte_url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-shimano-24-velocidades-freio-hidraulico-s5-vqhi7/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-shimano-24-velocidades-freio-hidraulico-s5-vqhi7/"
+    }
+  ]
 }

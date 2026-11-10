@@ -47,5 +47,10 @@
   "imagem": {
     "arquivo": "sense/exalt-e-trail-al-race-v2-1au9k.webp",
     "fonte_url": "https://www.sensebike.com.br/produtos/exalt-e-trail-al-race-v2-1au9k/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.sensebike.com.br/produtos/exalt-e-trail-al-race-v2-1au9k/"
+    }
+  ]
 }

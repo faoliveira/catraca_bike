@@ -36,5 +36,10 @@
   "imagem": {
     "arquivo": "ksw/ksw-mwza-24v-shimano.webp",
     "fonte_url": "https://www.kswbikes.com.br/bicicletas/mtb/mwza/bicicleta-ksw-mwza-24v-shimano-aro-29-suspensao-ctrava"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.kswbikes.com.br/bicicletas/mtb/mwza/bicicleta-ksw-mwza-24v-shimano-aro-29-suspensao-ctrava"
+    }
+  ]
 }

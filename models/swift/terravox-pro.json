@@ -36,5 +36,10 @@
   "imagem": {
     "arquivo": "swift/terravox-pro.webp",
     "fonte_url": "https://www.sensebike.com.br/produtos/terravox-pro/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.sensebike.com.br/produtos/terravox-pro/"
+    }
+  ]
 }

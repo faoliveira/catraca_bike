@@ -33,5 +33,10 @@
   "imagem": {
     "arquivo": "ksw/ksw-korreria-26.webp",
     "fonte_url": "https://www.kswbikes.com.br/bicicleta/freeride/bicicleta-grau-ksw-korreria-aro-26-freeride-21v-disco"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.kswbikes.com.br/bicicleta/freeride/bicicleta-grau-ksw-korreria-aro-26-freeride-21v-disco"
+    }
+  ]
 }
