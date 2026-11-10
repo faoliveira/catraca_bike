@@ -6,7 +6,7 @@
   "categoria": "mtb",
   "url_fabricante": "https://tswbike.com/p/1126/yukon-nx-rs",
   "preco_sugerido_brl": 6690,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio 6061",
     "tamanhos": [
@@ -20,9 +20,9 @@
     "curso_mm": 120
   },
   "componentes": {
-    "grupo": "SRAM NX Eagle",
+    "grupo": "SRAM NX Eagle 1x12",
     "velocidades": 12,
-    "tipo_freio": "Hidráulico Shimano MT200 rotores 160 mm",
+    "tipo_freio": "Disco hidráulico Shimano MT200, rotores Deore RT-54 160 mm",
     "peso_kg": 14.03
   },
   "ebike": null,
@@ -30,7 +30,7 @@
     {
       "url": "https://tswbike.com/p/1126/yukon-nx-rs",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

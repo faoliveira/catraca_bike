@@ -5,8 +5,8 @@
   "slug": "ksw-gravel-single-10v",
   "categoria": "gravel",
   "url_fabricante": "https://www.kswbikes.com.br/bicicletas/gravel/single-1x10v/bicicleta-ksw-gravel-10v-single",
-  "preco_sugerido_brl": 6200,
-  "atualizado_em": "2026-11-08",
+  "preco_sugerido_brl": 8500,
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio 6061 T4 + T6",
     "tamanhos": [
@@ -19,9 +19,9 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "Microshift Advent",
+    "grupo": "microSHIFT Advent X 1x10",
     "velocidades": 10,
-    "tipo_freio": "Disco mecânico",
+    "tipo_freio": "Disco mecânico Shimano",
     "peso_kg": 13.5
   },
   "ebike": null,
@@ -29,7 +29,7 @@
     {
       "url": "https://www.kswbikes.com.br/bicicletas/gravel/single-1x10v/bicicleta-ksw-gravel-10v-single",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

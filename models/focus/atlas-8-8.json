@@ -6,7 +6,7 @@
   "categoria": "gravel",
   "url_fabricante": "https://www.focus-bikes.com/int/atlas-8-8",
   "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Carbono",
     "tamanhos": [
@@ -16,14 +16,14 @@
       "L",
       "XL"
     ],
-    "aro": null,
+    "aro": "700c",
     "suspensao": "rigida",
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "SRAM S1000 Eagle AXS",
+    "grupo": "SRAM S1000 Eagle Transmission AXS 1x12",
     "velocidades": 12,
-    "tipo_freio": "Hidráulico SRAM Apex, rotores 160/180 mm",
+    "tipo_freio": "Disco hidráulico SRAM Apex D1, rotores SRAM Centerline 180 mm (L-XL) / 160 mm (XS-M), traseiro 160 mm",
     "peso_kg": 9.7
   },
   "ebike": null,
@@ -31,7 +31,7 @@
     {
       "url": "https://www.focus-bikes.com/int/atlas-8-8",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

@@ -6,9 +6,9 @@
   "categoria": "mtb",
   "url_fabricante": "https://oggibikes.com.br/bike/hacker-24/",
   "preco_sugerido_brl": 1999,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Alumínio 6061 T6",
+    "material": "Alumínio 6061 T6 Tratado",
     "tamanhos": [
       "13"
     ],
@@ -17,9 +17,9 @@
     "curso_mm": 50
   },
   "componentes": {
-    "grupo": "Shimano Altus 21V",
+    "grupo": "Shimano Tourney/Altus 3x7",
     "velocidades": 21,
-    "tipo_freio": "Mecânico rotores 160 mm",
+    "tipo_freio": "Disco mecânico, rotores 160 mm",
     "peso_kg": 12.8
   },
   "ebike": null,
@@ -27,12 +27,12 @@
     {
       "url": "https://oggibikes.com.br/bike/hacker-24/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     },
     {
       "url": "https://oggibikes.com.br/modelos-mtb/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

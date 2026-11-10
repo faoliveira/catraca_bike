@@ -6,7 +6,7 @@
   "categoria": "ebike",
   "url_fabricante": "https://oggibikes.com.br/bike/e-bike-big-wheel-8-4-2026/",
   "preco_sugerido_brl": 21900,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio",
     "tamanhos": [
@@ -19,9 +19,9 @@
     "curso_mm": 120
   },
   "componentes": {
-    "grupo": "SRAM 12V",
+    "grupo": "SRAM Eagle 70 12V",
     "velocidades": 12,
-    "tipo_freio": "Hidráulico Shimano M6200 rotores 180 mm",
+    "tipo_freio": "Disco hidráulico Shimano Deore M6200 4 pistões, rotores 180 mm",
     "peso_kg": 22.2
   },
   "ebike": {
@@ -40,12 +40,12 @@
     {
       "url": "https://oggibikes.com.br/bike/e-bike-big-wheel-8-4-2026/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     },
     {
       "url": "https://oggibikes.com.br/modelos-eletricas/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ]
 }

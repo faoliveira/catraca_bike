@@ -6,9 +6,9 @@
   "categoria": "mtb",
   "url_fabricante": "https://tswbike.com/p/786/all-quest-deore",
   "preco_sugerido_brl": 19199,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Carbono",
+    "material": "Carbono Toray",
     "tamanhos": [
       "S",
       "M",
@@ -19,9 +19,9 @@
     "curso_mm": 160
   },
   "componentes": {
-    "grupo": "Shimano Deore",
+    "grupo": "Shimano Deore 1x12",
     "velocidades": 12,
-    "tipo_freio": "Hidráulico Shimano SLX M7100",
+    "tipo_freio": "Hidráulico Shimano SLX M7100, 4 pistões",
     "peso_kg": 16.7
   },
   "ebike": null,
@@ -29,7 +29,7 @@
     {
       "url": "https://tswbike.com/p/786/all-quest-deore",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

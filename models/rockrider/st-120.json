@@ -5,12 +5,13 @@
   "slug": "st-120",
   "categoria": "mtb",
   "url_fabricante": "https://www.decathlon.com.br/bicicleta-de-mountain-bike-aro-29-st120-microshift-rockrider-preto-8631915-btwin/p",
-  "preco_sugerido_brl": 1599.99,
-  "atualizado_em": "2026-11-08",
+  "preco_sugerido_brl": 1899.99,
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio 6061 T4T6",
     "tamanhos": [
-      "M"
+      "M",
+      "L"
     ],
     "aro": "29",
     "suspensao": "hardtail",
@@ -19,7 +20,7 @@
   "componentes": {
     "grupo": "microSHIFT 3x8",
     "velocidades": 24,
-    "tipo_freio": "Hidráulico Logan HDM500, rotores 160 mm",
+    "tipo_freio": "Disco hidráulico Logan HDM500, rotores 160 mm",
     "peso_kg": 15.4
   },
   "ebike": null,
@@ -27,7 +28,7 @@
     {
       "url": "https://www.decathlon.com.br/bicicleta-de-mountain-bike-aro-29-st120-microshift-rockrider-preto-8631915-btwin/p",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

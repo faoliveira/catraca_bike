@@ -8,7 +8,7 @@
   "preco_sugerido_brl": null,
   "atualizado_em": "2026-11-08",
   "quadro": {
-    "material": "Aço carbono",
+    "material": "Aço carbono (supertubo)",
     "tamanhos": null,
     "aro": "26",
     "suspensao": "rigida",
@@ -26,6 +26,11 @@
       "url": "https://www.monark.com.br/barra-circular-cp",
       "tipo": "fabricante",
       "acessado_em": "2026-11-08"
+    },
+    {
+      "url": "https://www.monark.com.br/_files/ugd/98c81d_3f17bc537932484698f260b913d04668.pdf",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

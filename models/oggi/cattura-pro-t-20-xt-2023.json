@@ -1,14 +1,14 @@
 {
   "marca": "Oggi",
-  "modelo": "Cattura Pro T 20 XT 2023",
+  "modelo": "Cattura Pro T-20 XT 2023",
   "ano": 2023,
   "slug": "cattura-pro-t-20-xt-2023",
   "categoria": "mtb",
   "url_fabricante": "https://oggibikes.com.br/bike/cattura-pro-t-20-xt-2023/",
   "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Carbono",
+    "material": "Fibra de carbono",
     "tamanhos": [
       "S",
       "M",
@@ -20,9 +20,9 @@
     "curso_mm": 120
   },
   "componentes": {
-    "grupo": "Shimano XT 12V",
+    "grupo": "Shimano XT 1x12",
     "velocidades": 12,
-    "tipo_freio": "Hidráulico Shimano BR-M rotores 160 mm",
+    "tipo_freio": "Hidráulico Shimano Deore XT BR-M8100, rotores 160/160 mm",
     "peso_kg": null
   },
   "ebike": null,
@@ -30,12 +30,12 @@
     {
       "url": "https://oggibikes.com.br/bike/cattura-pro-t-20-xt-2023/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     },
     {
       "url": "https://oggibikes.com.br/modelos-mtb/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

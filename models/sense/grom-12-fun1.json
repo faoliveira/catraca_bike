@@ -6,9 +6,9 @@
   "categoria": "infantil",
   "url_fabricante": "https://www.sensebike.com.br/produtos/grom-12-fun1/",
   "preco_sugerido_brl": 1390,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Alumínio 6061",
+    "material": "Alumínio hidroformado 6061 T4-T6",
     "tamanhos": [
       "Único"
     ],
@@ -20,14 +20,14 @@
     "grupo": null,
     "velocidades": null,
     "tipo_freio": null,
-    "peso_kg": null
+    "peso_kg": 4.5
   },
   "ebike": null,
   "fontes": [
     {
       "url": "https://www.sensebike.com.br/produtos/grom-12-fun1/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

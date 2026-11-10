@@ -1,14 +1,14 @@
 {
   "marca": "Oggi",
   "modelo": "Agile Squadra XX SL",
-  "ano": null,
+  "ano": 2024,
   "slug": "agile-squadra-xx-sl",
   "categoria": "mtb",
   "url_fabricante": "https://oggibikes.com.br/bike/agile-squadra-xx-sl/",
   "preco_sugerido_brl": 56490,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Carbono",
+    "material": "Carbono Super Light",
     "tamanhos": [
       "S",
       "M",
@@ -20,9 +20,9 @@
     "curso_mm": 100
   },
   "componentes": {
-    "grupo": "SRAM XX AXS 12V",
+    "grupo": "SRAM XX SL Eagle AXS T-Type 1x12",
     "velocidades": 12,
-    "tipo_freio": "SRAM rotores 180/160 mm",
+    "tipo_freio": "SRAM Level Ultimate, rotores CLX 180 mm (dianteiro) e 160 mm (traseiro)",
     "peso_kg": 9.1
   },
   "ebike": null,
@@ -30,12 +30,12 @@
     {
       "url": "https://oggibikes.com.br/bike/agile-squadra-xx-sl/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     },
     {
       "url": "https://oggibikes.com.br/modelos-mtb/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

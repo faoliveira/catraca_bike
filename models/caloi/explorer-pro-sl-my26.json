@@ -6,7 +6,7 @@
   "categoria": "mtb",
   "url_fabricante": "https://caloi.com/produto/explorer-pro-sl-my26/",
   "preco_sugerido_brl": 6590,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio 6069 hidroformado, tapered, Boost, cabeamento interno",
     "tamanhos": [
@@ -21,9 +21,9 @@
     "curso_mm": 100
   },
   "componentes": {
-    "grupo": "Shimano Deore M6100 12V (cassete 10-51T), garfo RockShox Judy Silver",
+    "grupo": "Shimano Deore M6100 1x12 (cassete 10-51T)",
     "velocidades": 12,
-    "tipo_freio": "Disco Shimano MT200, rotores 160/180 mm",
+    "tipo_freio": "Disco hidráulico Shimano MT200, rotores 160/180 mm",
     "peso_kg": 12.44
   },
   "ebike": null,
@@ -31,7 +31,7 @@
     {
       "url": "https://caloi.com/produto/explorer-pro-sl-my26/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

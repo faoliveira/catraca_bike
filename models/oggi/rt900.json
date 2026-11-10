@@ -5,25 +5,23 @@
   "slug": "rt900",
   "categoria": "speed",
   "url_fabricante": "https://oggibikes.com.br/bike/rt900/",
-  "preco_sugerido_brl": 29999,
-  "atualizado_em": "2026-11-08",
+  "preco_sugerido_brl": 49999,
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Carbono",
     "tamanhos": [
-      "XS",
       "S",
       "M",
-      "L",
-      "XL"
+      "L"
     ],
     "aro": "700c",
     "suspensao": "rigida",
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "Shimano 105 Di2 24V",
+    "grupo": "Shimano 105 Di2 2x12",
     "velocidades": 24,
-    "tipo_freio": "Shimano BR-R7170 rotores 160/140 mm",
+    "tipo_freio": "Disco hidráulico Shimano Dura-Ace R9270, rotores CL700 160 mm",
     "peso_kg": null
   },
   "ebike": null,
@@ -31,12 +29,12 @@
     {
       "url": "https://oggibikes.com.br/bike/rt900/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     },
     {
       "url": "https://oggibikes.com.br/modelos-speed/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

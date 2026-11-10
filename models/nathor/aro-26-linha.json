@@ -1,27 +1,27 @@
 {
   "ano": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "categoria": "urbana",
   "componentes": {
     "grupo": null,
-    "peso_kg": null,
+    "peso_kg": 17,
     "tipo_freio": null,
     "velocidades": null
   },
   "ebike": null,
   "fontes": [
     {
-      "acessado_em": "2026-11-08",
+      "acessado_em": "2026-11-10",
       "tipo": "fabricante",
       "url": "https://nathor.com/produto/bicicleta-aro-26-barbie/"
     },
     {
-      "acessado_em": "2026-11-08",
+      "acessado_em": "2026-11-10",
       "tipo": "fabricante",
       "url": "https://nathor.com/produto/bicicleta-aro-26-louis-azul/"
     },
     {
-      "acessado_em": "2026-11-08",
+      "acessado_em": "2026-11-10",
       "tipo": "fabricante",
       "url": "https://nathor.com/produto/bicicleta-aro-26-lis-coral-pink/"
     }

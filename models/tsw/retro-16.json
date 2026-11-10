@@ -6,7 +6,7 @@
   "categoria": "infantil",
   "url_fabricante": "https://tswbike.com/p/1176/retro-16",
   "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio 6061",
     "tamanhos": null,
@@ -16,8 +16,8 @@
   },
   "componentes": {
     "grupo": null,
-    "velocidades": null,
-    "tipo_freio": "Mecânico TSW Bike Infantil",
+    "velocidades": 1,
+    "tipo_freio": "V-brake mecânico",
     "peso_kg": null
   },
   "ebike": null,
@@ -25,7 +25,7 @@
     {
       "url": "https://tswbike.com/p/1176/retro-16",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

@@ -6,9 +6,9 @@
   "categoria": "ebike",
   "url_fabricante": "https://www.sensebike.com.br/produtos/exalt-e-trail-al-evo-v2-1ye1x/",
   "preco_sugerido_brl": 46990,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Alumínio 6061",
+    "material": "Alumínio Hidroformado 6061",
     "tamanhos": [
       "S",
       "M",
@@ -20,9 +20,9 @@
     "curso_mm": 160
   },
   "componentes": {
-    "grupo": "Shimano Deore 12V",
+    "grupo": "Shimano Deore 1x12",
     "velocidades": 12,
-    "tipo_freio": "Shimano M8200 rotores 203 mm",
+    "tipo_freio": "Disco Shimano Deore XT BL-M8200 / BR-M8220, rotores 203 mm",
     "peso_kg": null
   },
   "ebike": {
@@ -41,7 +41,7 @@
     {
       "url": "https://www.sensebike.com.br/produtos/exalt-e-trail-al-evo-v2-1ye1x/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

@@ -6,9 +6,9 @@
   "categoria": "urbana",
   "url_fabricante": "https://athorbikes.com.br/bicicleta/one/",
   "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Alumínio 6061",
+    "material": "Athor alumínio 6061",
     "tamanhos": [
       "Único"
     ],
@@ -27,7 +27,7 @@
     {
       "url": "https://athorbikes.com.br/bicicleta/one/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

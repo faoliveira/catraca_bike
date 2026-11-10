@@ -6,7 +6,7 @@
   "categoria": "speed",
   "url_fabricante": "https://www.soulcycles.com.br/bicicleta-3r5-sram-force-e1-axs-24v/p",
   "preco_sugerido_brl": 46000,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Carbono",
     "tamanhos": [
@@ -22,7 +22,7 @@
   "componentes": {
     "grupo": "SRAM Force E1 AXS 2x12",
     "velocidades": 24,
-    "tipo_freio": "Disco hidráulico SRAM Force E1",
+    "tipo_freio": "Disco hidráulico SRAM Force E1, rotores CLX 140 mm Center Lock",
     "peso_kg": null
   },
   "ebike": null,
@@ -30,7 +30,7 @@
     {
       "url": "https://www.soulcycles.com.br/bicicleta-3r5-sram-force-e1-axs-24v/p",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

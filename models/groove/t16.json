@@ -6,9 +6,9 @@
   "categoria": "infantil",
   "url_fabricante": "https://groovebikes.com.br/produto/bicicleta-infantil-groove-t16/",
   "preco_sugerido_brl": 999.9,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Aço",
+    "material": "Aço Carbono",
     "tamanhos": [
       "Único"
     ],
@@ -27,7 +27,7 @@
     {
       "url": "https://groovebikes.com.br/produto/bicicleta-infantil-groove-t16/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

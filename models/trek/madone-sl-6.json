@@ -6,9 +6,9 @@
   "categoria": "speed",
   "url_fabricante": "https://www.trekbikes.com/br/pt_BR/bicicletas/bicicletas-de-estrada/bicicletas-de-estrada-de-alto-desempenho/madone/madone-sl/madone-sl-6-8%C2%AA-gera%C3%A7%C3%A3o/p/57662/",
   "preco_sugerido_brl": 43000,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Carbono",
+    "material": "Carbono OCLV Série 500",
     "tamanhos": [
       "P",
       "M",
@@ -20,17 +20,22 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "Shimano 105 R7150 Di2 12V",
-    "velocidades": 12,
-    "tipo_freio": "Disco hidráulico Shimano 105, montagem plana",
-    "peso_kg": null
+    "grupo": "Shimano 105 R7150 Di2 2x12",
+    "velocidades": 24,
+    "tipo_freio": "Disco hidráulico Shimano 105, montagem plana, rotores Shimano CL700 160 mm",
+    "peso_kg": 8.16
   },
   "ebike": null,
   "fontes": [
     {
       "url": "https://www.trekbikes.com/br/pt_BR/bicicletas/bicicletas-de-estrada/bicicletas-de-estrada-de-alto-desempenho/madone/madone-sl/madone-sl-6-8%C2%AA-gera%C3%A7%C3%A3o/p/57662/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
+    },
+    {
+      "url": "https://www.trekbikes.com/br/pt_BR/bicicletas/bicicletas-de-estrada/bicicletas-de-estrada-de-alto-desempenho/madone/f/F213/madone-sl-6-8%25c2%25aa-gera%25c3%25a7%25c3%25a3o/57662/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-10"
     }
   ]
 }

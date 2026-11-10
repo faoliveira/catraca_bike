@@ -6,9 +6,9 @@
   "categoria": "mtb",
   "url_fabricante": "https://www.focus-bikes.com/int/thron-6-8",
   "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Alumínio",
+    "material": "Alumínio 7005 hidroformado",
     "tamanhos": [
       "S",
       "M",
@@ -20,9 +20,9 @@
     "curso_mm": 130
   },
   "componentes": {
-    "grupo": "Shimano Cues",
+    "grupo": "Shimano Cues 1x10",
     "velocidades": 10,
-    "tipo_freio": "Hidráulico Magura MT30, rotores 203 mm",
+    "tipo_freio": "Disco hidráulico Magura MT30 2 pistões, rotores Magura MDR-C 203 mm",
     "peso_kg": 16.5
   },
   "ebike": null,
@@ -30,7 +30,7 @@
     {
       "url": "https://www.focus-bikes.com/int/thron-6-8",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

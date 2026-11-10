@@ -1,32 +1,32 @@
 {
   "ano": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "categoria": "infantil",
   "componentes": {
     "grupo": null,
-    "peso_kg": null,
+    "peso_kg": 1.65,
     "tipo_freio": null,
     "velocidades": null
   },
   "ebike": null,
   "fontes": [
     {
-      "acessado_em": "2026-11-08",
+      "acessado_em": "2026-11-10",
       "tipo": "fabricante",
       "url": "https://nathor.com/produto/balance-baby-green/"
     },
     {
-      "acessado_em": "2026-11-08",
+      "acessado_em": "2026-11-10",
       "tipo": "fabricante",
       "url": "https://nathor.com/produto/balance-baby-dino/"
     },
     {
-      "acessado_em": "2026-11-08",
+      "acessado_em": "2026-11-10",
       "tipo": "fabricante",
       "url": "https://nathor.com/produto/balance-baby-lilas/"
     },
     {
-      "acessado_em": "2026-11-08",
+      "acessado_em": "2026-11-10",
       "tipo": "fabricante",
       "url": "https://nathor.com/produto/balance-baby-unicorn/"
     }

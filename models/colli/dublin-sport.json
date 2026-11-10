@@ -3,7 +3,7 @@
   "modelo": "Dublin Sport",
   "ano": null,
   "slug": "dublin-sport",
-  "categoria": "urbana",
+  "categoria": "infantil",
   "url_fabricante": "https://collibike.com.br/bicicletas/dublin-sport/",
   "preco_sugerido_brl": null,
   "atualizado_em": "2026-11-08",
@@ -15,7 +15,7 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "Single, EZ-Fire 7V",
+    "grupo": "Shimano EZ-Fire STEF41/STEF500, pedivela single, roda livre 7V",
     "velocidades": 7,
     "tipo_freio": "Disco dianteiro e traseiro",
     "peso_kg": null
@@ -26,6 +26,11 @@
       "url": "https://collibike.com.br/bicicletas/dublin-sport/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-08"
+    },
+    {
+      "url": "https://web.archive.org/web/20260316001208/https://collibike.com.br/bicicletas/dublin-sport/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-10"
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
   "marca": "Oggi",
   "modelo": "Velloce Disc 22",
-  "ano": null,
+  "ano": 2022,
   "slug": "velloce-disc-22",
   "categoria": "speed",
   "url_fabricante": "https://oggibikes.com.br/bike/velloce-disc-22/",
-  "preco_sugerido_brl": 4990,
-  "atualizado_em": "2026-11-08",
+  "preco_sugerido_brl": 5390,
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": null,
+    "material": "Alumínio",
     "tamanhos": [
       "S",
       "(S",
@@ -22,9 +22,9 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "Shimano Claris 16V",
+    "grupo": "Shimano Claris 2x8",
     "velocidades": 16,
-    "tipo_freio": "Shimano",
+    "tipo_freio": "Disco Shimano Claris BR-R317",
     "peso_kg": 11.7
   },
   "ebike": null,
@@ -32,12 +32,12 @@
     {
       "url": "https://oggibikes.com.br/bike/velloce-disc-22/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     },
     {
       "url": "https://oggibikes.com.br/modelos-speed/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

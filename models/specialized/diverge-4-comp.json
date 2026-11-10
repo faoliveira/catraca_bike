@@ -6,9 +6,9 @@
   "categoria": "gravel",
   "url_fabricante": "https://www.specialized.com/br/pt/diverge-4-comp-sram-apexs1000/p/4223513",
   "preco_sugerido_brl": 34990,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Carbono",
+    "material": "Carbono FACT 9r",
     "tamanhos": [
       "49",
       "52",
@@ -22,7 +22,7 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "SRAM S1000 Eagle AXS 12V, garfo Future Shock 3.2 w/ Smooth Boot",
+    "grupo": "SRAM Apex AXS / S1000 Eagle AXS 1x12",
     "velocidades": 12,
     "tipo_freio": "Disco hidráulico SRAM Apex",
     "peso_kg": 9.7
@@ -32,7 +32,7 @@
     {
       "url": "https://www.specialized.com/br/pt/diverge-4-comp-sram-apexs1000/p/4223513",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

@@ -5,8 +5,8 @@
   "slug": "xlab-ad9",
   "categoria": "speed",
   "url_fabricante": "https://xlabbikes.com.br/ad9/",
-  "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-08",
+  "preco_sugerido_brl": 79900,
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Carbono Toray T1100 + M40X",
     "tamanhos": [
@@ -21,9 +21,9 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "Shimano Dura-Ace Di2",
+    "grupo": "Shimano Dura-Ace Di2 2x",
     "velocidades": 24,
-    "tipo_freio": "Disco hidráulico",
+    "tipo_freio": "Disco hidráulico Shimano Dura-Ace BR-R9270, rotores 160/140 mm",
     "peso_kg": 6.82
   },
   "ebike": null,
@@ -31,7 +31,7 @@
     {
       "url": "https://xlabbikes.com.br/ad9/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

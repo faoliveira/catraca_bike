@@ -6,7 +6,7 @@
   "categoria": "ebike",
   "url_fabricante": "https://golev.com.br/products/farm-cruiser-bananada",
   "preco_sugerido_brl": 10980,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": null,
     "tamanhos": null,
@@ -36,7 +36,7 @@
     {
       "url": "https://golev.com.br/products/farm-cruiser-bananada",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ]
 }

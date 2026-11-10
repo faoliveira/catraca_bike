@@ -3,13 +3,15 @@
   "modelo": "ZT Rígida",
   "ano": null,
   "slug": "zt-rigida",
-  "categoria": "urbana",
+  "categoria": "mtb",
   "url_fabricante": "https://www.alfameqoficial.com.br/bicicletas/bicicleta-aro-29-gts-zt-aco-21-marchas-e-freio-a-disco",
   "preco_sugerido_brl": 899.9,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Aço carbono",
-    "tamanhos": null,
+    "tamanhos": [
+      "17"
+    ],
     "aro": "29",
     "suspensao": "rigida",
     "curso_mm": null
@@ -25,7 +27,7 @@
     {
       "url": "https://www.alfameqoficial.com.br/bicicletas/bicicleta-aro-29-gts-zt-aco-21-marchas-e-freio-a-disco",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

@@ -6,7 +6,7 @@
   "categoria": "mtb",
   "url_fabricante": "https://audaxbike.com/bike/234/fs-900-gx",
   "preco_sugerido_brl": 38999,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Carbono UD Toray T800",
     "tamanhos": [
@@ -20,9 +20,9 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "SRAM GX AXS T-Type",
+    "grupo": "SRAM GX Eagle AXS T-Type",
     "velocidades": null,
-    "tipo_freio": "Shimano M7100 rotores 160 mm",
+    "tipo_freio": "Shimano M7100, rotores SM-RT76 160 mm (diant.) e SM-RT56 180/160 mm (tras.)",
     "peso_kg": null
   },
   "ebike": null,
@@ -30,7 +30,7 @@
     {
       "url": "https://audaxbike.com/bike/234/fs-900-gx",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

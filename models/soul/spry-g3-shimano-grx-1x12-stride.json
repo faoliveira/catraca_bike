@@ -5,8 +5,8 @@
   "slug": "spry-g3-shimano-grx-1x12-stride",
   "categoria": "gravel",
   "url_fabricante": "https://www.soulcycles.com.br/bicicleta-soul-spry-g3-shimano-grx-1x12-stride/p",
-  "preco_sugerido_brl": 13000,
-  "atualizado_em": "2026-11-08",
+  "preco_sugerido_brl": 14000,
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio",
     "tamanhos": [
@@ -22,7 +22,7 @@
   "componentes": {
     "grupo": "Shimano GRX 1x12",
     "velocidades": 12,
-    "tipo_freio": "Disco hidráulico Shimano GRX",
+    "tipo_freio": "Disco hidráulico Shimano GRX, rotores 160 mm",
     "peso_kg": 10.7
   },
   "ebike": null,
@@ -30,7 +30,12 @@
     {
       "url": "https://www.soulcycles.com.br/bicicleta-soul-spry-g3-shimano-grx-1x12-stride/p",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
+    },
+    {
+      "url": "https://www.soulcycles.com.br/api/catalog_system/pub/products/search/bicicleta-soul-spry-g3-shimano-grx-1x12-stride/p",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

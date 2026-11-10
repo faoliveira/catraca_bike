@@ -5,8 +5,8 @@
   "slug": "krw-x42",
   "categoria": "mtb",
   "url_fabricante": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-24-velocidades-freio-a-disco-x42-outlet/",
-  "preco_sugerido_brl": 839,
-  "atualizado_em": "2026-11-08",
+  "preco_sugerido_brl": 1899,
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio 6061",
     "tamanhos": [
@@ -22,15 +22,15 @@
   "componentes": {
     "grupo": null,
     "velocidades": 24,
-    "tipo_freio": "Disco mecânico",
-    "peso_kg": null
+    "tipo_freio": "Disco mecânico, rotor 160 mm",
+    "peso_kg": 15
   },
   "ebike": null,
   "fontes": [
     {
       "url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-24-velocidades-freio-a-disco-x42-outlet/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

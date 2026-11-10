@@ -6,10 +6,11 @@
   "categoria": "mtb",
   "url_fabricante": "https://www.decathlon.com.br/bicicleta-adulta-de-mountain-bike-suspensao-integral-quadro-em-carbono-race-900-branca-8873988-rockrider/p",
   "preco_sugerido_brl": 15999.99,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Carbono",
+    "material": "Carbono integral Switch And Ride",
     "tamanhos": [
+      "P",
       "M",
       "G",
       "GG"
@@ -21,7 +22,7 @@
   "componentes": {
     "grupo": "Shimano SLX/XT 1x12",
     "velocidades": 12,
-    "tipo_freio": "Hidráulico Shimano MT501, rotores 180/160 mm",
+    "tipo_freio": "Disco hidráulico Shimano MT501, rotores 180/160 mm",
     "peso_kg": 12.7
   },
   "ebike": null,
@@ -29,7 +30,7 @@
     {
       "url": "https://www.decathlon.com.br/bicicleta-adulta-de-mountain-bike-suspensao-integral-quadro-em-carbono-race-900-branca-8873988-rockrider/p",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

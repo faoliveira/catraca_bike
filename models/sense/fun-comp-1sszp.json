@@ -6,9 +6,9 @@
   "categoria": "mtb",
   "url_fabricante": "https://www.sensebike.com.br/produtos/fun-comp-1sszp/",
   "preco_sugerido_brl": 2790,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Alumínio 6061",
+    "material": "Alumínio Sense 6061 T4/T6",
     "tamanhos": [
       "XS",
       "S",
@@ -21,17 +21,17 @@
     "curso_mm": 100
   },
   "componentes": {
-    "grupo": "Shimano Tourney 2V",
-    "velocidades": 2,
-    "tipo_freio": "Hidráulico Shimano",
-    "peso_kg": null
+    "grupo": "Shimano Altus/Tourney 2x8",
+    "velocidades": 16,
+    "tipo_freio": "Disco hidráulico Shimano ST-EF505, rotores 160 mm",
+    "peso_kg": 14.1
   },
   "ebike": null,
   "fontes": [
     {
       "url": "https://www.sensebike.com.br/produtos/fun-comp-1sszp/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

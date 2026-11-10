@@ -1,9 +1,9 @@
 {
   "ano": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "categoria": "mtb",
   "componentes": {
-    "grupo": "Shimano Essa/Altus 1x8V",
+    "grupo": "Shimano Essa/Altus 1x8",
     "peso_kg": null,
     "tipo_freio": "Disco hidráulico",
     "velocidades": 8
@@ -11,7 +11,7 @@
   "ebike": null,
   "fontes": [
     {
-      "acessado_em": "2026-11-08",
+      "acessado_em": "2026-11-10",
       "tipo": "fabricante",
       "url": "https://verdenbikes.com/vortex-three-aro-29/"
     }

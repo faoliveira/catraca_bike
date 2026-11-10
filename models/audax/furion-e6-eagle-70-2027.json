@@ -6,7 +6,7 @@
   "categoria": "ebike",
   "url_fabricante": "https://audaxbike.com/bike/252/furion-e6-eagle-70-2027",
   "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Carbono UD Toray T700",
     "tamanhos": [
@@ -21,11 +21,11 @@
   "componentes": {
     "grupo": "SRAM Eagle 70 T-Type",
     "velocidades": null,
-    "tipo_freio": "Disco hidráulico Shimano BR-M7120 rotores 203/180 mm",
+    "tipo_freio": "Disco hidráulico Shimano BR-M7120 4 pistões, rotores 203/180 mm",
     "peso_kg": null
   },
   "ebike": {
-    "motor_tipo": "Shimano EP6 (central)",
+    "motor_tipo": "Shimano EP6 DU-EP600 Pico 500 (central)",
     "potencia_w": 250,
     "torque_nm": 85,
     "bateria_wh": 630,
@@ -40,7 +40,7 @@
     {
       "url": "https://audaxbike.com/bike/252/furion-e6-eagle-70-2027",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

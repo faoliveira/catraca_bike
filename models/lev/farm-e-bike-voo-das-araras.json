@@ -6,7 +6,7 @@
   "categoria": "ebike",
   "url_fabricante": "https://golev.com.br/products/farm-ebike-voo-das-araras",
   "preco_sugerido_brl": 6990,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": null,
     "tamanhos": null,
@@ -36,7 +36,7 @@
     {
       "url": "https://golev.com.br/products/farm-ebike-voo-das-araras",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ]
 }

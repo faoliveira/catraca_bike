@@ -6,7 +6,7 @@
   "categoria": "mtb",
   "url_fabricante": "https://tswbike.com/p/972/full-quest-white-angel-gx-500",
   "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Carbono Toray T700/T800/T1000",
     "tamanhos": [
@@ -20,9 +20,9 @@
     "curso_mm": 120
   },
   "componentes": {
-    "grupo": "SRAM GX Eagle",
+    "grupo": "SRAM GX Eagle 1x12",
     "velocidades": 12,
-    "tipo_freio": "Hidráulico Shimano MT500 rotores 180/160 mm",
+    "tipo_freio": "Disco hidráulico Shimano MT500, rotores 180/160 mm",
     "peso_kg": 13.13
   },
   "ebike": null,
@@ -30,7 +30,7 @@
     {
       "url": "https://tswbike.com/p/972/full-quest-white-angel-gx-500",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

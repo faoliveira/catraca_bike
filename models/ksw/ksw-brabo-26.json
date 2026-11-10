@@ -5,8 +5,8 @@
   "slug": "ksw-brabo-26",
   "categoria": "mtb",
   "url_fabricante": "https://www.kswbikes.com.br/bicicleta/bicicleta-grau-ksw-brabo-aro-26-freeride-21v-shimano-a-disco",
-  "preco_sugerido_brl": 1099,
-  "atualizado_em": "2026-11-08",
+  "preco_sugerido_brl": 1190,
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio",
     "tamanhos": [
@@ -17,7 +17,7 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "Shimano",
+    "grupo": "Câmbios dianteiro e traseiro Shimano, passadores EZ Fire 7v",
     "velocidades": 21,
     "tipo_freio": "Disco mecânico",
     "peso_kg": null
@@ -27,7 +27,7 @@
     {
       "url": "https://www.kswbikes.com.br/bicicleta/bicicleta-grau-ksw-brabo-aro-26-freeride-21v-shimano-a-disco",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

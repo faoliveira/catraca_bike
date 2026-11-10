@@ -6,9 +6,9 @@
   "categoria": "ebike",
   "url_fabricante": "https://www.specialized.com/br/pt/bicicleta-turbo-tero-30/p/216846",
   "preco_sugerido_brl": 26990,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Alumínio",
+    "material": "Alumínio E5",
     "tamanhos": [
       "S",
       "M",
@@ -20,7 +20,7 @@
     "curso_mm": 110
   },
   "componentes": {
-    "grupo": "Shimano Alivio 9V, garfo SR Suntour XCM32",
+    "grupo": "Shimano Alivio 1x9",
     "velocidades": 9,
     "tipo_freio": "Disco hidráulico Shimano BR-MT200, rotores 180/180 mm",
     "peso_kg": 23
@@ -30,7 +30,7 @@
     "potencia_w": 250,
     "torque_nm": 50,
     "bateria_wh": 530,
-    "autonomia_declarada_km": null,
+    "autonomia_declarada_km": 110,
     "acelerador": null,
     "assistencia_so_com_pedal": null,
     "vel_max_kmh": null,
@@ -41,7 +41,7 @@
     {
       "url": "https://www.specialized.com/br/pt/bicicleta-turbo-tero-30/p/216846",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

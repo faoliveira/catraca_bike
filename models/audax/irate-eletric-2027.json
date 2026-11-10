@@ -6,7 +6,7 @@
   "categoria": "ebike",
   "url_fabricante": "https://www.audaxbike.com/bike/250/irate-eletric-2027",
   "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio 6061",
     "tamanhos": [
@@ -18,9 +18,9 @@
     "curso_mm": 130
   },
   "componentes": {
-    "grupo": "Shimano Deore",
+    "grupo": "Shimano Deore 1x12",
     "velocidades": 12,
-    "tipo_freio": "Disco hidráulico Shimano",
+    "tipo_freio": "Disco hidráulico Shimano MT420, rotores 180 mm",
     "peso_kg": null
   },
   "ebike": {
@@ -39,7 +39,7 @@
     {
       "url": "https://www.audaxbike.com/bike/250/irate-eletric-2027",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

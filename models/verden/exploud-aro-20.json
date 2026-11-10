@@ -5,13 +5,13 @@
   "componentes": {
     "grupo": "Single (roda livre 18D)",
     "peso_kg": null,
-    "tipo_freio": "V-Brake alumínio",
+    "tipo_freio": "V-Brake em alumínio",
     "velocidades": 1
   },
   "ebike": null,
   "fontes": [
     {
-      "acessado_em": "2026-11-08",
+      "acessado_em": "2026-11-10",
       "tipo": "fabricante",
       "url": "https://verdenbikes.com/bicicleta-exploud-aro-20/"
     }

@@ -8,7 +8,7 @@
   "preco_sugerido_brl": 6999.9,
   "atualizado_em": "2026-11-08",
   "quadro": {
-    "material": "Alumínio 6061 T4+T6",
+    "material": "GRAVEL HT ALUMÍNIO 6061 T4+T6 STEALTH",
     "tamanhos": [
       "S",
       "M",
@@ -22,7 +22,7 @@
   "componentes": {
     "grupo": "Shimano Cues 1x10 (cassete LG400 11-48D)",
     "velocidades": 10,
-    "tipo_freio": "Disco mecânico Shimano BR-RS305, rotores 160 mm",
+    "tipo_freio": "Disco mecânico Shimano BR-RS305, rotor Shimano SM-RT54 160 mm",
     "peso_kg": null
   },
   "ebike": null,
@@ -31,6 +31,11 @@
       "url": "https://collibike.com.br/bicicletas/veneto/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-08"
+    },
+    {
+      "url": "http://web.archive.org/web/20260213075149/https://collibike.com.br/bicicletas/veneto/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-10"
     }
   ]
 }

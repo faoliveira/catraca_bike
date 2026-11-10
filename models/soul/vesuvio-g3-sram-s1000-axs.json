@@ -6,7 +6,7 @@
   "categoria": "mtb",
   "url_fabricante": "https://www.soulcycles.com.br/bicicleta-vesuvio-g3-sram-s1000-axs-sierra-negra/p",
   "preco_sugerido_brl": 30000,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Carbono",
     "tamanhos": [
@@ -20,9 +20,9 @@
     "curso_mm": 110
   },
   "componentes": {
-    "grupo": "SRAM S1000 Eagle AXS 12V",
+    "grupo": "SRAM S1000 Eagle T-Type AXS 1x12",
     "velocidades": 12,
-    "tipo_freio": "Disco hidráulico SRAM Level",
+    "tipo_freio": "Disco hidráulico SRAM Level, rotores 160 mm",
     "peso_kg": null
   },
   "ebike": null,
@@ -30,7 +30,12 @@
     {
       "url": "https://www.soulcycles.com.br/bicicleta-vesuvio-g3-sram-s1000-axs-sierra-negra/p",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
+    },
+    {
+      "url": "https://www.soulcycles.com.br/api/catalog_system/pub/products/search/bicicleta-vesuvio-g3-sram-s1000-axs-sierra-negra/p",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

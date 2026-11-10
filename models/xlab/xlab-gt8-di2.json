@@ -5,8 +5,8 @@
   "slug": "xlab-gt8-di2",
   "categoria": "gravel",
   "url_fabricante": "https://xlabbikes.com.br/gt8-di2/",
-  "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-08",
+  "preco_sugerido_brl": 38900,
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Carbono Toray T800",
     "tamanhos": [
@@ -22,9 +22,9 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "Shimano GRX Di2",
+    "grupo": "Shimano GRX Di2 1x12",
     "velocidades": 12,
-    "tipo_freio": "Disco hidráulico",
+    "tipo_freio": "Disco hidráulico Shimano GRX BR-RX410, rotores SM-RT70 160/160 mm",
     "peso_kg": 8.78
   },
   "ebike": null,
@@ -32,7 +32,7 @@
     {
       "url": "https://xlabbikes.com.br/gt8-di2/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

@@ -1,12 +1,12 @@
 {
   "marca": "TSW",
   "modelo": "Full Quest High Tech",
-  "ano": null,
+  "ano": 2025,
   "slug": "full-quest-high-tech",
   "categoria": "mtb",
   "url_fabricante": "https://tswbike.com/p/1809/full-quest-high-tech",
   "preco_sugerido_brl": 82900,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Carbono Toray T700/T800/T1000",
     "tamanhos": [
@@ -20,9 +20,9 @@
     "curso_mm": 120
   },
   "componentes": {
-    "grupo": "SRAM XX Eagle AXS T-Type",
+    "grupo": "SRAM XX SL Eagle AXS T-Type 1x12",
     "velocidades": 12,
-    "tipo_freio": "Hidráulico SRAM Level Stealth Ultimate rotores 180/160 mm",
+    "tipo_freio": "Disco hidráulico SRAM Level Stealth Ultimate, rotores 180/160 mm",
     "peso_kg": 11.52
   },
   "ebike": null,
@@ -30,7 +30,7 @@
     {
       "url": "https://tswbike.com/p/1809/full-quest-high-tech",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

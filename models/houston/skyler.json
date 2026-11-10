@@ -6,7 +6,7 @@
   "categoria": "mtb",
   "url_fabricante": "https://houston.com.br/bike/5/skyler",
   "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio 6061 T6",
     "tamanhos": [
@@ -21,7 +21,7 @@
   "componentes": {
     "grupo": "Shimano 3x7V (FD-M130/RD-TZ31A)",
     "velocidades": 21,
-    "tipo_freio": "Disco mecânico",
+    "tipo_freio": "Disco mecânico KP-07F/07",
     "peso_kg": null
   },
   "ebike": null,
@@ -29,7 +29,7 @@
     {
       "url": "https://houston.com.br/bike/5/skyler",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

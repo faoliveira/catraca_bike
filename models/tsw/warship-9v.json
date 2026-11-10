@@ -6,7 +6,7 @@
   "categoria": "mtb",
   "url_fabricante": "https://tswbike.com/p/779/warship-9v",
   "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio 6061",
     "tamanhos": [
@@ -17,9 +17,9 @@
     "curso_mm": 100
   },
   "componentes": {
-    "grupo": "Shimano",
+    "grupo": "Shimano Alivio 1x9",
     "velocidades": 9,
-    "tipo_freio": "Hidráulico X-Time Hidráulico rotores 160 mm",
+    "tipo_freio": "Disco hidráulico X-Time (óleo mineral), rotores Shimano SM-RT10 160 mm",
     "peso_kg": 13.7
   },
   "ebike": null,
@@ -27,7 +27,7 @@
     {
       "url": "https://tswbike.com/p/779/warship-9v",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

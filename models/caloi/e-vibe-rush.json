@@ -6,7 +6,7 @@
   "categoria": "ebike",
   "url_fabricante": "https://caloi.com/produto/e-vibe-rush/",
   "preco_sugerido_brl": 5490,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio hidroformado, liga 6061, tapered",
     "tamanhos": [
@@ -20,7 +20,7 @@
     "curso_mm": 25
   },
   "componentes": {
-    "grupo": "Shimano Tourney (RD-TY300/TX30, 7V), cassete Shunfeng 14-34D",
+    "grupo": "Shimano Tourney (RD-TY300/TX30) 1x7, cassete Shunfeng 14-34D",
     "velocidades": 7,
     "tipo_freio": "Disco hidráulico Logan M500, rotores 160/180 mm",
     "peso_kg": 18.59
@@ -35,13 +35,13 @@
     "assistencia_so_com_pedal": false,
     "vel_max_kmh": 32,
     "largura_cm": null,
-    "entre_eixos_cm": null
+    "entre_eixos_cm": 110.36
   },
   "fontes": [
     {
       "url": "https://caloi.com/produto/e-vibe-rush/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

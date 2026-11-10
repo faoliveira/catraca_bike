@@ -5,8 +5,8 @@
   "slug": "overdrive-50-16v",
   "categoria": "speed",
   "url_fabricante": "https://groovebikes.com.br/produto/bicicleta-groove-overdrive-50/",
-  "preco_sugerido_brl": 4999.9,
-  "atualizado_em": "2026-11-08",
+  "preco_sugerido_brl": 6499.9,
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio",
     "tamanhos": [
@@ -20,17 +20,17 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "Shimano Claris",
+    "grupo": "Shimano Claris 2x8",
     "velocidades": 16,
-    "tipo_freio": "Disco mecânico Shimano BR-R317",
-    "peso_kg": 7.8
+    "tipo_freio": "Disco mecânico Shimano BR-R317, rotor 160 mm",
+    "peso_kg": 10.5
   },
   "ebike": null,
   "fontes": [
     {
       "url": "https://groovebikes.com.br/produto/bicicleta-groove-overdrive-50/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

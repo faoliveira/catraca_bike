@@ -18,10 +18,10 @@
     ],
     "aro": "700c",
     "suspensao": "hardtail",
-    "curso_mm": null
+    "curso_mm": 63
   },
   "componentes": {
-    "grupo": "Shimano Cues RD-U6000 10/11-Speed 11V, garfo SR Suntour NEX",
+    "grupo": "Shimano Cues RD-U6000 10/11-Speed 11V",
     "velocidades": 11,
     "tipo_freio": "Disco hidráulico Tektro TKD 176, rotores 160 mm",
     "peso_kg": null
@@ -31,7 +31,7 @@
     {
       "url": "https://www.scott-sports.com/br/pt_BR/product/scott-sub-cross-20-bike",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ]
 }

@@ -9,13 +9,15 @@
   "atualizado_em": "2026-11-08",
   "quadro": {
     "material": "Aço carbono 18''",
-    "tamanhos": null,
+    "tamanhos": [
+      "18"
+    ],
     "aro": "29",
     "suspensao": null,
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "Rapid Fire 3x7V, pedivela triplo em aço",
+    "grupo": "Alavancas Rapid Fire 3x7V, pedivela triplo em aço",
     "velocidades": 21,
     "tipo_freio": "Disco dianteiro e traseiro",
     "peso_kg": null
@@ -26,6 +28,11 @@
       "url": "https://collibike.com.br/bicicletas/nantes/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-08"
+    },
+    {
+      "url": "https://web.archive.org/web/20251118042606/https://collibike.com.br/bicicletas/nantes/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-10"
     }
   ]
 }

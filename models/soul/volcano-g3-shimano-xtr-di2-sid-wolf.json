@@ -5,8 +5,8 @@
   "slug": "volcano-g3-shimano-xtr-di2-sid-wolf",
   "categoria": "mtb",
   "url_fabricante": "https://www.soulcycles.com.br/bicicleta-volcano-g3-shimano-xtr-di2-sid-wolf/p",
-  "preco_sugerido_brl": 71000,
-  "atualizado_em": "2026-11-08",
+  "preco_sugerido_brl": 75000,
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Carbono",
     "tamanhos": [
@@ -19,9 +19,9 @@
     "curso_mm": 110
   },
   "componentes": {
-    "grupo": "Shimano XTR Di2 12V",
+    "grupo": "Shimano XTR Di2 1x12",
     "velocidades": 12,
-    "tipo_freio": "Disco hidráulico Shimano XTR",
+    "tipo_freio": "Disco hidráulico Shimano XTR, rotores 160 mm",
     "peso_kg": 10.6
   },
   "ebike": null,
@@ -29,7 +29,12 @@
     {
       "url": "https://www.soulcycles.com.br/bicicleta-volcano-g3-shimano-xtr-di2-sid-wolf/p",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
+    },
+    {
+      "url": "https://www.soulcycles.com.br/api/catalog_system/pub/products/search/bicicleta-volcano-g3-shimano-xtr-di2-sid-wolf/p",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

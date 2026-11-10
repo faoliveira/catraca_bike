@@ -6,9 +6,9 @@
   "categoria": "mtb",
   "url_fabricante": "https://www.merida-bikes.com/en/bike/6535/bignine-xt",
   "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Carbono",
+    "material": "Carbono BIG.NINE CF3 III",
     "tamanhos": [
       "S",
       "M",
@@ -21,9 +21,9 @@
     "curso_mm": 100
   },
   "componentes": {
-    "grupo": "Shimano XT",
+    "grupo": "Shimano XT Di2 1x12",
     "velocidades": 12,
-    "tipo_freio": "Hidráulico Shimano XT M8200, rotores 180 mm",
+    "tipo_freio": "Disco hidráulico Shimano XT M8200, rotores 180 mm",
     "peso_kg": null
   },
   "ebike": null,
@@ -31,7 +31,7 @@
     {
       "url": "https://www.merida-bikes.com/en/bike/6535/bignine-xt",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

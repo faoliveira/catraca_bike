@@ -6,7 +6,7 @@
   "categoria": "ebike",
   "url_fabricante": "https://golev.com.br/products/ebikel",
   "preco_sugerido_brl": 7980,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio",
     "tamanhos": null,
@@ -15,9 +15,9 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "Shimano",
+    "grupo": "Shimano 7 velocidades",
     "velocidades": 7,
-    "tipo_freio": "Disco",
+    "tipo_freio": "Freio a disco dianteiro",
     "peso_kg": 27
   },
   "ebike": {
@@ -36,7 +36,7 @@
     {
       "url": "https://golev.com.br/products/ebikel",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

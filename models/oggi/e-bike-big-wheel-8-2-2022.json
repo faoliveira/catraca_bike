@@ -6,12 +6,13 @@
   "categoria": "ebike",
   "url_fabricante": "https://oggibikes.com.br/bike/e-bike-big-wheel-8-2-2022/",
   "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio 6061 T6",
     "tamanhos": [
-      "15",
-      "5\" - 17\" - 19"
+      "15.5",
+      "17",
+      "19"
     ],
     "aro": "29",
     "suspensao": "hardtail",
@@ -20,7 +21,7 @@
   "componentes": {
     "grupo": "Shimano Deore 10V",
     "velocidades": 10,
-    "tipo_freio": "Hidráulico Shimano BR-MT200",
+    "tipo_freio": "Disco hidráulico Shimano Altus BR-MT200",
     "peso_kg": null
   },
   "ebike": {
@@ -39,12 +40,12 @@
     {
       "url": "https://oggibikes.com.br/bike/e-bike-big-wheel-8-2-2022/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     },
     {
       "url": "https://oggibikes.com.br/modelos-eletricas/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

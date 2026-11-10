@@ -6,7 +6,7 @@
   "categoria": "ebike",
   "url_fabricante": "https://www.sensebike.com.br/produtos/impact-e-trail-fun/",
   "preco_sugerido_brl": 16990,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio 6061",
     "tamanhos": [
@@ -20,9 +20,9 @@
     "curso_mm": 120
   },
   "componentes": {
-    "grupo": "Shimano Cues 11V",
-    "velocidades": 11,
-    "tipo_freio": "Shimano MT410 rotores 180 mm",
+    "grupo": "Shimano Cues 1x10",
+    "velocidades": 10,
+    "tipo_freio": "Disco hidráulico Shimano MT410, rotores 180 mm",
     "peso_kg": null
   },
   "ebike": {
@@ -41,7 +41,7 @@
     {
       "url": "https://www.sensebike.com.br/produtos/impact-e-trail-fun/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

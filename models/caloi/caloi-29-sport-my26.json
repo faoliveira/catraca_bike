@@ -6,7 +6,7 @@
   "categoria": "mtb",
   "url_fabricante": "https://caloi.com/produto/caloi-29-sport-my26/",
   "preco_sugerido_brl": 1790,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio 6061",
     "tamanhos": [
@@ -19,7 +19,7 @@
     "curso_mm": 100
   },
   "componentes": {
-    "grupo": "Shimano Tourney TY500/TY300 3x7V",
+    "grupo": "Shimano Tourney TY500/TY300 3x7",
     "velocidades": 21,
     "tipo_freio": "Disco mecânico Logan, rotores 160 mm",
     "peso_kg": 15.48
@@ -29,7 +29,7 @@
     {
       "url": "https://caloi.com/produto/caloi-29-sport-my26/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

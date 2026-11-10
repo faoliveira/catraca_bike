@@ -5,11 +5,13 @@
   "slug": "krw-m16-bigboy",
   "categoria": "infantil",
   "url_fabricante": "https://www.krwbikes.com.br/produtos/bicicleta-krw-infantil-aro-16-bigboy-menino-aco-carbono-freio-v-brake-com-descanco-lateral-m16/",
-  "preco_sugerido_brl": 889,
-  "atualizado_em": "2026-11-08",
+  "preco_sugerido_brl": 1099,
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Aço carbono",
-    "tamanhos": null,
+    "tamanhos": [
+      "Único"
+    ],
     "aro": "16",
     "suspensao": "rigida",
     "curso_mm": null
@@ -18,14 +20,14 @@
     "grupo": null,
     "velocidades": null,
     "tipo_freio": "V-Brake",
-    "peso_kg": null
+    "peso_kg": 8
   },
   "ebike": null,
   "fontes": [
     {
       "url": "https://www.krwbikes.com.br/produtos/bicicleta-krw-infantil-aro-16-bigboy-menino-aco-carbono-freio-v-brake-com-descanco-lateral-m16/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

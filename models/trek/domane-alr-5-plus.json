@@ -8,7 +8,7 @@
   "preco_sugerido_brl": 34990,
   "atualizado_em": "2026-11-08",
   "quadro": {
-    "material": "Alumínio",
+    "material": "Alumínio Alpha Série 300",
     "tamanhos": [
       "P",
       "M",
@@ -20,20 +20,20 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "SRAM Apex XPLR 12V",
+    "grupo": "SRAM Apex XPLR 1x12",
     "velocidades": 12,
-    "tipo_freio": "SRAM Apex D1 hydraulic disc, flat mount",
-    "peso_kg": null
+    "tipo_freio": "Disco hidráulico SRAM Apex D1, flat mount, rotores SRAM Paceline 160 mm",
+    "peso_kg": 14.39
   },
   "ebike": {
     "motor_tipo": "TQ-HPR60",
     "potencia_w": 250,
     "torque_nm": 60,
     "bateria_wh": 360,
-    "autonomia_declarada_km": null,
+    "autonomia_declarada_km": 96,
     "acelerador": null,
     "assistencia_so_com_pedal": null,
-    "vel_max_kmh": null,
+    "vel_max_kmh": 45,
     "largura_cm": null,
     "entre_eixos_cm": null
   },
@@ -41,7 +41,7 @@
     {
       "url": "https://www.trekbikes.com/br/pt_BR/bicicletas/bicicletas-el%C3%A9tricas/bicicletas-el%C3%A9tricas-para-ciclismo-de-estrada/domane-alr-5/p/56175/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

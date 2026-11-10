@@ -6,7 +6,7 @@
   "categoria": "mtb",
   "url_fabricante": "https://www.monark.com.br/mtb-preta",
   "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio 6061 (Quadro Lifty 29, tam. 17)",
     "tamanhos": [
@@ -19,20 +19,20 @@
   "componentes": {
     "grupo": "Shimano TZ31 3x7V (catraca 7V 14-28D)",
     "velocidades": 21,
-    "tipo_freio": "Disco mecânico (a cabo) First, rotor 160 mm",
-    "peso_kg": null
+    "tipo_freio": "Disco mecânico (a cabo) FIRST, adaptador 160 mm",
+    "peso_kg": 17.45
   },
   "ebike": null,
   "fontes": [
     {
       "url": "https://www.monark.com.br/mtb-preta",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     },
     {
       "url": "https://www.monark.com.br/_files/ugd/98c81d_3f17bc537932484698f260b913d04668.pdf",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

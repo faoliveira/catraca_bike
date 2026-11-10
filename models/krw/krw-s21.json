@@ -5,11 +5,16 @@
   "slug": "krw-s21",
   "categoria": "mtb",
   "url_fabricante": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-shimano-tz-21v-freio-a-disco-s21/",
-  "preco_sugerido_brl": 879,
-  "atualizado_em": "2026-11-08",
+  "preco_sugerido_brl": 1999,
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio 6061",
-    "tamanhos": null,
+    "tamanhos": [
+      "15.5",
+      "17",
+      "19",
+      "21"
+    ],
     "aro": "29",
     "suspensao": "hardtail",
     "curso_mm": null
@@ -17,15 +22,15 @@
   "componentes": {
     "grupo": "Shimano TZ",
     "velocidades": 21,
-    "tipo_freio": "Disco mecânico",
-    "peso_kg": null
+    "tipo_freio": "Disco mecânico, rotor 160 mm",
+    "peso_kg": 15
   },
   "ebike": null,
   "fontes": [
     {
       "url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-shimano-tz-21v-freio-a-disco-s21/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ]
 }

@@ -6,9 +6,9 @@
   "categoria": "mtb",
   "url_fabricante": "https://www.kswbikes.com.br/bicicletas/mtb/xlt-100/bicicleta-ksw-xlt-100-24v-roda-livre-aro-29-freio-hidraulico",
   "preco_sugerido_brl": 1690,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Alumínio 6061 T4 + T6",
+    "material": "Alumínio liga 6061 T4 e T6",
     "tamanhos": [
       "15",
       "17",
@@ -20,9 +20,9 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "Sun Run",
+    "grupo": "Sun Run 3x8",
     "velocidades": 24,
-    "tipo_freio": "Disco hidráulico",
+    "tipo_freio": "Disco hidráulico, rotor 160 mm",
     "peso_kg": 15.5
   },
   "ebike": null,
@@ -30,7 +30,7 @@
     {
       "url": "https://www.kswbikes.com.br/bicicletas/mtb/xlt-100/bicicleta-ksw-xlt-100-24v-roda-livre-aro-29-freio-hidraulico",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

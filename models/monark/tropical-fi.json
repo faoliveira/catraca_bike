@@ -6,7 +6,7 @@
   "categoria": "urbana",
   "url_fabricante": "https://www.monark.com.br/tropical-fi",
   "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Aço carbono (supertubo)",
     "tamanhos": null,
@@ -17,20 +17,20 @@
   "componentes": {
     "grupo": null,
     "velocidades": 1,
-    "tipo_freio": "Freio inglês (varetas de aço)",
-    "peso_kg": null
+    "tipo_freio": "Freio inglês (varões de aço)",
+    "peso_kg": 20
   },
   "ebike": null,
   "fontes": [
     {
       "url": "https://www.monark.com.br/tropical-fi",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     },
     {
       "url": "https://www.monark.com.br/_files/ugd/98c81d_3f17bc537932484698f260b913d04668.pdf",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

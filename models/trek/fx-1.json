@@ -8,7 +8,7 @@
   "preco_sugerido_brl": 4499,
   "atualizado_em": "2026-11-08",
   "quadro": {
-    "material": "Alumínio",
+    "material": "Alumínio Alpha Gold",
     "tamanhos": [
       "P",
       "M",
@@ -19,17 +19,17 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "Shimano Acera M3020-8 8V",
-    "velocidades": 8,
-    "tipo_freio": "Freio a disco mecânico Tektro MD-U310",
-    "peso_kg": null
+    "grupo": "Shimano Acera M3020-8 2x8",
+    "velocidades": 16,
+    "tipo_freio": "Disco mecânico Tektro MD-U310, rotores 160 mm",
+    "peso_kg": 13
   },
   "ebike": null,
   "fontes": [
     {
       "url": "https://www.trekbikes.com/br/pt_BR/bicicletas/bicicletas-h%C3%ADbridas/bicicletas-para-fitness/fx/fx-1/p/57134/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

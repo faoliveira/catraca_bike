@@ -1,107 +1,107 @@
 {
   "ano": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "categoria": "infantil",
   "componentes": {
     "grupo": null,
-    "peso_kg": null,
-    "tipo_freio": "Tambor traseiro",
+    "peso_kg": 2.78,
+    "tipo_freio": "Freio traseiro a tambor",
     "velocidades": null
   },
   "ebike": null,
   "fontes": [
     {
-      "acessado_em": "2026-11-08",
+      "acessado_em": "2026-11-10",
       "tipo": "fabricante",
       "url": "https://nathor.com/produto/bicicleta-balance-bike-fast/"
     },
     {
-      "acessado_em": "2026-11-08",
+      "acessado_em": "2026-11-10",
       "tipo": "fabricante",
       "url": "https://nathor.com/produto/bicicleta-balance-bike-masculina/"
     },
     {
-      "acessado_em": "2026-11-08",
+      "acessado_em": "2026-11-10",
       "tipo": "fabricante",
       "url": "https://nathor.com/produto/bicicleta-balance-bike-feminina/"
     },
     {
-      "acessado_em": "2026-11-08",
+      "acessado_em": "2026-11-10",
       "tipo": "fabricante",
       "url": "https://nathor.com/produto/bicicleta-balance-bike-garden-fly/"
     },
     {
-      "acessado_em": "2026-11-08",
+      "acessado_em": "2026-11-10",
       "tipo": "fabricante",
       "url": "https://nathor.com/produto/balance-bike-flower/"
     },
     {
-      "acessado_em": "2026-11-08",
+      "acessado_em": "2026-11-10",
       "tipo": "fabricante",
       "url": "https://nathor.com/produto/bicicleta-balance-bike-adventure/"
     },
     {
-      "acessado_em": "2026-11-08",
+      "acessado_em": "2026-11-10",
       "tipo": "fabricante",
       "url": "https://nathor.com/produto/bicicleta-balance-bike-rocket-astro/"
     },
     {
-      "acessado_em": "2026-11-08",
+      "acessado_em": "2026-11-10",
       "tipo": "fabricante",
       "url": "https://nathor.com/produto/bicicleta-balance-bike-love-2/"
     },
     {
-      "acessado_em": "2026-11-08",
+      "acessado_em": "2026-11-10",
       "tipo": "fabricante",
       "url": "https://nathor.com/produto/bicicleta-balance-princesas/"
     },
     {
-      "acessado_em": "2026-11-08",
+      "acessado_em": "2026-11-10",
       "tipo": "fabricante",
       "url": "https://nathor.com/produto/bicicleta-balance-princesas-2/"
     },
     {
-      "acessado_em": "2026-11-08",
+      "acessado_em": "2026-11-10",
       "tipo": "fabricante",
       "url": "https://nathor.com/produto/bicicleta-balance-cecizinha/"
     },
     {
-      "acessado_em": "2026-11-08",
+      "acessado_em": "2026-11-10",
       "tipo": "fabricante",
       "url": "https://nathor.com/produto/bicicleta-balance-spidey/"
     },
     {
-      "acessado_em": "2026-11-08",
+      "acessado_em": "2026-11-10",
       "tipo": "fabricante",
       "url": "https://nathor.com/produto/bicicleta-balance-power-rex/"
     },
     {
-      "acessado_em": "2026-11-08",
+      "acessado_em": "2026-11-10",
       "tipo": "fabricante",
       "url": "https://nathor.com/produto/bicicleta-balance-carros/"
     },
     {
-      "acessado_em": "2026-11-08",
+      "acessado_em": "2026-11-10",
       "tipo": "fabricante",
       "url": "https://nathor.com/produto/bicicleta-balance-caloi-vermelha/"
     },
     {
-      "acessado_em": "2026-11-08",
+      "acessado_em": "2026-11-10",
       "tipo": "fabricante",
       "url": "https://nathor.com/produto/bicicleta-balance-12-raiada-nathor-laranja/"
     },
     {
-      "acessado_em": "2026-11-08",
+      "acessado_em": "2026-11-10",
       "tipo": "fabricante",
       "url": "https://nathor.com/produto/bicicleta-balance-bike-raiada-azul/"
     },
     {
-      "acessado_em": "2026-11-08",
+      "acessado_em": "2026-11-10",
       "tipo": "fabricante",
       "url": "https://nathor.com/produto/bicicleta-balance-bike-raiada-lilas/"
     },
     {
-      "acessado_em": "2026-11-08",
+      "acessado_em": "2026-11-10",
       "tipo": "fabricante",
       "url": "https://nathor.com/produto/bicicleta-balance-bike-raiada-pink/"
     }

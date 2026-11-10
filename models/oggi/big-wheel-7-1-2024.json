@@ -6,9 +6,9 @@
   "categoria": "mtb",
   "url_fabricante": "https://oggibikes.com.br/bike/big-wheel-7-1-2024/",
   "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Alumínio 6061 T6",
+    "material": "Alumínio 6061 T6 tratado",
     "tamanhos": [
       "15.5",
       "17",
@@ -20,9 +20,9 @@
     "curso_mm": 100
   },
   "componentes": {
-    "grupo": "Shimano Cues 10V",
+    "grupo": "Shimano Cues 1x10",
     "velocidades": 10,
-    "tipo_freio": "Hidráulico Shimano BR-MT200 rotores 160 mm",
+    "tipo_freio": "Disco hidráulico Shimano Altus BR-MT200, rotor 160 mm",
     "peso_kg": null
   },
   "ebike": null,
@@ -30,12 +30,12 @@
     {
       "url": "https://oggibikes.com.br/bike/big-wheel-7-1-2024/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     },
     {
       "url": "https://oggibikes.com.br/modelos-mtb/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

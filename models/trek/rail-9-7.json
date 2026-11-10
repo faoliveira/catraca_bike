@@ -5,10 +5,10 @@
   "slug": "rail-9-7",
   "categoria": "ebike",
   "url_fabricante": "https://www.trekbikes.com/br/pt_BR/bicicletas/mountain-bikes/mountain-bikes-el%C3%A9tricas/rail/rail-9-7-5%C2%AA-gera%C3%A7%C3%A3o/p/48469/",
-  "preco_sugerido_brl": 62990,
-  "atualizado_em": "2026-11-08",
+  "preco_sugerido_brl": 69990,
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Carbono",
+    "material": "Carbono OCLV Mountain Carbon (chainstay e seatstay em alumínio)",
     "tamanhos": [
       "P",
       "M",
@@ -20,10 +20,10 @@
     "curso_mm": 160
   },
   "componentes": {
-    "grupo": "Shimano XT M8100 12V",
+    "grupo": "Shimano XT M8100 1x12",
     "velocidades": 12,
-    "tipo_freio": "Freio hidráulico a disco de 4 pistões SRAM DB 8",
-    "peso_kg": null
+    "tipo_freio": "Disco hidráulico de 4 pistões SRAM DB 8, rotor 200 mm",
+    "peso_kg": 23.73
   },
   "ebike": {
     "motor_tipo": "Bosch Performance Line CX",
@@ -33,7 +33,7 @@
     "autonomia_declarada_km": null,
     "acelerador": null,
     "assistencia_so_com_pedal": null,
-    "vel_max_kmh": null,
+    "vel_max_kmh": 45,
     "largura_cm": null,
     "entre_eixos_cm": null
   },
@@ -41,7 +41,12 @@
     {
       "url": "https://www.trekbikes.com/br/pt_BR/bicicletas/mountain-bikes/mountain-bikes-el%C3%A9tricas/rail/rail-9-7-5%C2%AA-gera%C3%A7%C3%A3o/p/48469/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
+    },
+    {
+      "url": "https://www.trekbikes.com/br/pt_BR/bicicletas/mountain-bikes/mountain-bikes-el%C3%A9tricas/rail/f/F344/rail%252b-9-7-5%25c2%25aa-gera%25c3%25a7%25c3%25a3o/48469/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

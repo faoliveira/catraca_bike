@@ -6,9 +6,9 @@
   "categoria": "gravel",
   "url_fabricante": "https://www.specialized.com/br/pt/diverge-3-alloy-shimano-cues/p/4223510",
   "preco_sugerido_brl": 11990,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Alumínio",
+    "material": "Alumínio Diverge E5 Premium",
     "tamanhos": [
       "44",
       "49",
@@ -23,8 +23,8 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "Shimano CUES RD-U6020 10V, garfo FACT carbon",
-    "velocidades": 10,
+    "grupo": "Shimano CUES RD-U6020 2x10",
+    "velocidades": 20,
     "tipo_freio": "Disco hidráulico Shimano CUES BR-U6030 Hydraulic disc",
     "peso_kg": 10.48
   },
@@ -33,7 +33,7 @@
     {
       "url": "https://www.specialized.com/br/pt/diverge-3-alloy-shimano-cues/p/4223510",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

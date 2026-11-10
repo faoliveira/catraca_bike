@@ -6,9 +6,9 @@
   "categoria": "mtb",
   "url_fabricante": "https://www.specialized.com/br/pt/bicicleta-chisel-comp/p/4291036",
   "preco_sugerido_brl": 25990,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Alumínio",
+    "material": "Alumínio M5 D'Aluisio Smartweld",
     "tamanhos": [
       "XS",
       "S",
@@ -21,7 +21,7 @@
     "curso_mm": 120
   },
   "componentes": {
-    "grupo": "SRAM Eagle 70 Transmission 12V, garfo RockShox SID",
+    "grupo": "SRAM Eagle 70 Transmission 1x12",
     "velocidades": 12,
     "tipo_freio": "Disco hidráulico SRAM DB6, rotores 180/160 mm",
     "peso_kg": 13.11
@@ -31,7 +31,7 @@
     {
       "url": "https://www.specialized.com/br/pt/bicicleta-chisel-comp/p/4291036",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

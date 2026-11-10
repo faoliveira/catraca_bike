@@ -5,8 +5,8 @@
   "slug": "xlab-ad8-ultegra-di2",
   "categoria": "speed",
   "url_fabricante": "https://xlabbikes.com.br/ad8-ultegra/",
-  "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-08",
+  "preco_sugerido_brl": 54900,
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Carbono Toray T800",
     "tamanhos": [
@@ -21,9 +21,9 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "Shimano Ultegra Di2",
+    "grupo": "Shimano Ultegra Di2 2x",
     "velocidades": 24,
-    "tipo_freio": "Disco hidráulico",
+    "tipo_freio": "Disco hidráulico Shimano Ultegra BR-R8170, rotores 160/140 mm",
     "peso_kg": 7.41
   },
   "ebike": null,
@@ -31,7 +31,7 @@
     {
       "url": "https://xlabbikes.com.br/ad8-ultegra/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

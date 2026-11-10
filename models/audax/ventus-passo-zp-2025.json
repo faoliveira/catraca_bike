@@ -6,7 +6,7 @@
   "categoria": "speed",
   "url_fabricante": "https://audaxbike.com/bike/210/ventus-passo-zp-2025",
   "preco_sugerido_brl": 52736,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Carbono UD",
     "tamanhos": [
@@ -22,9 +22,9 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "SRAM Force eTap AXS 24V",
+    "grupo": "SRAM Force eTap AXS 2x12",
     "velocidades": 24,
-    "tipo_freio": "SRAM rotores 140 mm",
+    "tipo_freio": "Disco SRAM Force, rotores 160/140 mm Centerlock",
     "peso_kg": null
   },
   "ebike": null,
@@ -32,7 +32,7 @@
     {
       "url": "https://audaxbike.com/bike/210/ventus-passo-zp-2025",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

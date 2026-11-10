@@ -6,7 +6,7 @@
   "categoria": "urbana",
   "url_fabricante": "https://rivacycles.com/products/bicicleta-riva-urban-basement-geared",
   "preco_sugerido_brl": 5990,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Aço Cromoly SAE 4130",
     "tamanhos": [
@@ -19,17 +19,17 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "Sturmey Archer RX-RF5",
+    "grupo": "Sturmey Archer RX-RF5 IGH 5 velocidades",
     "velocidades": 5,
-    "tipo_freio": null,
-    "peso_kg": null
+    "tipo_freio": "Ferradura (rim brake) Promax RC-482",
+    "peso_kg": 9.7
   },
   "ebike": null,
   "fontes": [
     {
       "url": "https://rivacycles.com/products/bicicleta-riva-urban-basement-geared",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

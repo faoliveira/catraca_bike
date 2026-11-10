@@ -6,7 +6,7 @@
   "categoria": "ebike",
   "url_fabricante": "https://golev.com.br/products/lev-parley",
   "preco_sugerido_brl": 10980,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio",
     "tamanhos": null,
@@ -25,7 +25,7 @@
     "potencia_w": 350,
     "torque_nm": null,
     "bateria_wh": 432,
-    "autonomia_declarada_km": null,
+    "autonomia_declarada_km": 30,
     "acelerador": null,
     "assistencia_so_com_pedal": null,
     "vel_max_kmh": 25,
@@ -36,7 +36,7 @@
     {
       "url": "https://golev.com.br/products/lev-parley",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ]
 }

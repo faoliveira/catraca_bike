@@ -6,7 +6,7 @@
   "categoria": "gravel",
   "url_fabricante": "https://tswbike.com/p/2375/tg10-gravel",
   "preco_sugerido_brl": 13300,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio 6061",
     "tamanhos": [
@@ -19,9 +19,9 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "Shimano GRX",
+    "grupo": "Shimano GRX 1x12",
     "velocidades": 12,
-    "tipo_freio": "Hidráulico Shimano GRX RX820 rotores 160 mm",
+    "tipo_freio": "Disco hidráulico Shimano GRX RX820, rotores 160/160 mm",
     "peso_kg": 10.62
   },
   "ebike": null,
@@ -29,7 +29,7 @@
     {
       "url": "https://tswbike.com/p/2375/tg10-gravel",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

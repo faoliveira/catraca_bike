@@ -6,7 +6,7 @@
   "categoria": "ebike",
   "url_fabricante": "http://docs.caloi.com/04%20-%20EL%C3%89TRICA/1%20-%20SUBCATEGORIA%20E-VIBE%20URBANA/Mobylette/Ficha%20T%C3%A9cnica%20-%20Mobylette_MY21.pdf",
   "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-07",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio liga 6061",
     "tamanhos": [
@@ -17,16 +17,16 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "Microshift",
+    "grupo": "Microshift RD-M21 1x7",
     "velocidades": 7,
-    "tipo_freio": "Disco hidráulico, rotores de 160 mm",
+    "tipo_freio": "Hidráulico a disco com sensor no manete, rotores 160 mm",
     "peso_kg": 29.7
   },
   "ebike": {
     "motor_tipo": "Cubo traseiro DGW25",
     "potencia_w": 350,
     "torque_nm": 40,
-    "bateria_wh": null,
+    "bateria_wh": 374.4,
     "autonomia_declarada_km": 30,
     "acelerador": true,
     "assistencia_so_com_pedal": false,
@@ -38,7 +38,7 @@
     {
       "url": "http://docs.caloi.com/04%20-%20EL%C3%89TRICA/1%20-%20SUBCATEGORIA%20E-VIBE%20URBANA/Mobylette/Ficha%20T%C3%A9cnica%20-%20Mobylette_MY21.pdf",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-07"
+      "acessado_em": "2026-11-10"
     }
   ]
 }

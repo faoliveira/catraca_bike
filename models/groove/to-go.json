@@ -6,7 +6,7 @@
   "categoria": "ebike",
   "url_fabricante": "https://groovebikes.com.br/produto/bicicleta-eletrica-groove-to-go/",
   "preco_sugerido_brl": 7999.9,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Magnésio",
     "tamanhos": null,
@@ -15,7 +15,7 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "Shimano",
+    "grupo": "Shimano 1x7",
     "velocidades": 7,
     "tipo_freio": "Disco hidráulico BH-M880",
     "peso_kg": 20
@@ -36,7 +36,7 @@
     {
       "url": "https://groovebikes.com.br/produto/bicicleta-eletrica-groove-to-go/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

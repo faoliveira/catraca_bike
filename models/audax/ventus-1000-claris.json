@@ -6,7 +6,7 @@
   "categoria": "speed",
   "url_fabricante": "https://audaxbike.com/bike/207/ventus-1000-claris",
   "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio 6061 T6",
     "tamanhos": [
@@ -20,9 +20,9 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "Shimano Claris 14V",
-    "velocidades": 14,
-    "tipo_freio": "Disco mecânico TEKTRO",
+    "grupo": "Shimano Claris R2000 2x8",
+    "velocidades": 16,
+    "tipo_freio": "Disco mecânico Tektro MD-C550-R dupla ação",
     "peso_kg": null
   },
   "ebike": null,
@@ -30,7 +30,7 @@
     {
       "url": "https://audaxbike.com/bike/207/ventus-1000-claris",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

@@ -6,7 +6,7 @@
   "categoria": "mtb",
   "url_fabricante": "https://www.monark.com.br/mtb-29-laranja-e-branca",
   "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio (Quadro SMITT 29, cabeamento embutido)",
     "tamanhos": null,
@@ -15,7 +15,7 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "Stout/LTWO 1x12 (cassete First 11-50D), garfo RHOX hidráulico com trava no guidão",
+    "grupo": "Stout/LTWO 1x12 (pedivela 38D, cassete FIRST 11-50D)",
     "velocidades": 12,
     "tipo_freio": "Disco mecânico (a cabo) First, rotor 160 mm",
     "peso_kg": null
@@ -25,7 +25,7 @@
     {
       "url": "https://www.monark.com.br/mtb-29-laranja-e-branca",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

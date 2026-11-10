@@ -6,7 +6,7 @@
   "categoria": "mtb",
   "url_fabricante": "https://caloi.com/produto/elite-carbon-ht-racing-di2/",
   "preco_sugerido_brl": 18990,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Carbono",
     "tamanhos": [
@@ -20,9 +20,9 @@
     "curso_mm": 120
   },
   "componentes": {
-    "grupo": "Shimano Deore Di2 M6250 12V eletrônico (cassete 10-51T), garfo RockShox SID Base",
+    "grupo": "Shimano Deore Di2 M6250 1x12, cassete 10-51T",
     "velocidades": 12,
-    "tipo_freio": "Disco Shimano M4100, rotores 160/180 mm",
+    "tipo_freio": "Disco hidráulico Shimano M4100, rotores 160/180 mm",
     "peso_kg": 12.42
   },
   "ebike": null,
@@ -30,7 +30,7 @@
     {
       "url": "https://caloi.com/produto/elite-carbon-ht-racing-di2/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

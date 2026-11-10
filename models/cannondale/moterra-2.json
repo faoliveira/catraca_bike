@@ -5,8 +5,8 @@
   "slug": "moterra-2",
   "categoria": "ebike",
   "url_fabricante": "https://www.cannondale.com/pt-br/bikes/electric/e-mountain/moterra-neo/moterra-2",
-  "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-08",
+  "preco_sugerido_brl": 69990,
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Carbono",
     "tamanhos": [
@@ -20,9 +20,9 @@
     "curso_mm": 160
   },
   "componentes": {
-    "grupo": "Shimano XT M8130 11V, garfo RockShox ZEB Select",
+    "grupo": "Shimano XT M8130 / CUES U8000 LinkGlide 1x11",
     "velocidades": 11,
-    "tipo_freio": "Disco hidráulico Magura MT5 4-piston, rotores 203 mm",
+    "tipo_freio": "Disco hidráulico Magura MT5 4 pistões, rotores 203 mm",
     "peso_kg": null
   },
   "ebike": {
@@ -41,7 +41,7 @@
     {
       "url": "https://www.cannondale.com/pt-br/bikes/electric/e-mountain/moterra-neo/moterra-2",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

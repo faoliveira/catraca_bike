@@ -5,8 +5,8 @@
   "slug": "e-jazz",
   "categoria": "ebike",
   "url_fabricante": "https://groovebikes.com.br/produto/bicicleta-eletrica-groove-e-jazz/",
-  "preco_sugerido_brl": 8499.9,
-  "atualizado_em": "2026-11-08",
+  "preco_sugerido_brl": 9499.9,
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio",
     "tamanhos": [
@@ -17,7 +17,7 @@
     "curso_mm": 40
   },
   "componentes": {
-    "grupo": "Shimano",
+    "grupo": "Shimano 1x7",
     "velocidades": 7,
     "tipo_freio": "Disco hidráulico Karasawa HDM-5E",
     "peso_kg": 36.2
@@ -38,7 +38,7 @@
     {
       "url": "https://groovebikes.com.br/produto/bicicleta-eletrica-groove-e-jazz/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

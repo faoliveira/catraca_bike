@@ -8,29 +8,29 @@
   "preco_sugerido_brl": 7199,
   "atualizado_em": "2026-11-08",
   "quadro": {
-    "material": "Alumínio",
+    "material": "Alumínio Alpha Gold",
     "tamanhos": [
       "P",
       "M",
       "G",
-      "GG"
+      "XG"
     ],
     "aro": "700c",
     "suspensao": "rigida",
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "Shimano CUES U6000 GS 10V",
+    "grupo": "Shimano CUES U6000 GS 1x10",
     "velocidades": 10,
-    "tipo_freio": "Shimano freio a disco hidráulico, alavanca MT201, pinça UR300",
-    "peso_kg": null
+    "tipo_freio": "Disco hidráulico Shimano, alavanca MT201 UR300, rotores Shimano RT26 160 mm",
+    "peso_kg": 11.1
   },
   "ebike": null,
   "fontes": [
     {
       "url": "https://www.trekbikes.com/br/pt_BR/bicicletas/bicicletas-h%C3%ADbridas/bicicletas-para-fitness/fx/fx-sport/fx-sport-al-3/p/58592/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

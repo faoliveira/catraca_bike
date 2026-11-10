@@ -5,8 +5,8 @@
   "slug": "krw-kr8",
   "categoria": "mtb",
   "url_fabricante": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-shimano-tz-24-velocidades-freio-hidraulico-kr8/",
-  "preco_sugerido_brl": 999,
-  "atualizado_em": "2026-11-08",
+  "preco_sugerido_brl": 1899,
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio 6061",
     "tamanhos": [
@@ -20,7 +20,7 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "Shimano TZ",
+    "grupo": "Shimano TZ 3x8",
     "velocidades": 24,
     "tipo_freio": "Disco hidráulico",
     "peso_kg": null
@@ -30,7 +30,7 @@
     {
       "url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-shimano-tz-24-velocidades-freio-hidraulico-kr8/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

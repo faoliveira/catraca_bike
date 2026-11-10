@@ -6,7 +6,7 @@
   "categoria": "speed",
   "url_fabricante": "https://www.focus-bikes.com/int/izalco-max-8-7",
   "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Carbono",
     "tamanhos": [
@@ -23,9 +23,9 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "Shimano 105",
+    "grupo": "Shimano 105 R7100 2x12",
     "velocidades": 24,
-    "tipo_freio": "Hidráulico Shimano 105, rotores 160 mm",
+    "tipo_freio": "Disco hidráulico Shimano 105 BR-R7170, rotores SM-RT54 160 mm",
     "peso_kg": 8.3
   },
   "ebike": null,
@@ -33,7 +33,7 @@
     {
       "url": "https://www.focus-bikes.com/int/izalco-max-8-7",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

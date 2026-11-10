@@ -6,9 +6,9 @@
   "categoria": "ebike",
   "url_fabricante": "https://www.trekbikes.com/br/pt_BR/bicicletas/mountain-bikes/mountain-bikes-el%C3%A9tricas/marlin/marlin-6/p/57380/",
   "preco_sugerido_brl": 23990,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Alumínio",
+    "material": "Alumínio Alpha Gold",
     "tamanhos": [
       "P",
       "M",
@@ -20,10 +20,10 @@
     "curso_mm": 120
   },
   "componentes": {
-    "grupo": "Shimano CUES U4000 9V",
+    "grupo": "Shimano CUES U4000 1x9",
     "velocidades": 9,
-    "tipo_freio": "Freio a disco hidráulico Tektro HD-M275",
-    "peso_kg": null
+    "tipo_freio": "Disco hidráulico Tektro HD-M275, rotores 203 mm",
+    "peso_kg": 22.9
   },
   "ebike": {
     "motor_tipo": "Bosch Active Line Plus",
@@ -33,7 +33,7 @@
     "autonomia_declarada_km": null,
     "acelerador": null,
     "assistencia_so_com_pedal": null,
-    "vel_max_kmh": null,
+    "vel_max_kmh": 32,
     "largura_cm": null,
     "entre_eixos_cm": null
   },
@@ -41,7 +41,12 @@
     {
       "url": "https://www.trekbikes.com/br/pt_BR/bicicletas/mountain-bikes/mountain-bikes-el%C3%A9tricas/marlin/marlin-6/p/57380/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
+    },
+    {
+      "url": "https://www.trekbikes.com/br/pt_BR/bicicletas/mountain-bikes/mountain-bikes-el%C3%A9tricas/marlin/f/F358/marlin%252b-6/57380/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

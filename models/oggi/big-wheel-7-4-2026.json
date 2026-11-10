@@ -6,9 +6,9 @@
   "categoria": "mtb",
   "url_fabricante": "https://oggibikes.com.br/bike/big-wheel-7-4-2026/",
   "preco_sugerido_brl": 10990,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Alumínio 6061 T6",
+    "material": "Alumínio 6061 T6 tratado triplo butted",
     "tamanhos": [
       "S",
       "M",
@@ -17,12 +17,12 @@
     ],
     "aro": "29",
     "suspensao": "hardtail",
-    "curso_mm": 15
+    "curso_mm": 100
   },
   "componentes": {
-    "grupo": "Shimano 12V",
+    "grupo": "Shimano SLX 1x12",
     "velocidades": 12,
-    "tipo_freio": "Shimano BR-M7100 rotores 160 mm",
+    "tipo_freio": "Disco hidráulico Shimano SLX BR-M7100, rotor SM-RT66 160 mm",
     "peso_kg": 12.5
   },
   "ebike": null,
@@ -30,12 +30,12 @@
     {
       "url": "https://oggibikes.com.br/bike/big-wheel-7-4-2026/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     },
     {
       "url": "https://oggibikes.com.br/modelos-mtb/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

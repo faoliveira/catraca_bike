@@ -6,7 +6,7 @@
   "categoria": "mtb",
   "url_fabricante": "https://audaxbike.com/bike/244/auge-555-ns-1x12",
   "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Carbono UD",
     "tamanhos": [
@@ -19,8 +19,8 @@
     "curso_mm": 100
   },
   "componentes": {
-    "grupo": "Shimano Deore 24V",
-    "velocidades": 24,
+    "grupo": "Shimano Deore 1x12 (câmbio e trocador; pedivela Prowheel, cassete Sunrace)",
+    "velocidades": 12,
     "tipo_freio": "Disco hidráulico Shimano BL-MT200 rotores 160 mm",
     "peso_kg": null
   },
@@ -29,7 +29,7 @@
     {
       "url": "https://audaxbike.com/bike/244/auge-555-ns-1x12",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

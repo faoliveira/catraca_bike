@@ -6,7 +6,7 @@
   "categoria": "ebike",
   "url_fabricante": "https://caloi.com/produto/e-vibe-lift/",
   "preco_sugerido_brl": 29900,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio 6061",
     "tamanhos": [
@@ -17,12 +17,12 @@
     ],
     "aro": "29",
     "suspensao": "full",
-    "curso_mm": null
+    "curso_mm": 160
   },
   "componentes": {
-    "grupo": "Shimano Cues 11V (RD-U6000, cassete LG400 11-50D), garfo RockShox Psylo 160 mm",
+    "grupo": "Shimano Cues 11V (RD-U6000, cassete LG400 11-50D)",
     "velocidades": 11,
-    "tipo_freio": "Disco Shimano M4100, rotores 203 mm",
+    "tipo_freio": "Disco hidráulico Shimano M4100, rotores 203 mm",
     "peso_kg": 29.75
   },
   "ebike": {
@@ -41,7 +41,7 @@
     {
       "url": "https://caloi.com/produto/e-vibe-lift/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

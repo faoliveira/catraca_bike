@@ -9,13 +9,15 @@
   "atualizado_em": "2026-11-08",
   "quadro": {
     "material": "Alumínio 6061 (Colli Slim)",
-    "tamanhos": null,
+    "tamanhos": [
+      "17"
+    ],
     "aro": "29",
     "suspensao": "hardtail",
     "curso_mm": 100
   },
   "componentes": {
-    "grupo": "Shimano Tourney 3x7V",
+    "grupo": "Shimano Tourney 3x7",
     "velocidades": 21,
     "tipo_freio": "Disco mecânico Colli 2 pistões",
     "peso_kg": 14.5
@@ -26,6 +28,11 @@
       "url": "https://collibike.com.br/bicicletas/colli-munique/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-08"
+    },
+    {
+      "url": "https://web.archive.org/web/20260213063434/https://collibike.com.br/bicicletas/colli-munique/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-10"
     }
   ]
 }

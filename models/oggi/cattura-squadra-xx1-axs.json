@@ -6,7 +6,7 @@
   "categoria": "mtb",
   "url_fabricante": "https://oggibikes.com.br/bike/cattura-squadra-xx1-axs/",
   "preco_sugerido_brl": 59800,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Carbono",
     "tamanhos": [
@@ -20,9 +20,9 @@
     "curso_mm": 120
   },
   "componentes": {
-    "grupo": "SRAM XX1 AXS 12V",
+    "grupo": "SRAM XX1 AXS 1x12",
     "velocidades": 12,
-    "tipo_freio": "SRAM rotores 180/160 mm",
+    "tipo_freio": "SRAM Level Ultimate, rotores CLX 180/160 mm",
     "peso_kg": null
   },
   "ebike": null,
@@ -30,12 +30,12 @@
     {
       "url": "https://oggibikes.com.br/bike/cattura-squadra-xx1-axs/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     },
     {
       "url": "https://oggibikes.com.br/modelos-mtb/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

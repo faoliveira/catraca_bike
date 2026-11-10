@@ -6,7 +6,7 @@
   "categoria": "mtb",
   "url_fabricante": "https://www.sensebike.com.br/produtos/impact-al-pro-eyyn4/",
   "preco_sugerido_brl": 7290,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio 6069",
     "tamanhos": [
@@ -18,12 +18,12 @@
     ],
     "aro": "29",
     "suspensao": "hardtail",
-    "curso_mm": null
+    "curso_mm": 100
   },
   "componentes": {
-    "grupo": "Shimano Cues 11V",
+    "grupo": "Shimano Cues 1x11",
     "velocidades": 11,
-    "tipo_freio": "Shimano MT200",
+    "tipo_freio": "Disco hidráulico Shimano MT200, rotores 180/160 mm",
     "peso_kg": null
   },
   "ebike": null,
@@ -31,7 +31,7 @@
     {
       "url": "https://www.sensebike.com.br/produtos/impact-al-pro-eyyn4/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

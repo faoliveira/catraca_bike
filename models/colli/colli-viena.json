@@ -9,7 +9,9 @@
   "atualizado_em": "2026-11-08",
   "quadro": {
     "material": "Aço carbono",
-    "tamanhos": null,
+    "tamanhos": [
+      "17"
+    ],
     "aro": "29",
     "suspensao": "hardtail",
     "curso_mm": null
@@ -26,6 +28,11 @@
       "url": "https://collibike.com.br/bicicletas/colli-viena/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-08"
+    },
+    {
+      "url": "https://web.archive.org/web/20260315235021/https://collibike.com.br/bicicletas/colli-viena/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-10"
     }
   ]
 }

@@ -6,7 +6,7 @@
   "categoria": "ebike",
   "url_fabricante": "https://oggibikes.com.br/bike/e-bike-big-wheel-8-0-c-acelerador/",
   "preco_sugerido_brl": 8499,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio",
     "tamanhos": [
@@ -21,7 +21,7 @@
   "componentes": {
     "grupo": "Shimano Acera 8V",
     "velocidades": 8,
-    "tipo_freio": "Hidráulico Shimano MT200 rotores 160 mm",
+    "tipo_freio": "Disco hidráulico Shimano MT200, rotores 160 mm",
     "peso_kg": 20.5
   },
   "ebike": {
@@ -29,7 +29,7 @@
     "potencia_w": 250,
     "torque_nm": 45,
     "bateria_wh": 460.8,
-    "autonomia_declarada_km": null,
+    "autonomia_declarada_km": 60,
     "acelerador": true,
     "assistencia_so_com_pedal": null,
     "vel_max_kmh": null,
@@ -40,12 +40,12 @@
     {
       "url": "https://oggibikes.com.br/bike/e-bike-big-wheel-8-0-c-acelerador/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     },
     {
       "url": "https://oggibikes.com.br/modelos-eletricas/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

@@ -6,7 +6,7 @@
   "categoria": "ebike",
   "url_fabricante": "https://golev.com.br/products/ebikes",
   "preco_sugerido_brl": 6580,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Aço",
     "tamanhos": null,
@@ -17,7 +17,7 @@
   "componentes": {
     "grupo": null,
     "velocidades": 1,
-    "tipo_freio": "Tambor",
+    "tipo_freio": "Freios tambor",
     "peso_kg": null
   },
   "ebike": {
@@ -36,7 +36,7 @@
     {
       "url": "https://golev.com.br/products/ebikes",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

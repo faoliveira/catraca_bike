@@ -6,9 +6,9 @@
   "categoria": "speed",
   "url_fabricante": "https://tswbike.com/p/1338/tr01-sprint-force-24v-axs",
   "preco_sugerido_brl": 44900,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Carbono",
+    "material": "Carbono Toray",
     "tamanhos": [
       "520",
       "540",
@@ -20,9 +20,9 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "SRAM Force eTap AXS",
+    "grupo": "SRAM Force eTap AXS 2x12",
     "velocidades": 24,
-    "tipo_freio": null,
+    "tipo_freio": "Disco hidráulico SRAM Force AXS, rotores 160/140 mm",
     "peso_kg": 7.95
   },
   "ebike": null,
@@ -30,7 +30,7 @@
     {
       "url": "https://tswbike.com/p/1338/tr01-sprint-force-24v-axs",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

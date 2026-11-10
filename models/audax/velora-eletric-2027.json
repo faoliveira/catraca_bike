@@ -6,7 +6,7 @@
   "categoria": "ebike",
   "url_fabricante": "https://audaxbike.com/bike/254/velora-eletric-2027",
   "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio 6061",
     "tamanhos": [
@@ -18,9 +18,9 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "LTWOO 10V",
+    "grupo": "LTWOO 1x10",
     "velocidades": 10,
-    "tipo_freio": "Shimano BL-MT200 rotores 160 mm",
+    "tipo_freio": "Disco Shimano BL-MT200, rotores 160 mm",
     "peso_kg": null
   },
   "ebike": {
@@ -39,7 +39,7 @@
     {
       "url": "https://audaxbike.com/bike/254/velora-eletric-2027",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

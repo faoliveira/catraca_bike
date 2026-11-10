@@ -6,9 +6,9 @@
   "categoria": "infantil",
   "url_fabricante": "https://tswbike.com/p/1202/steps-12-ii",
   "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Alumínio",
+    "material": "Alumínio 6061",
     "tamanhos": null,
     "aro": "12",
     "suspensao": "rigida",
@@ -25,7 +25,7 @@
     {
       "url": "https://tswbike.com/p/1202/steps-12-ii",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

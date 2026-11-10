@@ -6,7 +6,7 @@
   "categoria": "mtb",
   "url_fabricante": "https://tswbike.com/p/2362/full-quest-deore-di2",
   "preco_sugerido_brl": 30900,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Carbono Toray T700/T800/T1000",
     "tamanhos": [
@@ -20,9 +20,9 @@
     "curso_mm": 120
   },
   "componentes": {
-    "grupo": "Shimano Deore Di2",
+    "grupo": "Shimano Deore Di2 1x12",
     "velocidades": 12,
-    "tipo_freio": "Hidráulico Shimano MT501 rotores 180/160 mm",
+    "tipo_freio": "Disco hidráulico Shimano MT501, rotores 180/160 mm",
     "peso_kg": 12.59
   },
   "ebike": null,
@@ -30,7 +30,7 @@
     {
       "url": "https://tswbike.com/p/2362/full-quest-deore-di2",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

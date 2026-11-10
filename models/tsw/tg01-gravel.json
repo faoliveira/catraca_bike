@@ -6,7 +6,7 @@
   "categoria": "gravel",
   "url_fabricante": "https://tswbike.com/p/1998/tg01-gravel",
   "preco_sugerido_brl": 35900,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Carbono Toray T700/T800/T900",
     "tamanhos": [
@@ -20,9 +20,9 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "SRAM GX Eagle AXS T-Type",
+    "grupo": "SRAM GX Eagle AXS T-Type 1x12",
     "velocidades": 12,
-    "tipo_freio": "Hidráulico SRAM Rival rotores 160 mm",
+    "tipo_freio": "Disco hidráulico SRAM Rival, rotores 160/160 mm",
     "peso_kg": 8.49
   },
   "ebike": null,
@@ -30,7 +30,7 @@
     {
       "url": "https://tswbike.com/p/1998/tg01-gravel",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

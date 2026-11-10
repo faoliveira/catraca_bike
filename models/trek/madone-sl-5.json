@@ -8,31 +8,31 @@
   "preco_sugerido_brl": 28500,
   "atualizado_em": "2026-11-08",
   "quadro": {
-    "material": "Carbono",
+    "material": "Carbono OCLV Série 500",
     "tamanhos": [
       "XP",
       "P",
       "M",
       "MG",
       "G",
-      "GG"
+      "XG"
     ],
     "aro": "700c",
     "suspensao": "rigida",
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "Shimano 105 R7100 12V",
-    "velocidades": 12,
-    "tipo_freio": "Disco hidráulico Shimano 105, montagem plana",
-    "peso_kg": null
+    "grupo": "Shimano 105 R7100 2x12",
+    "velocidades": 24,
+    "tipo_freio": "Disco hidráulico Shimano 105, montagem plana, rotores Shimano CL700 160 mm",
+    "peso_kg": 8.64
   },
   "ebike": null,
   "fontes": [
     {
       "url": "https://www.trekbikes.com/br/pt_BR/bicicletas/bicicletas-de-estrada/bicicletas-de-estrada-de-alto-desempenho/madone/madone-sl/madone-sl-5-8%C2%AA-gera%C3%A7%C3%A3o/p/57653/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

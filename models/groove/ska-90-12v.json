@@ -6,7 +6,7 @@
   "categoria": "mtb",
   "url_fabricante": "https://groovebikes.com.br/produto/bicicleta-mountain-bike-aro-29-groove-ska-90-12-velocidade/",
   "preco_sugerido_brl": 6999.9,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio",
     "tamanhos": [
@@ -20,9 +20,9 @@
     "curso_mm": 100
   },
   "componentes": {
-    "grupo": "SRAM SX Eagle",
+    "grupo": "SRAM SX Eagle 1x12",
     "velocidades": 12,
-    "tipo_freio": "Disco hidráulico Shimano BR-MT200",
+    "tipo_freio": "Disco hidráulico Shimano BR-MT200, rotor RT10 160 mm Center Lock",
     "peso_kg": null
   },
   "ebike": null,
@@ -30,7 +30,7 @@
     {
       "url": "https://groovebikes.com.br/produto/bicicleta-mountain-bike-aro-29-groove-ska-90-12-velocidade/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

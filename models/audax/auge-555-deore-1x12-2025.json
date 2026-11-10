@@ -6,7 +6,7 @@
   "categoria": "mtb",
   "url_fabricante": "https://audaxbike.com/bike/218/auge-555-deore-1x12-2025",
   "preco_sugerido_brl": 12874,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Carbono UD Toray T800",
     "tamanhos": [
@@ -20,9 +20,9 @@
     "curso_mm": 100
   },
   "componentes": {
-    "grupo": "Shimano Deore 24V",
-    "velocidades": 24,
-    "tipo_freio": "Shimano BL-M6100 rotores 160/180 mm",
+    "grupo": "Shimano Deore 1x12",
+    "velocidades": 12,
+    "tipo_freio": "Disco hidráulico Shimano BL-M6100/BR-M6100, rotores 160/180 mm",
     "peso_kg": 12.4
   },
   "ebike": null,
@@ -30,7 +30,7 @@
     {
       "url": "https://audaxbike.com/bike/218/auge-555-deore-1x12-2025",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

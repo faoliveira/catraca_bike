@@ -6,7 +6,7 @@
   "categoria": "mtb",
   "url_fabricante": "https://www.sensebike.com.br/produtos/hardcore-comp/",
   "preco_sugerido_brl": 8990,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio",
     "tamanhos": [
@@ -21,9 +21,9 @@
     "curso_mm": 140
   },
   "componentes": {
-    "grupo": "Shimano Deore 11V",
+    "grupo": "Shimano Deore 1x11",
     "velocidades": 11,
-    "tipo_freio": "Shimano MT401",
+    "tipo_freio": "Disco hidráulico Shimano BL-MT401/BR-MT410, rotores 180/160 mm (160 mm nos quadros S e M, 180 mm em L e XL atrás)",
     "peso_kg": null
   },
   "ebike": null,
@@ -31,7 +31,7 @@
     {
       "url": "https://www.sensebike.com.br/produtos/hardcore-comp/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

@@ -1,17 +1,17 @@
 {
   "ano": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "categoria": "urbana",
   "componentes": {
     "grupo": null,
     "peso_kg": null,
     "tipo_freio": "V-Brake nylon",
-    "velocidades": null
+    "velocidades": 18
   },
   "ebike": null,
   "fontes": [
     {
-      "acessado_em": "2026-11-08",
+      "acessado_em": "2026-11-10",
       "tipo": "fabricante",
       "url": "https://athorbikes.com.br/bicicleta/legacy-26-com-marcha/"
     }

@@ -6,9 +6,9 @@
   "categoria": "ebike",
   "url_fabricante": "https://www.focus-bikes.com/int/jam2-6-8",
   "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Alumínio",
+    "material": "Alumínio 7005 hidroformado",
     "tamanhos": [
       "S",
       "M",
@@ -20,10 +20,10 @@
     "curso_mm": 160
   },
   "componentes": {
-    "grupo": "SRAM Eagle 70",
+    "grupo": "SRAM Eagle 70 1x12",
     "velocidades": 12,
-    "tipo_freio": "Hidráulico SRAM DB8, rotores 200 mm",
-    "peso_kg": null
+    "tipo_freio": "Disco hidráulico SRAM DB8 4 pistões, rotores SRAM Centerline 200 mm",
+    "peso_kg": 24.8
   },
   "ebike": {
     "motor_tipo": "Bosch Performance Line CX",
@@ -41,7 +41,7 @@
     {
       "url": "https://www.focus-bikes.com/int/jam2-6-8",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

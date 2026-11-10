@@ -6,7 +6,7 @@
   "categoria": "urbana",
   "url_fabricante": "https://rivacycles.com/products/bicicleta-riva-urban-pronta",
   "preco_sugerido_brl": 5890,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Aço Cromoly SAE 4130",
     "tamanhos": [
@@ -19,7 +19,7 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": null,
+    "grupo": "Gates Carbon Drive CDN (correia), single speed",
     "velocidades": 1,
     "tipo_freio": "Ferradura (rim brake) Promax R315/RL570",
     "peso_kg": 9.7
@@ -29,7 +29,7 @@
     {
       "url": "https://rivacycles.com/products/bicicleta-riva-urban-pronta",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

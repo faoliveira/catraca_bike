@@ -1,77 +1,77 @@
 {
   "ano": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "categoria": "infantil",
   "componentes": {
     "grupo": null,
     "peso_kg": null,
-    "tipo_freio": null,
+    "tipo_freio": "Freio traseiro acionado pela maçaneta direita",
     "velocidades": 1
   },
   "ebike": null,
   "fontes": [
     {
-      "acessado_em": "2026-11-08",
+      "acessado_em": "2026-11-10",
       "tipo": "fabricante",
       "url": "https://nathor.com/produto/bicicleta-aro-16-spider-man/"
     },
     {
-      "acessado_em": "2026-11-08",
+      "acessado_em": "2026-11-10",
       "tipo": "fabricante",
       "url": "https://nathor.com/produto/bicicleta-aro-16-princesas/"
     },
     {
-      "acessado_em": "2026-11-08",
+      "acessado_em": "2026-11-10",
       "tipo": "fabricante",
       "url": "https://nathor.com/produto/bicicleta-aro-16-patrulha-canina/"
     },
     {
-      "acessado_em": "2026-11-08",
+      "acessado_em": "2026-11-10",
       "tipo": "fabricante",
       "url": "https://nathor.com/produto/bicicleta-aro-16-hot-wheels/"
     },
     {
-      "acessado_em": "2026-11-08",
+      "acessado_em": "2026-11-10",
       "tipo": "fabricante",
       "url": "https://nathor.com/produto/bicicleta-aro-16-homem-de-ferro/"
     },
     {
-      "acessado_em": "2026-11-08",
+      "acessado_em": "2026-11-10",
       "tipo": "fabricante",
       "url": "https://nathor.com/produto/bicicleta-aro-16-garfield/"
     },
     {
-      "acessado_em": "2026-11-08",
+      "acessado_em": "2026-11-10",
       "tipo": "fabricante",
       "url": "https://nathor.com/produto/bicicleta-aro-16-frozen/"
     },
     {
-      "acessado_em": "2026-11-08",
+      "acessado_em": "2026-11-10",
       "tipo": "fabricante",
       "url": "https://nathor.com/produto/bicicleta-aro-16-buzz-lightyear/"
     },
     {
-      "acessado_em": "2026-11-08",
+      "acessado_em": "2026-11-10",
       "tipo": "fabricante",
       "url": "https://nathor.com/produto/bicicleta-aro-16-barbie/"
     },
     {
-      "acessado_em": "2026-11-08",
+      "acessado_em": "2026-11-10",
       "tipo": "fabricante",
       "url": "https://nathor.com/produto/bicicleta-aro-16-avengers/"
     },
     {
-      "acessado_em": "2026-11-08",
+      "acessado_em": "2026-11-10",
       "tipo": "fabricante",
       "url": "https://nathor.com/produto/bicicleta-aro-16-angel/"
     },
     {
-      "acessado_em": "2026-11-08",
+      "acessado_em": "2026-11-10",
       "tipo": "fabricante",
       "url": "https://nathor.com/produto/bicicleta-aro-16-stitch/"
     },
     {
-      "acessado_em": "2026-11-08",
+      "acessado_em": "2026-11-10",
       "tipo": "fabricante",
       "url": "https://nathor.com/produto/bicicleta-aro-16-capitao-america-02/"
     }

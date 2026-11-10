@@ -1,6 +1,6 @@
 {
   "ano": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "categoria": "mtb",
   "componentes": {
     "grupo": "Indexado 3x7V",
@@ -11,12 +11,12 @@
   "ebike": null,
   "fontes": [
     {
-      "acessado_em": "2026-11-08",
+      "acessado_em": "2026-11-10",
       "tipo": "fabricante",
       "url": "https://verdenbikes.com/challenge-aro-29-preto-fosco/"
     },
     {
-      "acessado_em": "2026-11-08",
+      "acessado_em": "2026-11-10",
       "tipo": "fabricante",
       "url": "https://verdenbikes.com/challenge-aro-29-verde-militar-fosco/"
     }

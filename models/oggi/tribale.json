@@ -6,7 +6,7 @@
   "categoria": "gravel",
   "url_fabricante": "https://oggibikes.com.br/bike/tribale/",
   "preco_sugerido_brl": 11999,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio",
     "tamanhos": [
@@ -21,9 +21,9 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "Shimano GRX 12V",
+    "grupo": "Shimano GRX 1x12",
     "velocidades": 12,
-    "tipo_freio": "Shimano BR-RX400",
+    "tipo_freio": "Shimano GRX BR-RX400",
     "peso_kg": null
   },
   "ebike": null,
@@ -31,12 +31,12 @@
     {
       "url": "https://oggibikes.com.br/bike/tribale/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     },
     {
       "url": "https://oggibikes.com.br/modelos-speed/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

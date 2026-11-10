@@ -8,7 +8,7 @@
   "preco_sugerido_brl": null,
   "atualizado_em": "2026-11-08",
   "quadro": {
-    "material": null,
+    "material": "Aço",
     "tamanhos": null,
     "aro": "12",
     "suspensao": null,
@@ -25,7 +25,7 @@
     {
       "url": "https://absolutebikes.com.br/product/bicicleta-aro-12-kids-tubarao/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

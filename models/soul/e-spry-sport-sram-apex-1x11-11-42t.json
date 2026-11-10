@@ -6,7 +6,7 @@
   "categoria": "ebike",
   "url_fabricante": "https://www.soulcycles.com.br/e-spry-sport-sram--apex-1x11-11-42t/p",
   "preco_sugerido_brl": 30000,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Carbono",
     "tamanhos": [
@@ -21,7 +21,7 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "SRAM Apex 1x11 (11-42T, trigger)",
+    "grupo": "SRAM Apex 1x11 (11-42T), trigger",
     "velocidades": 11,
     "tipo_freio": "Disco hidráulico Tektro HD-R290",
     "peso_kg": 13
@@ -42,7 +42,7 @@
     {
       "url": "https://www.soulcycles.com.br/e-spry-sport-sram--apex-1x11-11-42t/p",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

@@ -5,17 +5,22 @@
   "slug": "rockhopper-comp",
   "categoria": "mtb",
   "url_fabricante": "https://www.specialized.com/br/pt/rockhopper-comp/p/4263610",
-  "preco_sugerido_brl": 6390,
-  "atualizado_em": "2026-11-08",
+  "preco_sugerido_brl": 7990,
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Alumínio",
-    "tamanhos": null,
-    "aro": "27.5/29",
+    "material": "Alumínio Premium A1",
+    "tamanhos": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "aro": "29",
     "suspensao": "hardtail",
     "curso_mm": 100
   },
   "componentes": {
-    "grupo": "SRAM S100 12V, garfo RockShox Judy",
+    "grupo": "SRAM S100 1x12",
     "velocidades": 12,
     "tipo_freio": "Disco hidráulico Tektro HD-M280, rotores 180/180 mm",
     "peso_kg": 13.32
@@ -25,7 +30,7 @@
     {
       "url": "https://www.specialized.com/br/pt/rockhopper-comp/p/4263610",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

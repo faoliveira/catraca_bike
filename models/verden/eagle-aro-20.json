@@ -5,7 +5,7 @@
   "componentes": {
     "grupo": null,
     "peso_kg": null,
-    "tipo_freio": null,
+    "tipo_freio": "V-Brake",
     "velocidades": null
   },
   "ebike": null,
@@ -19,6 +19,11 @@
       "acessado_em": "2026-11-08",
       "tipo": "fabricante",
       "url": "https://verdenbikes.com/eagle-aro-20-laranja-e-branco/"
+    },
+    {
+      "url": "https://www.buscape.com.br/bicicleta/bicicleta-verden-bikes-aro-20-eagle",
+      "tipo": "loja",
+      "acessado_em": "2026-11-10"
     }
   ],
   "marca": "Verden",
@@ -27,7 +32,7 @@
   "quadro": {
     "aro": "20",
     "curso_mm": null,
-    "material": null,
+    "material": "Aço carbono",
     "suspensao": null,
     "tamanhos": null
   },

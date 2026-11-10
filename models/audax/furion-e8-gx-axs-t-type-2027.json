@@ -6,7 +6,7 @@
   "categoria": "ebike",
   "url_fabricante": "https://www.audaxbike.com/bike/253/furion-e8-gx-axs-t-type-2027",
   "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Carbono UD Toray T700/T800",
     "tamanhos": [
@@ -21,7 +21,7 @@
   "componentes": {
     "grupo": "SRAM GX Eagle AXS T-Type",
     "velocidades": 12,
-    "tipo_freio": "Disco hidráulico Shimano 4 pistões",
+    "tipo_freio": "Disco hidráulico Shimano BR-M7120 4 pistões, rotores 203/180 mm",
     "peso_kg": null
   },
   "ebike": {
@@ -40,7 +40,7 @@
     {
       "url": "https://www.audaxbike.com/bike/253/furion-e8-gx-axs-t-type-2027",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

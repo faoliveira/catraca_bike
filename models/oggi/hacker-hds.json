@@ -6,9 +6,9 @@
   "categoria": "mtb",
   "url_fabricante": "https://oggibikes.com.br/bike/hacker-hds/",
   "preco_sugerido_brl": 2649,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Alumínio 6061",
+    "material": "Alumínio 6061 T6",
     "tamanhos": [
       "15.5",
       "17",
@@ -19,9 +19,9 @@
     "curso_mm": 100
   },
   "componentes": {
-    "grupo": "Shimano Tourney 24V",
+    "grupo": "Shimano Tourney 3x8",
     "velocidades": 24,
-    "tipo_freio": "HD-M220",
+    "tipo_freio": "Disco hidráulico Absolute DXU-1901 / Logan HD-M220 / Nutt Y-2",
     "peso_kg": 14.5
   },
   "ebike": null,
@@ -29,12 +29,12 @@
     {
       "url": "https://oggibikes.com.br/bike/hacker-hds/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     },
     {
       "url": "https://oggibikes.com.br/modelos-mtb/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

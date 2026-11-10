@@ -6,9 +6,9 @@
   "categoria": "mtb",
   "url_fabricante": "https://houston.com.br/bike/30/netuno",
   "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Aço carbono, rígido tipo diamante",
+    "material": "Aço carbono, rígido tipo diamante, dimensões reforçadas",
     "tamanhos": [
       "17"
     ],
@@ -19,7 +19,7 @@
   "componentes": {
     "grupo": "Houston 3x7V (YD-H65, Grip-Shift)",
     "velocidades": 21,
-    "tipo_freio": "Disco mecânico 160 mm",
+    "tipo_freio": "Disco mecânico Bolids LD-BB8R, rotores 160 mm",
     "peso_kg": null
   },
   "ebike": null,
@@ -27,7 +27,7 @@
     {
       "url": "https://houston.com.br/bike/30/netuno",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

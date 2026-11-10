@@ -8,7 +8,7 @@
   "preco_sugerido_brl": 459.9,
   "atualizado_em": "2026-11-08",
   "quadro": {
-    "material": null,
+    "material": "Nylon",
     "tamanhos": null,
     "aro": "12",
     "suspensao": null,
@@ -26,6 +26,11 @@
       "url": "https://collibike.com.br/bicicletas/pitukinha/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-08"
+    },
+    {
+      "url": "https://web.archive.org/web/20260211173935/https://collibike.com.br/bicicletas/pitukinha/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-10"
     }
   ]
 }

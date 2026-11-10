@@ -6,9 +6,9 @@
   "categoria": "gravel",
   "url_fabricante": "https://www.sensebike.com.br/produtos/univox-gr-comp-zhebb/",
   "preco_sugerido_brl": 20990,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Carbono",
+    "material": "Carbono Tairyfil TC36S",
     "tamanhos": [
       "49",
       "51",
@@ -21,9 +21,9 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "Shimano Grx 24V",
-    "velocidades": 24,
-    "tipo_freio": "Hidráulico Shimano",
+    "grupo": "Shimano GRX 1x12",
+    "velocidades": 12,
+    "tipo_freio": "Disco hidráulico Shimano GRX, rotores SM-RT64 160/140 mm Centerlock",
     "peso_kg": null
   },
   "ebike": null,
@@ -31,7 +31,7 @@
     {
       "url": "https://www.sensebike.com.br/produtos/univox-gr-comp-zhebb/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

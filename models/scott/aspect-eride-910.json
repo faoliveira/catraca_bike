@@ -21,7 +21,7 @@
     "curso_mm": 120
   },
   "componentes": {
-    "grupo": "SRAM NX Eagle 12V, garfo SR Suntour XCM34 RL Coil",
+    "grupo": "SRAM NX Eagle 12V",
     "velocidades": 12,
     "tipo_freio": "Disco Shimano BR-MT420, rotores 180/180 mm",
     "peso_kg": null

@@ -6,9 +6,9 @@
   "categoria": "speed",
   "url_fabricante": "https://www.sensebike.com.br/produtos/mk3-evo-ssl/",
   "preco_sugerido_brl": 76990,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Carbono",
+    "material": "Carbono Neurogen Toray T800/700",
     "tamanhos": [
       "49",
       "51",
@@ -19,17 +19,17 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "SRAM Red AXS",
+    "grupo": "SRAM Red AXS 2x",
     "velocidades": null,
-    "tipo_freio": "SRAM",
-    "peso_kg": null
+    "tipo_freio": "Disco hidráulico SRAM S-900 Aero HRD, rotores Paceline 140 mm",
+    "peso_kg": 10.8
   },
   "ebike": null,
   "fontes": [
     {
       "url": "https://www.sensebike.com.br/produtos/mk3-evo-ssl/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

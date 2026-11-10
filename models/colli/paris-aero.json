@@ -8,7 +8,7 @@
   "preco_sugerido_brl": 19999.9,
   "atualizado_em": "2026-11-08",
   "quadro": {
-    "material": "Carbono T700/T800/T1000",
+    "material": "Carbono T700/T800/T1000 Stealth",
     "tamanhos": [
       "S",
       "M",
@@ -31,6 +31,11 @@
       "url": "https://collibike.com.br/bicicletas/paris-aero/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-08"
+    },
+    {
+      "url": "https://web.archive.org/web/20260213075912/https://collibike.com.br/bicicletas/paris-aero/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-10"
     }
   ]
 }

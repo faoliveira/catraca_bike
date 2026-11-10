@@ -6,9 +6,9 @@
   "categoria": "ebike",
   "url_fabricante": "https://www.focus-bikes.com/int/aventura2-6-8",
   "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Alumínio",
+    "material": "Alumínio 7005 hidroformado",
     "tamanhos": [
       "S",
       "M",
@@ -20,10 +20,10 @@
     "curso_mm": 100
   },
   "componentes": {
-    "grupo": "Shimano Cues",
+    "grupo": "Shimano Cues 1x10",
     "velocidades": 10,
-    "tipo_freio": "Hidráulico Shimano MT420, rotores 203/180 mm",
-    "peso_kg": null
+    "tipo_freio": "Disco hidráulico Shimano MT420 4 pistões, rotores 203 mm (diant.) / 180 mm (tras.)",
+    "peso_kg": 28
   },
   "ebike": {
     "motor_tipo": "Bosch Performance Line CX",
@@ -41,7 +41,7 @@
     {
       "url": "https://www.focus-bikes.com/int/aventura2-6-8",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

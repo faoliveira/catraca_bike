@@ -3,19 +3,19 @@
   "modelo": "Colli Dublin PRO",
   "ano": null,
   "slug": "colli-dublin",
-  "categoria": "urbana",
+  "categoria": "infantil",
   "url_fabricante": "https://collibike.com.br/bicicletas/colli-dublin/",
   "preco_sugerido_brl": 2899.9,
   "atualizado_em": "2026-11-08",
   "quadro": {
-    "material": "Alumínio, cabeamento interno",
+    "material": "Alumínio com Cabeamento Interno",
     "tamanhos": null,
     "aro": "20",
     "suspensao": "hardtail",
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "Shimano Acera 8V (M315/M360, 28D)",
+    "grupo": "Shimano Acera 1x8 (M315/M360, 28D)",
     "velocidades": 8,
     "tipo_freio": "Disco hidráulico Colli",
     "peso_kg": null
@@ -26,6 +26,11 @@
       "url": "https://collibike.com.br/bicicletas/colli-dublin/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-08"
+    },
+    {
+      "url": "https://web.archive.org/web/2026/https://collibike.com.br/bicicletas/colli-dublin/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-10"
     }
   ]
 }

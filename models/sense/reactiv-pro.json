@@ -6,7 +6,7 @@
   "categoria": "urbana",
   "url_fabricante": "https://www.sensebike.com.br/produtos/reactiv-pro/",
   "preco_sugerido_brl": 3690,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio",
     "tamanhos": [
@@ -20,17 +20,17 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "Shimano Cues 22V",
-    "velocidades": 22,
-    "tipo_freio": "HD-M500",
-    "peso_kg": null
+    "grupo": "Shimano Cues 2x9",
+    "velocidades": 18,
+    "tipo_freio": "Disco Sentec HD-M500, rotores Shimano 160 mm",
+    "peso_kg": 10.8
   },
   "ebike": null,
   "fontes": [
     {
       "url": "https://www.sensebike.com.br/produtos/reactiv-pro/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

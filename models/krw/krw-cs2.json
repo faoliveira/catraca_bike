@@ -5,8 +5,8 @@
   "slug": "krw-cs2",
   "categoria": "mtb",
   "url_fabricante": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-shimano-cues-freio-hidraulico-suspensao-trava-de-guidao-18-velocidades-cs2/",
-  "preco_sugerido_brl": 2699.9,
-  "atualizado_em": "2026-11-08",
+  "preco_sugerido_brl": 4699,
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio 6061 K 4.0",
     "tamanhos": [
@@ -20,17 +20,17 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "Shimano CUES",
+    "grupo": "Shimano CUES 2x9",
     "velocidades": 18,
-    "tipo_freio": "Disco hidráulico",
-    "peso_kg": null
+    "tipo_freio": "Disco hidráulico Shimano, rotor 160 mm",
+    "peso_kg": 15
   },
   "ebike": null,
   "fontes": [
     {
       "url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-shimano-cues-freio-hidraulico-suspensao-trava-de-guidao-18-velocidades-cs2/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

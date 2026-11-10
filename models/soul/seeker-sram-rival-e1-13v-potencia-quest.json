@@ -6,9 +6,9 @@
   "categoria": "gravel",
   "url_fabricante": "https://www.soulcycles.com.br/bicicleta-seeker-sram-rival-e1-13v-potencia-quest/p",
   "preco_sugerido_brl": 35000,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Carbono",
+    "material": "Carbono T700/800",
     "tamanhos": [
       "XS",
       "S",
@@ -22,7 +22,7 @@
   "componentes": {
     "grupo": "SRAM Rival E1 XPLR 1x13",
     "velocidades": 13,
-    "tipo_freio": "Disco hidráulico SRAM Rival E1",
+    "tipo_freio": "Disco hidráulico SRAM Rival E1 flat mount, rotores 160 mm",
     "peso_kg": 9.4
   },
   "ebike": null,
@@ -30,7 +30,7 @@
     {
       "url": "https://www.soulcycles.com.br/bicicleta-seeker-sram-rival-e1-13v-potencia-quest/p",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

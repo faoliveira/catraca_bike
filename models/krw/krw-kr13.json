@@ -5,8 +5,8 @@
   "slug": "krw-kr13",
   "categoria": "mtb",
   "url_fabricante": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-27v-shimano-altus-freio-hidraulico-trava-ombro-kr13/",
-  "preco_sugerido_brl": 1369,
-  "atualizado_em": "2026-11-08",
+  "preco_sugerido_brl": 2799,
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio 6061",
     "tamanhos": [
@@ -23,14 +23,14 @@
     "grupo": "Shimano Altus",
     "velocidades": 27,
     "tipo_freio": "Disco hidráulico",
-    "peso_kg": null
+    "peso_kg": 15
   },
   "ebike": null,
   "fontes": [
     {
       "url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-27v-shimano-altus-freio-hidraulico-trava-ombro-kr13/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

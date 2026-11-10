@@ -5,23 +5,23 @@
   "slug": "trail-6",
   "categoria": "mtb",
   "url_fabricante": "https://www.cannondale.com/pt-br/bikes/mountain/trail-bikes/trail/trail-6",
-  "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-08",
+  "preco_sugerido_brl": 4990,
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Alumínio",
+    "material": "Alumínio SmartForm C3",
     "tamanhos": [
-      "M",
-      "S",
-      "XL",
-      "L"
+      "SM",
+      "MD",
+      "LG",
+      "XL"
     ],
-    "aro": "29",
+    "aro": "27.5/29",
     "suspensao": "hardtail",
     "curso_mm": 100
   },
   "componentes": {
-    "grupo": "Shimano Acera 8V, garfo SR Suntour XCT",
-    "velocidades": 8,
+    "grupo": "Shimano Acera 2x8",
+    "velocidades": 16,
     "tipo_freio": "Disco hidráulico Tektro M275, rotores 160/160 mm",
     "peso_kg": null
   },
@@ -30,7 +30,7 @@
     {
       "url": "https://www.cannondale.com/pt-br/bikes/mountain/trail-bikes/trail/trail-6",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

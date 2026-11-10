@@ -6,9 +6,9 @@
   "categoria": "ebike",
   "url_fabricante": "https://www.specialized.com/br/pt/turbo-levo-4-expert/p/4263403",
   "preco_sugerido_brl": 85990,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Carbono",
+    "material": "Carbono FACT 11m",
     "tamanhos": [
       "S2",
       "S3",
@@ -18,10 +18,10 @@
     ],
     "aro": "27.5/29",
     "suspensao": "full",
-    "curso_mm": null
+    "curso_mm": 160
   },
   "componentes": {
-    "grupo": "SRAM GX Eagle AXS Transmission 12V, garfo Rockshox Zeb Select+",
+    "grupo": "SRAM GX Eagle AXS Transmission 1x12",
     "velocidades": 12,
     "tipo_freio": "Disco hidráulico SRAM Maven Silver, rotores 220/220 mm",
     "peso_kg": 24.72
@@ -42,7 +42,7 @@
     {
       "url": "https://www.specialized.com/br/pt/turbo-levo-4-expert/p/4263403",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

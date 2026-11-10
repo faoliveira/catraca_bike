@@ -6,9 +6,9 @@
   "categoria": "mtb",
   "url_fabricante": "https://groovebikes.com.br/produto/bicicleta-groove-slap-9-12v-full-carbon-2026/",
   "preco_sugerido_brl": 26999.9,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Carbono",
+    "material": "Carbono T-700/800",
     "tamanhos": [
       "S (16)",
       "M (17.5)",
@@ -20,9 +20,9 @@
     "curso_mm": 120
   },
   "componentes": {
-    "grupo": "Shimano Deore Di2",
+    "grupo": "Shimano Deore Di2 1x12",
     "velocidades": 12,
-    "tipo_freio": "Disco hidráulico Shimano BR-M6100",
+    "tipo_freio": "Disco hidráulico Shimano BR-M6100, rotores 180/160 mm Center Lock",
     "peso_kg": 12.6
   },
   "ebike": null,
@@ -30,7 +30,7 @@
     {
       "url": "https://groovebikes.com.br/produto/bicicleta-groove-slap-9-12v-full-carbon-2026/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

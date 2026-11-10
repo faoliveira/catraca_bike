@@ -5,14 +5,14 @@
   "slug": "moterra-sl-2",
   "categoria": "ebike",
   "url_fabricante": "https://www.cannondale.com/pt-br/bikes/electric/e-mountain/moterra-sl/moterra-sl-2-c65124u",
-  "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-08",
+  "preco_sugerido_brl": 55990,
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Carbono",
     "tamanhos": [
-      "M",
-      "L",
-      "S",
+      "SM",
+      "MD",
+      "LG",
       "XL"
     ],
     "aro": "29",
@@ -20,9 +20,9 @@
     "curso_mm": 160
   },
   "componentes": {
-    "grupo": "Shimano XT 12V, garfo Fox Performance 36",
+    "grupo": "Shimano XT/Deore 1x12",
     "velocidades": 12,
-    "tipo_freio": "Disco hidráulico Shimano Deore 6120 4-piston, rotores 203 mm",
+    "tipo_freio": "Disco hidráulico Shimano Deore 6120 4 pistões, rotores 203 mm",
     "peso_kg": null
   },
   "ebike": {
@@ -41,7 +41,7 @@
     {
       "url": "https://www.cannondale.com/pt-br/bikes/electric/e-mountain/moterra-sl/moterra-sl-2-c65124u",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

@@ -6,9 +6,9 @@
   "categoria": "speed",
   "url_fabricante": "https://www.sensebike.com.br/produtos/racevox-comp-ssl-g2/",
   "preco_sugerido_brl": 35990,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Carbono Mitsubishi",
+    "material": "Carbono Racevox Mitsubishi HR40/MR60",
     "tamanhos": [
       "49",
       "51",
@@ -21,17 +21,17 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "SRAM Rival AXS",
+    "grupo": "SRAM Rival AXS 2x",
     "velocidades": null,
-    "tipo_freio": "Hidráulico SRAM",
-    "peso_kg": null
+    "tipo_freio": "Disco hidráulico SRAM Rival AXS E1",
+    "peso_kg": 10.8
   },
   "ebike": null,
   "fontes": [
     {
       "url": "https://www.sensebike.com.br/produtos/racevox-comp-ssl-g2/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

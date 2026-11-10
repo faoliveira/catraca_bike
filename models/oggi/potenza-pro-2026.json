@@ -6,9 +6,9 @@
   "categoria": "ebike",
   "url_fabricante": "https://oggibikes.com.br/bike/potenza-pro-2026/",
   "preco_sugerido_brl": 59999,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Carbono",
+    "material": "Fibra de carbono",
     "tamanhos": [
       "S",
       "M",
@@ -21,7 +21,7 @@
   "componentes": {
     "grupo": "Shimano XT Di2 12V",
     "velocidades": 12,
-    "tipo_freio": "Hidráulico Shimano M8200 rotores 203 mm",
+    "tipo_freio": "Hidráulico Shimano XT M8200 4 pistões, rotores 203 mm",
     "peso_kg": 23.9
   },
   "ebike": {
@@ -40,12 +40,12 @@
     {
       "url": "https://oggibikes.com.br/bike/potenza-pro-2026/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     },
     {
       "url": "https://oggibikes.com.br/modelos-eletricas/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

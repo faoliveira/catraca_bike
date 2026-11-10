@@ -6,7 +6,7 @@
   "categoria": "mtb",
   "url_fabricante": "https://houston.com.br/bike/4/kamp",
   "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio 6061 T6",
     "tamanhos": [
@@ -21,7 +21,7 @@
   "componentes": {
     "grupo": "Shimano Tourney 3x7V (TY301/RD-TY300)",
     "velocidades": 21,
-    "tipo_freio": "Disco mecânico 160 mm",
+    "tipo_freio": "Disco mecânico, YD-DS05, rotores 160 mm",
     "peso_kg": null
   },
   "ebike": null,
@@ -29,7 +29,7 @@
     {
       "url": "https://houston.com.br/bike/4/kamp",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

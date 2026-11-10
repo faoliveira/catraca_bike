@@ -22,7 +22,7 @@
   "componentes": {
     "grupo": "Shimano Alivio 3x9 (cassete 11-36D)",
     "velocidades": 27,
-    "tipo_freio": null,
+    "tipo_freio": "Disco hidráulico Colli",
     "peso_kg": 14.2
   },
   "ebike": null,
@@ -31,6 +31,11 @@
       "url": "https://collibike.com.br/bicicletas/colli-reserve/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-08"
+    },
+    {
+      "url": "https://web.archive.org/web/20260314092509/https://collibike.com.br/bicicletas/colli-reserve/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-10"
     }
   ]
 }

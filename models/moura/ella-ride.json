@@ -6,7 +6,7 @@
   "categoria": "ebike",
   "url_fabricante": "https://www.ebikeella.com.br/products/ella-ride",
   "preco_sugerido_brl": 12990,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio",
     "tamanhos": null,
@@ -36,12 +36,12 @@
     {
       "url": "https://www.ebikeella.com.br/products/ella-ride",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     },
     {
       "url": "https://www.ebikeella.com.br/pages/ella-ride",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

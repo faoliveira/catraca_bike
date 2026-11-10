@@ -6,7 +6,7 @@
   "categoria": "ebike",
   "url_fabricante": "https://oggibikes.com.br/bike/potenza/",
   "preco_sugerido_brl": 65900,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Carbono",
     "tamanhos": [
@@ -19,9 +19,9 @@
     "curso_mm": 160
   },
   "componentes": {
-    "grupo": "Shimano XT 12V",
+    "grupo": "Shimano XT 1x12",
     "velocidades": 12,
-    "tipo_freio": "Hidráulico Shimano BR-M8120 rotores 203 mm",
+    "tipo_freio": "Disco hidráulico Shimano XT BR-M8120, 4 pistões, rotores 203 mm",
     "peso_kg": 22.8
   },
   "ebike": {
@@ -40,12 +40,12 @@
     {
       "url": "https://oggibikes.com.br/bike/potenza/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     },
     {
       "url": "https://oggibikes.com.br/modelos-eletricas/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

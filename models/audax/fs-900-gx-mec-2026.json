@@ -6,7 +6,7 @@
   "categoria": "mtb",
   "url_fabricante": "https://audaxbike.com/bike/256/fs-900-gx-mec-2026",
   "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Carbono UD Toray T800",
     "tamanhos": [
@@ -20,9 +20,9 @@
     "curso_mm": 44
   },
   "componentes": {
-    "grupo": "SRAM GX",
+    "grupo": "SRAM GX Eagle",
     "velocidades": null,
-    "tipo_freio": "Shimano M7100 rotores 160 mm",
+    "tipo_freio": "Disco Shimano M7100, rotores 180/160 mm",
     "peso_kg": null
   },
   "ebike": null,
@@ -30,7 +30,7 @@
     {
       "url": "https://audaxbike.com/bike/256/fs-900-gx-mec-2026",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

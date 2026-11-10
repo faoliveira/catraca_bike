@@ -6,9 +6,9 @@
   "categoria": "mtb",
   "url_fabricante": "https://audaxbike.com/bike/221/auge-50-xx1-axs-2025",
   "preco_sugerido_brl": 42022,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Carbono UD Toray T1000/T800",
+    "material": "Carbono Toray T1000, T800 e M40J UD",
     "tamanhos": [
       "S",
       "M",
@@ -17,12 +17,12 @@
     ],
     "aro": "29",
     "suspensao": "hardtail",
-    "curso_mm": 110
+    "curso_mm": 100
   },
   "componentes": {
-    "grupo": "SRAM XX1 AXS",
+    "grupo": "SRAM XX1 Eagle AXS",
     "velocidades": null,
-    "tipo_freio": "Disco hidráulico Shimano M8100 rotores 160 mm",
+    "tipo_freio": "Disco hidráulico Shimano XT M8100, rotor 160 mm",
     "peso_kg": 10.4
   },
   "ebike": null,
@@ -30,7 +30,7 @@
     {
       "url": "https://audaxbike.com/bike/221/auge-50-xx1-axs-2025",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

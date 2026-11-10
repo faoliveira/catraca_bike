@@ -6,9 +6,9 @@
   "categoria": "mtb",
   "url_fabricante": "https://www.sensebike.com.br/produtos/hardplay-27-5-v2/",
   "preco_sugerido_brl": 6990,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Alumínio",
+    "material": "Alumínio 6061",
     "tamanhos": [
       "XS",
       "S",
@@ -18,12 +18,12 @@
     ],
     "aro": "27.5",
     "suspensao": "hardtail",
-    "curso_mm": null
+    "curso_mm": 130
   },
   "componentes": {
-    "grupo": "Shimano Cues 18V",
-    "velocidades": 18,
-    "tipo_freio": "Hidráulico Shimano MT401",
+    "grupo": "Shimano Cues 1x10",
+    "velocidades": 10,
+    "tipo_freio": "Disco hidráulico Shimano BL-MT401/BR-MT410, rotores 180/160 mm",
     "peso_kg": null
   },
   "ebike": null,
@@ -31,7 +31,7 @@
     {
       "url": "https://www.sensebike.com.br/produtos/hardplay-27-5-v2/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

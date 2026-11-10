@@ -5,24 +5,24 @@
   "slug": "overdrive-carbon-105-di2-24v",
   "categoria": "speed",
   "url_fabricante": "https://groovebikes.com.br/produto/bicicleta-groove-overdrive-carbon/",
-  "preco_sugerido_brl": 26999.9,
-  "atualizado_em": "2026-11-08",
+  "preco_sugerido_brl": 33000,
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Carbono",
     "tamanhos": [
-      "P (50)",
+      "S (50)",
       "M (52)",
-      "G (54)",
-      "GG (56)"
+      "L (54)",
+      "XL (56)"
     ],
     "aro": "700c",
     "suspensao": "rigida",
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "Shimano 105 Di2",
+    "grupo": "Shimano 105 Di2 2x12",
     "velocidades": 24,
-    "tipo_freio": "Disco hidráulico Shimano BR-R7170",
+    "tipo_freio": "Disco hidráulico Shimano BR-R7170, rotores SM-RT70 160/140 mm",
     "peso_kg": 7.8
   },
   "ebike": null,
@@ -30,7 +30,7 @@
     {
       "url": "https://groovebikes.com.br/produto/bicicleta-groove-overdrive-carbon/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

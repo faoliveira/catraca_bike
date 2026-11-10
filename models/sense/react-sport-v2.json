@@ -6,7 +6,7 @@
   "categoria": "mtb",
   "url_fabricante": "https://www.sensebike.com.br/produtos/react-sport-v2/",
   "preco_sugerido_brl": 3490,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio 6061 T4/T6 hidroformado",
     "tamanhos": [
@@ -23,14 +23,14 @@
     "grupo": "Shimano Altus/Acera 2x8",
     "velocidades": 16,
     "tipo_freio": "Hidráulico Shimano MT200, discos SM-RT10 160 mm",
-    "peso_kg": null
+    "peso_kg": 10.8
   },
   "ebike": null,
   "fontes": [
     {
       "url": "https://www.sensebike.com.br/produtos/react-sport-v2/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

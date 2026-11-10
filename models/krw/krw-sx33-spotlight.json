@@ -5,8 +5,8 @@
   "slug": "krw-sx33-spotlight",
   "categoria": "mtb",
   "url_fabricante": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-spotlight-aluminio-24-vel-freio-hidraulico-sx33-outlet-u3z25/",
-  "preco_sugerido_brl": 954,
-  "atualizado_em": "2026-11-08",
+  "preco_sugerido_brl": 1999,
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio 6061",
     "tamanhos": [
@@ -20,14 +20,14 @@
     "grupo": null,
     "velocidades": 24,
     "tipo_freio": "Disco hidráulico",
-    "peso_kg": null
+    "peso_kg": 15
   },
   "ebike": null,
   "fontes": [
     {
       "url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-spotlight-aluminio-24-vel-freio-hidraulico-sx33-outlet-u3z25/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

@@ -1,12 +1,12 @@
 {
   "marca": "Audax",
   "modelo": "Auge 800 MY26",
-  "ano": null,
+  "ano": 2026,
   "slug": "auge-800-my26",
   "categoria": "mtb",
   "url_fabricante": "https://audaxbike.com/bike/248/auge-800-my26",
   "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Carbono UD",
     "tamanhos": [
@@ -20,9 +20,9 @@
     "curso_mm": 100
   },
   "componentes": {
-    "grupo": "SRAM NX 12V",
+    "grupo": "SRAM GX Eagle 1x12",
     "velocidades": 12,
-    "tipo_freio": "Disco hidráulico Shimano M7100 rotores 160 mm",
+    "tipo_freio": "Disco hidráulico Shimano SLX M7100, rotores SM-RT76 160 mm",
     "peso_kg": null
   },
   "ebike": null,
@@ -30,7 +30,7 @@
     {
       "url": "https://audaxbike.com/bike/248/auge-800-my26",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

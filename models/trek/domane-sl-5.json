@@ -6,9 +6,9 @@
   "categoria": "speed",
   "url_fabricante": "https://www.trekbikes.com/br/pt_BR/bicicletas/bicicletas-de-estrada/bicicletas-de-estrada-de-alto-desempenho/domane/domane-sl/domane-sl-5-4%C2%AA-gera%C3%A7%C3%A3o/p/57629/",
   "preco_sugerido_brl": 24990,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Carbono",
+    "material": "Carbono OCLV Série 500",
     "tamanhos": [
       "44",
       "47",
@@ -25,17 +25,17 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "Shimano 105 R7100 12V",
-    "velocidades": 12,
-    "tipo_freio": null,
-    "peso_kg": null
+    "grupo": "Shimano 105 R7100 2x12",
+    "velocidades": 24,
+    "tipo_freio": "Disco, montagem plana, rotores Shimano CL700 centerlock 160 mm",
+    "peso_kg": 9.09
   },
   "ebike": null,
   "fontes": [
     {
       "url": "https://www.trekbikes.com/br/pt_BR/bicicletas/bicicletas-de-estrada/bicicletas-de-estrada-de-alto-desempenho/domane/domane-sl/domane-sl-5-4%C2%AA-gera%C3%A7%C3%A3o/p/57629/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ]
 }

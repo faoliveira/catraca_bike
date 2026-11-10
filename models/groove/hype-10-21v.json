@@ -6,21 +6,21 @@
   "categoria": "mtb",
   "url_fabricante": "https://groovebikes.com.br/produto/bicicleta-mountain-bike-aro-29-groove-hype-10-21v/",
   "preco_sugerido_brl": 2099.9,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio",
     "tamanhos": [
-      "15",
-      "17",
-      "19",
-      "20.5"
+      "S (15)",
+      "M (17)",
+      "L (19)",
+      "XL (20.5)"
     ],
     "aro": "29",
     "suspensao": "hardtail",
     "curso_mm": 80
   },
   "componentes": {
-    "grupo": "Shimano",
+    "grupo": "Shimano 3x7",
     "velocidades": 21,
     "tipo_freio": "Disco mecânico",
     "peso_kg": 15
@@ -30,7 +30,7 @@
     {
       "url": "https://groovebikes.com.br/produto/bicicleta-mountain-bike-aro-29-groove-hype-10-21v/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

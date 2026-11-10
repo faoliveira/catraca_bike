@@ -6,9 +6,9 @@
   "categoria": "mtb",
   "url_fabricante": "https://www.sensebike.com.br/produtos/grom-24-evo/",
   "preco_sugerido_brl": 3490,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Alumínio 6061",
+    "material": "Alumínio hidroformado 6061 T4-T6",
     "tamanhos": [
       "Único"
     ],
@@ -17,17 +17,17 @@
     "curso_mm": 80
   },
   "componentes": {
-    "grupo": "Shimano Cues 18V",
-    "velocidades": 18,
-    "tipo_freio": "Mecânico rotores 160 mm",
-    "peso_kg": null
+    "grupo": "Shimano Cues 1x9",
+    "velocidades": 9,
+    "tipo_freio": "Disco mecânico Junior, rotores 160 mm",
+    "peso_kg": 11.1
   },
   "ebike": null,
   "fontes": [
     {
       "url": "https://www.sensebike.com.br/produtos/grom-24-evo/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

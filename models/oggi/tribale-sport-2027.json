@@ -6,7 +6,7 @@
   "categoria": "speed",
   "url_fabricante": "https://oggibikes.com.br/bike/tribale-sport-2027/",
   "preco_sugerido_brl": 4999,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio",
     "tamanhos": [
@@ -21,9 +21,9 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "Shimano 8V",
+    "grupo": "Shimano Essa 1x8",
     "velocidades": 8,
-    "tipo_freio": "Shimano rotores 160 mm",
+    "tipo_freio": "Shimano Essa U2030, rotor 160 mm",
     "peso_kg": null
   },
   "ebike": null,
@@ -31,12 +31,12 @@
     {
       "url": "https://oggibikes.com.br/bike/tribale-sport-2027/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     },
     {
       "url": "https://oggibikes.com.br/modelos-speed/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

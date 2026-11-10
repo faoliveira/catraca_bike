@@ -1,12 +1,12 @@
 {
   "marca": "Groove",
-  "modelo": "SKA 1 70 12V",
+  "modelo": "SKA 70.1 12V",
   "ano": null,
   "slug": "ska-1-70-12v",
   "categoria": "mtb",
   "url_fabricante": "https://groovebikes.com.br/produto/bicicleta-mountain-bike-aro-29-groove-ska-1-70-12v/",
-  "preco_sugerido_brl": 4999.9,
-  "atualizado_em": "2026-11-08",
+  "preco_sugerido_brl": 6199.9,
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio",
     "tamanhos": [
@@ -17,12 +17,12 @@
     ],
     "aro": "29",
     "suspensao": "hardtail",
-    "curso_mm": null
+    "curso_mm": 100
   },
   "componentes": {
-    "grupo": "SRAM SX Eagle",
+    "grupo": "SRAM SX Eagle 1x12",
     "velocidades": 12,
-    "tipo_freio": "Disco hidráulico Shimano BR-MT200",
+    "tipo_freio": "Disco hidráulico Shimano BR-MT200, rotor Shimano RT10 160 mm Center Lock",
     "peso_kg": 13.2
   },
   "ebike": null,
@@ -30,7 +30,7 @@
     {
       "url": "https://groovebikes.com.br/produto/bicicleta-mountain-bike-aro-29-groove-ska-1-70-12v/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

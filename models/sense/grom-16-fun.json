@@ -6,9 +6,9 @@
   "categoria": "infantil",
   "url_fabricante": "https://www.sensebike.com.br/produtos/grom-16-fun/",
   "preco_sugerido_brl": 2590,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Alumínio 6061",
+    "material": "Alumínio hidroformado 6061 T4-T6",
     "tamanhos": [
       "Único"
     ],
@@ -17,17 +17,17 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": null,
-    "velocidades": null,
-    "tipo_freio": "Mecânico Tektro",
-    "peso_kg": null
+    "grupo": "Sense 1 velocidade (pinhão 16d)",
+    "velocidades": 1,
+    "tipo_freio": "Disco mecânico Tektro",
+    "peso_kg": 7
   },
   "ebike": null,
   "fontes": [
     {
       "url": "https://www.sensebike.com.br/produtos/grom-16-fun/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

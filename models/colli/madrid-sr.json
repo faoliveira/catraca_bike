@@ -8,7 +8,7 @@
   "preco_sugerido_brl": 9229.9,
   "atualizado_em": "2026-11-08",
   "quadro": {
-    "material": "Alumínio 6061 T4+T6 Boost",
+    "material": "Alumínio 6061 T4+T6 Boost Stealth",
     "tamanhos": [
       "S",
       "M",
@@ -20,7 +20,7 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "SRAM Eagle 1x12 (cassete XS 1270 10-52D), garfo Suntour X1-Boost Air",
+    "grupo": "SRAM Eagle 70 T-Type 1x12 (cassete XS 1270 10-52D)",
     "velocidades": 12,
     "tipo_freio": "Disco SRAM DB4, rotores 180/160 mm",
     "peso_kg": null
@@ -31,6 +31,11 @@
       "url": "https://collibike.com.br/bicicletas/madrid-sr/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-08"
+    },
+    {
+      "url": "https://web.archive.org/web/20260211175200/https://collibike.com.br/bicicletas/madrid-sr/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-10"
     }
   ]
 }

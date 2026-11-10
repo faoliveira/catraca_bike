@@ -5,27 +5,32 @@
   "slug": "krw-s4",
   "categoria": "mtb",
   "url_fabricante": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-shimano-24-velocidades-freio-a-disco-s4-qeml5/",
-  "preco_sugerido_brl": 879,
-  "atualizado_em": "2026-11-08",
+  "preco_sugerido_brl": 1665,
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio 6061",
-    "tamanhos": null,
+    "tamanhos": [
+      "15.5",
+      "17",
+      "19",
+      "21"
+    ],
     "aro": "29",
     "suspensao": "hardtail",
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "Shimano TZ",
+    "grupo": "Shimano TZ 3x8",
     "velocidades": 24,
-    "tipo_freio": "Disco mecânico",
-    "peso_kg": null
+    "tipo_freio": "Disco mecânico, rotor 160 mm",
+    "peso_kg": 15
   },
   "ebike": null,
   "fontes": [
     {
       "url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-shimano-24-velocidades-freio-a-disco-s4-qeml5/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {
