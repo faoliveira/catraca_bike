@@ -6,7 +6,7 @@
   "categoria": "mtb",
   "url_fabricante": "https://www.specialized.com/br/pt/rockhopper-sport/p/4263615",
   "preco_sugerido_brl": 5990,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio",
     "tamanhos": null,
@@ -15,7 +15,7 @@
     "curso_mm": 100
   },
   "componentes": {
-    "grupo": "microSHIFT Advent 9V, garfo SR Suntour XCM 29",
+    "grupo": "microSHIFT Advent 1x9",
     "velocidades": 9,
     "tipo_freio": "Disco hidráulico Shimano BR-MT200, rotores 180/180 mm",
     "peso_kg": null
@@ -25,7 +25,7 @@
     {
       "url": "https://www.specialized.com/br/pt/rockhopper-sport/p/4263615",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {
