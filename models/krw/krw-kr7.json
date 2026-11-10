@@ -36,5 +36,10 @@
   "imagem": {
     "arquivo": "krw/krw-kr7.webp",
     "fonte_url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-shimano-tz-21-velocidades-freio-a-disco-kr7/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-shimano-tz-21-velocidades-freio-a-disco-kr7/"
+    }
+  ]
 }

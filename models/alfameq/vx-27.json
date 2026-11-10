@@ -36,5 +36,10 @@
   "imagem": {
     "arquivo": "alfameq/vx-27.webp",
     "fonte_url": "https://www.alfameqoficial.com.br/bicicletas/bicicleta-aro-29-alfameq-vx-27-machas-freio-a-disco-hidraulico"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.alfameqoficial.com.br/bicicletas/bicicleta-aro-29-alfameq-vx-27-machas-freio-a-disco-hidraulico"
+    }
+  ]
 }

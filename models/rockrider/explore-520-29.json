@@ -36,5 +36,10 @@
   "imagem": {
     "arquivo": "rockrider/explore-520-29.webp",
     "fonte_url": "https://www.decathlon.com.br/bicicleta-de-mountain-bike-explore-520-rockrider/p"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.decathlon.com.br/bicicleta-de-mountain-bike-explore-520-rockrider/p"
+    }
+  ]
 }

@@ -31,5 +31,10 @@
   "imagem": {
     "arquivo": "ksw/ksw-erx-bmx-20.webp",
     "fonte_url": "https://www.kswbikes.com.br/bmx/bicicleta-aro-20-bmx-infantil-ksw-erx-aluminio-freestyle"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.kswbikes.com.br/bmx/bicicleta-aro-20-bmx-infantil-ksw-erx-aluminio-freestyle"
+    }
+  ]
 }

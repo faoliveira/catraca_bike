@@ -36,5 +36,10 @@
   "imagem": {
     "arquivo": "krw/krw-s50.webp",
     "fonte_url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-shimano-tz-24v-freio-a-disco-s50/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-shimano-tz-24v-freio-a-disco-s50/"
+    }
+  ]
 }

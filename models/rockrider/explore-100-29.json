@@ -35,5 +35,10 @@
   "imagem": {
     "arquivo": "rockrider/explore-100-29.webp",
     "fonte_url": "https://www.decathlon.com.br/bicicleta-mountain-bike-expl-100-aro-29-cinza-8977370-rockrider/p"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.decathlon.com.br/bicicleta-mountain-bike-expl-100-aro-29-cinza-8977370-rockrider/p"
+    }
+  ]
 }

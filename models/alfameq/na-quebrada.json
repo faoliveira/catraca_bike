@@ -33,5 +33,10 @@
   "imagem": {
     "arquivo": "alfameq/na-quebrada.webp",
     "fonte_url": "https://www.alfameqoficial.com.br/bicicletas/bicicleta-alfameq-freeride-na-quebrada-aro-26-freio-a-disco-21-marchas"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.alfameqoficial.com.br/bicicletas/bicicleta-alfameq-freeride-na-quebrada-aro-26-freio-a-disco-21-marchas"
+    }
+  ]
 }

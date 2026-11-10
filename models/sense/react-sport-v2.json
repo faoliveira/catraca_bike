@@ -36,5 +36,10 @@
   "imagem": {
     "arquivo": "sense/react-sport-v2.webp",
     "fonte_url": "https://www.sensebike.com.br/produtos/react-sport-v2/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.sensebike.com.br/produtos/react-sport-v2/"
+    }
+  ]
 }

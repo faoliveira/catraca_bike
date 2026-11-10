@@ -33,5 +33,10 @@
   "imagem": {
     "arquivo": "ksw/ksw-brabo-26.webp",
     "fonte_url": "https://www.kswbikes.com.br/bicicleta/bicicleta-grau-ksw-brabo-aro-26-freeride-21v-shimano-a-disco"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.kswbikes.com.br/bicicleta/bicicleta-grau-ksw-brabo-aro-26-freeride-21v-shimano-a-disco"
+    }
+  ]
 }

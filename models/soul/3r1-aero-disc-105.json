@@ -37,5 +37,10 @@
   "imagem": {
     "arquivo": "soul/3r1-aero-disc-105.webp",
     "fonte_url": "https://www.soulcycles.com.br/bicicleta-3r1-aero-disc-105-vmbr/p"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.soulcycles.com.br/bicicleta-3r1-aero-disc-105-vmbr/p"
+    }
+  ]
 }

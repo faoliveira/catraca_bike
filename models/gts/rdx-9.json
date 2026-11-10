@@ -35,5 +35,10 @@
   "imagem": {
     "arquivo": "gts/rdx-9.webp",
     "fonte_url": "https://www.alfameqoficial.com.br/bicicletas/bicicleta-aro-29-gts-rdx-9-velocidades-freio-a-disco-hidraulico-aluminio"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.alfameqoficial.com.br/bicicletas/bicicleta-aro-29-gts-rdx-9-velocidades-freio-a-disco-hidraulico-aluminio"
+    }
+  ]
 }

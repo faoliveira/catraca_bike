@@ -36,5 +36,10 @@
   "imagem": {
     "arquivo": "krw/krw-kr3.webp",
     "fonte_url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-24-velocidades-freio-hidraulico-trava-cassete-kr3/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-24-velocidades-freio-hidraulico-trava-cassete-kr3/"
+    }
+  ]
 }

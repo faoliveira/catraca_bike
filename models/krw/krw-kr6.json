@@ -36,5 +36,10 @@
   "imagem": {
     "arquivo": "krw/krw-kr6.webp",
     "fonte_url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-27v-freio-hidraulico-suspensao-trava-ombro-kr6/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-27v-freio-hidraulico-suspensao-trava-ombro-kr6/"
+    }
+  ]
 }

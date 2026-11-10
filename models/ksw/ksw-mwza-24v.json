@@ -36,5 +36,10 @@
   "imagem": {
     "arquivo": "ksw/ksw-mwza-24v.webp",
     "fonte_url": "https://www.kswbikes.com.br/bicicletas/mtb/mwza/bicicleta-ksw-mwza-24v-k7-aro-29-freio-a-disco"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.kswbikes.com.br/bicicletas/mtb/mwza/bicicleta-ksw-mwza-24v-k7-aro-29-freio-a-disco"
+    }
+  ]
 }

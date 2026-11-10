@@ -33,5 +33,10 @@
   "imagem": {
     "arquivo": "gts/zt.webp",
     "fonte_url": "https://www.alfameqoficial.com.br/bicicletas/bicicleta-aro-29-gts-zt-aco-21-marchas-freio-a-disco-e-suspensao"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.alfameqoficial.com.br/bicicletas/bicicleta-aro-29-gts-zt-aco-21-marchas-freio-a-disco-e-suspensao"
+    }
+  ]
 }

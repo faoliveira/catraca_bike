@@ -35,5 +35,10 @@
   "imagem": {
     "arquivo": "alfameq/vx-21.webp",
     "fonte_url": "https://www.alfameqoficial.com.br/bicicletas/bicicleta-aro-29-alfameq-vx-cambio-shimano-21v-freio-disco"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.alfameqoficial.com.br/bicicletas/bicicleta-aro-29-alfameq-vx-cambio-shimano-21v-freio-disco"
+    }
+  ]
 }

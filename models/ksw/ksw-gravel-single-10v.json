@@ -35,5 +35,10 @@
   "imagem": {
     "arquivo": "ksw/ksw-gravel-single-10v.webp",
     "fonte_url": "https://www.kswbikes.com.br/bicicletas/gravel/single-1x10v/bicicleta-ksw-gravel-10v-single"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.kswbikes.com.br/bicicletas/gravel/single-1x10v/bicicleta-ksw-gravel-10v-single"
+    }
+  ]
 }

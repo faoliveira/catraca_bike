@@ -31,5 +31,10 @@
       "tipo": "fabricante",
       "acessado_em": "2026-11-10"
     }
+  ],
+  "links_compra": [
+    {
+      "url": "https://rivacycles.com/products/bicicleta-riva-criterium-exige"
+    }
   ]
 }

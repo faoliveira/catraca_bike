@@ -34,5 +34,10 @@
   "imagem": {
     "arquivo": "groove/indie-30-21v.webp",
     "fonte_url": "https://groovebikes.com.br/produto/bicicleta-mountain-bike-aro-29-groove-indie-30-21-marchas/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://groovebikes.com.br/produto/bicicleta-mountain-bike-aro-29-groove-indie-30-21-marchas/"
+    }
+  ]
 }

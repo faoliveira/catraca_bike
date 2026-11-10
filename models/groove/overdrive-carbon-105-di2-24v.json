@@ -36,5 +36,10 @@
   "imagem": {
     "arquivo": "groove/overdrive-carbon-105-di2-24v.webp",
     "fonte_url": "https://groovebikes.com.br/produto/bicicleta-groove-overdrive-carbon/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://groovebikes.com.br/produto/bicicleta-groove-overdrive-carbon/"
+    }
+  ]
 }

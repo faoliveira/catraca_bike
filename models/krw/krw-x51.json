@@ -36,5 +36,10 @@
   "imagem": {
     "arquivo": "krw/krw-x51.webp",
     "fonte_url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-21-velocidades-freio-a-disco-x51/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-21-velocidades-freio-a-disco-x51/"
+    }
+  ]
 }

@@ -36,5 +36,10 @@
   "imagem": {
     "arquivo": "krw/krw-s2.webp",
     "fonte_url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-24-velocidades-freio-hidraulico-s2-0t4bo/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-24-velocidades-freio-hidraulico-s2-0t4bo/"
+    }
+  ]
 }

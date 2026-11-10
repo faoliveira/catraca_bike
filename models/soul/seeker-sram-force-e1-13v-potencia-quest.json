@@ -36,5 +36,10 @@
   "imagem": {
     "arquivo": "soul/seeker-sram-force-e1-13v-potencia-quest.webp",
     "fonte_url": "https://www.soulcycles.com.br/bicicleta-seeker-sram-force-e1-13v-potencia-quest/p"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.soulcycles.com.br/bicicleta-seeker-sram-force-e1-13v-potencia-quest/p"
+    }
+  ]
 }

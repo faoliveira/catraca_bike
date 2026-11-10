@@ -36,5 +36,10 @@
   "imagem": {
     "arquivo": "krw/krw-s40-ltx.webp",
     "fonte_url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-shimano-tz-24-vel-freio-a-disco-ltx-s40-outlet-1761j/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-shimano-tz-24-vel-freio-a-disco-ltx-s40-outlet-1761j/"
+    }
+  ]
 }

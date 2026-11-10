@@ -36,5 +36,10 @@
   "imagem": {
     "arquivo": "krw/krw-s36.webp",
     "fonte_url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-shimano-altus-24v-freio-hidraulico-suspensao-trava-ombro-cassete-s36-0ttnr/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-shimano-altus-24v-freio-hidraulico-suspensao-trava-ombro-cassete-s36-0ttnr/"
+    }
+  ]
 }

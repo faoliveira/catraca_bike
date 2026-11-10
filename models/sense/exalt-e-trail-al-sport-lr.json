@@ -47,5 +47,10 @@
   "imagem": {
     "arquivo": "sense/exalt-e-trail-al-sport-lr.webp",
     "fonte_url": "https://www.sensebike.com.br/produtos/exalt-e-trail-al-sport-lr/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.sensebike.com.br/produtos/exalt-e-trail-al-sport-lr/"
+    }
+  ]
 }

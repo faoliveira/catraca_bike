@@ -34,5 +34,10 @@
   "imagem": {
     "arquivo": "groove/indie-50-24v.webp",
     "fonte_url": "https://groovebikes.com.br/produto/bicicleta-mountain-bike-aro-29-groove-indie-50-24-marchas/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://groovebikes.com.br/produto/bicicleta-mountain-bike-aro-29-groove-indie-50-24-marchas/"
+    }
+  ]
 }

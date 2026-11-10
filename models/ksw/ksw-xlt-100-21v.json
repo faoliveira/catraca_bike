@@ -36,5 +36,10 @@
   "imagem": {
     "arquivo": "ksw/ksw-xlt-100-21v.webp",
     "fonte_url": "https://www.kswbikes.com.br/bicicletas/mtb/xlt-100/bicicleta-ksw-xlt-100-21v-roda-livre-aro-29-freio-a-disco"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.kswbikes.com.br/bicicletas/mtb/xlt-100/bicicleta-ksw-xlt-100-21v-roda-livre-aro-29-freio-a-disco"
+    }
+  ]
 }

@@ -46,5 +46,10 @@
   "imagem": {
     "arquivo": "soul/etna-ep8-deore-xt-e-bike-pulse.webp",
     "fonte_url": "https://www.soulcycles.com.br/bicicleta-etna-ep8-deore-xt-e-bike-pulse/p"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.soulcycles.com.br/bicicleta-etna-ep8-deore-xt-e-bike-pulse/p"
+    }
+  ]
 }

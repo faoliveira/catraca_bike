@@ -36,5 +36,10 @@
   "imagem": {
     "arquivo": "groove/overdrive-50-16v.webp",
     "fonte_url": "https://groovebikes.com.br/produto/bicicleta-groove-overdrive-50/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://groovebikes.com.br/produto/bicicleta-groove-overdrive-50/"
+    }
+  ]
 }

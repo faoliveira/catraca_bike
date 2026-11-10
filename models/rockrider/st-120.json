@@ -34,5 +34,10 @@
   "imagem": {
     "arquivo": "rockrider/st-120.webp",
     "fonte_url": "https://www.decathlon.com.br/bicicleta-de-mountain-bike-aro-29-st120-microshift-rockrider-preto-8631915-btwin/p"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.decathlon.com.br/bicicleta-de-mountain-bike-aro-29-st120-microshift-rockrider-preto-8631915-btwin/p"
+    }
+  ]
 }

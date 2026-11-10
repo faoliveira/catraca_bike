@@ -36,5 +36,10 @@
   "imagem": {
     "arquivo": "rockrider/race-900-carbon.webp",
     "fonte_url": "https://www.decathlon.com.br/bicicleta-adulta-de-mountain-bike-suspensao-integral-quadro-em-carbono-race-900-branca-8873988-rockrider/p"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.decathlon.com.br/bicicleta-adulta-de-mountain-bike-suspensao-integral-quadro-em-carbono-race-900-branca-8873988-rockrider/p"
+    }
+  ]
 }

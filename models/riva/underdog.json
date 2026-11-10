@@ -34,5 +34,10 @@
   "imagem": {
     "arquivo": "riva/underdog.webp",
     "fonte_url": "https://rivacycles.com/products/bicicleta-riva-underdog"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://rivacycles.com/products/bicicleta-riva-underdog"
+    }
+  ]
 }

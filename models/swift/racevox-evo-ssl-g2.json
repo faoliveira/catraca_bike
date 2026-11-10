@@ -37,5 +37,10 @@
   "imagem": {
     "arquivo": "swift/racevox-evo-ssl-g2.webp",
     "fonte_url": "https://www.sensebike.com.br/produtos/racevox-evo-ssl-g2/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.sensebike.com.br/produtos/racevox-evo-ssl-g2/"
+    }
+  ]
 }

@@ -33,5 +33,10 @@
   "imagem": {
     "arquivo": "krw/krw-r27.webp",
     "fonte_url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-27-vel-freio-a-disco-r27-outlet-442li/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-27-vel-freio-a-disco-r27-outlet-442li/"
+    }
+  ]
 }

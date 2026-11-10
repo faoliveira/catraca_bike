@@ -36,5 +36,10 @@
   "imagem": {
     "arquivo": "groove/hype-50-24v.webp",
     "fonte_url": "https://groovebikes.com.br/produto/bicicleta-groove-hype-50-24v/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://groovebikes.com.br/produto/bicicleta-groove-hype-50-24v/"
+    }
+  ]
 }

@@ -36,5 +36,10 @@
   "imagem": {
     "arquivo": "soul/seeker-sram-rival-gx-axs-12v.webp",
     "fonte_url": "https://www.soulcycles.com.br/bicicleta-seeker-sram-rival-gx-axs-12v/p"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.soulcycles.com.br/bicicleta-seeker-sram-rival-gx-axs-12v/p"
+    }
+  ]
 }

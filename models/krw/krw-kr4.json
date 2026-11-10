@@ -36,5 +36,10 @@
   "imagem": {
     "arquivo": "krw/krw-kr4.webp",
     "fonte_url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-27-velocidades-freio-hidraulico-kr4/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-27-velocidades-freio-hidraulico-kr4/"
+    }
+  ]
 }

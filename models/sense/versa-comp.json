@@ -36,5 +36,10 @@
   "imagem": {
     "arquivo": "sense/versa-comp.webp",
     "fonte_url": "https://www.sensebike.com.br/produtos/versa-comp/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.sensebike.com.br/produtos/versa-comp/"
+    }
+  ]
 }
