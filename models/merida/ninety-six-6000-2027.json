@@ -6,9 +6,9 @@
   "categoria": "mtb",
   "url_fabricante": "https://www.merida-bikes.com/en/bike/6531/ninety-six-6000",
   "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Carbono",
+    "material": "Carbono NINETY-SIX CF4 III",
     "tamanhos": [
       "S",
       "M",
@@ -20,9 +20,9 @@
     "curso_mm": 120
   },
   "componentes": {
-    "grupo": "SRAM Eagle 70",
+    "grupo": "SRAM Eagle 70 Transmission 1x12",
     "velocidades": 12,
-    "tipo_freio": "Hidráulico Sram DB8 stealth, rotores 180 mm",
+    "tipo_freio": "Disco hidráulico SRAM DB8 Stealth 4 pistões, rotores 180 mm",
     "peso_kg": null
   },
   "ebike": null,
@@ -30,7 +30,7 @@
     {
       "url": "https://www.merida-bikes.com/en/bike/6531/ninety-six-6000",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ]
 }

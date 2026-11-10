@@ -6,7 +6,7 @@
   "categoria": "ebike",
   "url_fabricante": "https://groovebikes.com.br/produto/bicicleta-eletrica-groove-e-ska-7-2027/",
   "preco_sugerido_brl": 16999.9,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio",
     "tamanhos": [
@@ -14,15 +14,15 @@
       "M (17)",
       "L (19)"
     ],
-    "aro": null,
+    "aro": "29",
     "suspensao": "hardtail",
     "curso_mm": 100
   },
   "componentes": {
-    "grupo": "Shimano Deore",
+    "grupo": "Shimano Deore 1x11",
     "velocidades": 11,
-    "tipo_freio": null,
-    "peso_kg": 34
+    "tipo_freio": "Disco hidráulico Shimano BR-MT410, rotor 160 mm",
+    "peso_kg": 23.8
   },
   "ebike": {
     "motor_tipo": "Motor central Bafang M430",
@@ -40,7 +40,7 @@
     {
       "url": "https://groovebikes.com.br/produto/bicicleta-eletrica-groove-e-ska-7-2027/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

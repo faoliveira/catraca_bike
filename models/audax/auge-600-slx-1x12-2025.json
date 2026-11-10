@@ -6,9 +6,9 @@
   "categoria": "mtb",
   "url_fabricante": "https://audaxbike.com/bike/217/auge-600-slx-1x12-2025",
   "preco_sugerido_brl": 14667,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Carbono UD Toray T800",
+    "material": "Carbono Toray T800 UD",
     "tamanhos": [
       "S",
       "M",
@@ -20,9 +20,9 @@
     "curso_mm": 100
   },
   "componentes": {
-    "grupo": "Shimano 24V",
-    "velocidades": 24,
-    "tipo_freio": "Shimano BL-M7100 rotores 160 mm",
+    "grupo": "Shimano SLX 1x12",
+    "velocidades": 12,
+    "tipo_freio": "Disco hidráulico Shimano BL-M7100/BR-M7100 SLX, rotor 160 mm",
     "peso_kg": 11.7
   },
   "ebike": null,
@@ -30,7 +30,7 @@
     {
       "url": "https://audaxbike.com/bike/217/auge-600-slx-1x12-2025",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

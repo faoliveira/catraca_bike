@@ -6,7 +6,7 @@
   "categoria": "urbana",
   "url_fabricante": "https://tswbike.com/p/1085/ride-21v",
   "preco_sugerido_brl": 2499,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio 6061",
     "tamanhos": [
@@ -19,9 +19,9 @@
     "curso_mm": 100
   },
   "componentes": {
-    "grupo": "Shimano",
+    "grupo": "Shimano Tourney 3x7",
     "velocidades": 21,
-    "tipo_freio": "Hidráulico Shimano EZ Fire Plus ST-EF505 rotores 160 mm",
+    "tipo_freio": "Disco hidráulico Shimano EZ Fire Plus ST-EF505, rotores 160 mm",
     "peso_kg": 14.56
   },
   "ebike": null,
@@ -29,7 +29,7 @@
     {
       "url": "https://tswbike.com/p/1085/ride-21v",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

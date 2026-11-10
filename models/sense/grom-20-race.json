@@ -6,9 +6,9 @@
   "categoria": "infantil",
   "url_fabricante": "https://www.sensebike.com.br/produtos/grom-20-race/",
   "preco_sugerido_brl": 3790,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Alumínio 6061",
+    "material": "Alumínio hidroformado 6061 T4-T6",
     "tamanhos": [
       "Único"
     ],
@@ -17,17 +17,17 @@
     "curso_mm": 63
   },
   "componentes": {
-    "grupo": "Shimano Cues 9V",
+    "grupo": "Shimano Cues 1x9",
     "velocidades": 9,
-    "tipo_freio": "Hidráulico Tektro rotores 160 mm",
-    "peso_kg": null
+    "tipo_freio": "Disco hidráulico Tektro HD-J285 Junior, rotores 160 mm",
+    "peso_kg": 11.1
   },
   "ebike": null,
   "fontes": [
     {
       "url": "https://www.sensebike.com.br/produtos/grom-20-race/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

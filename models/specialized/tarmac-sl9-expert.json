@@ -6,9 +6,9 @@
   "categoria": "speed",
   "url_fabricante": "https://www.specialized.com/br/pt/tarmac-sl9-expert--sram-force-axs/p/4293530",
   "preco_sugerido_brl": 59990,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Carbono",
+    "material": "Carbono FACT 10r",
     "tamanhos": [
       "44",
       "49",
@@ -23,8 +23,8 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "SRAM Force AXS E1 12V, garfo FACT 12r Carbon",
-    "velocidades": 12,
+    "grupo": "SRAM Force AXS E1 2x12",
+    "velocidades": 24,
     "tipo_freio": "Disco hidráulico SRAM Force E1",
     "peso_kg": 7.55
   },
@@ -33,7 +33,7 @@
     {
       "url": "https://www.specialized.com/br/pt/tarmac-sl9-expert--sram-force-axs/p/4293530",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

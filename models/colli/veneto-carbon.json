@@ -8,7 +8,7 @@
   "preco_sugerido_brl": 23999.9,
   "atualizado_em": "2026-11-08",
   "quadro": {
-    "material": "Carbono T700/T800",
+    "material": "GRAVEL CARBONO T700/T800 STEALTH",
     "tamanhos": [
       "S",
       "M",
@@ -22,7 +22,7 @@
   "componentes": {
     "grupo": "Shimano GRX 1x12 (cassete XT 10-51D)",
     "velocidades": 12,
-    "tipo_freio": "Disco Shimano GRX 820, rotores 160 mm",
+    "tipo_freio": "Disco Shimano GRX 820, rotor RT-CL800 160 mm",
     "peso_kg": null
   },
   "ebike": null,
@@ -31,6 +31,11 @@
       "url": "https://collibike.com.br/bicicletas/5590/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-08"
+    },
+    {
+      "url": "http://web.archive.org/web/20260213083007/https://collibike.com.br/bicicletas/5590/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-10"
     }
   ]
 }

@@ -6,9 +6,9 @@
   "categoria": "mtb",
   "url_fabricante": "https://www.sensebike.com.br/produtos/invictus-g3-r1/",
   "preco_sugerido_brl": 69990,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Carbono Mitsubishi",
+    "material": "Carbono Mitsubishi MR60/HR40 The X Carbon SSL Tapered",
     "tamanhos": [
       "S",
       "M",
@@ -16,13 +16,13 @@
       "XL"
     ],
     "aro": "29",
-    "suspensao": "hardtail",
+    "suspensao": "full",
     "curso_mm": 120
   },
   "componentes": {
-    "grupo": "Shimano Di2 12V",
+    "grupo": "Shimano XTR Di2 12v",
     "velocidades": 12,
-    "tipo_freio": "Shimano M9220",
+    "tipo_freio": "Shimano XTR BL-M9220 2 pistões, rotores RT-CL900 160/180 mm",
     "peso_kg": null
   },
   "ebike": null,
@@ -30,7 +30,7 @@
     {
       "url": "https://www.sensebike.com.br/produtos/invictus-g3-r1/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

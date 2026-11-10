@@ -1,12 +1,12 @@
 {
   "marca": "Caloi",
   "modelo": "E-Vibe Explorer SUV",
-  "ano": null,
+  "ano": 2025,
   "slug": "e-vibe-explorer-suv",
   "categoria": "ebike",
   "url_fabricante": "https://caloi.com/produto/e-vibe-explorer-suv/",
   "preco_sugerido_brl": 17990,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio 6061",
     "tamanhos": [
@@ -22,7 +22,7 @@
   "componentes": {
     "grupo": "Shimano Cues 10V (RD-U6000, cassete LG300 11-48D)",
     "velocidades": 10,
-    "tipo_freio": "Disco Shimano BR-MT410",
+    "tipo_freio": "Disco Shimano BR-MT410 (post mount)",
     "peso_kg": null
   },
   "ebike": {
@@ -41,7 +41,7 @@
     {
       "url": "https://caloi.com/produto/e-vibe-explorer-suv/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

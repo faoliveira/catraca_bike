@@ -6,7 +6,7 @@
   "categoria": "urbana",
   "url_fabricante": "https://rivacycles.com/products/bicicleta-riva-steampunk-cl",
   "preco_sugerido_brl": 5690,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Aço Cromoly SAE 4130",
     "tamanhos": [
@@ -18,9 +18,9 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "Sturmey Archer IGH 3V",
+    "grupo": "Sturmey Archer RS-RK3 IGH 3 velocidades, correia Gates Carbon CDX",
     "velocidades": 3,
-    "tipo_freio": "Disco hidráulico Shimano M315",
+    "tipo_freio": "Disco hidráulico Shimano M315, rotores 160 mm",
     "peso_kg": 12.3
   },
   "ebike": null,
@@ -28,7 +28,7 @@
     {
       "url": "https://rivacycles.com/products/bicicleta-riva-steampunk-cl",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

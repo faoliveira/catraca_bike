@@ -6,9 +6,9 @@
   "categoria": "mtb",
   "url_fabricante": "https://www.trekbikes.com/br/pt_BR/bicicletas/mountain-bikes/mountain-bikes-para-cross-country/procaliber/procaliber-9-6-3%C2%AA-gera%C3%A7%C3%A3o/p/57379/",
   "preco_sugerido_brl": 22999,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Carbono",
+    "material": "Carbono OCLV Mountain Carbon",
     "tamanhos": [
       "P",
       "M",
@@ -20,17 +20,22 @@
     "curso_mm": 120
   },
   "componentes": {
-    "grupo": "SRAM Eagle 70 12V",
+    "grupo": "SRAM Eagle 70 T-Type 1x12",
     "velocidades": 12,
-    "tipo_freio": "Disco hidráulico de 4 pistões SRAM DB 6",
-    "peso_kg": null
+    "tipo_freio": "Disco hidráulico de 4 pistões SRAM DB 6, rotores 180/160 mm",
+    "peso_kg": 12.38
   },
   "ebike": null,
   "fontes": [
     {
       "url": "https://www.trekbikes.com/br/pt_BR/bicicletas/mountain-bikes/mountain-bikes-para-cross-country/procaliber/procaliber-9-6-3%C2%AA-gera%C3%A7%C3%A3o/p/57379/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
+    },
+    {
+      "url": "https://www.trekbikes.com/br/pt_BR/bicicletas/mountain-bikes/mountain-bikes-para-cross-country/procaliber/f/F312/procaliber-9-6-3%25c2%25aa-gera%25c3%25a7%25c3%25a3o/57379/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

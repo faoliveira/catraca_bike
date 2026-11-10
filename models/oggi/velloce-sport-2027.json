@@ -6,7 +6,7 @@
   "categoria": "gravel",
   "url_fabricante": "https://oggibikes.com.br/bike/velloce-sport-2027/",
   "preco_sugerido_brl": 2990,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio",
     "tamanhos": [
@@ -21,7 +21,7 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "LTWOO R2 7V",
+    "grupo": "LTWOO R2 1x7",
     "velocidades": 7,
     "tipo_freio": "Disco mecânico, rotor de 160 mm",
     "peso_kg": 11.7
@@ -31,12 +31,12 @@
     {
       "url": "https://oggibikes.com.br/bike/velloce-sport-2027/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     },
     {
       "url": "https://oggibikes.com.br/modelos-speed/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

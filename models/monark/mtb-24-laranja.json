@@ -6,7 +6,7 @@
   "categoria": "mtb",
   "url_fabricante": "https://www.monark.com.br/mtb-24-laranja",
   "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio (Quadro Lifty 24, cabeamento embutido)",
     "tamanhos": null,
@@ -15,7 +15,7 @@
     "curso_mm": 80
   },
   "componentes": {
-    "grupo": "Shimano TZ31 3x7V (catraca 7V 14-28D)",
+    "grupo": "Shimano TZ31 3x7V (câmbio FIRST tipo SH, catraca 7V 14-28D)",
     "velocidades": 21,
     "tipo_freio": "Disco mecânico (a cabo) First, rotor 160 mm",
     "peso_kg": null
@@ -25,7 +25,7 @@
     {
       "url": "https://www.monark.com.br/mtb-24-laranja",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ]
 }

@@ -6,7 +6,7 @@
   "categoria": "mtb",
   "url_fabricante": "https://caloi.com/produto/elite-carbon-fs-racing-my26/",
   "preco_sugerido_brl": 39990,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Carbono",
     "tamanhos": [
@@ -17,12 +17,12 @@
     ],
     "aro": "29",
     "suspensao": "full",
-    "curso_mm": null
+    "curso_mm": 120
   },
   "componentes": {
-    "grupo": "SRAM GX AXS T-Type 12V eletrônico (cassete 10-52T), garfo Fox Performance 34 120 mm",
+    "grupo": "SRAM GX AXS T-Type 1x12, cassete 10-52T",
     "velocidades": 12,
-    "tipo_freio": "Disco SRAM Level Silver Stealth, rotores 160/180 mm",
+    "tipo_freio": "Disco hidráulico SRAM Level Silver Stealth, rotores 160/180 mm",
     "peso_kg": 11.82
   },
   "ebike": null,
@@ -30,7 +30,7 @@
     {
       "url": "https://caloi.com/produto/elite-carbon-fs-racing-my26/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

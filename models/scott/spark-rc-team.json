@@ -20,7 +20,7 @@
     "curso_mm": 120
   },
   "componentes": {
-    "grupo": "SRAM S1000 Eagle AXS Transmission 12 Speed 12V, garfo RockShox SID 3P Air",
+    "grupo": "SRAM S1000 Eagle AXS Transmission 12 Speed 12V",
     "velocidades": 12,
     "tipo_freio": "Disco SRAM DB6 4-Piston",
     "peso_kg": null

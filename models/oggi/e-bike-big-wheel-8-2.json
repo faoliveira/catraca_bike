@@ -1,12 +1,12 @@
 {
   "marca": "Oggi",
   "modelo": "E-Bike Big Wheel 8.2",
-  "ano": null,
+  "ano": 2025,
   "slug": "e-bike-big-wheel-8-2",
   "categoria": "ebike",
   "url_fabricante": "https://oggibikes.com.br/bike/e-bike-big-wheel-8-2/",
   "preco_sugerido_brl": 16999,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio",
     "tamanhos": [
@@ -21,7 +21,7 @@
   "componentes": {
     "grupo": "Shimano Cues 10V",
     "velocidades": 10,
-    "tipo_freio": "Hidráulico Shimano M4100 rotores 180 mm",
+    "tipo_freio": "Disco hidráulico Shimano Deore M4100, rotores 180 mm",
     "peso_kg": 20.7
   },
   "ebike": {
@@ -40,12 +40,12 @@
     {
       "url": "https://oggibikes.com.br/bike/e-bike-big-wheel-8-2/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     },
     {
       "url": "https://oggibikes.com.br/modelos-eletricas/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ]
 }

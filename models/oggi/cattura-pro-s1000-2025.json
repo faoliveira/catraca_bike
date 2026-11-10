@@ -6,9 +6,9 @@
   "categoria": "mtb",
   "url_fabricante": "https://oggibikes.com.br/bike/cattura-pro-s1000-2025/",
   "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Carbono",
+    "material": "Carbono Super Light",
     "tamanhos": [
       "S",
       "M",
@@ -20,9 +20,9 @@
     "curso_mm": 120
   },
   "componentes": {
-    "grupo": "SRAM AXS 12V",
+    "grupo": "SRAM S1000 T-Type AXS 1x12",
     "velocidades": 12,
-    "tipo_freio": "SRAM rotores 180/160 mm",
+    "tipo_freio": "SRAM Level TL, rotores HS2 180 mm (diant.) e 160 mm (tras.)",
     "peso_kg": null
   },
   "ebike": null,
@@ -30,12 +30,12 @@
     {
       "url": "https://oggibikes.com.br/bike/cattura-pro-s1000-2025/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     },
     {
       "url": "https://oggibikes.com.br/modelos-mtb/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

@@ -6,7 +6,7 @@
   "categoria": "ebike",
   "url_fabricante": "https://tswbike.com/p/1223/e-quest-deore",
   "preco_sugerido_brl": 36900,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Carbono Toray",
     "tamanhos": [
@@ -20,7 +20,7 @@
     "curso_mm": 160
   },
   "componentes": {
-    "grupo": "Shimano Deore",
+    "grupo": "Shimano Deore 1x12",
     "velocidades": 12,
     "tipo_freio": "Hidráulico Shimano MT401 rotores 203 mm",
     "peso_kg": 25.06
@@ -41,7 +41,7 @@
     {
       "url": "https://tswbike.com/p/1223/e-quest-deore",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

@@ -6,7 +6,7 @@
   "categoria": "urbana",
   "url_fabricante": "https://rivacycles.com/products/bicicleta-riva-urban-piper",
   "preco_sugerido_brl": 4290,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Aço Cromoly SAE 4130",
     "tamanhos": [
@@ -19,7 +19,7 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "Sturmey Archer RX-RF5",
+    "grupo": "Sturmey Archer RX-RF5 IGH",
     "velocidades": 5,
     "tipo_freio": "Ferradura (rim brake) Promax RC-482",
     "peso_kg": null
@@ -29,7 +29,7 @@
     {
       "url": "https://rivacycles.com/products/bicicleta-riva-urban-piper",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

@@ -6,7 +6,7 @@
   "categoria": "gravel",
   "url_fabricante": "https://www.merida-bikes.com/en/bike/6589/silex-4000",
   "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Carbono",
     "tamanhos": [
@@ -22,9 +22,9 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "Shimano 2x",
+    "grupo": "Shimano GRX 2x10",
     "velocidades": 20,
-    "tipo_freio": "Hidráulico Shimano GRX400 / Shimano GRX 400, rotores 180 mm",
+    "tipo_freio": "Hidráulico Shimano GRX400 2 pistões, rotores Shimano RT54 180 mm",
     "peso_kg": null
   },
   "ebike": null,
@@ -32,7 +32,7 @@
     {
       "url": "https://www.merida-bikes.com/en/bike/6589/silex-4000",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

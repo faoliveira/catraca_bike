@@ -8,9 +8,9 @@
   "preco_sugerido_brl": 6999.9,
   "atualizado_em": "2026-11-08",
   "quadro": {
-    "material": "Alumínio 6061, cabeamento interno, Boost 12x148 mm",
+    "material": "Alumínio 6061, cabeamento interno, eixo Boost 12x148 mm",
     "tamanhos": [
-      "15,5",
+      "15",
       "17",
       "19",
       "21"
@@ -20,9 +20,9 @@
     "curso_mm": 100
   },
   "componentes": {
-    "grupo": "Shimano Deore M6100 1x12 (cassete 10-51T), garfo Suntour XCR32 RLR Air",
+    "grupo": "Shimano Deore M6100 1x12 (cassete 10-51T)",
     "velocidades": 12,
-    "tipo_freio": "Disco hidráulico Shimano MT-200",
+    "tipo_freio": "Disco hidráulico Shimano MT200",
     "peso_kg": 13.5
   },
   "ebike": null,
@@ -31,6 +31,11 @@
       "url": "https://collibike.com.br/bicicletas/colli-madrid-shimano-deore/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-08"
+    },
+    {
+      "url": "https://web.archive.org/web/2026/https://collibike.com.br/bicicletas/colli-madrid-shimano-deore/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-10"
     }
   ]
 }

@@ -6,16 +6,18 @@
   "categoria": "infantil",
   "url_fabricante": "https://caloi.com/produto/ceci-16-my26/",
   "preco_sugerido_brl": 579,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Aço",
-    "tamanhos": null,
+    "tamanhos": [
+      "Único"
+    ],
     "aro": "16",
     "suspensao": "rigida",
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "Roda livre 1 velocidade",
+    "grupo": "Roda livre 1 velocidade - 20D",
     "velocidades": 1,
     "tipo_freio": "Cantilever/tambor",
     "peso_kg": null
@@ -25,7 +27,7 @@
     {
       "url": "https://caloi.com/produto/ceci-16-my26/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

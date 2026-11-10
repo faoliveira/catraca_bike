@@ -6,7 +6,7 @@
   "categoria": "mtb",
   "url_fabricante": "https://audaxbike.com/bike/216/auge-700-xt-2025",
   "preco_sugerido_brl": 16958,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Carbono UD Toray T800",
     "tamanhos": [
@@ -20,9 +20,9 @@
     "curso_mm": 100
   },
   "componentes": {
-    "grupo": "Shimano 24V",
-    "velocidades": 24,
-    "tipo_freio": "Shimano BL-M7100 rotores 160 mm",
+    "grupo": "Shimano XT 1x12",
+    "velocidades": 12,
+    "tipo_freio": "Disco hidráulico Shimano SLX BL-M7100/BR-M7100, rotores SM-RT64 160 mm",
     "peso_kg": 11.4
   },
   "ebike": null,
@@ -30,7 +30,7 @@
     {
       "url": "https://audaxbike.com/bike/216/auge-700-xt-2025",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

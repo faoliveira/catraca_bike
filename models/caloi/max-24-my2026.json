@@ -6,10 +6,12 @@
   "categoria": "urbana",
   "url_fabricante": "https://caloi.com/produto/max-24-my2026/",
   "preco_sugerido_brl": 1119,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Aço",
-    "tamanhos": null,
+    "tamanhos": [
+      "M"
+    ],
     "aro": "24",
     "suspensao": "rigida",
     "curso_mm": null
@@ -25,7 +27,7 @@
     {
       "url": "https://caloi.com/produto/max-24-my2026/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

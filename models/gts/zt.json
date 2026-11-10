@@ -6,10 +6,12 @@
   "categoria": "mtb",
   "url_fabricante": "https://www.alfameqoficial.com.br/bicicletas/bicicleta-aro-29-gts-zt-aco-21-marchas-freio-a-disco-e-suspensao",
   "preco_sugerido_brl": 999.9,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Aço carbono",
-    "tamanhos": null,
+    "tamanhos": [
+      "17"
+    ],
     "aro": "29",
     "suspensao": "hardtail",
     "curso_mm": null
@@ -25,7 +27,7 @@
     {
       "url": "https://www.alfameqoficial.com.br/bicicletas/bicicleta-aro-29-gts-zt-aco-21-marchas-freio-a-disco-e-suspensao",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

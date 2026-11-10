@@ -1,17 +1,17 @@
 {
   "ano": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "categoria": "mtb",
   "componentes": {
-    "grupo": "Shimano Tourney 1x7V",
+    "grupo": "Shimano Tourney 1x7",
     "peso_kg": null,
-    "tipo_freio": "Disco mecânico",
+    "tipo_freio": "Disco mecânico ATR, discos 160 mm",
     "velocidades": 7
   },
   "ebike": null,
   "fontes": [
     {
-      "acessado_em": "2026-11-08",
+      "acessado_em": "2026-11-10",
       "tipo": "fabricante",
       "url": "https://athorbikes.com.br/bicicleta/b-ramp-2/"
     }
@@ -21,10 +21,12 @@
   "preco_sugerido_brl": null,
   "quadro": {
     "aro": "26",
-    "curso_mm": null,
+    "curso_mm": 100,
     "material": "Alumínio 6061",
-    "suspensao": null,
-    "tamanhos": null
+    "suspensao": "hardtail",
+    "tamanhos": [
+      "Único"
+    ]
   },
   "slug": "b-ramp",
   "url_fabricante": "https://athorbikes.com.br/bicicleta/b-ramp-2/",

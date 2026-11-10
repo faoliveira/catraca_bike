@@ -5,8 +5,8 @@
   "slug": "xlab-gt8-mecanica",
   "categoria": "gravel",
   "url_fabricante": "https://xlabbikes.com.br/gt8-mec/",
-  "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-08",
+  "preco_sugerido_brl": 29900,
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Carbono Toray T800",
     "tamanhos": [
@@ -22,9 +22,9 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "Shimano GRX",
+    "grupo": "Shimano GRX mecânico 2x12",
     "velocidades": 24,
-    "tipo_freio": "Disco hidráulico",
+    "tipo_freio": "Disco hidráulico Shimano GRX BR-RX410, discos SM-RT70 160/160 mm",
     "peso_kg": 8.78
   },
   "ebike": null,
@@ -32,7 +32,7 @@
     {
       "url": "https://xlabbikes.com.br/gt8-mec/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

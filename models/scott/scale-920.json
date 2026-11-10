@@ -1,7 +1,7 @@
 {
   "marca": "Scott",
   "modelo": "Scale 920",
-  "ano": null,
+  "ano": 2026,
   "slug": "scale-920",
   "categoria": "mtb",
   "url_fabricante": "https://www.scott-sports.com/br/pt_BR/product/scott-scale-920-bike",
@@ -20,10 +20,10 @@
     "curso_mm": 110
   },
   "componentes": {
-    "grupo": "Shimano Deore RD-M6100 SGS 12V, garfo RockShox Judy Silver TK Solo Air",
+    "grupo": "Shimano Deore RD-M6100 SGS 1x12",
     "velocidades": 12,
-    "tipo_freio": "Disco Shimano MT200",
-    "peso_kg": null
+    "tipo_freio": "Disco hidráulico Shimano MT200, rotores 180/160 mm",
+    "peso_kg": 12
   },
   "ebike": null,
   "fontes": [
@@ -31,6 +31,11 @@
       "url": "https://www.scott-sports.com/br/pt_BR/product/scott-scale-920-bike",
       "tipo": "fabricante",
       "acessado_em": "2026-11-08"
+    },
+    {
+      "url": "https://www.bike-magazin.de/marken/scott/modell/scale-920-696f79dc9ab328263badc32d/",
+      "tipo": "review",
+      "acessado_em": "2026-11-10"
     }
   ]
 }

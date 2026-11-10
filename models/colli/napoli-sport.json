@@ -9,7 +9,9 @@
   "atualizado_em": "2026-11-08",
   "quadro": {
     "material": "Alumínio 15,5",
-    "tamanhos": null,
+    "tamanhos": [
+      "15.5"
+    ],
     "aro": "24",
     "suspensao": "hardtail",
     "curso_mm": null
@@ -26,6 +28,11 @@
       "url": "https://collibike.com.br/bicicletas/napoli-sport/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-08"
+    },
+    {
+      "url": "https://web.archive.org/web/20260213072235/https://collibike.com.br/bicicletas/napoli-sport/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-10"
     }
   ]
 }

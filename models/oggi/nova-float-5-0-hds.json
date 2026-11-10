@@ -1,12 +1,12 @@
 {
   "marca": "Oggi",
   "modelo": "Nova Float 5.0 HDS",
-  "ano": null,
+  "ano": 2025,
   "slug": "nova-float-5-0-hds",
   "categoria": "urbana",
   "url_fabricante": "https://oggibikes.com.br/bike/nova-float-5-0-hds/",
   "preco_sugerido_brl": 2649,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio 6061 T6",
     "tamanhos": [
@@ -18,9 +18,9 @@
     "curso_mm": 100
   },
   "componentes": {
-    "grupo": "Shimano Altus 24V",
+    "grupo": "Shimano Altus 3x8",
     "velocidades": 24,
-    "tipo_freio": "Hidráulico Shimano BR-MT200 rotores 160 mm",
+    "tipo_freio": "Disco hidráulico Shimano Altus BR-MT200, rotor 160 mm",
     "peso_kg": 14.3
   },
   "ebike": null,
@@ -28,12 +28,12 @@
     {
       "url": "https://oggibikes.com.br/bike/nova-float-5-0-hds/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     },
     {
       "url": "https://oggibikes.com.br/modelos-urbana/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

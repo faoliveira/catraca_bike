@@ -6,7 +6,7 @@
   "categoria": "speed",
   "url_fabricante": "https://www.focus-bikes.com/int/paralane-8-8",
   "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Carbono",
     "tamanhos": [
@@ -21,9 +21,9 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "SRAM Rival AXS",
+    "grupo": "SRAM Rival eTap AXS 2x12",
     "velocidades": 24,
-    "tipo_freio": "Hidráulico SRAM Rival eTap AXS, rotores 160 mm",
+    "tipo_freio": "Disco hidráulico SRAM Rival eTap AXS, rotores 160 mm",
     "peso_kg": null
   },
   "ebike": null,
@@ -31,7 +31,7 @@
     {
       "url": "https://www.focus-bikes.com/int/paralane-8-8",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

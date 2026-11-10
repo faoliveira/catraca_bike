@@ -6,9 +6,9 @@
   "categoria": "infantil",
   "url_fabricante": "https://tswbike.com/p/1195/motion-12",
   "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Alumínio 6061",
+    "material": "Alumínio 6061 T4-T6",
     "tamanhos": null,
     "aro": "12",
     "suspensao": "rigida",
@@ -17,15 +17,20 @@
   "componentes": {
     "grupo": null,
     "velocidades": null,
-    "tipo_freio": "TSW Bike Infantil",
-    "peso_kg": null
+    "tipo_freio": "Tambor",
+    "peso_kg": 3.98
   },
   "ebike": null,
   "fontes": [
     {
       "url": "https://tswbike.com/p/1195/motion-12",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
+    },
+    {
+      "url": "https://www.pontofrio.com.br/bicicleta-infantil-de-equilibrio-3-anos-balance-motion-aro-12-sem-pedal-tsw/p/1582346536",
+      "tipo": "loja",
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

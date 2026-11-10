@@ -6,9 +6,9 @@
   "categoria": "mtb",
   "url_fabricante": "https://www.focus-bikes.com/int/jam-8-8",
   "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Carbono",
+    "material": "Carbono (triângulo dianteiro) e alumínio 7005 (traseiro)",
     "tamanhos": [
       "S",
       "M",
@@ -20,9 +20,9 @@
     "curso_mm": 150
   },
   "componentes": {
-    "grupo": "SRAM NX Eagle",
+    "grupo": "SRAM NX Eagle 1x12",
     "velocidades": 12,
-    "tipo_freio": "Hidráulico SRAM DB8, rotores 200 mm",
+    "tipo_freio": "Disco hidráulico SRAM DB8 4 pistões, rotores 200 mm",
     "peso_kg": 15.3
   },
   "ebike": null,
@@ -30,7 +30,7 @@
     {
       "url": "https://www.focus-bikes.com/int/jam-8-8",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

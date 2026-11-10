@@ -8,7 +8,7 @@
   "preco_sugerido_brl": 9799,
   "atualizado_em": "2026-11-08",
   "quadro": {
-    "material": "Alumínio",
+    "material": "Alumínio Alpha Série 100",
     "tamanhos": [
       "44",
       "49",
@@ -23,17 +23,17 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "Shimano Claris R2000 8V",
-    "velocidades": 8,
-    "tipo_freio": "Freio a disco mecânico Tektro C550, pistão duplo, montagem plana",
-    "peso_kg": null
+    "grupo": "Shimano Claris R2000 2x8",
+    "velocidades": 16,
+    "tipo_freio": "Disco mecânico Tektro C550, pistão duplo, flat mount, rotores 160 mm",
+    "peso_kg": 10.35
   },
   "ebike": null,
   "fontes": [
     {
       "url": "https://www.trekbikes.com/br/pt_BR/bicicletas/bicicletas-de-estrada/bicicletas-de-estrada-de-alto-desempenho/domane/domane-al/domane-al-2-4%C2%AA-gera%C3%A7%C3%A3o/p/80164/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

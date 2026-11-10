@@ -6,7 +6,7 @@
   "categoria": "mtb",
   "url_fabricante": "https://www.kswbikes.com.br/bicicletas/mtb/mwza/bicicleta-ksw-mwza-24v-k7-aro-29-freio-a-disco",
   "preco_sugerido_brl": 2099,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio T4 + T6",
     "tamanhos": [
@@ -20,9 +20,9 @@
     "curso_mm": 80
   },
   "componentes": {
-    "grupo": "Sun Run",
+    "grupo": "Sun Run V-Fire 3x8",
     "velocidades": 24,
-    "tipo_freio": "Disco mecânico",
+    "tipo_freio": "Disco mecânico, rotores 160 mm (máximo 180 mm)",
     "peso_kg": 15
   },
   "ebike": null,
@@ -30,7 +30,7 @@
     {
       "url": "https://www.kswbikes.com.br/bicicletas/mtb/mwza/bicicleta-ksw-mwza-24v-k7-aro-29-freio-a-disco",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

@@ -6,9 +6,9 @@
   "categoria": "mtb",
   "url_fabricante": "https://www.trekbikes.com/br/pt_BR/bicicletas/mountain-bikes/mountain-bikes-para-cross-country/marlin/marlin-5-3%C2%AA-gera%C3%A7%C3%A3o/p/57363/",
   "preco_sugerido_brl": 6350,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Alumínio",
+    "material": "Alumínio Alpha Silver",
     "tamanhos": [
       "PP",
       "P",
@@ -22,17 +22,22 @@
     "curso_mm": 100
   },
   "componentes": {
-    "grupo": "Shimano CUES U4000 9V",
+    "grupo": "Shimano CUES U4000 1x9",
     "velocidades": 9,
-    "tipo_freio": "Disco hidráulico Shimano MT200",
-    "peso_kg": null
+    "tipo_freio": "Disco hidráulico Shimano MT200, rotores 180/160 mm",
+    "peso_kg": 15.1
   },
   "ebike": null,
   "fontes": [
     {
       "url": "https://www.trekbikes.com/br/pt_BR/bicicletas/mountain-bikes/mountain-bikes-para-cross-country/marlin/marlin-5-3%C2%AA-gera%C3%A7%C3%A3o/p/57363/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
+    },
+    {
+      "url": "https://www.trekbikes.com/br/pt_BR/bicicletas/mountain-bikes/mountain-bikes-para-cross-country/marlin/f/F321/marlin-5-3%25c2%25aa-gera%25c3%25a7%25c3%25a3o/57363/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

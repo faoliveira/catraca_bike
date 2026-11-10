@@ -6,11 +6,11 @@
   "categoria": "ebike",
   "url_fabricante": "https://groovebikes.com.br/produto/bicicleta-eletrica-groove-e-slap-alloy/",
   "preco_sugerido_brl": 33999.9,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Alumínio",
+    "material": "Alumínio Smart Welding",
     "tamanhos": [
-      "M (17.5)",
+      "M (17)",
       "L (19)"
     ],
     "aro": "29",
@@ -18,10 +18,10 @@
     "curso_mm": 160
   },
   "componentes": {
-    "grupo": "Shimano Deore",
+    "grupo": "Shimano Deore 1x12",
     "velocidades": 12,
-    "tipo_freio": "Disco hidráulico Shimano BR-M6120 4 pistões",
-    "peso_kg": 28
+    "tipo_freio": "Disco hidráulico Shimano Deore BR-M6120 4 pistões, rotores 180/160 mm",
+    "peso_kg": 27.6
   },
   "ebike": {
     "motor_tipo": "Motor central Bafang M430",
@@ -39,7 +39,7 @@
     {
       "url": "https://groovebikes.com.br/produto/bicicleta-eletrica-groove-e-slap-alloy/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

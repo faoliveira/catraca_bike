@@ -6,20 +6,20 @@
   "categoria": "mtb",
   "url_fabricante": "https://www.sensebike.com.br/produtos/grom-24-fun-g2/",
   "preco_sugerido_brl": 3990,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio 6061",
     "tamanhos": [
       "Único"
     ],
     "aro": "24",
-    "suspensao": "rigida",
-    "curso_mm": null
+    "suspensao": "hardtail",
+    "curso_mm": 80
   },
   "componentes": {
-    "grupo": "Shimano Cues 18V",
-    "velocidades": 18,
-    "tipo_freio": "Mecânico",
+    "grupo": "Shimano Cues 1x9",
+    "velocidades": 9,
+    "tipo_freio": "Disco mecânico Junior, rotores Shimano SM-RT26 160 mm",
     "peso_kg": null
   },
   "ebike": null,
@@ -27,7 +27,7 @@
     {
       "url": "https://www.sensebike.com.br/produtos/grom-24-fun-g2/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

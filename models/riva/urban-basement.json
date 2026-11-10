@@ -6,7 +6,7 @@
   "categoria": "urbana",
   "url_fabricante": "https://rivacycles.com/products/bicicleta-riva-urban-basement",
   "preco_sugerido_brl": 4490,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Aço Cromoly SAE 4130",
     "tamanhos": [
@@ -29,7 +29,7 @@
     {
       "url": "https://rivacycles.com/products/bicicleta-riva-urban-basement",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

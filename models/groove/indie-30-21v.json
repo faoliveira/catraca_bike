@@ -6,19 +6,19 @@
   "categoria": "mtb",
   "url_fabricante": "https://groovebikes.com.br/produto/bicicleta-mountain-bike-aro-29-groove-indie-30-21-marchas/",
   "preco_sugerido_brl": 2199.9,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio",
     "tamanhos": [
-      "15",
-      "17"
+      "S (15)",
+      "M (17)"
     ],
     "aro": "29",
     "suspensao": "hardtail",
     "curso_mm": 80
   },
   "componentes": {
-    "grupo": "Shimano",
+    "grupo": "Shimano 3x7 (RD-TY300, FD-TZ500)",
     "velocidades": 21,
     "tipo_freio": "Disco hidráulico M220",
     "peso_kg": 15
@@ -28,7 +28,7 @@
     {
       "url": "https://groovebikes.com.br/produto/bicicleta-mountain-bike-aro-29-groove-indie-30-21-marchas/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

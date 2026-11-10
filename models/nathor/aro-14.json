@@ -1,22 +1,22 @@
 {
   "ano": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "categoria": "infantil",
   "componentes": {
     "grupo": null,
-    "peso_kg": null,
-    "tipo_freio": null,
+    "peso_kg": 6.84,
+    "tipo_freio": "Freio a disco",
     "velocidades": null
   },
   "ebike": null,
   "fontes": [
     {
-      "acessado_em": "2026-11-08",
+      "acessado_em": "2026-11-10",
       "tipo": "fabricante",
       "url": "https://nathor.com/produto/bicicleta-aro-14-zigbim/"
     },
     {
-      "acessado_em": "2026-11-08",
+      "acessado_em": "2026-11-10",
       "tipo": "fabricante",
       "url": "https://nathor.com/produto/bicicleta-aro-14-cecizinha/"
     }
@@ -27,7 +27,7 @@
   "quadro": {
     "aro": "14",
     "curso_mm": null,
-    "material": null,
+    "material": "Alumínio",
     "suspensao": "rigida",
     "tamanhos": null
   },

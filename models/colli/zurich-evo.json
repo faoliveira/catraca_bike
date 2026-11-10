@@ -8,7 +8,7 @@
   "preco_sugerido_brl": 17999.9,
   "atualizado_em": "2026-11-08",
   "quadro": {
-    "material": "Carbono T700/T800/T1000",
+    "material": "MTB HT CARBONO T700/T800/T1000 STEALTH",
     "tamanhos": [
       "S",
       "M",
@@ -20,9 +20,9 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "SRAM Eagle 1x12 (cassete XS 1270 10-52D), garfo RockShox",
+    "grupo": "SRAM Eagle 90 T-Type 1x12 (cassete XS 1270 10-52D)",
     "velocidades": 12,
-    "tipo_freio": "Disco SRAM DB4, rotores 180/160 mm",
+    "tipo_freio": "Disco SRAM DB4, pastilhas orgânicas, rotores SRAM DB Centerlock 180/160 mm",
     "peso_kg": null
   },
   "ebike": null,
@@ -31,6 +31,11 @@
       "url": "https://collibike.com.br/bicicletas/zurich-evo/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-08"
+    },
+    {
+      "url": "http://web.archive.org/web/20260213083055/https://collibike.com.br/bicicletas/zurich-evo/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-10"
     }
   ]
 }

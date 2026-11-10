@@ -1,17 +1,18 @@
 {
   "marca": "Oggi",
   "modelo": "E-Bike Big Wheel 8.0 22",
-  "ano": null,
+  "ano": 2022,
   "slug": "e-bike-big-wheel-8-0-22",
   "categoria": "ebike",
   "url_fabricante": "https://oggibikes.com.br/bike/e-bike-big-wheel-8-0-22/",
-  "preco_sugerido_brl": 6490,
-  "atualizado_em": "2026-11-08",
+  "preco_sugerido_brl": 7990,
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Alumínio 6061",
+    "material": "Alumínio 6061 T6",
     "tamanhos": [
-      "15",
-      "5\" - 17\" - 19"
+      "15.5",
+      "17",
+      "19"
     ],
     "aro": "29",
     "suspensao": "hardtail",
@@ -20,15 +21,15 @@
   "componentes": {
     "grupo": "Shimano Tourney 7V",
     "velocidades": 7,
-    "tipo_freio": "HD-M220",
+    "tipo_freio": "Disco hidráulico (Logan HD-M220 / Absolute DXU-1901 / Nutt Y-2)",
     "peso_kg": 20.5
   },
   "ebike": {
-    "motor_tipo": "250W",
+    "motor_tipo": "Cubo traseiro",
     "potencia_w": 250,
     "torque_nm": 40,
     "bateria_wh": 418,
-    "autonomia_declarada_km": null,
+    "autonomia_declarada_km": 60,
     "acelerador": null,
     "assistencia_so_com_pedal": null,
     "vel_max_kmh": null,
@@ -39,12 +40,12 @@
     {
       "url": "https://oggibikes.com.br/bike/e-bike-big-wheel-8-0-22/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     },
     {
       "url": "https://oggibikes.com.br/modelos-eletricas/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

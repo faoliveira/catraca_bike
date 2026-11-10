@@ -6,10 +6,14 @@
   "categoria": "mtb",
   "url_fabricante": "https://www.alfameqoficial.com.br/bicicletas/bicicleta-aro-29-gts-supreme-quadro-aluminio-24-marchas-e-freio-a-disco",
   "preco_sugerido_brl": 999,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio",
-    "tamanhos": null,
+    "tamanhos": [
+      "17",
+      "19",
+      "21"
+    ],
     "aro": "29",
     "suspensao": "hardtail",
     "curso_mm": null
@@ -25,7 +29,7 @@
     {
       "url": "https://www.alfameqoficial.com.br/bicicletas/bicicleta-aro-29-gts-supreme-quadro-aluminio-24-marchas-e-freio-a-disco",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

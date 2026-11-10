@@ -6,35 +6,31 @@
   "categoria": "gravel",
   "url_fabricante": "https://www.sensebike.com.br/produtos/versa-comp/",
   "preco_sugerido_brl": 6490,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Alumínio 6061",
+    "material": "Alumínio 6061 hidroformado",
     "tamanhos": [
       "S",
       "M",
       "L",
-      "XL",
-      "49",
-      "51",
-      "54",
-      "56"
+      "XL"
     ],
     "aro": "700c",
     "suspensao": "rigida",
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "Shimano Sora 22V",
-    "velocidades": 22,
-    "tipo_freio": "Mecânico Shimano",
-    "peso_kg": null
+    "grupo": "Shimano Sora 2x9",
+    "velocidades": 18,
+    "tipo_freio": "Disco mecânico Shimano BR-R317, rotores RT30 160 mm",
+    "peso_kg": 11.4
   },
   "ebike": null,
   "fontes": [
     {
       "url": "https://www.sensebike.com.br/produtos/versa-comp/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

@@ -8,7 +8,7 @@
   "preco_sugerido_brl": 29999.9,
   "atualizado_em": "2026-11-08",
   "quadro": {
-    "material": "Carbono T700/T800/T1000",
+    "material": "MTB FS CARBONO T700/T800/T1000 STEALTH",
     "tamanhos": [
       "S",
       "M",
@@ -20,9 +20,9 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "Shimano Deore Di2 1x12 eletrônico (cassete M6100 10-51T), garfo RockShox SID Select, shock Deluxe Select R",
+    "grupo": "Shimano Deore Di2 1x12 eletrônico (cassete M6100 10-51T)",
     "velocidades": 12,
-    "tipo_freio": "Disco Shimano BL-M6100, rotores 180/160 mm",
+    "tipo_freio": "Disco Shimano BL-M6100 (Deore), rotores Shimano RT-CL700 180/160 mm",
     "peso_kg": null
   },
   "ebike": null,
@@ -31,6 +31,11 @@
       "url": "https://collibike.com.br/bicicletas/zurich-full-di2/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-08"
+    },
+    {
+      "url": "http://web.archive.org/web/20260316003818/https://collibike.com.br/bicicletas/zurich-full-di2/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-10"
     }
   ]
 }

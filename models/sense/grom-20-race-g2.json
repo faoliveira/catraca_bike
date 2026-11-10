@@ -6,9 +6,9 @@
   "categoria": "infantil",
   "url_fabricante": "https://www.sensebike.com.br/produtos/grom-20-race-g2/",
   "preco_sugerido_brl": 4590,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Alumínio 6061",
+    "material": "Alumínio hidroformado 6061 T4-T6",
     "tamanhos": [
       "Único"
     ],
@@ -17,17 +17,17 @@
     "curso_mm": 60
   },
   "componentes": {
-    "grupo": "Shimano Cues 20V",
-    "velocidades": 20,
-    "tipo_freio": "Tektro",
-    "peso_kg": null
+    "grupo": "Shimano Cues 1x10",
+    "velocidades": 10,
+    "tipo_freio": "Disco Tektro HD-J285 Junior, rotor traseiro Shimano SM-RT26 160 mm",
+    "peso_kg": 11.1
   },
   "ebike": null,
   "fontes": [
     {
       "url": "https://www.sensebike.com.br/produtos/grom-20-race-g2/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

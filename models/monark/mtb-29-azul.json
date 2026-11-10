@@ -6,7 +6,7 @@
   "categoria": "mtb",
   "url_fabricante": "https://www.monark.com.br/mtb-29-azul",
   "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio (Quadro SMITT 29, tam. 17,5, cabeamento embutido)",
     "tamanhos": [
@@ -27,12 +27,12 @@
     {
       "url": "https://www.monark.com.br/mtb-29-azul",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     },
     {
       "url": "https://www.monark.com.br/_files/ugd/98c81d_3f17bc537932484698f260b913d04668.pdf",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

@@ -6,9 +6,9 @@
   "categoria": "mtb",
   "url_fabricante": "https://www.kswbikes.com.br/bicicletas/mtb/xlt-200/bicicleta-ksw-xlt-200-24v-shimano-k7-suspensao-ctrava",
   "preco_sugerido_brl": 2000,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Alumínio 6061 T4 + T6",
+    "material": "Alumínio liga 6061 T4 e T6",
     "tamanhos": [
       "15",
       "17",
@@ -20,9 +20,9 @@
     "curso_mm": 80
   },
   "componentes": {
-    "grupo": "Shimano Tourney",
+    "grupo": "Shimano Tourney 3x8",
     "velocidades": 24,
-    "tipo_freio": "Disco hidráulico",
+    "tipo_freio": "Disco hidráulico, rotor 160 mm",
     "peso_kg": 15.5
   },
   "ebike": null,
@@ -30,7 +30,7 @@
     {
       "url": "https://www.kswbikes.com.br/bicicletas/mtb/xlt-200/bicicleta-ksw-xlt-200-24v-shimano-k7-suspensao-ctrava",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

@@ -6,7 +6,7 @@
   "categoria": "mtb",
   "url_fabricante": "https://www.alfameqoficial.com.br/bicicletas/bicicletas-alfameq/bicicleta-de-grau-aro-26-alfameq-furia-single-freio-a-disco",
   "preco_sugerido_brl": 2699.9,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio",
     "tamanhos": [
@@ -19,7 +19,7 @@
   "componentes": {
     "grupo": "Shimano",
     "velocidades": 1,
-    "tipo_freio": "Disco hidráulico",
+    "tipo_freio": "Disco hidráulico Shimano MT200",
     "peso_kg": null
   },
   "ebike": null,
@@ -27,7 +27,7 @@
     {
       "url": "https://www.alfameqoficial.com.br/bicicletas/bicicletas-alfameq/bicicleta-de-grau-aro-26-alfameq-furia-single-freio-a-disco",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

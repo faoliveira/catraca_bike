@@ -6,7 +6,7 @@
   "categoria": "mtb",
   "url_fabricante": "https://www.sensebike.com.br/produtos/hardcore-comp-r-1fx8z/",
   "preco_sugerido_brl": 11990,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio",
     "tamanhos": [
@@ -20,9 +20,9 @@
     "curso_mm": 150
   },
   "componentes": {
-    "grupo": "Shimano Deore 12V",
+    "grupo": "Shimano Deore 1x12",
     "velocidades": 12,
-    "tipo_freio": "Shimano M4100",
+    "tipo_freio": "Disco hidráulico Shimano BL-M4100/BR-MT420 4 pistões, rotores 203 mm dianteiro e 160/180 mm traseiro",
     "peso_kg": null
   },
   "ebike": null,
@@ -30,7 +30,7 @@
     {
       "url": "https://www.sensebike.com.br/produtos/hardcore-comp-r-1fx8z/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

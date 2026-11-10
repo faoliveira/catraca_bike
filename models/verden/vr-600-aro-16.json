@@ -5,13 +5,13 @@
   "componentes": {
     "grupo": null,
     "peso_kg": null,
-    "tipo_freio": null,
+    "tipo_freio": "V-brake",
     "velocidades": null
   },
   "ebike": null,
   "fontes": [
     {
-      "acessado_em": "2026-11-08",
+      "acessado_em": "2026-11-10",
       "tipo": "fabricante",
       "url": "https://verdenbikes.com/vr-600-aro-16-vermelho-e-preto/"
     },

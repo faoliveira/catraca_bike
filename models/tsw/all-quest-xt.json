@@ -6,9 +6,9 @@
   "categoria": "mtb",
   "url_fabricante": "https://tswbike.com/p/790/all-quest-xt",
   "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Carbono",
+    "material": "Carbono Toray",
     "tamanhos": [
       "S",
       "M",
@@ -19,7 +19,7 @@
     "curso_mm": 160
   },
   "componentes": {
-    "grupo": "Shimano",
+    "grupo": "Shimano 1x12 (câmbio Deore XT, alavanca SLX, cassete Deore)",
     "velocidades": 12,
     "tipo_freio": "Hidráulico Shimano Deore XT M8100 rotores 203/180 mm",
     "peso_kg": 16.7
@@ -29,7 +29,7 @@
     {
       "url": "https://tswbike.com/p/790/all-quest-xt",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ]
 }

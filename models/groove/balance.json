@@ -5,10 +5,10 @@
   "slug": "balance",
   "categoria": "infantil",
   "url_fabricante": "https://groovebikes.com.br/produto/bicicleta-infantil-groove-balance/",
-  "preco_sugerido_brl": 599.9,
-  "atualizado_em": "2026-11-08",
+  "preco_sugerido_brl": 699.9,
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Aço",
+    "material": "Aço Carbono",
     "tamanhos": [
       "Único"
     ],
@@ -27,7 +27,7 @@
     {
       "url": "https://groovebikes.com.br/produto/bicicleta-infantil-groove-balance/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

@@ -5,8 +5,8 @@
   "slug": "krw-bmx-cross-rainbow",
   "categoria": "infantil",
   "url_fabricante": "https://www.krwbikes.com.br/produtos/bicicleta-infantil-aro-20-aero-krw-bmx-cross-freio-v-brake-sem-marchas-rainbow-ktwjv/",
-  "preco_sugerido_brl": 559,
-  "atualizado_em": "2026-11-08",
+  "preco_sugerido_brl": 999,
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Aço carbono",
     "tamanhos": null,
@@ -18,14 +18,14 @@
     "grupo": null,
     "velocidades": null,
     "tipo_freio": "V-Brake",
-    "peso_kg": null
+    "peso_kg": 13
   },
   "ebike": null,
   "fontes": [
     {
       "url": "https://www.krwbikes.com.br/produtos/bicicleta-infantil-aro-20-aero-krw-bmx-cross-freio-v-brake-sem-marchas-rainbow-ktwjv/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

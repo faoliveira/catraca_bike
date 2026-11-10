@@ -1,14 +1,14 @@
 {
   "marca": "Specialized",
   "modelo": "Enduro Comp",
-  "ano": null,
+  "ano": 2024,
   "slug": "enduro-comp",
   "categoria": "mtb",
   "url_fabricante": "https://www.specialized.com/br/pt/enduro-comp/p/221256",
   "preco_sugerido_brl": 39990,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Carbono",
+    "material": "Carbono FACT 11m",
     "tamanhos": [
       "S2",
       "S3",
@@ -20,7 +20,7 @@
     "curso_mm": 170
   },
   "componentes": {
-    "grupo": "SRAM GX Eagle 12V, garfo RockShox Zeb Select",
+    "grupo": "SRAM GX Eagle 1x12",
     "velocidades": 12,
     "tipo_freio": "Disco hidráulico SRAM Code RS, rotores 200/200 mm",
     "peso_kg": 16.17
@@ -30,7 +30,7 @@
     {
       "url": "https://www.specialized.com/br/pt/enduro-comp/p/221256",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

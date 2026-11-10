@@ -6,9 +6,9 @@
   "categoria": "mtb",
   "url_fabricante": "https://www.trekbikes.com/br/pt_BR/bicicletas/mountain-bikes/mountain-bikes-para-cross-country/marlin/marlin-7-3%C2%AA-gera%C3%A7%C3%A3o/p/57367/",
   "preco_sugerido_brl": 8990,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Alumínio",
+    "material": "Alumínio Alpha Silver",
     "tamanhos": [
       "P",
       "M",
@@ -20,17 +20,22 @@
     "curso_mm": 100
   },
   "componentes": {
-    "grupo": "SRAM NX Eagle 12V",
+    "grupo": "SRAM SX Eagle 1x12 (câmbio traseiro NX Eagle)",
     "velocidades": 12,
-    "tipo_freio": "Disco hidráulico Shimano MT200",
-    "peso_kg": null
+    "tipo_freio": "Disco hidráulico Shimano MT200, rotores 180/160 mm",
+    "peso_kg": 14.15
   },
   "ebike": null,
   "fontes": [
     {
       "url": "https://www.trekbikes.com/br/pt_BR/bicicletas/mountain-bikes/mountain-bikes-para-cross-country/marlin/marlin-7-3%C2%AA-gera%C3%A7%C3%A3o/p/57367/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
+    },
+    {
+      "url": "https://www.trekbikes.com/br/pt_BR/bicicletas/mountain-bikes/mountain-bikes-para-cross-country/marlin/f/F321/marlin-7-3%25c2%25aa-gera%25c3%25a7%25c3%25a3o/57367/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

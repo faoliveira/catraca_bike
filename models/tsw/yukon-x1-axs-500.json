@@ -6,7 +6,7 @@
   "categoria": "mtb",
   "url_fabricante": "https://tswbike.com/p/1144/yukon-x1-axs-500",
   "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio 6061",
     "tamanhos": [
@@ -20,9 +20,9 @@
     "curso_mm": 120
   },
   "componentes": {
-    "grupo": "SRAM AXS",
+    "grupo": "SRAM X1 Eagle AXS 1x12",
     "velocidades": 12,
-    "tipo_freio": "Hidráulico Shimano MT500 rotores 180 mm",
+    "tipo_freio": "Disco hidráulico Shimano MT500, rotores SM-RT30 180 mm",
     "peso_kg": 13.5
   },
   "ebike": null,
@@ -30,7 +30,7 @@
     {
       "url": "https://tswbike.com/p/1144/yukon-x1-axs-500",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ]
 }

@@ -6,9 +6,9 @@
   "categoria": "mtb",
   "url_fabricante": "https://www.sensebike.com.br/produtos/react-sport-v1/",
   "preco_sugerido_brl": 3190,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Alumínio 6061",
+    "material": "Alumínio 6061 T4/T6 hidroformado",
     "tamanhos": [
       "XS",
       "S",
@@ -18,20 +18,20 @@
     ],
     "aro": "29",
     "suspensao": "hardtail",
-    "curso_mm": null
+    "curso_mm": 100
   },
   "componentes": {
-    "grupo": "Shimano Acera 16V",
+    "grupo": "Shimano Altus/Acera 2x8",
     "velocidades": 16,
-    "tipo_freio": "Hidráulico",
-    "peso_kg": null
+    "tipo_freio": "Disco hidráulico Sentec, rotores Shimano SM-RT10 160 mm",
+    "peso_kg": 10.8
   },
   "ebike": null,
   "fontes": [
     {
       "url": "https://www.sensebike.com.br/produtos/react-sport-v1/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

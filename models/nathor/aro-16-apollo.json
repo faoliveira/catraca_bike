@@ -6,7 +6,7 @@
   "categoria": "infantil",
   "url_fabricante": "https://nathor.com/produto/bicicleta-aro-16-apollo-4/",
   "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Aço carbono",
     "tamanhos": null,
@@ -17,7 +17,7 @@
   "componentes": {
     "grupo": null,
     "velocidades": 1,
-    "tipo_freio": null,
+    "tipo_freio": "Freio traseiro acionado pela maçaneta direita",
     "peso_kg": 9.5
   },
   "ebike": null,
@@ -25,12 +25,12 @@
     {
       "url": "https://nathor.com/produto/bicicleta-aro-16-apollo-4/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     },
     {
       "url": "https://nathor.com/linha/aro-16/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

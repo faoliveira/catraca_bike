@@ -6,7 +6,7 @@
   "categoria": "ebike",
   "url_fabricante": "https://oggibikes.com.br/bike/e-bike-big-wheel-8-1/",
   "preco_sugerido_brl": 12999,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio",
     "tamanhos": [
@@ -21,7 +21,7 @@
   "componentes": {
     "grupo": "Shimano Cues 9V",
     "velocidades": 9,
-    "tipo_freio": "Hidráulico Shimano MT200 rotores 180 mm",
+    "tipo_freio": "Disco hidráulico Shimano MT200, rotores 180 mm",
     "peso_kg": 20.7
   },
   "ebike": {
@@ -40,12 +40,12 @@
     {
       "url": "https://oggibikes.com.br/bike/e-bike-big-wheel-8-1/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     },
     {
       "url": "https://oggibikes.com.br/modelos-eletricas/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ]
 }

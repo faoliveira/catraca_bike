@@ -6,9 +6,9 @@
   "categoria": "mtb",
   "url_fabricante": "https://www.sensebike.com.br/produtos/invictus-g3-black-edition/",
   "preco_sugerido_brl": 79990,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Carbono Mitsubishi",
+    "material": "Carbono Mitsubishi MR60/HR40 The X Carbon SSL Tapered",
     "tamanhos": [
       "S",
       "M",
@@ -20,9 +20,9 @@
     "curso_mm": 120
   },
   "componentes": {
-    "grupo": "SRAM Eagle AXS T-Type 12V",
+    "grupo": "SRAM XX Eagle AXS T-Type 12V",
     "velocidades": 12,
-    "tipo_freio": "SRAM",
+    "tipo_freio": "SRAM Motive V2 Ultimate 4 pistões, discos HS2 160/180 mm",
     "peso_kg": null
   },
   "ebike": null,
@@ -30,7 +30,7 @@
     {
       "url": "https://www.sensebike.com.br/produtos/invictus-g3-black-edition/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

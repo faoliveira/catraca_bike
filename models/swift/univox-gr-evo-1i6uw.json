@@ -6,9 +6,9 @@
   "categoria": "gravel",
   "url_fabricante": "https://www.sensebike.com.br/produtos/univox-gr-evo-1i6uw/",
   "preco_sugerido_brl": 25990,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Carbono",
+    "material": "Carbono Tairyfil TC36S",
     "tamanhos": [
       "49",
       "51",
@@ -21,9 +21,9 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "SRAM Rival AXS 24V",
-    "velocidades": 24,
-    "tipo_freio": "Hidráulico SRAM",
+    "grupo": "SRAM Rival XPLR eTap AXS 1x12",
+    "velocidades": 12,
+    "tipo_freio": "Disco hidráulico SRAM Rival, rotores Paceline 160/140 mm Centerlock",
     "peso_kg": null
   },
   "ebike": null,
@@ -31,7 +31,7 @@
     {
       "url": "https://www.sensebike.com.br/produtos/univox-gr-evo-1i6uw/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

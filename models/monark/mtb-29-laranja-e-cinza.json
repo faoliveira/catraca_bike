@@ -6,7 +6,7 @@
   "categoria": "mtb",
   "url_fabricante": "https://www.monark.com.br/mtb-29-laranja-e-cinza",
   "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio SMITT 29, cabeamento embutido",
     "tamanhos": null,
@@ -17,7 +17,7 @@
   "componentes": {
     "grupo": "Stout/LTWO 2x10",
     "velocidades": 20,
-    "tipo_freio": "Disco mecânico (a cabo) FIRST em alumínio, rotor 160 mm",
+    "tipo_freio": "Disco mecânico (a cabo) FIRST em alumínio, adaptador 160 mm",
     "peso_kg": null
   },
   "ebike": null,
@@ -25,7 +25,7 @@
     {
       "url": "https://www.monark.com.br/mtb-29-laranja-e-cinza",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

@@ -6,7 +6,7 @@
   "categoria": "mtb",
   "url_fabricante": "https://audaxbike.com/bike/236/auge-600-non-series",
   "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio 6069",
     "tamanhos": [
@@ -19,7 +19,7 @@
     "curso_mm": 100
   },
   "componentes": {
-    "grupo": "SRAM SX 12V",
+    "grupo": "SRAM SX/NX Eagle 1x12",
     "velocidades": 12,
     "tipo_freio": "Disco hidráulico Shimano BL-MT201R rotores 160 mm",
     "peso_kg": 13.21
@@ -29,7 +29,7 @@
     {
       "url": "https://audaxbike.com/bike/236/auge-600-non-series",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

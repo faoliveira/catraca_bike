@@ -5,17 +5,19 @@
   "slug": "extreme-x1-500w",
   "categoria": "ebike",
   "url_fabricante": "https://twodogs.com/produto/bicicleta-mtb-eletrica-two-dogs-extreme-x1-500w-48v/",
-  "preco_sugerido_brl": 8540.5,
-  "atualizado_em": "2026-11-08",
+  "preco_sugerido_brl": 8990,
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Alumínio",
-    "tamanhos": null,
+    "material": "Liga de alumínio",
+    "tamanhos": [
+      "18"
+    ],
     "aro": "29",
     "suspensao": "hardtail",
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "Shimano",
+    "grupo": "Shimano 7 velocidades",
     "velocidades": 7,
     "tipo_freio": "Disco mecânico",
     "peso_kg": 26
@@ -24,9 +26,9 @@
     "motor_tipo": "Hub 500W 48V Brushless",
     "potencia_w": 500,
     "torque_nm": null,
-    "bateria_wh": null,
+    "bateria_wh": 480,
     "autonomia_declarada_km": 40,
-    "acelerador": null,
+    "acelerador": true,
     "assistencia_so_com_pedal": null,
     "vel_max_kmh": 32,
     "largura_cm": null,
@@ -36,7 +38,7 @@
     {
       "url": "https://twodogs.com/produto/bicicleta-mtb-eletrica-two-dogs-extreme-x1-500w-48v/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ]
 }

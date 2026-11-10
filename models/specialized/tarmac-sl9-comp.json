@@ -6,9 +6,9 @@
   "categoria": "speed",
   "url_fabricante": "https://www.specialized.com/br/pt/tarmac-sl9-comp--sram-rival-axs/p/4293529",
   "preco_sugerido_brl": 42990,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Carbono",
+    "material": "Carbono FACT 10r",
     "tamanhos": [
       "44",
       "49",
@@ -23,8 +23,8 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "SRAM Rival AXS E1 12V, garfo FACT 12r Carbon",
-    "velocidades": 12,
+    "grupo": "SRAM Rival AXS E1 2x12",
+    "velocidades": 24,
     "tipo_freio": "Disco hidráulico SRAM Rival E1",
     "peso_kg": 8.14
   },
@@ -33,7 +33,7 @@
     {
       "url": "https://www.specialized.com/br/pt/tarmac-sl9-comp--sram-rival-axs/p/4293529",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

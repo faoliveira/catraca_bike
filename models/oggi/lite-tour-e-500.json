@@ -6,7 +6,7 @@
   "categoria": "ebike",
   "url_fabricante": "https://oggibikes.com.br/bike/lite-tour-e-500/",
   "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio 6061 T6",
     "tamanhos": [
@@ -19,9 +19,9 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "Shimano Acera 8V",
+    "grupo": "Shimano Acera 1x8",
     "velocidades": 8,
-    "tipo_freio": "Hidráulico Shimano BR-MT200 rotores 160 mm",
+    "tipo_freio": "Disco hidráulico Shimano BR-MT200, rotores 160 mm",
     "peso_kg": 15.7
   },
   "ebike": {
@@ -40,12 +40,12 @@
     {
       "url": "https://oggibikes.com.br/bike/lite-tour-e-500/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     },
     {
       "url": "https://oggibikes.com.br/modelos-eletricas/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

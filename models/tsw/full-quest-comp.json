@@ -6,7 +6,7 @@
   "categoria": "mtb",
   "url_fabricante": "https://tswbike.com/p/1811/full-quest-comp",
   "preco_sugerido_brl": 29900,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Carbono Toray T700/T800/T1000",
     "tamanhos": [
@@ -20,9 +20,9 @@
     "curso_mm": 120
   },
   "componentes": {
-    "grupo": "SRAM AXS T-Type",
+    "grupo": "SRAM S1000 Eagle AXS T-Type 1x12",
     "velocidades": 12,
-    "tipo_freio": "Hidráulico Shimano SLX M7100 rotores 180/160 mm",
+    "tipo_freio": "Disco hidráulico Shimano SLX M7100, rotores 180/160 mm",
     "peso_kg": 13.097
   },
   "ebike": null,
@@ -30,7 +30,7 @@
     {
       "url": "https://tswbike.com/p/1811/full-quest-comp",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

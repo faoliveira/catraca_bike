@@ -6,7 +6,7 @@
   "categoria": "mtb",
   "url_fabricante": "https://tswbike.com/p/2142/yukon-s1000-t-type",
   "preco_sugerido_brl": 14900,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio 6061",
     "tamanhos": [
@@ -20,9 +20,9 @@
     "curso_mm": 120
   },
   "componentes": {
-    "grupo": "SRAM AXS T-Type",
+    "grupo": "SRAM S1000 Eagle AXS T-Type 1x12",
     "velocidades": 12,
-    "tipo_freio": "Hidráulico Shimano BL-MT501 rotores 180/160 mm",
+    "tipo_freio": "Disco hidráulico Shimano BL-MT501, rotores Deore RT-54 180/160 mm",
     "peso_kg": null
   },
   "ebike": null,
@@ -30,7 +30,7 @@
     {
       "url": "https://tswbike.com/p/2142/yukon-s1000-t-type",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

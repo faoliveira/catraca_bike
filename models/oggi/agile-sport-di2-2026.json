@@ -6,7 +6,7 @@
   "categoria": "mtb",
   "url_fabricante": "https://oggibikes.com.br/bike/agile-sport-di2-2026/",
   "preco_sugerido_brl": 14999,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Carbono",
     "tamanhos": [
@@ -20,9 +20,9 @@
     "curso_mm": 100
   },
   "componentes": {
-    "grupo": "Shimano Deore Di2 12V",
+    "grupo": "Shimano Deore Di2 1x12",
     "velocidades": 12,
-    "tipo_freio": "Shimano MT410 rotores 180/160 mm",
+    "tipo_freio": "Shimano Deore MT410, rotores 180 mm (dianteiro) e 160 mm (traseiro)",
     "peso_kg": null
   },
   "ebike": null,
@@ -30,12 +30,12 @@
     {
       "url": "https://oggibikes.com.br/bike/agile-sport-di2-2026/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     },
     {
       "url": "https://oggibikes.com.br/modelos-mtb/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

@@ -6,9 +6,9 @@
   "categoria": "infantil",
   "url_fabricante": "https://groovebikes.com.br/produto/bicicleta-infantil-groove-ragga-16-2/",
   "preco_sugerido_brl": 899.9,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Aço",
+    "material": "Aço carbono",
     "tamanhos": [
       "Único"
     ],
@@ -27,7 +27,7 @@
     {
       "url": "https://groovebikes.com.br/produto/bicicleta-infantil-groove-ragga-16-2/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

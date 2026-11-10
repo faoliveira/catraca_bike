@@ -6,9 +6,9 @@
   "categoria": "urbana",
   "url_fabricante": "https://www.trekbikes.com/br/pt_BR/bicicletas/bicicletas-h%C3%ADbridas/bicicletas-para-lazer/verve/verve-2-lowstep/p/79359/",
   "preco_sugerido_brl": 5499,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Alumínio",
+    "material": "Alumínio Alpha Gold",
     "tamanhos": [
       "P",
       "M",
@@ -19,17 +19,22 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "Shimano CUES U4000 9V",
+    "grupo": "Shimano CUES U4000 1x9",
     "velocidades": 9,
-    "tipo_freio": "Disco hidráulico Tektro HD-M275",
-    "peso_kg": null
+    "tipo_freio": "Disco hidráulico Tektro HD-M275, rotores 160 mm",
+    "peso_kg": 13.8
   },
   "ebike": null,
   "fontes": [
     {
       "url": "https://www.trekbikes.com/br/pt_BR/bicicletas/bicicletas-h%C3%ADbridas/bicicletas-para-lazer/verve/verve-2-lowstep/p/79359/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
+    },
+    {
+      "url": "https://www.trekbikes.com/br/pt_BR/bicicletas/bicicletas-h%C3%ADbridas/bicicletas-para-lazer/verve/f/F411-2/verve-2-lowstep/79359/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

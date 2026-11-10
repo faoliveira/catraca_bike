@@ -6,7 +6,7 @@
   "categoria": "mtb",
   "url_fabricante": "https://www.focus-bikes.com/int/raven-8-8",
   "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Carbono",
     "tamanhos": [
@@ -20,9 +20,9 @@
     "curso_mm": 120
   },
   "componentes": {
-    "grupo": "Shimano Deore XT",
+    "grupo": "Shimano Deore XT M8100 1x12",
     "velocidades": 12,
-    "tipo_freio": "Hidráulico Shimano SLX, rotores 180/160 mm",
+    "tipo_freio": "Disco hidráulico Shimano SLX M7100, rotores 180 mm (diant.) / 160 mm (tras.)",
     "peso_kg": 12.9
   },
   "ebike": null,
@@ -30,7 +30,7 @@
     {
       "url": "https://www.focus-bikes.com/int/raven-8-8",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

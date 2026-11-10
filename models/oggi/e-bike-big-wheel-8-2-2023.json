@@ -6,7 +6,7 @@
   "categoria": "ebike",
   "url_fabricante": "https://oggibikes.com.br/bike/e-bike-big-wheel-8-2-2023/",
   "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio 6061 T6",
     "tamanhos": [
@@ -21,7 +21,7 @@
   "componentes": {
     "grupo": "Shimano Deore 11V",
     "velocidades": 11,
-    "tipo_freio": "Hidráulico Shimano BR-MT410 rotores 180/160 mm",
+    "tipo_freio": "Disco hidráulico Shimano BR-MT410, rotor dianteiro 180 mm e traseiro 160 mm",
     "peso_kg": 22
   },
   "ebike": {
@@ -40,12 +40,12 @@
     {
       "url": "https://oggibikes.com.br/bike/e-bike-big-wheel-8-2-2023/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     },
     {
       "url": "https://oggibikes.com.br/modelos-eletricas/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

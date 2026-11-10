@@ -6,7 +6,7 @@
   "categoria": "mtb",
   "url_fabricante": "https://www.sensebike.com.br/produtos/grom-24-race-g2/",
   "preco_sugerido_brl": 5490,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio 6061",
     "tamanhos": [
@@ -17,9 +17,9 @@
     "curso_mm": 80
   },
   "componentes": {
-    "grupo": "Shimano Cues 20V",
-    "velocidades": 20,
-    "tipo_freio": "Tektro",
+    "grupo": "Shimano Cues 1x10",
+    "velocidades": 10,
+    "tipo_freio": "Disco Tektro HD-J285 Junior, rotores Shimano SM-RT26 160 mm",
     "peso_kg": null
   },
   "ebike": null,
@@ -27,7 +27,7 @@
     {
       "url": "https://www.sensebike.com.br/produtos/grom-24-race-g2/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

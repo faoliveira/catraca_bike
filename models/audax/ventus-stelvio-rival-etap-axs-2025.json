@@ -6,7 +6,7 @@
   "categoria": "speed",
   "url_fabricante": "https://audaxbike.com/bike/208/ventus-stelvio-rival-etap-axs-2025",
   "preco_sugerido_brl": 34503,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Carbono UD",
     "tamanhos": [
@@ -21,9 +21,9 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "SRAM Rival eTap AXS 24V",
+    "grupo": "SRAM Rival eTap AXS 2x12",
     "velocidades": 24,
-    "tipo_freio": "SRAM Rival eTap AXS",
+    "tipo_freio": "Disco SRAM Rival eTap AXS D1",
     "peso_kg": 8.09
   },
   "ebike": null,
@@ -31,7 +31,7 @@
     {
       "url": "https://audaxbike.com/bike/208/ventus-stelvio-rival-etap-axs-2025",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

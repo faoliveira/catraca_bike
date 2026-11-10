@@ -5,8 +5,8 @@
   "slug": "ella-comfort",
   "categoria": "ebike",
   "url_fabricante": "https://www.ebikeella.com.br/products/ella-comfort",
-  "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-07",
+  "preco_sugerido_brl": 10990,
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio",
     "tamanhos": [
@@ -19,14 +19,14 @@
   "componentes": {
     "grupo": "Shimano Altus",
     "velocidades": 8,
-    "tipo_freio": "Disco hidráulico Shimano MT-200, rotor de 160 mm",
+    "tipo_freio": "Disco hidráulico 160 mm Shimano MT- 200",
     "peso_kg": 28
   },
   "ebike": {
-    "motor_tipo": "Bafang M430 central",
+    "motor_tipo": "Bafang M430 Central 350 W",
     "potencia_w": 350,
     "torque_nm": 120,
-    "bateria_wh": null,
+    "bateria_wh": 540,
     "autonomia_declarada_km": 80,
     "acelerador": true,
     "assistencia_so_com_pedal": false,
@@ -38,17 +38,17 @@
     {
       "url": "https://www.ebikeella.com.br/products/ella-comfort",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-07"
+      "acessado_em": "2026-11-10"
     },
     {
       "url": "https://www.ebikeella.com.br/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-07"
+      "acessado_em": "2026-11-10"
     },
     {
       "url": "https://www.moura.com.br/blog/modelos-ella-moura",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-07"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

@@ -5,8 +5,8 @@
   "slug": "krw-kr5",
   "categoria": "mtb",
   "url_fabricante": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-27-velocidades-freio-a-disco-kr5/",
-  "preco_sugerido_brl": 909,
-  "atualizado_em": "2026-11-08",
+  "preco_sugerido_brl": 1799,
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio 6061",
     "tamanhos": [
@@ -22,7 +22,7 @@
   "componentes": {
     "grupo": null,
     "velocidades": 27,
-    "tipo_freio": "Disco mecânico",
+    "tipo_freio": "Disco mecânico, rotor 160 mm",
     "peso_kg": null
   },
   "ebike": null,
@@ -30,7 +30,7 @@
     {
       "url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-27-velocidades-freio-a-disco-kr5/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

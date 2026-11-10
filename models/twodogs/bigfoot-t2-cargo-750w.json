@@ -5,28 +5,28 @@
   "slug": "bigfoot-t2-cargo-750w",
   "categoria": "ebike",
   "url_fabricante": "https://twodogs.com/produto/bicicleta-eletrica-two-dogs-bigfoot-t2-cargo-750w-48v/",
-  "preco_sugerido_brl": 13290.5,
-  "atualizado_em": "2026-11-08",
+  "preco_sugerido_brl": 13990,
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Alumínio 6061",
+    "material": "Liga 6061 de alumínio dobrável",
     "tamanhos": null,
-    "aro": null,
+    "aro": "20",
     "suspensao": null,
     "curso_mm": null
   },
   "componentes": {
-    "grupo": null,
-    "velocidades": null,
-    "tipo_freio": "Disco hidráulico Tektro",
-    "peso_kg": null
+    "grupo": "Shimano 7 velocidades",
+    "velocidades": 7,
+    "tipo_freio": "Disco mecânico Tektro",
+    "peso_kg": 33.5
   },
   "ebike": {
     "motor_tipo": "Hub 750W 48V Brushless",
     "potencia_w": 750,
     "torque_nm": null,
-    "bateria_wh": null,
+    "bateria_wh": 672,
     "autonomia_declarada_km": 65,
-    "acelerador": null,
+    "acelerador": true,
     "assistencia_so_com_pedal": null,
     "vel_max_kmh": 32,
     "largura_cm": null,
@@ -36,7 +36,7 @@
     {
       "url": "https://twodogs.com/produto/bicicleta-eletrica-two-dogs-bigfoot-t2-cargo-750w-48v/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ]
 }

@@ -6,9 +6,9 @@
   "categoria": "ebike",
   "url_fabricante": "https://www.sensebike.com.br/produtos/exalt-e-trail-al-race-lr/",
   "preco_sugerido_brl": 59990,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Alumínio 6061",
+    "material": "Alumínio Hidroformado 6061",
     "tamanhos": [
       "S",
       "M",
@@ -20,14 +20,14 @@
     "curso_mm": 160
   },
   "componentes": {
-    "grupo": "Shimano Deore XT 12V",
+    "grupo": "Shimano Deore XT 1x12",
     "velocidades": 12,
-    "tipo_freio": "Shimano M8200 rotores 203 mm",
+    "tipo_freio": "Disco Shimano Deore XT BL-M8200 / BR-M8220, rotor dianteiro 203 mm",
     "peso_kg": null
   },
   "ebike": {
     "motor_tipo": "Shimano DU-EP801 (central)",
-    "potencia_w": null,
+    "potencia_w": 600,
     "torque_nm": null,
     "bateria_wh": 871,
     "autonomia_declarada_km": null,
@@ -41,7 +41,7 @@
     {
       "url": "https://www.sensebike.com.br/produtos/exalt-e-trail-al-race-lr/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

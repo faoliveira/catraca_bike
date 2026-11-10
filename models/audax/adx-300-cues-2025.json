@@ -6,7 +6,7 @@
   "categoria": "mtb",
   "url_fabricante": "https://audaxbike.com/bike/224/adx-300-cues-2025",
   "preco_sugerido_brl": 6411,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio 6061 T6",
     "tamanhos": [
@@ -20,17 +20,17 @@
     "curso_mm": 100
   },
   "componentes": {
-    "grupo": "Shimano Cues 22V",
-    "velocidades": 22,
-    "tipo_freio": null,
-    "peso_kg": null
+    "grupo": "Shimano Cues 1x11",
+    "velocidades": 11,
+    "tipo_freio": "Disco hidráulico Shimano MT201, rotores 160 mm",
+    "peso_kg": 13.6
   },
   "ebike": null,
   "fontes": [
     {
       "url": "https://audaxbike.com/bike/224/adx-300-cues-2025",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

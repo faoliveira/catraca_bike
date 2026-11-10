@@ -6,9 +6,9 @@
   "categoria": "speed",
   "url_fabricante": "https://oggibikes.com.br/bike/stimolla-disc-2021/",
   "preco_sugerido_brl": 8590,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Alumínio",
+    "material": "Alumínio triplo butted",
     "tamanhos": [
       "XS",
       "S",
@@ -23,9 +23,9 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "Shimano Tiagra 20V",
+    "grupo": "Shimano Tiagra 2x10",
     "velocidades": 20,
-    "tipo_freio": "Hidráulico Shimano",
+    "tipo_freio": "Disco hidráulico Shimano Tiagra BR-4770, rotores SM-RT64 160 mm",
     "peso_kg": null
   },
   "ebike": null,
@@ -33,12 +33,12 @@
     {
       "url": "https://oggibikes.com.br/bike/stimolla-disc-2021/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     },
     {
       "url": "https://oggibikes.com.br/modelos-speed/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

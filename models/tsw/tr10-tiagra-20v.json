@@ -6,9 +6,9 @@
   "categoria": "speed",
   "url_fabricante": "https://tswbike.com/p/1327/tr10-tiagra-20v",
   "preco_sugerido_brl": 10250,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Alumínio 6061",
+    "material": "Alumínio 6061 T4 - T6",
     "tamanhos": [
       "490",
       "510",
@@ -21,9 +21,9 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": null,
-    "velocidades": null,
-    "tipo_freio": "Hidráulico Shimano Tiagra ST-4720 rotores 160 mm",
+    "grupo": "Shimano Tiagra 2x10",
+    "velocidades": 20,
+    "tipo_freio": "Disco hidráulico Shimano Tiagra ST-4720, rotores 160/160 mm",
     "peso_kg": 11.07
   },
   "ebike": null,
@@ -31,7 +31,7 @@
     {
       "url": "https://tswbike.com/p/1327/tr10-tiagra-20v",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

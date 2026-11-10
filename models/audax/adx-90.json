@@ -6,7 +6,7 @@
   "categoria": "mtb",
   "url_fabricante": "https://audaxbike.com/bike/230/adx-90",
   "preco_sugerido_brl": 3115,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio 6061 T6",
     "tamanhos": [
@@ -21,9 +21,9 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "Shimano Alivio 18V",
+    "grupo": "Shimano Alivio 2x9",
     "velocidades": 18,
-    "tipo_freio": "Disco hidráulico Shimano rotores 160 mm",
+    "tipo_freio": "Disco hidráulico Shimano MT200, rotores 160 mm",
     "peso_kg": 14.5
   },
   "ebike": null,
@@ -31,7 +31,7 @@
     {
       "url": "https://audaxbike.com/bike/230/adx-90",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

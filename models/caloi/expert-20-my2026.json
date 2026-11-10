@@ -6,10 +6,12 @@
   "categoria": "infantil",
   "url_fabricante": "https://caloi.com/produto/expert-20-my2026/",
   "preco_sugerido_brl": 899,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Aço",
-    "tamanhos": null,
+    "tamanhos": [
+      "Único"
+    ],
     "aro": "20",
     "suspensao": "rigida",
     "curso_mm": null
@@ -25,7 +27,7 @@
     {
       "url": "https://caloi.com/produto/expert-20-my2026/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

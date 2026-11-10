@@ -6,9 +6,9 @@
   "categoria": "gravel",
   "url_fabricante": "https://www.soulcycles.com.br/bicicleta-seeker-sram-rival-gx-12v-potencia-quest/p",
   "preco_sugerido_brl": 31000,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Carbono",
+    "material": "Carbono T700/800",
     "tamanhos": [
       "XS",
       "S",
@@ -20,9 +20,9 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "SRAM Rival / GX Eagle AXS 1x12",
+    "grupo": "SRAM GX AXS XPLR 1x12, alavanca Rival E1 AXS",
     "velocidades": 12,
-    "tipo_freio": "Disco hidráulico SRAM Rival E1",
+    "tipo_freio": "Disco hidráulico SRAM Rival E1 flat mount, rotores 160 mm",
     "peso_kg": null
   },
   "ebike": null,
@@ -30,7 +30,7 @@
     {
       "url": "https://www.soulcycles.com.br/bicicleta-seeker-sram-rival-gx-12v-potencia-quest/p",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

@@ -6,7 +6,7 @@
   "categoria": "ebike",
   "url_fabricante": "https://golev.com.br/products/model-c",
   "preco_sugerido_brl": 7980,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Aço carbono",
     "tamanhos": null,
@@ -15,9 +15,9 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "Shimano",
+    "grupo": "Shimano 7 velocidades",
     "velocidades": 7,
-    "tipo_freio": "Disco",
+    "tipo_freio": "Disco (dianteiro e traseiro)",
     "peso_kg": 34
   },
   "ebike": {
@@ -28,7 +28,7 @@
     "autonomia_declarada_km": 40,
     "acelerador": null,
     "assistencia_so_com_pedal": null,
-    "vel_max_kmh": null,
+    "vel_max_kmh": 32,
     "largura_cm": null,
     "entre_eixos_cm": null
   },
@@ -36,12 +36,12 @@
     {
       "url": "https://golev.com.br/products/model-c",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     },
     {
       "url": "https://golev.com.br/pages/modelc",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ]
 }

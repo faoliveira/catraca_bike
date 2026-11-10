@@ -6,7 +6,7 @@
   "categoria": "mtb",
   "url_fabricante": "https://www.merida-bikes.com/en/bike/6522/one-sixty-400",
   "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio",
     "tamanhos": [
@@ -21,9 +21,9 @@
     "curso_mm": 170
   },
   "componentes": {
-    "grupo": "Shimano Cues",
+    "grupo": "Shimano CUES U6000 1x11",
     "velocidades": 11,
-    "tipo_freio": "Hidráulico Sram DB4, rotores 200 mm",
+    "tipo_freio": "Hidráulico SRAM DB4 4 pistões, rotores SRAM CenterLine 200 mm",
     "peso_kg": null
   },
   "ebike": null,
@@ -31,7 +31,7 @@
     {
       "url": "https://www.merida-bikes.com/en/bike/6522/one-sixty-400",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

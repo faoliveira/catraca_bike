@@ -6,9 +6,9 @@
   "categoria": "ebike",
   "url_fabricante": "https://www.specialized.com/br/pt/turbo-levo-4-comp-alloy/p/4278661",
   "preco_sugerido_brl": 59990,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Alumínio",
+    "material": "Alumínio M5",
     "tamanhos": [
       "S1",
       "S2",
@@ -19,10 +19,10 @@
     ],
     "aro": "27.5/29",
     "suspensao": "full",
-    "curso_mm": null
+    "curso_mm": 160
   },
   "componentes": {
-    "grupo": "SRAM Eagle 90 T-Type 12V, garfo FOX 36 Rhythm",
+    "grupo": "SRAM Eagle 90 T-Type 1x12",
     "velocidades": 12,
     "tipo_freio": "Disco hidráulico SRAM Maven Bronze, rotores 220/200 mm",
     "peso_kg": 25.7
@@ -43,7 +43,7 @@
     {
       "url": "https://www.specialized.com/br/pt/turbo-levo-4-comp-alloy/p/4278661",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

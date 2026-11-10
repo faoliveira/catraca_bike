@@ -6,7 +6,7 @@
   "categoria": "speed",
   "url_fabricante": "https://www.sensebike.com.br/produtos/racevox-g1-pro/",
   "preco_sugerido_brl": 22990,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Carbono Mitsubishi HR40/MR60",
     "tamanhos": [
@@ -23,15 +23,15 @@
   "componentes": {
     "grupo": "Shimano 105 mecânico 2x12",
     "velocidades": 24,
-    "tipo_freio": "Hidráulico Shimano 105 BR-R7170 flat mount",
-    "peso_kg": null
+    "tipo_freio": "Disco hidráulico Shimano 105 BR-R7170 flat mount",
+    "peso_kg": 10
   },
   "ebike": null,
   "fontes": [
     {
       "url": "https://www.sensebike.com.br/produtos/racevox-g1-pro/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

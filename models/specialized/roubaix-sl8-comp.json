@@ -6,9 +6,9 @@
   "categoria": "speed",
   "url_fabricante": "https://www.specialized.com/br/pt/roubaix-sl8-comp-sram-rival-axs/p/4293933",
   "preco_sugerido_brl": 36990,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "FACT 10R, Rider First Engineered™ (RFE), FreeFoil Shape Libr",
+    "material": "FACT 10R, Rider First Engineered™ (RFE), FreeFoil Shape Library tubes",
     "tamanhos": [
       "44",
       "49",
@@ -24,8 +24,8 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "SRAM Rival AXS E1 12V, garfo Future Shock 3.2 w/ Smooth Boot",
-    "velocidades": 12,
+    "grupo": "SRAM Rival AXS E1 2x12",
+    "velocidades": 24,
     "tipo_freio": "Disco hidráulico SRAM Rival AXS E1, rotores 160/160 mm",
     "peso_kg": 8.75
   },
@@ -34,7 +34,7 @@
     {
       "url": "https://www.specialized.com/br/pt/roubaix-sl8-comp-sram-rival-axs/p/4293933",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

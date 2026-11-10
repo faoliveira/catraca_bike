@@ -5,8 +5,8 @@
   "slug": "xlab-ad8-105-di2",
   "categoria": "speed",
   "url_fabricante": "https://xlabbikes.com.br/ad8-105/",
-  "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-08",
+  "preco_sugerido_brl": 42900,
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Carbono Toray T800",
     "tamanhos": [
@@ -21,9 +21,9 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "Shimano 105 Di2",
+    "grupo": "Shimano 105 Di2 2x",
     "velocidades": 24,
-    "tipo_freio": "Disco hidráulico",
+    "tipo_freio": "Disco hidráulico Shimano 105 BR-R7170, rotores SM-RT70 160/140 mm",
     "peso_kg": 7.41
   },
   "ebike": null,
@@ -31,7 +31,7 @@
     {
       "url": "https://xlabbikes.com.br/ad8-105/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

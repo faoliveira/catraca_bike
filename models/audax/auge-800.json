@@ -6,7 +6,7 @@
   "categoria": "mtb",
   "url_fabricante": "https://audaxbike.com/bike/227/auge-800",
   "preco_sugerido_brl": 17947,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Carbono UD Toray T800",
     "tamanhos": [
@@ -16,21 +16,21 @@
       "XL"
     ],
     "aro": "29",
-    "suspensao": "rigida",
-    "curso_mm": null
+    "suspensao": "hardtail",
+    "curso_mm": 100
   },
   "componentes": {
-    "grupo": "SRAM NX 12V",
+    "grupo": "SRAM GX Eagle 1x12",
     "velocidades": 12,
-    "tipo_freio": "Disco hidráulico Shimano M7100 rotores 160 mm",
-    "peso_kg": null
+    "tipo_freio": "Disco hidráulico Shimano SLX M7100, rotores SM-RT86/SM-RT76 160 mm",
+    "peso_kg": 10.88
   },
   "ebike": null,
   "fontes": [
     {
       "url": "https://audaxbike.com/bike/227/auge-800",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

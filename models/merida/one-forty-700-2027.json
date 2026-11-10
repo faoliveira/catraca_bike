@@ -6,9 +6,9 @@
   "categoria": "mtb",
   "url_fabricante": "https://www.merida-bikes.com/en/bike/6525/one-forty-700",
   "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Alumínio",
+    "material": "Alumínio ONE-FORTY LITE III",
     "tamanhos": [
       "XShort",
       "Short",
@@ -21,9 +21,9 @@
     "curso_mm": 150
   },
   "componentes": {
-    "grupo": "SRAM Eagle 90",
+    "grupo": "SRAM Eagle 90 Transmission 1x12",
     "velocidades": 12,
-    "tipo_freio": "Hidráulico Sram DB8 stealth, rotores 200 mm",
+    "tipo_freio": "Disco hidráulico SRAM DB8 Stealth 4 pistões, rotores 200 mm",
     "peso_kg": null
   },
   "ebike": null,
@@ -31,7 +31,7 @@
     {
       "url": "https://www.merida-bikes.com/en/bike/6525/one-forty-700",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

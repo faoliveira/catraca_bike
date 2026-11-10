@@ -1,12 +1,12 @@
 {
   "marca": "Caloi",
   "modelo": "Wild 24",
-  "ano": null,
+  "ano": 2025,
   "slug": "wild-24",
   "categoria": "mtb",
   "url_fabricante": "https://caloi.com/produto/wild-24/",
   "preco_sugerido_brl": 1990,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio 6061",
     "tamanhos": null,
@@ -15,7 +15,7 @@
     "curso_mm": 50
   },
   "componentes": {
-    "grupo": "Shimano Tourney/Tourney TX800 com passadores Altus SL-M315 8V, cassete Sunrace 11-34D",
+    "grupo": "Shimano Tourney/Tourney TX800 com passadores Altus SL-M315 1x8, cassete Sunrace 11-34D",
     "velocidades": 8,
     "tipo_freio": "V-brake de alumínio",
     "peso_kg": 12.2
@@ -25,7 +25,7 @@
     {
       "url": "https://caloi.com/produto/wild-24/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

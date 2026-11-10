@@ -5,22 +5,22 @@
   "slug": "scalpel-ht-carbon-4",
   "categoria": "mtb",
   "url_fabricante": "https://www.cannondale.com/pt-br/bikes/mountain/cross-country/scalpel-ht/scalpel-ht-carbon-4",
-  "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-08",
+  "preco_sugerido_brl": 18691,
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Carbono",
     "tamanhos": [
-      "XL",
-      "S",
-      "L",
-      "M"
+      "SM",
+      "MD",
+      "LG",
+      "XL"
     ],
     "aro": "29",
     "suspensao": "hardtail",
     "curso_mm": 100
   },
   "componentes": {
-    "grupo": "Shimano XT 12V, garfo RockShox SID SL",
+    "grupo": "Shimano XT/Deore 1x12",
     "velocidades": 12,
     "tipo_freio": "Disco hidráulico Shimano MT501, rotores 160/160 mm",
     "peso_kg": null
@@ -30,7 +30,7 @@
     {
       "url": "https://www.cannondale.com/pt-br/bikes/mountain/cross-country/scalpel-ht/scalpel-ht-carbon-4",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

@@ -6,7 +6,7 @@
   "categoria": "ebike",
   "url_fabricante": "https://oggibikes.com.br/bike/e-bike-razzo-sport-2027/",
   "preco_sugerido_brl": 33900,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio",
     "tamanhos": [
@@ -21,7 +21,7 @@
   "componentes": {
     "grupo": "Shimano Deore 11V",
     "velocidades": 11,
-    "tipo_freio": "Hidráulico Shimano M4100 rotores 220/203 mm",
+    "tipo_freio": "Disco hidráulico Shimano Deore M4100 4 pistões, rotores 220/203 mm",
     "peso_kg": 25.5
   },
   "ebike": {
@@ -40,12 +40,12 @@
     {
       "url": "https://oggibikes.com.br/bike/e-bike-razzo-sport-2027/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     },
     {
       "url": "https://oggibikes.com.br/modelos-eletricas/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

@@ -8,7 +8,7 @@
   "preco_sugerido_brl": 6899.9,
   "atualizado_em": "2026-11-08",
   "quadro": {
-    "material": "Alumínio 6061 T4+T6 Boost",
+    "material": "Alumínio 6061 T4+T6 Boost Stealth",
     "tamanhos": [
       "S",
       "M",
@@ -20,7 +20,7 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "Shimano Cues 1x11 (cassete LG400 11-50T), garfo Suntour X1-Boost Air",
+    "grupo": "Shimano Cues 1x11 (cassete LG400 11-50T)",
     "velocidades": 11,
     "tipo_freio": "Disco Shimano MT-200, rotor 160 mm",
     "peso_kg": null
@@ -31,6 +31,11 @@
       "url": "https://collibike.com.br/bicicletas/sevilha/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-08"
+    },
+    {
+      "url": "https://web.archive.org/web/20260213062118/https://collibike.com.br/bicicletas/sevilha/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-10"
     }
   ]
 }

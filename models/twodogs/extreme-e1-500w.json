@@ -5,17 +5,17 @@
   "slug": "extreme-e1-500w",
   "categoria": "ebike",
   "url_fabricante": "https://twodogs.com/produto/bicicleta-eletrica-two-dogs-extreme-e1-500w/",
-  "preco_sugerido_brl": 7590.5,
-  "atualizado_em": "2026-11-08",
+  "preco_sugerido_brl": 7990,
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": null,
+    "material": "Aço carbono",
     "tamanhos": null,
     "aro": "29",
     "suspensao": "hardtail",
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "Shimano",
+    "grupo": "Shimano 21 velocidades",
     "velocidades": 21,
     "tipo_freio": "Disco mecânico",
     "peso_kg": 28
@@ -26,7 +26,7 @@
     "torque_nm": null,
     "bateria_wh": 360,
     "autonomia_declarada_km": 35,
-    "acelerador": null,
+    "acelerador": true,
     "assistencia_so_com_pedal": null,
     "vel_max_kmh": 32,
     "largura_cm": null,
@@ -36,7 +36,7 @@
     {
       "url": "https://twodogs.com/produto/bicicleta-eletrica-two-dogs-extreme-e1-500w/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ]
 }

@@ -5,8 +5,8 @@
   "slug": "e-urban",
   "categoria": "ebike",
   "url_fabricante": "https://groovebikes.com.br/produto/bicicleta-eletrica-groove-e-urban",
-  "preco_sugerido_brl": 8299.9,
-  "atualizado_em": "2026-11-07",
+  "preco_sugerido_brl": 8499.9,
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio Groove Smart Welding",
     "tamanhos": [
@@ -18,7 +18,7 @@
     "curso_mm": 80
   },
   "componentes": {
-    "grupo": "Shimano",
+    "grupo": "Shimano 1x7",
     "velocidades": 7,
     "tipo_freio": "Disco hidráulico Karasawa HDM-2E",
     "peso_kg": 25.4
@@ -39,12 +39,12 @@
     {
       "url": "https://groovebikes.com.br/produto/bicicleta-eletrica-groove-e-urban",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-07"
+      "acessado_em": "2026-11-10"
     },
     {
       "url": "https://groovebikes.com.br/lancamento-bicicletas-eletricas-e-urban-e-to-go",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-07"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

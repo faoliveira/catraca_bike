@@ -5,8 +5,8 @@
   "slug": "bigfoot-t1-750w",
   "categoria": "ebike",
   "url_fabricante": "https://twodogs.com/produto/bicicleta-eletrica-two-dogs-bigfoot-t1-750w/",
-  "preco_sugerido_brl": 9490.5,
-  "atualizado_em": "2026-11-08",
+  "preco_sugerido_brl": 9990,
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Aço carbono",
     "tamanhos": null,
@@ -15,10 +15,10 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "Shimano",
+    "grupo": "Shimano TX-50 7 velocidades",
     "velocidades": 7,
     "tipo_freio": "Disco mecânico",
-    "peso_kg": null
+    "peso_kg": 23
   },
   "ebike": {
     "motor_tipo": "Motor traseiro 750W Brushless",
@@ -36,7 +36,7 @@
     {
       "url": "https://twodogs.com/produto/bicicleta-eletrica-two-dogs-bigfoot-t1-750w/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ]
 }

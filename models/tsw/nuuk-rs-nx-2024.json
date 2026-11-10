@@ -1,14 +1,14 @@
 {
   "marca": "TSW",
   "modelo": "Nuuk RS NX 2024",
-  "ano": null,
+  "ano": 2024,
   "slug": "nuuk-rs-nx-2024",
   "categoria": "mtb",
   "url_fabricante": "https://tswbike.com/p/1047/nuuk-rs-nx-2024",
   "preco_sugerido_brl": 6650,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Alumínio 6061",
+    "material": "Alumínio 6061 T4-T6",
     "tamanhos": [
       "S",
       "M",
@@ -20,9 +20,9 @@
     "curso_mm": 120
   },
   "componentes": {
-    "grupo": "SRAM NX Eagle",
+    "grupo": "SRAM NX Eagle 1x12",
     "velocidades": 12,
-    "tipo_freio": "Hidráulico Shimano MT200 rotores 160 mm",
+    "tipo_freio": "Disco hidráulico Shimano MT200, rotores 160 mm",
     "peso_kg": 14
   },
   "ebike": null,
@@ -30,7 +30,7 @@
     {
       "url": "https://tswbike.com/p/1047/nuuk-rs-nx-2024",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ]
 }

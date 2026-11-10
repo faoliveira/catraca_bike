@@ -6,7 +6,7 @@
   "categoria": "mtb",
   "url_fabricante": "https://oggibikes.com.br/bike/hacker-sport/",
   "preco_sugerido_brl": 1999,
-  "atualizado_em": "2026-11-07",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio 6061 T6 tratado",
     "tamanhos": [
@@ -19,7 +19,7 @@
     "curso_mm": 100
   },
   "componentes": {
-    "grupo": "Shimano Tourney",
+    "grupo": "Shimano Tourney 3x7",
     "velocidades": 21,
     "tipo_freio": "Disco mecânico, rotor de 160 mm",
     "peso_kg": 14.5
@@ -29,12 +29,12 @@
     {
       "url": "https://oggibikes.com.br/bike/hacker-sport/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-07"
+      "acessado_em": "2026-11-10"
     },
     {
       "url": "https://oggibikes.com.br/modelos-mtb/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-07"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

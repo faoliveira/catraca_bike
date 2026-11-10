@@ -6,9 +6,9 @@
   "categoria": "speed",
   "url_fabricante": "https://www.soulcycles.com.br/bicicleta-3r1-aero-disc-105-vmbr/p",
   "preco_sugerido_brl": 16500,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Alumínio",
+    "material": "Alumínio X6",
     "tamanhos": [
       "XS",
       "S",
@@ -23,7 +23,7 @@
   "componentes": {
     "grupo": "Shimano 105 2x12",
     "velocidades": 24,
-    "tipo_freio": "Disco hidráulico Shimano 105",
+    "tipo_freio": "Disco hidráulico Shimano 105, rotores RT70 140 mm Center Lock",
     "peso_kg": 9.4
   },
   "ebike": null,
@@ -31,7 +31,7 @@
     {
       "url": "https://www.soulcycles.com.br/bicicleta-3r1-aero-disc-105-vmbr/p",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

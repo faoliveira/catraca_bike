@@ -6,10 +6,12 @@
   "categoria": "mtb",
   "url_fabricante": "https://caloi.com/produto/aluminum-pro/",
   "preco_sugerido_brl": 2399,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio",
-    "tamanhos": null,
+    "tamanhos": [
+      "M"
+    ],
     "aro": "29",
     "suspensao": "hardtail",
     "curso_mm": 100
@@ -25,7 +27,7 @@
     {
       "url": "https://caloi.com/produto/aluminum-pro/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

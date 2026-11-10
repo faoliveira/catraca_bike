@@ -9,7 +9,9 @@
   "atualizado_em": "2026-11-08",
   "quadro": {
     "material": "Alumínio 13,5''",
-    "tamanhos": null,
+    "tamanhos": [
+      "13.5"
+    ],
     "aro": "26",
     "suspensao": "hardtail",
     "curso_mm": null
@@ -26,6 +28,11 @@
       "url": "https://collibike.com.br/bicicletas/colli-freeride/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-08"
+    },
+    {
+      "url": "https://web.archive.org/web/2026/https://collibike.com.br/bicicletas/colli-freeride/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-10"
     }
   ]
 }

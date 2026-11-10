@@ -1,12 +1,12 @@
 {
   "marca": "Caloi",
   "modelo": "E-Vibe Explorer",
-  "ano": null,
+  "ano": 2025,
   "slug": "e-vibe-explorer",
   "categoria": "ebike",
   "url_fabricante": "https://caloi.com/produto/e-vibe-explorer/",
   "preco_sugerido_brl": 9990,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio 6061",
     "tamanhos": [
@@ -41,7 +41,7 @@
     {
       "url": "https://caloi.com/produto/e-vibe-explorer/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

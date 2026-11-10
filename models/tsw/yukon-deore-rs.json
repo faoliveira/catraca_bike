@@ -6,7 +6,7 @@
   "categoria": "mtb",
   "url_fabricante": "https://tswbike.com/p/2390/yukon-deore-rs",
   "preco_sugerido_brl": 7200,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio 6061",
     "tamanhos": [
@@ -20,9 +20,9 @@
     "curso_mm": 120
   },
   "componentes": {
-    "grupo": null,
-    "velocidades": null,
-    "tipo_freio": "Hidráulico Shimano MT200 rotores 160 mm",
+    "grupo": "Shimano Deore 1x12",
+    "velocidades": 12,
+    "tipo_freio": "Disco hidráulico Shimano MT200, rotores SM-RT30 160 mm",
     "peso_kg": 14.42
   },
   "ebike": null,
@@ -30,7 +30,7 @@
     {
       "url": "https://tswbike.com/p/2390/yukon-deore-rs",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

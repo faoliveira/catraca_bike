@@ -6,9 +6,9 @@
   "categoria": "mtb",
   "url_fabricante": "https://www.specialized.com/br/pt/chisel/p/4291035",
   "preco_sugerido_brl": 19990,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Alumínio",
+    "material": "Alumínio M5 D'Aluisio Smartweld",
     "tamanhos": [
       "XS",
       "S",
@@ -21,7 +21,7 @@
     "curso_mm": 120
   },
   "componentes": {
-    "grupo": "SRAM S200 Eagle 12V, garfo Rockshox Recon Silver RL",
+    "grupo": "SRAM S200 Eagle 1x12",
     "velocidades": 12,
     "tipo_freio": "Disco hidráulico SRAM DB4, rotores 180/160 mm",
     "peso_kg": 14.16
@@ -31,7 +31,7 @@
     {
       "url": "https://www.specialized.com/br/pt/chisel/p/4291035",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

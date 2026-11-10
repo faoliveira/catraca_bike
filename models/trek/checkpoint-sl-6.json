@@ -8,7 +8,7 @@
   "preco_sugerido_brl": 35990,
   "atualizado_em": "2026-11-08",
   "quadro": {
-    "material": "Carbono",
+    "material": "Carbono OCLV Série 500",
     "tamanhos": [
       "P",
       "M",
@@ -20,17 +20,17 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "SRAM Rival XPLR AXS 13V",
+    "grupo": "SRAM Rival XPLR AXS E1 1x13",
     "velocidades": 13,
-    "tipo_freio": null,
-    "peso_kg": null
+    "tipo_freio": "Disco, montagem plana, rotores SRAM Paceline Centerlock 160 mm",
+    "peso_kg": 9.49
   },
   "ebike": null,
   "fontes": [
     {
       "url": "https://www.trekbikes.com/br/pt_BR/bicicletas/bicicletas-para-turismo-e-bikepacking/checkpoint/checkpoint-sl/checkpoint-sl-6-axs-3%C2%AA-gera%C3%A7%C3%A3o/p/55098/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

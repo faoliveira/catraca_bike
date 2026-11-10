@@ -6,9 +6,9 @@
   "categoria": "mtb",
   "url_fabricante": "https://www.kswbikes.com.br/bicicletas/mtb/xlt-200/bicicleta-ksw-xlt-200-18v-aro-29-freio-a-disco-hidraulico",
   "preco_sugerido_brl": 2299,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Alumínio 6061 (T4+T6)",
+    "material": "Alumínio liga 6061 (T4+T6)",
     "tamanhos": [
       "15",
       "17",
@@ -20,9 +20,9 @@
     "curso_mm": 80
   },
   "componentes": {
-    "grupo": "Sunrun",
+    "grupo": "Sunrun 2x9",
     "velocidades": 18,
-    "tipo_freio": "Disco hidráulico",
+    "tipo_freio": "Disco hidráulico (óleo mineral)",
     "peso_kg": 15
   },
   "ebike": null,
@@ -30,7 +30,7 @@
     {
       "url": "https://www.kswbikes.com.br/bicicletas/mtb/xlt-200/bicicleta-ksw-xlt-200-18v-aro-29-freio-a-disco-hidraulico",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

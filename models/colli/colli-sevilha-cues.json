@@ -10,20 +10,20 @@
   "quadro": {
     "material": "Alumínio 6061, cabeamento interno, Boost 12x148 mm",
     "tamanhos": [
-      "15,5",
+      "15",
       "17",
       "19",
       "21"
     ],
     "aro": "29",
-    "suspensao": null,
-    "curso_mm": null
+    "suspensao": "hardtail",
+    "curso_mm": 100
   },
   "componentes": {
     "grupo": "Shimano Cues 1x11 (cassete LG400 11-50D)",
     "velocidades": 11,
-    "tipo_freio": null,
-    "peso_kg": null
+    "tipo_freio": "Disco hidráulico Shimano MT200",
+    "peso_kg": 13
   },
   "ebike": null,
   "fontes": [
@@ -31,6 +31,11 @@
       "url": "https://collibike.com.br/bicicletas/colli-sevilha-cues/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-08"
+    },
+    {
+      "url": "https://web.archive.org/web/20260314102341/https://collibike.com.br/bicicletas/colli-sevilha-cues/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-10"
     }
   ]
 }

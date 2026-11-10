@@ -6,7 +6,7 @@
   "categoria": "mtb",
   "url_fabricante": "https://caloi.com/produto/explorer-expert-sl-2026/",
   "preco_sugerido_brl": 5590,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio 6069 hidroformado, tapered, Boost, cabeamento interno",
     "tamanhos": [
@@ -21,9 +21,9 @@
     "curso_mm": 100
   },
   "componentes": {
-    "grupo": "Shimano Cues U6000 11V (cassete LG300 11-50T), garfo RockShox Judy TK",
+    "grupo": "Shimano Cues U6000 1x11 (cassete LG300 11-50T)",
     "velocidades": 11,
-    "tipo_freio": "Disco Shimano MT200, rotores 160/180 mm",
+    "tipo_freio": "Disco hidráulico Shimano MT200, rotores 160/180 mm",
     "peso_kg": 13.98
   },
   "ebike": null,
@@ -31,7 +31,7 @@
     {
       "url": "https://caloi.com/produto/explorer-expert-sl-2026/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

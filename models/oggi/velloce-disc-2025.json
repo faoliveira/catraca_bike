@@ -6,7 +6,7 @@
   "categoria": "speed",
   "url_fabricante": "https://oggibikes.com.br/bike/velloce-disc-2025/",
   "preco_sugerido_brl": 4499,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio",
     "tamanhos": [
@@ -21,9 +21,9 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "Shimano Claris 16V",
+    "grupo": "Shimano Claris 2x8",
     "velocidades": 16,
-    "tipo_freio": "Shimano BR-R317 rotores 160 mm",
+    "tipo_freio": "Disco Shimano Claris BR-R317, rotor RT64 160 mm",
     "peso_kg": 11.7
   },
   "ebike": null,
@@ -31,12 +31,12 @@
     {
       "url": "https://oggibikes.com.br/bike/velloce-disc-2025/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     },
     {
       "url": "https://oggibikes.com.br/modelos-speed/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

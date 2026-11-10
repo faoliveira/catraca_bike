@@ -5,18 +5,18 @@
   "slug": "classic-s3-350w",
   "categoria": "ebike",
   "url_fabricante": "https://twodogs.com/produto/bicicleta-eletrica-two-dogs-classic-s3-350w/",
-  "preco_sugerido_brl": 6640.5,
-  "atualizado_em": "2026-11-08",
+  "preco_sugerido_brl": 6990,
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": null,
+    "material": "Aço carbono",
     "tamanhos": null,
     "aro": "29",
     "suspensao": "hardtail",
     "curso_mm": null
   },
   "componentes": {
-    "grupo": null,
-    "velocidades": null,
+    "grupo": "Shimano 7 velocidades",
+    "velocidades": 7,
     "tipo_freio": "Disco mecânico",
     "peso_kg": 28
   },
@@ -24,9 +24,9 @@
     "motor_tipo": "Hub 350W 36V Brushless",
     "potencia_w": 350,
     "torque_nm": null,
-    "bateria_wh": null,
+    "bateria_wh": 360,
     "autonomia_declarada_km": 35,
-    "acelerador": null,
+    "acelerador": true,
     "assistencia_so_com_pedal": null,
     "vel_max_kmh": 32,
     "largura_cm": null,
@@ -36,7 +36,7 @@
     {
       "url": "https://twodogs.com/produto/bicicleta-eletrica-two-dogs-classic-s3-350w/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ]
 }

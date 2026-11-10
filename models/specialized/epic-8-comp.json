@@ -6,9 +6,9 @@
   "categoria": "mtb",
   "url_fabricante": "https://www.specialized.com/br/pt/epic-8-comp/p/4221519",
   "preco_sugerido_brl": 29990,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Carbono",
+    "material": "Carbono FACT 11m",
     "tamanhos": [
       "XS",
       "S",
@@ -21,7 +21,7 @@
     "curso_mm": 120
   },
   "componentes": {
-    "grupo": "SRAM S-1000 Eagle AXS Transmission 12V, garfo RockShox SID Select",
+    "grupo": "SRAM S-1000 Eagle AXS Transmission 1x12",
     "velocidades": 12,
     "tipo_freio": "Disco hidráulico SRAM Motive Bronze, rotores 180/160 mm",
     "peso_kg": 11.95
@@ -31,7 +31,7 @@
     {
       "url": "https://www.specialized.com/br/pt/epic-8-comp/p/4221519",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

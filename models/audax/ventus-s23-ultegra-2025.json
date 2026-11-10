@@ -6,7 +6,7 @@
   "categoria": "speed",
   "url_fabricante": "https://audaxbike.com/bike/212/ventus-s23-ultegra-2025",
   "preco_sugerido_brl": 46349,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Carbono UD",
     "tamanhos": [
@@ -22,9 +22,9 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "Shimano Ultegra 24V",
+    "grupo": "Shimano Ultegra R8100 2x12",
     "velocidades": 24,
-    "tipo_freio": "INTEGRADA À ALAVANCA",
+    "tipo_freio": "Disco, integrado à alavanca Shimano ST-R8170R",
     "peso_kg": 8.04
   },
   "ebike": null,
@@ -32,7 +32,7 @@
     {
       "url": "https://audaxbike.com/bike/212/ventus-s23-ultegra-2025",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

@@ -8,7 +8,7 @@
   "preco_sugerido_brl": 8299.9,
   "atualizado_em": "2026-11-08",
   "quadro": {
-    "material": "Alumínio 6061 T4+T6 Boost",
+    "material": "Alumínio 6061 T4+T6 Boost Stealth",
     "tamanhos": [
       "S",
       "M",
@@ -20,7 +20,7 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "Shimano Deore M6100 1x12 (cassete 11-51T), garfo Suntour X1-Boost Air",
+    "grupo": "Shimano Deore M6100 1x12 (cassete 11-51T)",
     "velocidades": 12,
     "tipo_freio": "Disco Shimano BL-M6100, rotores 180/160 mm",
     "peso_kg": null
@@ -31,6 +31,11 @@
       "url": "https://collibike.com.br/bicicletas/madrid-sm/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-08"
+    },
+    {
+      "url": "https://web.archive.org/web/20260211181533/https://collibike.com.br/bicicletas/madrid-sm/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-10"
     }
   ]
 }

@@ -6,7 +6,7 @@
   "categoria": "mtb",
   "url_fabricante": "https://groovebikes.com.br/produto/bicicleta-groove-hype-50-24v/",
   "preco_sugerido_brl": 2699.9,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio",
     "tamanhos": [
@@ -20,9 +20,9 @@
     "curso_mm": 80
   },
   "componentes": {
-    "grupo": "Shimano",
+    "grupo": "Shimano 3x8 (RD-TX800, FD-TY700)",
     "velocidades": 24,
-    "tipo_freio": "Disco hidráulico Shimano BR-MT200",
+    "tipo_freio": "Disco hidráulico Shimano BR-MT200, rotor Shimano RT10 160 mm Center Lock",
     "peso_kg": 15
   },
   "ebike": null,
@@ -30,7 +30,7 @@
     {
       "url": "https://groovebikes.com.br/produto/bicicleta-groove-hype-50-24v/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

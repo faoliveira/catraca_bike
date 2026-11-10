@@ -6,7 +6,7 @@
   "categoria": "mtb",
   "url_fabricante": "https://www.sensebike.com.br/produtos/invictus-g3-pro/",
   "preco_sugerido_brl": 32990,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Carbono Mitsubishi MR60/HR40",
     "tamanhos": [
@@ -29,7 +29,7 @@
     {
       "url": "https://www.sensebike.com.br/produtos/invictus-g3-pro/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

@@ -8,7 +8,7 @@
   "preco_sugerido_brl": 3499.9,
   "atualizado_em": "2026-11-08",
   "quadro": {
-    "material": "Alumínio 6061 T4+T6",
+    "material": "Alumínio 6061 T4/T6",
     "tamanhos": [
       "S",
       "M",
@@ -22,7 +22,7 @@
   "componentes": {
     "grupo": "Shimano Cues 1x10 (cassete 11-48D)",
     "velocidades": 10,
-    "tipo_freio": "Disco hidráulico (rotor 160 mm)",
+    "tipo_freio": "Disco hidráulico Colli, rotor 160 mm",
     "peso_kg": null
   },
   "ebike": null,
@@ -31,6 +31,11 @@
       "url": "https://collibike.com.br/bicicletas/colli-grau-comp/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-08"
+    },
+    {
+      "url": "https://web.archive.org/web/2026/https://collibike.com.br/bicicletas/colli-grau-comp/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-10"
     }
   ]
 }

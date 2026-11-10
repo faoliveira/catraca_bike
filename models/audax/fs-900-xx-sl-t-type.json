@@ -6,7 +6,7 @@
   "categoria": "mtb",
   "url_fabricante": "https://audaxbike.com/bike/235/fs-900-xx-sl-t-type",
   "preco_sugerido_brl": 52899,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Carbono UD Toray T800",
     "tamanhos": [
@@ -20,9 +20,9 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "SRAM XX SL AXS T-Type",
+    "grupo": "SRAM XX SL Eagle AXS T-Type",
     "velocidades": null,
-    "tipo_freio": "Shimano BL-M8100 rotores 160 mm",
+    "tipo_freio": "Disco Shimano BL-M8100, rotores 160 mm SM-RT86",
     "peso_kg": null
   },
   "ebike": null,
@@ -30,7 +30,7 @@
     {
       "url": "https://audaxbike.com/bike/235/fs-900-xx-sl-t-type",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

@@ -6,9 +6,9 @@
   "categoria": "speed",
   "url_fabricante": "https://www.sensebike.com.br/produtos/univox-sport/",
   "preco_sugerido_brl": 17990,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Carbono",
+    "material": "Carbono Tairyfil TC36S",
     "tamanhos": [
       "49",
       "51",
@@ -21,9 +21,9 @@
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "Shimano Cues 22V",
+    "grupo": "Shimano Cues 2x11",
     "velocidades": 22,
-    "tipo_freio": "Hidráulico Shimano BR-U6030",
+    "tipo_freio": "Disco hidráulico Shimano Cues ST-U6030 / BR-U6030, rotores SM-RT10 160 mm",
     "peso_kg": null
   },
   "ebike": null,
@@ -31,7 +31,7 @@
     {
       "url": "https://www.sensebike.com.br/produtos/univox-sport/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

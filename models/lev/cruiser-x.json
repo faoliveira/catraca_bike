@@ -5,12 +5,12 @@
   "slug": "cruiser-x",
   "categoria": "ebike",
   "url_fabricante": "https://golev.com.br/pages/cruiser",
-  "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-08",
+  "preco_sugerido_brl": 12980,
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": null,
+    "material": "Alumínio",
     "tamanhos": null,
-    "aro": null,
+    "aro": "20",
     "suspensao": "full",
     "curso_mm": null
   },
@@ -18,17 +18,17 @@
     "grupo": "Shimano",
     "velocidades": 7,
     "tipo_freio": "Disco",
-    "peso_kg": null
+    "peso_kg": 29
   },
   "ebike": {
     "motor_tipo": "Motor elétrico 750 W",
     "potencia_w": 750,
     "torque_nm": null,
-    "bateria_wh": null,
-    "autonomia_declarada_km": null,
+    "bateria_wh": 480,
+    "autonomia_declarada_km": 30,
     "acelerador": null,
     "assistencia_so_com_pedal": null,
-    "vel_max_kmh": null,
+    "vel_max_kmh": 32,
     "largura_cm": null,
     "entre_eixos_cm": null
   },
@@ -36,7 +36,7 @@
     {
       "url": "https://golev.com.br/pages/cruiser",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ]
 }

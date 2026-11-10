@@ -6,28 +6,28 @@
   "categoria": "infantil",
   "url_fabricante": "https://www.sensebike.com.br/produtos/grom-20-fun-g2/",
   "preco_sugerido_brl": 3490,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Alumínio 6061",
+    "material": "Alumínio hidroformado 6061 T4-T6",
     "tamanhos": [
       "Único"
     ],
     "aro": "20",
-    "suspensao": "rigida",
-    "curso_mm": null
+    "suspensao": "hardtail",
+    "curso_mm": 63
   },
   "componentes": {
-    "grupo": "Shimano Altus 8V",
+    "grupo": "Shimano Altus 1x8",
     "velocidades": 8,
-    "tipo_freio": "Mecânico",
-    "peso_kg": null
+    "tipo_freio": "Disco mecânico Junior, rotores Shimano SM-RT26 160 mm",
+    "peso_kg": 11.1
   },
   "ebike": null,
   "fontes": [
     {
       "url": "https://www.sensebike.com.br/produtos/grom-20-fun-g2/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

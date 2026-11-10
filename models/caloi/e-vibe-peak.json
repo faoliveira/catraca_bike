@@ -1,28 +1,33 @@
 {
   "marca": "Caloi",
   "modelo": "E-Vibe Peak",
-  "ano": null,
+  "ano": 2025,
   "slug": "e-vibe-peak",
   "categoria": "ebike",
   "url_fabricante": "https://caloi.com/produto/e-vibe-peak/",
   "preco_sugerido_brl": 33990,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": null,
-    "tamanhos": null,
-    "aro": null,
+    "material": "Alumínio tratado",
+    "tamanhos": [
+      "P",
+      "M",
+      "G",
+      "GG"
+    ],
+    "aro": "29",
     "suspensao": "full",
-    "curso_mm": null
+    "curso_mm": 160
   },
   "componentes": {
-    "grupo": null,
-    "velocidades": null,
-    "tipo_freio": null,
+    "grupo": "SRAM NX Eagle 12V (cassete PG1230 11-50D)",
+    "velocidades": 12,
+    "tipo_freio": "Disco hidráulico SRAM DB8, rotor 203 mm",
     "peso_kg": 27.6
   },
   "ebike": {
-    "motor_tipo": "Bosch Performance Line CX",
-    "potencia_w": null,
+    "motor_tipo": "Bosch Performance Line CX (G4), 36 V",
+    "potencia_w": 250,
     "torque_nm": 85,
     "bateria_wh": 750,
     "autonomia_declarada_km": null,
@@ -36,7 +41,7 @@
     {
       "url": "https://caloi.com/produto/e-vibe-peak/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

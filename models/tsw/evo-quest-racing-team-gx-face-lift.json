@@ -6,7 +6,7 @@
   "categoria": "mtb",
   "url_fabricante": "https://tswbike.com/p/897/evo-quest-racing-team-gx-face-lift",
   "preco_sugerido_brl": 26900,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Carbono Toray T700/T800/T1000",
     "tamanhos": [
@@ -20,9 +20,9 @@
     "curso_mm": 100
   },
   "componentes": {
-    "grupo": "SRAM GX Eagle AXS T-Type",
+    "grupo": "SRAM GX Eagle AXS T-Type 1x12",
     "velocidades": 12,
-    "tipo_freio": "Hidráulico SRAM Level rotores 180/160 mm",
+    "tipo_freio": "Disco hidráulico SRAM Level, rotores 180/160 mm",
     "peso_kg": 10.3
   },
   "ebike": null,
@@ -30,7 +30,7 @@
     {
       "url": "https://tswbike.com/p/897/evo-quest-racing-team-gx-face-lift",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

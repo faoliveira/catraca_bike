@@ -5,8 +5,8 @@
   "slug": "krw-l20",
   "categoria": "infantil",
   "url_fabricante": "https://www.krwbikes.com.br/produtos/bicicleta-mtb-krw-aro-20-com-cambio-7-velocidades-l20/",
-  "preco_sugerido_brl": 989,
-  "atualizado_em": "2026-11-08",
+  "preco_sugerido_brl": 1599,
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Aço carbono",
     "tamanhos": null,
@@ -15,17 +15,17 @@
     "curso_mm": 40
   },
   "componentes": {
-    "grupo": "LTWOO",
+    "grupo": "LTWOO 7V",
     "velocidades": 7,
     "tipo_freio": "Disco mecânico",
-    "peso_kg": null
+    "peso_kg": 13
   },
   "ebike": null,
   "fontes": [
     {
       "url": "https://www.krwbikes.com.br/produtos/bicicleta-mtb-krw-aro-20-com-cambio-7-velocidades-l20/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

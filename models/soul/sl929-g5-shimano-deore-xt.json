@@ -6,7 +6,7 @@
   "categoria": "mtb",
   "url_fabricante": "https://www.soulcycles.com.br/bicicleta-sl929-g5-shimano-deore-xt-pedra-riscada/p",
   "preco_sugerido_brl": 14000,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
     "material": "Alumínio",
     "tamanhos": [
@@ -20,9 +20,9 @@
     "curso_mm": 110
   },
   "componentes": {
-    "grupo": "Shimano Deore / XT 12V",
+    "grupo": "Shimano Deore / XT 1x12",
     "velocidades": 12,
-    "tipo_freio": "Disco hidráulico Shimano MT200",
+    "tipo_freio": "Disco hidráulico Shimano MT200, rotores 160 mm",
     "peso_kg": 12.4
   },
   "ebike": null,
@@ -30,7 +30,7 @@
     {
       "url": "https://www.soulcycles.com.br/bicicleta-sl929-g5-shimano-deore-xt-pedra-riscada/p",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

@@ -6,9 +6,9 @@
   "categoria": "ebike",
   "url_fabricante": "https://www.specialized.com/br/pt/turbo-levo-4-comp/p/4278662",
   "preco_sugerido_brl": 72990,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Carbono",
+    "material": "Carbono FACT 11m",
     "tamanhos": [
       "S2",
       "S3",
@@ -21,7 +21,7 @@
     "curso_mm": 160
   },
   "componentes": {
-    "grupo": "SRAM S1000 Eagle Transmission 12V, garfo FOX FLOAT 36 Rhythm",
+    "grupo": "SRAM S1000 Eagle Transmission AXS 1x12",
     "velocidades": 12,
     "tipo_freio": "Disco hidráulico SRAM Maven Bronze, rotores 220/200 mm",
     "peso_kg": 24.41
@@ -42,7 +42,7 @@
     {
       "url": "https://www.specialized.com/br/pt/turbo-levo-4-comp/p/4278662",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

@@ -6,19 +6,23 @@
   "categoria": "ebike",
   "url_fabricante": "https://oggibikes.com.br/bike/potenza-squadra/",
   "preco_sugerido_brl": 79999,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-10",
   "quadro": {
-    "material": "Carbono",
-    "tamanhos": null,
-    "aro": null,
+    "material": "Fibra de carbono",
+    "tamanhos": [
+      "S",
+      "M",
+      "L"
+    ],
+    "aro": "29",
     "suspensao": "full",
     "curso_mm": 160
   },
   "componentes": {
-    "grupo": "SRAM XX AXS 12V",
+    "grupo": "SRAM XX SL Eagle AXS T-Type 12V",
     "velocidades": 12,
-    "tipo_freio": "Hidráulico SRAM rotores 200 mm",
-    "peso_kg": null
+    "tipo_freio": "Hidráulico SRAM Maven Ultimate 4 pistões, rotores 200 mm",
+    "peso_kg": 22.8
   },
   "ebike": {
     "motor_tipo": "Shimano EP801 (central)",
@@ -36,12 +40,12 @@
     {
       "url": "https://oggibikes.com.br/bike/potenza-squadra/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     },
     {
       "url": "https://oggibikes.com.br/modelos-eletricas/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {

@@ -8,7 +8,7 @@
   "preco_sugerido_brl": 12999.9,
   "atualizado_em": "2026-11-08",
   "quadro": {
-    "material": "Carbono T700/T800",
+    "material": "MTB HT CARBONO T700/T800 TAPERED",
     "tamanhos": [
       "S",
       "M",
@@ -20,9 +20,9 @@
     "curso_mm": 100
   },
   "componentes": {
-    "grupo": "Shimano Deore M6100 1x12 (cassete 11-51T), garfo RockShox Judy Silver TK",
+    "grupo": "Shimano Deore M6100 1x12 (cassete 11-51T)",
     "velocidades": 12,
-    "tipo_freio": "Disco Shimano BL-M6100, rotores 180/160 mm",
+    "tipo_freio": "Disco Shimano BL-M6100 (Deore), rotores Shimano SM-RT64 180/160 mm",
     "peso_kg": null
   },
   "ebike": null,
@@ -31,6 +31,11 @@
       "url": "https://collibike.com.br/bicicletas/zurich-comp-sh/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-08"
+    },
+    {
+      "url": "http://web.archive.org/web/20260211175657/https://collibike.com.br/bicicletas/zurich-comp-sh/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-10"
     }
   ]
 }

@@ -8,30 +8,30 @@
   "preco_sugerido_brl": 26990,
   "atualizado_em": "2026-11-08",
   "quadro": {
-    "material": "Carbono",
+    "material": "Carbono OCLV Série 500",
     "tamanhos": [
       "P",
       "M",
       "MG",
       "G",
-      "GG"
+      "XG"
     ],
     "aro": "700c",
     "suspensao": "rigida",
     "curso_mm": null
   },
   "componentes": {
-    "grupo": "SRAM Apex XPLR eTap AXS 12V",
+    "grupo": "SRAM Apex XPLR eTap AXS 1x12",
     "velocidades": 12,
-    "tipo_freio": null,
-    "peso_kg": null
+    "tipo_freio": "Disco, montagem plana, rotores SRAM Paceline Centerlock 160 mm",
+    "peso_kg": 9.5
   },
   "ebike": null,
   "fontes": [
     {
       "url": "https://www.trekbikes.com/br/pt_BR/bicicletas/bicicletas-para-turismo-e-bikepacking/checkpoint/checkpoint-sl/checkpoint-sl-5-axs-3%C2%AA-gera%C3%A7%C3%A3o/p/47071/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-08"
+      "acessado_em": "2026-11-10"
     }
   ],
   "imagem": {
