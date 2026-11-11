@@ -156,7 +156,7 @@ Parâmetros que identificam o produto, como cor, variante ou `seller_id`, podem 
 
 ## Dica de acessório
 
-Uma dica por arquivo, em `acessorios/<slug>.json`, no formato de [`schemas/dica.schema.json`](schemas/dica.schema.json). A `categoria` é `capacete`, `luz`, `cadeado`, `bomba`, `ferramenta` ou `outro`. Os links seguem a regra de URL limpa; sem link, use `null`.
+Uma dica por arquivo, em `acessorios/<slug>.json`, no formato de [`schemas/dica.schema.json`](schemas/dica.schema.json). A `categoria` é `capacete`, `luz`, `cadeado`, `bomba`, `ferramenta`, `bolsa` (inclui alforje e mochila de bike), `computador` (computador de bordo, GPS e sensores) ou `outro`. Os links seguem a regra de URL limpa; sem link, use `null`.
 
 ```json
 {
