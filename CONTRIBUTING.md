@@ -102,7 +102,9 @@ Numa e-bike, `categoria` é `"ebike"` e o bloco `ebike` traz todos os campos aba
 }
 ```
 
-- `assistencia_so_com_pedal` só é `true` quando a fonte diz que o motor assiste exclusivamente durante a pedalada. A falta de acelerador não prova isso.
+- `potencia_w` é a potência nominal do motor, a que a Resolução Contran 996/2023 limita. Se a página da bike nomeia o motor, mas só dá a potência de pico (como os 600 W do Shimano EP8) ou não dá potência nenhuma, use a nominal que o fabricante do motor publica, com a página dele em `fontes`. Se ele não publicar, use `null`.
+- `assistencia_so_com_pedal` só é `true` quando uma fonte diz que o motor assiste exclusivamente durante a pedalada. A falta de acelerador na página da bike não prova isso.
+- A documentação oficial do fabricante do motor também serve de fonte para `acelerador` e `assistencia_so_com_pedal` quando diz que o sistema só assiste enquanto se pedala. Nesse caso, a bike recebe `acelerador: false` e `assistencia_so_com_pedal: true`, com essa página em `fontes` e `tipo` `"fabricante"`, a menos que a página da bike mostre um acelerador. O modo de assistência a pé, que move a bike até 6 km/h sem pedalar, não muda a resposta, porque o § 4º do art. 2º da resolução o permite na bicicleta elétrica. Sem essa documentação, vale o que a página da bike disser.
 - `vel_max_kmh` é a velocidade máxima com motor declarada pelo fabricante: a maior entre acelerador e assistência, a velocidade máxima de fabricação da Resolução Contran 996/2023. Numa bike com acelerador, se a fonte só informar até onde vai a assistência, use `null`.
 
 ## Regras editoriais
