@@ -6,7 +6,7 @@
   "categoria": "ebike",
   "url_fabricante": "https://audaxbike.com/bike/251/triton-eletric-2027",
   "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-10",
+  "atualizado_em": "2026-11-11",
   "quadro": {
     "material": "Alumínio 6061 T6",
     "tamanhos": [
@@ -25,21 +25,31 @@
   },
   "ebike": {
     "motor_tipo": "Shimano Steps DU-E8000 (central)",
-    "potencia_w": null,
+    "potencia_w": 250,
     "torque_nm": 70,
     "bateria_wh": 630,
     "autonomia_declarada_km": null,
-    "acelerador": null,
-    "assistencia_so_com_pedal": null,
+    "acelerador": false,
+    "assistencia_so_com_pedal": true,
     "vel_max_kmh": 32,
-    "largura_cm": null,
+    "largura_cm": 76,
     "entre_eixos_cm": null
   },
   "fontes": [
     {
       "url": "https://audaxbike.com/bike/251/triton-eletric-2027",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-10"
+      "acessado_em": "2026-11-11"
+    },
+    {
+      "url": "https://si.shimano.com/en/pdfs/um/72F0B/UM-72F0B-000-ENG.pdf",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-11"
+    },
+    {
+      "url": "https://si.shimano.com/pt/pdfs/um/72F0B/UM-72F0B-000-POR.pdf",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-11"
     }
   ],
   "imagem": {

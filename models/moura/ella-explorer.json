@@ -6,7 +6,7 @@
   "categoria": "ebike",
   "url_fabricante": "https://www.ebikeella.com.br/products/ella-explorer",
   "preco_sugerido_brl": 11990,
-  "atualizado_em": "2026-11-10",
+  "atualizado_em": "2026-11-11",
   "quadro": {
     "material": "Alumínio",
     "tamanhos": null,
@@ -28,7 +28,7 @@
     "autonomia_declarada_km": 80,
     "acelerador": true,
     "assistencia_so_com_pedal": false,
-    "vel_max_kmh": 32,
+    "vel_max_kmh": null,
     "largura_cm": 72,
     "entre_eixos_cm": null
   },
@@ -36,12 +36,12 @@
     {
       "url": "https://www.ebikeella.com.br/products/ella-explorer",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-10"
+      "acessado_em": "2026-11-11"
     },
     {
       "url": "https://www.ebikeella.com.br/pages/ella-explorer",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-10"
+      "acessado_em": "2026-11-11"
     }
   ],
   "imagem": {

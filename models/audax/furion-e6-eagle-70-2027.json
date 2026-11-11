@@ -6,7 +6,7 @@
   "categoria": "ebike",
   "url_fabricante": "https://audaxbike.com/bike/252/furion-e6-eagle-70-2027",
   "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-10",
+  "atualizado_em": "2026-11-11",
   "quadro": {
     "material": "Carbono UD Toray T700",
     "tamanhos": [
@@ -33,14 +33,14 @@
     "acelerador": null,
     "assistencia_so_com_pedal": null,
     "vel_max_kmh": 45,
-    "largura_cm": null,
+    "largura_cm": 80,
     "entre_eixos_cm": null
   },
   "fontes": [
     {
       "url": "https://audaxbike.com/bike/252/furion-e6-eagle-70-2027",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-10"
+      "acessado_em": "2026-11-11"
     }
   ],
   "imagem": {

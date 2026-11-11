@@ -6,7 +6,7 @@
   "categoria": "ebike",
   "url_fabricante": "https://www.specialized.com/br/pt/turbo-levo-4-comp/p/4278662",
   "preco_sugerido_brl": 72990,
-  "atualizado_em": "2026-11-10",
+  "atualizado_em": "2026-11-11",
   "quadro": {
     "material": "Carbono FACT 11m",
     "tamanhos": [
@@ -28,12 +28,12 @@
   },
   "ebike": {
     "motor_tipo": "Specialized 3.1 Motor",
-    "potencia_w": 810,
+    "potencia_w": 250,
     "torque_nm": 105,
     "bateria_wh": 840,
     "autonomia_declarada_km": null,
-    "acelerador": null,
-    "assistencia_so_com_pedal": null,
+    "acelerador": false,
+    "assistencia_so_com_pedal": true,
     "vel_max_kmh": null,
     "largura_cm": null,
     "entre_eixos_cm": null
@@ -42,7 +42,17 @@
     {
       "url": "https://www.specialized.com/br/pt/turbo-levo-4-comp/p/4278662",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-10"
+      "acessado_em": "2026-11-11"
+    },
+    {
+      "url": "https://support.specialized.com/kb/sp_en-us/content/ECV3-9757/Turbo-Levo-4-Motors",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-11"
+    },
+    {
+      "url": "https://media.specialized.com/support/collateral/LEVO_G4_USER_MANUAL_PORTUGUESE.pdf",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-11"
     }
   ],
   "imagem": {

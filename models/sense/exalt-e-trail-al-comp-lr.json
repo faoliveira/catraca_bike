@@ -6,7 +6,7 @@
   "categoria": "ebike",
   "url_fabricante": "https://www.sensebike.com.br/produtos/exalt-e-trail-al-comp-lr/",
   "preco_sugerido_brl": 42990,
-  "atualizado_em": "2026-11-10",
+  "atualizado_em": "2026-11-11",
   "quadro": {
     "material": "Alumínio Hidroformado 6061",
     "tamanhos": [
@@ -27,7 +27,7 @@
   },
   "ebike": {
     "motor_tipo": "Shimano DU-EP8 (central)",
-    "potencia_w": 600,
+    "potencia_w": 250,
     "torque_nm": 85,
     "bateria_wh": 871,
     "autonomia_declarada_km": null,
@@ -41,7 +41,12 @@
     {
       "url": "https://www.sensebike.com.br/produtos/exalt-e-trail-al-comp-lr/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-10"
+      "acessado_em": "2026-11-11"
+    },
+    {
+      "url": "https://si.shimano.com/pt/pdfs/um/7K70A/UM-7K70A-004-POR.pdf",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-11"
     }
   ],
   "imagem": {

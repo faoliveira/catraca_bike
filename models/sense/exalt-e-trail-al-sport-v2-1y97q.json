@@ -6,7 +6,7 @@
   "categoria": "ebike",
   "url_fabricante": "https://www.sensebike.com.br/produtos/exalt-e-trail-al-sport-v2-1y97q/",
   "preco_sugerido_brl": 32990,
-  "atualizado_em": "2026-11-10",
+  "atualizado_em": "2026-11-11",
   "quadro": {
     "material": "Alumínio Hidroformado 6061",
     "tamanhos": [
@@ -27,21 +27,26 @@
   },
   "ebike": {
     "motor_tipo": "Shimano DU-EP6 (central)",
-    "potencia_w": null,
+    "potencia_w": 250,
     "torque_nm": 85,
     "bateria_wh": 820,
     "autonomia_declarada_km": null,
     "acelerador": null,
     "assistencia_so_com_pedal": null,
     "vel_max_kmh": 45,
-    "largura_cm": null,
+    "largura_cm": 80,
     "entre_eixos_cm": null
   },
   "fontes": [
     {
       "url": "https://www.sensebike.com.br/produtos/exalt-e-trail-al-sport-v2-1y97q/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-10"
+      "acessado_em": "2026-11-11"
+    },
+    {
+      "url": "https://si.shimano.com/pt/pdfs/um/7K70A/UM-7K70A-004-POR.pdf",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-11"
     }
   ],
   "imagem": {

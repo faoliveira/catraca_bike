@@ -6,7 +6,7 @@
   "categoria": "ebike",
   "url_fabricante": "https://oggibikes.com.br/bike/e-bike-big-wheel-8-0-c-acelerador/",
   "preco_sugerido_brl": 8499,
-  "atualizado_em": "2026-11-10",
+  "atualizado_em": "2026-11-11",
   "quadro": {
     "material": "Alumínio",
     "tamanhos": [
@@ -31,7 +31,7 @@
     "bateria_wh": 460.8,
     "autonomia_declarada_km": 60,
     "acelerador": true,
-    "assistencia_so_com_pedal": null,
+    "assistencia_so_com_pedal": false,
     "vel_max_kmh": null,
     "largura_cm": null,
     "entre_eixos_cm": null
@@ -40,12 +40,12 @@
     {
       "url": "https://oggibikes.com.br/bike/e-bike-big-wheel-8-0-c-acelerador/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-10"
+      "acessado_em": "2026-11-11"
     },
     {
       "url": "https://oggibikes.com.br/modelos-eletricas/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-10"
+      "acessado_em": "2026-11-11"
     }
   ],
   "imagem": {

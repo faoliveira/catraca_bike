@@ -6,7 +6,7 @@
   "categoria": "ebike",
   "url_fabricante": "https://www.trekbikes.com/br/pt_BR/bicicletas/mountain-bikes/mountain-bikes-el%C3%A9tricas/rail/rail-9-7-5%C2%AA-gera%C3%A7%C3%A3o/p/48469/",
   "preco_sugerido_brl": 69990,
-  "atualizado_em": "2026-11-10",
+  "atualizado_em": "2026-11-11",
   "quadro": {
     "material": "Carbono OCLV Mountain Carbon (chainstay e seatstay em alumínio)",
     "tamanhos": [
@@ -27,26 +27,36 @@
   },
   "ebike": {
     "motor_tipo": "Bosch Performance Line CX",
-    "potencia_w": null,
+    "potencia_w": 250,
     "torque_nm": null,
     "bateria_wh": 800,
     "autonomia_declarada_km": null,
-    "acelerador": null,
-    "assistencia_so_com_pedal": null,
+    "acelerador": false,
+    "assistencia_so_com_pedal": true,
     "vel_max_kmh": 45,
-    "largura_cm": null,
+    "largura_cm": 78,
     "entre_eixos_cm": null
   },
   "fontes": [
     {
       "url": "https://www.trekbikes.com/br/pt_BR/bicicletas/mountain-bikes/mountain-bikes-el%C3%A9tricas/rail/rail-9-7-5%C2%AA-gera%C3%A7%C3%A3o/p/48469/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-10"
+      "acessado_em": "2026-11-11"
     },
     {
       "url": "https://www.trekbikes.com/br/pt_BR/bicicletas/mountain-bikes/mountain-bikes-el%C3%A9tricas/rail/f/F344/rail%252b-9-7-5%25c2%25aa-gera%25c3%25a7%25c3%25a3o/48469/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-10"
+      "acessado_em": "2026-11-11"
+    },
+    {
+      "url": "https://www.bosch-ebike.com/en/products/drive-unit",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-11"
+    },
+    {
+      "url": "https://www.bosch-ebike.com/fileadmin/EBC/Service/Downloads/Bedienungsanleitungen/MY2024/BES3/DriveUnit_Perf_CX_BDU37x/Bosch-eBike-Manual-BDU37XY_DriveUnit_MY24_WEU_oReg_v1.pdf",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-11"
     }
   ],
   "imagem": {

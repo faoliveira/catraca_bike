@@ -6,7 +6,7 @@
   "categoria": "ebike",
   "url_fabricante": "https://golev.com.br/products/lev-parley",
   "preco_sugerido_brl": 10980,
-  "atualizado_em": "2026-11-10",
+  "atualizado_em": "2026-11-11",
   "quadro": {
     "material": "Alumínio",
     "tamanhos": null,
@@ -21,14 +21,14 @@
     "peso_kg": 20
   },
   "ebike": {
-    "motor_tipo": "Motor elétrico 350 W",
-    "potencia_w": 350,
+    "motor_tipo": "Motor elétrico 700 W",
+    "potencia_w": 700,
     "torque_nm": null,
-    "bateria_wh": 432,
+    "bateria_wh": 480,
     "autonomia_declarada_km": 30,
-    "acelerador": null,
-    "assistencia_so_com_pedal": null,
-    "vel_max_kmh": 25,
+    "acelerador": true,
+    "assistencia_so_com_pedal": false,
+    "vel_max_kmh": 32,
     "largura_cm": null,
     "entre_eixos_cm": null
   },
@@ -36,7 +36,17 @@
     {
       "url": "https://golev.com.br/products/lev-parley",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-10"
+      "acessado_em": "2026-11-11"
+    },
+    {
+      "url": "https://golev.com.br/pages/parley",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-11"
+    },
+    {
+      "url": "https://golev.com.br/cdn/shop/t/13/assets/vtex-pages-manual-CRUISER.pdf",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-11"
     }
   ]
 }

@@ -6,7 +6,7 @@
   "categoria": "ebike",
   "url_fabricante": "https://www.specialized.com/br/pt/bicicleta-turbo-tero-30/p/216846",
   "preco_sugerido_brl": 26990,
-  "atualizado_em": "2026-11-10",
+  "atualizado_em": "2026-11-11",
   "quadro": {
     "material": "Alumínio E5",
     "tamanhos": [
@@ -31,8 +31,8 @@
     "torque_nm": 50,
     "bateria_wh": 530,
     "autonomia_declarada_km": 110,
-    "acelerador": null,
-    "assistencia_so_com_pedal": null,
+    "acelerador": false,
+    "assistencia_so_com_pedal": true,
     "vel_max_kmh": null,
     "largura_cm": null,
     "entre_eixos_cm": null
@@ -42,6 +42,11 @@
       "url": "https://www.specialized.com/br/pt/bicicleta-turbo-tero-30/p/216846",
       "tipo": "fabricante",
       "acessado_em": "2026-11-10"
+    },
+    {
+      "url": "https://media.specialized.com/support/collateral/2022_VADO_USER_MANUAL_PORTUGUESE_BRAZILIAN.pdf",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-11"
     }
   ],
   "imagem": {

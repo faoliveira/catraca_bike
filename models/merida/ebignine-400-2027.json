@@ -6,7 +6,7 @@
   "categoria": "ebike",
   "url_fabricante": "https://www.merida-bikes.com/en/bike/6449/ebignine-400",
   "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-10",
+  "atualizado_em": "2026-11-11",
   "quadro": {
     "material": "Alumínio eBIG.NINE LITE III (PROLITE 66 triple butted)",
     "tamanhos": [
@@ -27,7 +27,7 @@
   },
   "ebike": {
     "motor_tipo": "Shimano EP6",
-    "potencia_w": 500,
+    "potencia_w": 250,
     "torque_nm": 85,
     "bateria_wh": 630,
     "autonomia_declarada_km": null,
@@ -41,7 +41,12 @@
     {
       "url": "https://www.merida-bikes.com/en/bike/6449/ebignine-400",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-10"
+      "acessado_em": "2026-11-11"
+    },
+    {
+      "url": "https://si.shimano.com/pt/pdfs/um/7K70A/UM-7K70A-004-POR.pdf",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-11"
     }
   ],
   "imagem": {

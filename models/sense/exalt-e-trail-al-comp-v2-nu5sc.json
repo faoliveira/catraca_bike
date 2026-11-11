@@ -6,7 +6,7 @@
   "categoria": "ebike",
   "url_fabricante": "https://www.sensebike.com.br/produtos/exalt-e-trail-al-comp-v2-nu5sc/",
   "preco_sugerido_brl": 40990,
-  "atualizado_em": "2026-11-10",
+  "atualizado_em": "2026-11-11",
   "quadro": {
     "material": "Alumínio Hidroformado 6061",
     "tamanhos": [
@@ -27,7 +27,7 @@
   },
   "ebike": {
     "motor_tipo": "Shimano DU-EP8 (central)",
-    "potencia_w": null,
+    "potencia_w": 250,
     "torque_nm": null,
     "bateria_wh": 820,
     "autonomia_declarada_km": null,
@@ -42,6 +42,11 @@
       "url": "https://www.sensebike.com.br/produtos/exalt-e-trail-al-comp-v2-nu5sc/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-10"
+    },
+    {
+      "url": "https://si.shimano.com/pt/pdfs/um/7K70A/UM-7K70A-004-POR.pdf",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-11"
     }
   ],
   "imagem": {

@@ -6,7 +6,7 @@
   "categoria": "ebike",
   "url_fabricante": "https://golev.com.br/pages/city",
   "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-10",
+  "atualizado_em": "2026-11-11",
   "quadro": {
     "material": "Alumínio",
     "tamanhos": null,
@@ -26,8 +26,8 @@
     "torque_nm": null,
     "bateria_wh": 417.6,
     "autonomia_declarada_km": 40,
-    "acelerador": null,
-    "assistencia_so_com_pedal": null,
+    "acelerador": true,
+    "assistencia_so_com_pedal": false,
     "vel_max_kmh": 29,
     "largura_cm": null,
     "entre_eixos_cm": null
@@ -36,7 +36,12 @@
     {
       "url": "https://golev.com.br/pages/city",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-10"
+      "acessado_em": "2026-11-11"
+    },
+    {
+      "url": "https://golev.com.br/cdn/shop/t/13/assets/vtex-pages-manual-EBIKE_CITY.pdf",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-11"
     }
   ]
 }
