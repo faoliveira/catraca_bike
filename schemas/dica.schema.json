@@ -20,8 +20,11 @@
         "cadeado",
         "bomba",
         "ferramenta",
+        "bolsa",
+        "computador",
         "outro"
-      ]
+      ],
+      "description": "bolsa inclui alforje e mochila de bike; computador inclui computador de bordo, GPS e sensores."
     },
     "resumo": {
       "type": "string",

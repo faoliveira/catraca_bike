@@ -53,7 +53,7 @@ Para apontar um dado errado sem editar arquivo, abra o [formulário de correçã
 
 ```text
 models/<pasta-da-marca>/<slug>.json   um arquivo por modelo
-acessorios/<slug>.json                dicas de capacete, luz, cadeado, bomba e ferramenta
+acessorios/<slug>.json                dicas de capacete, luz, cadeado, bomba, bolsa, computador de bordo e sensores
 comparisons.json                      pares de modelos que ganham uma página de comparação no site
 schemas/                              bike.schema.json e dica.schema.json
 scripts/validar.ts                    a validação (bun run validar)
