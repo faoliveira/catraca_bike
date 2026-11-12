@@ -33,7 +33,7 @@
     "autonomia_declarada_km": null,
     "acelerador": false,
     "assistencia_so_com_pedal": true,
-    "vel_max_kmh": 45,
+    "vel_max_kmh": 32,
     "largura_cm": 78,
     "entre_eixos_cm": null
   },
@@ -56,6 +56,16 @@
     {
       "url": "https://www.bosch-ebike.com/fileadmin/EBC/Service/Downloads/Bedienungsanleitungen/MY2024/BES3/DriveUnit_Perf_CX_BDU37x/Bosch-eBike-Manual-BDU37XY_DriveUnit_MY24_WEU_oReg_v1.pdf",
       "tipo": "fabricante",
+      "acessado_em": "2026-11-11"
+    },
+    {
+      "url": "https://www.trekbikes.com/br/pt_BR/rail-plus-high-powered-emtb",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-11"
+    },
+    {
+      "url": "https://www.visualbike.com.br/rail-97-5a-geracao-navy-smoke-trek-101544",
+      "tipo": "loja",
       "acessado_em": "2026-11-11"
     }
   ],

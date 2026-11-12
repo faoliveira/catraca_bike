@@ -30,8 +30,8 @@
     "torque_nm": 85,
     "bateria_wh": 630,
     "autonomia_declarada_km": null,
-    "acelerador": null,
-    "assistencia_so_com_pedal": null,
+    "acelerador": false,
+    "assistencia_so_com_pedal": true,
     "vel_max_kmh": 45,
     "largura_cm": 80,
     "entre_eixos_cm": null
@@ -39,6 +39,11 @@
   "fontes": [
     {
       "url": "https://audaxbike.com/bike/252/furion-e6-eagle-70-2027",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-11"
+    },
+    {
+      "url": "https://bike.shimano.com/stories/article/shimano-e-mtb-basics.html",
       "tipo": "fabricante",
       "acessado_em": "2026-11-11"
     }

@@ -31,8 +31,8 @@
     "torque_nm": 85,
     "bateria_wh": 725,
     "autonomia_declarada_km": null,
-    "acelerador": null,
-    "assistencia_so_com_pedal": null,
+    "acelerador": false,
+    "assistencia_so_com_pedal": true,
     "vel_max_kmh": 45,
     "largura_cm": 80,
     "entre_eixos_cm": null
@@ -45,6 +45,11 @@
     },
     {
       "url": "https://si.shimano.com/pt/pdfs/um/7K70A/UM-7K70A-004-POR.pdf",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-11"
+    },
+    {
+      "url": "https://bike.shimano.com/stories/article/shimano-e-mtb-basics.html",
       "tipo": "fabricante",
       "acessado_em": "2026-11-11"
     }
