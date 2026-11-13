@@ -6,7 +6,7 @@
   "categoria": "ebike",
   "url_fabricante": "https://www.sensebike.com.br/produtos/impulse-e-trail-27-5/",
   "preco_sugerido_brl": 23999,
-  "atualizado_em": "2026-11-10",
+  "atualizado_em": "2026-11-11",
   "quadro": {
     "material": "Alumínio 6061",
     "tamanhos": [
@@ -27,21 +27,31 @@
   },
   "ebike": {
     "motor_tipo": "Shimano DU-E8000 (central)",
-    "potencia_w": 500,
+    "potencia_w": 250,
     "torque_nm": null,
     "bateria_wh": 630,
     "autonomia_declarada_km": null,
-    "acelerador": null,
-    "assistencia_so_com_pedal": null,
+    "acelerador": false,
+    "assistencia_so_com_pedal": true,
     "vel_max_kmh": null,
-    "largura_cm": null,
+    "largura_cm": 78,
     "entre_eixos_cm": null
   },
   "fontes": [
     {
       "url": "https://www.sensebike.com.br/produtos/impulse-e-trail-27-5/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-10"
+      "acessado_em": "2026-11-11"
+    },
+    {
+      "url": "https://si.shimano.com/en/pdfs/um/72F0B/UM-72F0B-000-ENG.pdf",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-11"
+    },
+    {
+      "url": "https://si.shimano.com/pt/pdfs/um/72F0B/UM-72F0B-000-POR.pdf",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-11"
     }
   ],
   "imagem": {

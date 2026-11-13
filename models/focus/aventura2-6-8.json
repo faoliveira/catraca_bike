@@ -6,7 +6,7 @@
   "categoria": "ebike",
   "url_fabricante": "https://www.focus-bikes.com/int/aventura2-6-8",
   "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-10",
+  "atualizado_em": "2026-11-11",
   "quadro": {
     "material": "Alumínio 7005 hidroformado",
     "tamanhos": [
@@ -27,12 +27,12 @@
   },
   "ebike": {
     "motor_tipo": "Bosch Performance Line CX",
-    "potencia_w": null,
+    "potencia_w": 250,
     "torque_nm": 85,
     "bateria_wh": null,
     "autonomia_declarada_km": null,
-    "acelerador": null,
-    "assistencia_so_com_pedal": null,
+    "acelerador": false,
+    "assistencia_so_com_pedal": true,
     "vel_max_kmh": null,
     "largura_cm": null,
     "entre_eixos_cm": null
@@ -42,6 +42,16 @@
       "url": "https://www.focus-bikes.com/int/aventura2-6-8",
       "tipo": "fabricante",
       "acessado_em": "2026-11-10"
+    },
+    {
+      "url": "https://www.bosch-ebike.com/en/products/drive-unit",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-11"
+    },
+    {
+      "url": "https://www.bosch-ebike.com/fileadmin/EBC/Service/Downloads/Bedienungsanleitungen/MY2024/BES3/DriveUnit_Perf_CX_BDU37x/Bosch-eBike-Manual-BDU37XY_DriveUnit_MY24_WEU_oReg_v1.pdf",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-11"
     }
   ],
   "imagem": {

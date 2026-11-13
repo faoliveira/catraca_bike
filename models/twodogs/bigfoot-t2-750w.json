@@ -6,7 +6,7 @@
   "categoria": "ebike",
   "url_fabricante": "https://twodogs.com/produto/bicicleta-eletrica-dobravel-two-dogs-bigfoot2/",
   "preco_sugerido_brl": 12990,
-  "atualizado_em": "2026-11-10",
+  "atualizado_em": "2026-11-11",
   "quadro": {
     "material": "Liga 6061 de alumínio dobrável",
     "tamanhos": null,
@@ -27,16 +27,16 @@
     "bateria_wh": 672,
     "autonomia_declarada_km": 65,
     "acelerador": true,
-    "assistencia_so_com_pedal": null,
+    "assistencia_so_com_pedal": false,
     "vel_max_kmh": 32,
-    "largura_cm": null,
+    "largura_cm": 60,
     "entre_eixos_cm": null
   },
   "fontes": [
     {
       "url": "https://twodogs.com/produto/bicicleta-eletrica-dobravel-two-dogs-bigfoot2/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-10"
+      "acessado_em": "2026-11-11"
     }
   ]
 }

@@ -6,7 +6,7 @@
   "categoria": "ebike",
   "url_fabricante": "https://tswbike.com/p/1223/e-quest-deore",
   "preco_sugerido_brl": 36900,
-  "atualizado_em": "2026-11-10",
+  "atualizado_em": "2026-11-11",
   "quadro": {
     "material": "Carbono Toray",
     "tamanhos": [
@@ -27,21 +27,31 @@
   },
   "ebike": {
     "motor_tipo": "Shimano EP6 (central)",
-    "potencia_w": null,
+    "potencia_w": 250,
     "torque_nm": 85,
     "bateria_wh": 504,
     "autonomia_declarada_km": null,
-    "acelerador": null,
-    "assistencia_so_com_pedal": null,
+    "acelerador": false,
+    "assistencia_so_com_pedal": true,
     "vel_max_kmh": 25,
-    "largura_cm": null,
+    "largura_cm": 80,
     "entre_eixos_cm": null
   },
   "fontes": [
     {
       "url": "https://tswbike.com/p/1223/e-quest-deore",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-10"
+      "acessado_em": "2026-11-11"
+    },
+    {
+      "url": "https://si.shimano.com/pt/pdfs/um/7K70A/UM-7K70A-004-POR.pdf",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-11"
+    },
+    {
+      "url": "https://bike.shimano.com/stories/article/shimano-e-mtb-basics.html",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-11"
     }
   ],
   "imagem": {

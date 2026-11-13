@@ -6,7 +6,7 @@
   "categoria": "ebike",
   "url_fabricante": "https://www.trekbikes.com/br/pt_BR/bicicletas/bicicletas-el%C3%A9tricas/bicicletas-el%C3%A9tricas-para-ciclismo-de-estrada/domane-alr-5/p/56175/",
   "preco_sugerido_brl": 34990,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-11",
   "quadro": {
     "material": "Alumínio Alpha Série 300",
     "tamanhos": [
@@ -31,8 +31,8 @@
     "torque_nm": 60,
     "bateria_wh": 360,
     "autonomia_declarada_km": 96,
-    "acelerador": null,
-    "assistencia_so_com_pedal": null,
+    "acelerador": false,
+    "assistencia_so_com_pedal": true,
     "vel_max_kmh": 45,
     "largura_cm": null,
     "entre_eixos_cm": null
@@ -42,6 +42,11 @@
       "url": "https://www.trekbikes.com/br/pt_BR/bicicletas/bicicletas-el%C3%A9tricas/bicicletas-el%C3%A9tricas-para-ciclismo-de-estrada/domane-alr-5/p/56175/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-10"
+    },
+    {
+      "url": "https://www.tq-ebike.com/fileadmin/assets/tq-ebike/downloads/manuals/Drive_Unit/HPR60_Drive_Unit_BHEN_Rev0100_Web.pdf",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-11"
     }
   ],
   "imagem": {

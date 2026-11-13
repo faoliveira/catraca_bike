@@ -6,7 +6,7 @@
   "categoria": "ebike",
   "url_fabricante": "https://oggibikes.com.br/bike/razzo/",
   "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-10",
+  "atualizado_em": "2026-11-11",
   "quadro": {
     "material": "Alumínio",
     "tamanhos": [
@@ -32,7 +32,7 @@
     "autonomia_declarada_km": 60,
     "acelerador": null,
     "assistencia_so_com_pedal": null,
-    "vel_max_kmh": null,
+    "vel_max_kmh": 45,
     "largura_cm": null,
     "entre_eixos_cm": null
   },
@@ -40,12 +40,17 @@
     {
       "url": "https://oggibikes.com.br/bike/razzo/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-10"
+      "acessado_em": "2026-11-11"
     },
     {
       "url": "https://oggibikes.com.br/modelos-eletricas/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-10"
+      "acessado_em": "2026-11-11"
+    },
+    {
+      "url": "https://oggibikes.com.br/oggi-apresenta-nova-linha-de-e-mtbs-no-shimano-fest-2024/",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-11"
     }
   ],
   "imagem": {

@@ -6,7 +6,7 @@
   "categoria": "ebike",
   "url_fabricante": "https://www.trekbikes.com/br/pt_BR/bicicletas/mountain-bikes/mountain-bikes-el%C3%A9tricas/marlin/marlin-6/p/57380/",
   "preco_sugerido_brl": 23990,
-  "atualizado_em": "2026-11-10",
+  "atualizado_em": "2026-11-11",
   "quadro": {
     "material": "Alumínio Alpha Gold",
     "tamanhos": [
@@ -27,12 +27,12 @@
   },
   "ebike": {
     "motor_tipo": "Bosch Active Line Plus",
-    "potencia_w": null,
+    "potencia_w": 250,
     "torque_nm": 50,
     "bateria_wh": 400,
     "autonomia_declarada_km": null,
-    "acelerador": null,
-    "assistencia_so_com_pedal": null,
+    "acelerador": false,
+    "assistencia_so_com_pedal": true,
     "vel_max_kmh": 32,
     "largura_cm": null,
     "entre_eixos_cm": null
@@ -47,6 +47,11 @@
       "url": "https://www.trekbikes.com/br/pt_BR/bicicletas/mountain-bikes/mountain-bikes-el%C3%A9tricas/marlin/f/F358/marlin%252b-6/57380/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-10"
+    },
+    {
+      "url": "https://cdn.css-help-center.prod.connected-biking.cloud/fileadmin/EBC/Service/Downloads/Bedienungsanleitungen/MY2026/BES3/DriveUnit_BDU33x/BDU33XX_DriveUnit_MY26_WEU_oReg_v1.pdf",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-11"
     }
   ],
   "imagem": {

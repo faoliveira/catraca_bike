@@ -6,7 +6,7 @@
   "categoria": "ebike",
   "url_fabricante": "https://caloi.com/produto/e-vibe-peak/",
   "preco_sugerido_brl": 33990,
-  "atualizado_em": "2026-11-10",
+  "atualizado_em": "2026-11-11",
   "quadro": {
     "material": "Alumínio tratado",
     "tamanhos": [
@@ -31,17 +31,22 @@
     "torque_nm": 85,
     "bateria_wh": 750,
     "autonomia_declarada_km": null,
-    "acelerador": null,
-    "assistencia_so_com_pedal": null,
+    "acelerador": false,
+    "assistencia_so_com_pedal": true,
     "vel_max_kmh": 45,
-    "largura_cm": null,
+    "largura_cm": 80,
     "entre_eixos_cm": null
   },
   "fontes": [
     {
       "url": "https://caloi.com/produto/e-vibe-peak/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-10"
+      "acessado_em": "2026-11-11"
+    },
+    {
+      "url": "https://www.bosch-ebike.com/fileadmin/EBC/Service/Downloads/Bedienungsanleitungen/MY2024/BES3/DriveUnit_Perf_CX_BDU37x/Bosch-eBike-Manual-BDU37XY_DriveUnit_MY24_WEU_oReg_v1.pdf",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-11"
     }
   ],
   "imagem": {

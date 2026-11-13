@@ -6,7 +6,7 @@
   "categoria": "ebike",
   "url_fabricante": "https://groovebikes.com.br/produto/bicicleta-eletrica-groove-to-go/",
   "preco_sugerido_brl": 7999.9,
-  "atualizado_em": "2026-11-10",
+  "atualizado_em": "2026-11-11",
   "quadro": {
     "material": "Magnésio",
     "tamanhos": null,
@@ -29,14 +29,14 @@
     "acelerador": true,
     "assistencia_so_com_pedal": false,
     "vel_max_kmh": 32,
-    "largura_cm": null,
+    "largura_cm": 62,
     "entre_eixos_cm": null
   },
   "fontes": [
     {
       "url": "https://groovebikes.com.br/produto/bicicleta-eletrica-groove-to-go/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-10"
+      "acessado_em": "2026-11-11"
     }
   ],
   "imagem": {

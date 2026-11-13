@@ -6,7 +6,7 @@
   "categoria": "ebike",
   "url_fabricante": "https://golev.com.br/products/farm-ebike-bossa-banana",
   "preco_sugerido_brl": 6990,
-  "atualizado_em": "2026-11-10",
+  "atualizado_em": "2026-11-11",
   "quadro": {
     "material": null,
     "tamanhos": null,
@@ -26,9 +26,9 @@
     "torque_nm": null,
     "bateria_wh": null,
     "autonomia_declarada_km": null,
-    "acelerador": null,
-    "assistencia_so_com_pedal": null,
-    "vel_max_kmh": null,
+    "acelerador": true,
+    "assistencia_so_com_pedal": false,
+    "vel_max_kmh": 25,
     "largura_cm": null,
     "entre_eixos_cm": null
   },
@@ -36,7 +36,17 @@
     {
       "url": "https://golev.com.br/products/farm-ebike-bossa-banana",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-10"
+      "acessado_em": "2026-11-11"
+    },
+    {
+      "url": "https://golev.com.br/pages/farm",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-11"
+    },
+    {
+      "url": "https://golev.com.br/cdn/shop/t/13/assets/vtex-pages-manual-EBIKE.pdf",
+      "tipo": "fabricante",
+      "acessado_em": "2026-11-11"
     }
   ]
 }
