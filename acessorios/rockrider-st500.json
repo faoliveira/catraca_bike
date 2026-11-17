@@ -1,13 +1,29 @@
 {
-  "titulo": "Rockrider ST500",
+  "marca": "Rockrider",
+  "modelo": "ST500",
   "slug": "rockrider-st500",
   "categoria": "capacete",
-  "resumo": "O ST500 é um capacete de mountain bike com viseira fixa e certificado EN 1078, e tem nota 4,8 em mais de 7 mil avaliações na Decathlon. Os capacetes da Decathlon aparecem no r/BicicletasBrasil entre as opções baratas que valem a compra.",
+  "papel": "opcao-barata",
+  "resumo": "Capacete de mountain bike com viseira fixa e nota 4,8 em mais de 7 mil avaliações na Decathlon. Os capacetes da Decathlon aparecem no r/BicicletasBrasil entre as opções baratas que valem a compra.",
+  "ficha": [
+    {
+      "rotulo": "Certificação",
+      "valor": "EN 1078"
+    },
+    {
+      "rotulo": "MIPS",
+      "valor": null
+    }
+  ],
+  "imagem": {
+    "arquivo": "acessorios/rockrider-st500.webp",
+    "fonte_url": "https://www.decathlon.com.br/casque-velo-vtt-expl-500-noir-preto-8529388-rockrider/p"
+  },
   "links": [
     {
       "url": "https://www.decathlon.com.br/casque-velo-vtt-expl-500-noir-preto-8529388-rockrider/p",
       "rotulo": "Ver na Decathlon"
     }
   ],
-  "atualizado_em": "2026-11-11"
+  "atualizado_em": "2026-11-17"
 }

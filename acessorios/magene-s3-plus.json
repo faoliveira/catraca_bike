@@ -1,13 +1,30 @@
 {
-  "titulo": "Magene S3+",
+  "marca": "Magene",
+  "modelo": "S3+",
   "slug": "magene-s3-plus",
   "categoria": "computador",
-  "resumo": "Mede velocidade ou cadência, conforme o modo, e se conecta por ANT+ e Bluetooth a aparelhos Garmin, Wahoo e iGPSport e a aplicativos de celular. É o sensor barato mais elogiado no r/cycling, onde um dono conta que usa os seus desde 2020 sem problema; outros reclamam que a bateria acaba rápido.",
+  "subcategoria": "sensor",
+  "papel": "primeira-escolha",
+  "resumo": "Mede velocidade ou cadência, conforme o modo, e se conecta por ANT+ e Bluetooth a aparelhos Garmin, Wahoo e iGPSport. Funciona também com aplicativos de celular. É o sensor barato mais elogiado no r/cycling, onde um dono conta que usa os seus desde 2020 sem problema; outros reclamam que a bateria acaba rápido.",
+  "ficha": [
+    {
+      "rotulo": "Mede",
+      "valor": "Velocidade ou cadência"
+    },
+    {
+      "rotulo": "Conexão",
+      "valor": "ANT+ e Bluetooth"
+    }
+  ],
+  "imagem": {
+    "arquivo": "acessorios/magene-s3-plus.webp",
+    "fonte_url": "https://www.magene.com/en/sensors/59-s3-speed-cadence-dual-mode-sensor.html"
+  },
   "links": [
     {
       "url": "https://pt.aliexpress.com/item/4000561044840.html",
       "rotulo": "Ver no AliExpress"
     }
   ],
-  "atualizado_em": "2026-11-11"
+  "atualizado_em": "2026-11-17"
 }

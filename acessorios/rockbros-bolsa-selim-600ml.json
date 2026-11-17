@@ -1,13 +1,25 @@
 {
-  "titulo": "Rockbros bolsa de selim 600 ml",
+  "marca": "Rockbros",
+  "modelo": "bolsa de selim 600 ml",
   "slug": "rockbros-bolsa-selim-600ml",
   "categoria": "bolsa",
+  "subcategoria": "kit-do-pedal",
   "resumo": "A bolsa de selim impermeável tem 600 ml e expande, o bastante para a câmara reserva e as espátulas. No Reddit, usuários elogiam as bolsas pequenas da Rockbros e reclamam do zíper das maiores, como as de quadro.",
+  "ficha": [
+    {
+      "rotulo": "Onde vai",
+      "valor": "No selim"
+    },
+    {
+      "rotulo": "Capacidade",
+      "valor": "600 ml, expansível"
+    }
+  ],
   "links": [
     {
       "url": "https://pt.aliexpress.com/item/1005009925413758.html",
       "rotulo": "Ver no AliExpress"
     }
   ],
-  "atualizado_em": "2026-11-11"
+  "atualizado_em": "2026-11-17"
 }

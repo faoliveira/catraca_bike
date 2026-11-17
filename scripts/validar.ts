@@ -36,6 +36,8 @@ const MENSAGENS_DE_PADRAO: Array<[(padrao: string) => boolean, string]> = [
   [(p) => p.includes("magazinevoce"), "use a URL do mesmo produto em magazineluiza.com.br, não a do Magazine Você"],
   [(p) => p.includes("-02-29"), "use uma data no formato AAAA-MM-DD"],
   [(p) => p.includes("700c"), "use o aro em polegadas (29, 27.5, 27.5/29) ou 700c, sem aspas"],
+  // Antes da foto de modelo: o padrão da dica também contém "\\.webp", e vale a primeira mensagem que casa.
+  [(p) => p.startsWith("^acessorios"), "use o caminho da foto no formato acessorios/<slug>.webp"],
   [(p) => p.includes("\\.webp"), "use o caminho da foto no formato <pasta-da-marca>/<slug>.webp"],
 ];
 
@@ -48,6 +50,14 @@ const LISTA_VAZIA: Record<string, string> = {
   tamanhos: "lista vazia: use null quando os tamanhos forem desconhecidos",
   links_compra: "lista vazia: tire o campo quando não houver link de compra",
   links: "lista vazia: use null quando a dica não tiver link",
+  ficha: "lista vazia: tire o campo quando a dica não tiver ficha",
+};
+const LISTA_LONGA: Record<string, string> = {
+  ficha: "use no máximo duas linhas na ficha",
+};
+const TEXTO_LONGO: Record<string, string> = {
+  rotulo: "use um rótulo de até 16 caracteres",
+  valor: "use um valor de até 28 caracteres",
 };
 const TIPOS: Record<string, string> = {
   string: "texto",
@@ -113,6 +123,12 @@ export function traduzirErros(erros: ErrorObject[], dados: unknown): Array<{ cam
       case "minItems":
         saida.push({ campo, mensagem: LISTA_VAZIA[nome] ?? "lista vazia" });
         break;
+      case "maxItems":
+        saida.push({ campo, mensagem: LISTA_LONGA[nome] ?? `use no máximo ${especifico.params.limit} itens` });
+        break;
+      case "maxLength":
+        saida.push({ campo, mensagem: TEXTO_LONGO[nome] ?? `use até ${especifico.params.limit} caracteres` });
+        break;
       case "minLength":
         saida.push({ campo, mensagem: "use texto não vazio; se o dado for desconhecido, use null" });
         break;
@@ -166,7 +182,48 @@ interface Bike {
 }
 interface Dica {
   slug: string;
+  categoria: string;
+  subcategoria?: string;
+  papel?: string;
   atualizado_em: string;
+  imagem?: { arquivo: string };
+}
+
+/**
+ * A categoria de cada subcategoria, a mesma tabela do site (SUBCATEGORY_PARENT). O schema só lista os valores,
+ * então um teste confere que esta tabela cobre exatamente o enum de schemas/dica.schema.json.
+ */
+export const SUBCATEGORIA_MAE: Record<string, string> = {
+  farol: "luz",
+  "lanterna-traseira": "luz",
+  carga: "bolsa",
+  "kit-do-pedal": "bolsa",
+  "computador-de-bordo": "computador",
+  sensor: "computador",
+};
+const subcategoriasDe = (categoria: string) => Object.keys(SUBCATEGORIA_MAE).filter((sub) => SUBCATEGORIA_MAE[sub] === categoria);
+
+/**
+ * Regras de uma dica que o schema não expressa, as mesmas do validador do site.
+ */
+function regrasDaDica(dica: Dica, arquivo: string): Array<{ campo: string; mensagem: string }> {
+  const erros: Array<{ campo: string; mensagem: string }> = [];
+  if (arquivo !== `${dica.slug}.json`) erros.push({ campo: "slug", mensagem: `"${dica.slug}" precisa ser igual ao nome do arquivo (${arquivo})` });
+
+  const irmas = subcategoriasDe(dica.categoria);
+  const { subcategoria } = dica;
+  if (subcategoria !== undefined && SUBCATEGORIA_MAE[subcategoria] !== dica.categoria) {
+    const alternativa = irmas.length > 0 ? `use ${irmas.join(" ou ")} ou tire o campo` : "tire o campo";
+    erros.push({ campo: "subcategoria", mensagem: `"${subcategoria}" é de ${SUBCATEGORIA_MAE[subcategoria]}; em ${dica.categoria}, ${alternativa}` });
+  }
+  if (subcategoria === undefined && irmas.length > 0) {
+    erros.push({ campo: "subcategoria", mensagem: `a categoria ${dica.categoria} pede subcategoria: ${irmas.join(" ou ")}` });
+  }
+
+  if (dica.imagem && dica.imagem.arquivo !== `acessorios/${dica.slug}.webp`) {
+    erros.push({ campo: "imagem.arquivo", mensagem: `o caminho da foto desta dica é acessorios/${dica.slug}.webp` });
+  }
+  return erros;
 }
 
 /**
@@ -225,6 +282,7 @@ export async function validarCatalogo(raiz = RAIZ_PADRAO, opcoes: { hoje?: strin
   // Acessórios: acessorios/<slug>.json, no formato de schemas/dica.schema.json.
   const acessorios = (await listar(join(raiz, "acessorios"))).filter((a) => a !== "README.md");
   let totalAcessorios = 0;
+  const primeirasEscolhas = new Map<string, string>();
   for (const relativo of acessorios) {
     const arquivo = `acessorios/${relativo}`;
     if (relativo.includes("/") || !relativo.endsWith(".json")) {
@@ -242,8 +300,15 @@ export async function validarCatalogo(raiz = RAIZ_PADRAO, opcoes: { hoje?: strin
       continue;
     }
     const dica = lido.dados as Dica;
-    if (relativo !== `${dica.slug}.json`) anotar(arquivo, "slug", `"${dica.slug}" precisa ser igual ao nome do arquivo (${relativo})`);
+    for (const { campo, mensagem } of regrasDaDica(dica, relativo)) anotar(arquivo, campo, mensagem);
     if (dica.atualizado_em > hoje) anotar(arquivo, "atualizado_em", `data no futuro (hoje é ${hoje})`);
+    // Uma primeira escolha por prateleira na pasta toda; a segunda, em ordem de arquivo, recebe o erro.
+    if (dica.papel === "primeira-escolha") {
+      const prateleira = dica.subcategoria ? `${dica.categoria}/${dica.subcategoria}` : dica.categoria;
+      const dono = primeirasEscolhas.get(prateleira);
+      if (dono === undefined) primeirasEscolhas.set(prateleira, relativo);
+      else anotar(arquivo, "papel", `a prateleira ${prateleira} já tem a primeira escolha em ${dono}; use outro papel ou tire o campo`);
+    }
   }
 
   // Comparações prontas: pares de ids que existem, sem repetição.

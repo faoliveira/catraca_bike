@@ -1,13 +1,29 @@
 {
-  "titulo": "Cycplus C3",
+  "marca": "Cycplus",
+  "modelo": "C3",
   "slug": "cycplus-c3",
   "categoria": "computador",
-  "resumo": "À prova d'água, mede velocidade ou cadência e se conecta por ANT+ e Bluetooth; no r/cycling, há relato de que aguenta lama no mountain bike. É 1 mm mais grosso que o Magene S3+, então confira a folga entre o pedivela e o quadro.",
+  "subcategoria": "sensor",
+  "resumo": "O sensor é à prova d'água, mede velocidade ou cadência e se conecta por ANT+ e Bluetooth. No r/cycling, um usuário relata que ele aguenta lama no mountain bike. É 1 mm mais grosso que o Magene S3+, então confira a folga entre o pedivela e o quadro.",
+  "ficha": [
+    {
+      "rotulo": "Mede",
+      "valor": "Velocidade ou cadência"
+    },
+    {
+      "rotulo": "Conexão",
+      "valor": "ANT+ e Bluetooth"
+    }
+  ],
+  "imagem": {
+    "arquivo": "acessorios/cycplus-c3.webp",
+    "fonte_url": "https://www.cycplus.com/products/cycplus-smart-speed-cadence-sensor"
+  },
   "links": [
     {
       "url": "https://pt.aliexpress.com/item/1005005481362081.html",
       "rotulo": "Ver no AliExpress"
     }
   ],
-  "atualizado_em": "2026-11-11"
+  "atualizado_em": "2026-11-17"
 }

@@ -4,9 +4,15 @@
   "title": "Dica de acessório Catraca",
   "type": "object",
   "properties": {
-    "titulo": {
+    "marca": {
       "type": "string",
-      "minLength": 1
+      "minLength": 1,
+      "description": "Como a marca escreve o próprio nome: 2C2 Bags, Magicshine, iGPSport."
+    },
+    "modelo": {
+      "type": "string",
+      "minLength": 1,
+      "description": "O nome do produto sem a marca, com número e unidade separados (Drei Night 18 L). Produto sem nome de modelo leva o tipo em minúsculas (alforje 27 L)."
     },
     "slug": {
       "type": "string",
@@ -26,10 +32,97 @@
       ],
       "description": "bolsa inclui alforje e mochila de bike; computador inclui computador de bordo, GPS e sensores."
     },
+    "subcategoria": {
+      "description": "A prateleira dentro da categoria. Obrigatória em luz (farol, lanterna-traseira), bolsa (carga, kit-do-pedal) e computador (computador-de-bordo, sensor); fora delas, tire o campo.",
+      "type": "string",
+      "enum": [
+        "farol",
+        "lanterna-traseira",
+        "carga",
+        "kit-do-pedal",
+        "computador-de-bordo",
+        "sensor"
+      ]
+    },
+    "papel": {
+      "description": "Opcional. O selo da dica na prateleira; primeira-escolha vale para no máximo uma dica por prateleira.",
+      "type": "string",
+      "enum": [
+        "primeira-escolha",
+        "opcao-barata",
+        "feito-no-brasil",
+        "para-ebike"
+      ]
+    },
     "resumo": {
       "type": "string",
       "minLength": 1,
-      "description": "Por que vale a pena, em uma ou duas frases."
+      "description": "A primeira frase diz o que é e por que vale a pena, em até 120 caracteres; as seguintes trazem o relato de quem usa e as ressalvas. Sem preço."
+    },
+    "ficha": {
+      "description": "Opcional. Até duas linhas de rótulo e valor, conferidas na página do produto.",
+      "minItems": 1,
+      "maxItems": 2,
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "rotulo": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 16
+          },
+          "valor": {
+            "anyOf": [
+              {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 28
+              },
+              {
+                "type": "null"
+              }
+            ]
+          }
+        },
+        "required": [
+          "rotulo",
+          "valor"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "imagem": {
+      "description": "Opcional. Sem foto, o site mostra o desenho da categoria.",
+      "type": "object",
+      "properties": {
+        "arquivo": {
+          "type": "string",
+          "pattern": "^acessorios\\/[a-z0-9]+(?:-[a-z0-9]+)*\\.webp$"
+        },
+        "fonte_url": {
+          "type": "string",
+          "allOf": [
+            {
+              "pattern": "^https?:\\/\\/"
+            },
+            {
+              "pattern": "^(?![^#]*[?&](?:utm_[^=&#]*|tag|ref|matt_[^=&#]*|partner_id)=)"
+            },
+            {
+              "pattern": "^(?!https?:\\/\\/(?:amzn\\.to|a\\.co|shope\\.ee|s\\.shopee\\.com\\.br)(?:[/?#:]|$))(?!https?:\\/\\/(?:www\\.)?mercadolivre\\.com\\/sec\\/)"
+            },
+            {
+              "pattern": "^(?!https?:\\/\\/(?:[^/?#]*\\.)?magazinevoce\\.com\\.br(?:[/?#:]|$))"
+            }
+          ]
+        }
+      },
+      "required": [
+        "arquivo",
+        "fonte_url"
+      ],
+      "additionalProperties": false
     },
     "links": {
       "anyOf": [
@@ -80,7 +173,8 @@
     }
   },
   "required": [
-    "titulo",
+    "marca",
+    "modelo",
     "slug",
     "categoria",
     "resumo",

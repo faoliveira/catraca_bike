@@ -1,13 +1,30 @@
 {
-  "titulo": "2C2 Bags Drei Night 18L",
+  "marca": "2C2 Bags",
+  "modelo": "Drei Night 18 L",
   "slug": "2c2-drei-18l",
   "categoria": "bolsa",
-  "resumo": "Para quem vai de bike ao trabalho, a mochila roll-top de 18 L é impermeável e tem bolso acolchoado para notebook de até 16 polegadas. Como as outras peças da 2C2, é fabricada no Brasil e tem garantia vitalícia.",
+  "subcategoria": "carga",
+  "papel": "feito-no-brasil",
+  "resumo": "Mochila roll-top impermeável para quem vai de bike ao trabalho, com bolso acolchoado para notebook de até 16 polegadas. Como as outras peças da 2C2, é fabricada no Brasil e tem garantia vitalícia.",
+  "ficha": [
+    {
+      "rotulo": "Onde vai",
+      "valor": "Nas costas"
+    },
+    {
+      "rotulo": "Capacidade",
+      "valor": "18 L"
+    }
+  ],
+  "imagem": {
+    "arquivo": "acessorios/2c2-drei-18l.webp",
+    "fonte_url": "https://www.2c2bags.com/9ltmhwmsi-drei-18l-preta"
+  },
   "links": [
     {
       "url": "https://www.2c2bags.com/9ltmhwmsi-drei-18l-preta",
       "rotulo": "Ver na 2C2 Bags"
     }
   ],
-  "atualizado_em": "2026-11-11"
+  "atualizado_em": "2026-11-17"
 }

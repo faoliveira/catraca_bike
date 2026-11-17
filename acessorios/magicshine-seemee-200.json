@@ -1,13 +1,30 @@
 {
-  "titulo": "Magicshine SEEMEE 200",
+  "marca": "Magicshine",
+  "modelo": "SEEMEE 200",
   "slug": "magicshine-seemee-200",
   "categoria": "luz",
-  "resumo": "A SEEMEE é a linha de lanterna traseira mais recomendada no r/cycling, e esta versão recarregável fica visível de todos os ângulos. O suporte da caixa prende com cinta de borracha; quem quer encaixe rápido compra um adaptador à parte.",
+  "subcategoria": "lanterna-traseira",
+  "papel": "primeira-escolha",
+  "resumo": "A SEEMEE é a linha de lanterna traseira mais recomendada no r/cycling, e esta versão fica visível de todos os ângulos. Ela é recarregável. O suporte da caixa prende com cinta de borracha; quem quer encaixe rápido compra um adaptador à parte.",
+  "ficha": [
+    {
+      "rotulo": "Brilho",
+      "valor": null
+    },
+    {
+      "rotulo": "Recarga",
+      "valor": null
+    }
+  ],
+  "imagem": {
+    "arquivo": "acessorios/magicshine-seemee-200.webp",
+    "fonte_url": "https://pt.aliexpress.com/item/1005006774314828.html"
+  },
   "links": [
     {
       "url": "https://pt.aliexpress.com/item/1005006774314828.html",
       "rotulo": "Ver no AliExpress"
     }
   ],
-  "atualizado_em": "2026-11-11"
+  "atualizado_em": "2026-11-17"
 }
