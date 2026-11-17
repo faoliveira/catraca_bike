@@ -1,13 +1,30 @@
 {
-  "titulo": "Magicshine ME 1000 V2.0 para e-bike",
+  "marca": "Magicshine",
+  "modelo": "ME 1000 V2.0",
   "slug": "magicshine-me-1000",
   "categoria": "luz",
+  "subcategoria": "farol",
+  "papel": "para-ebike",
   "resumo": "O farol se alimenta da bateria da e-bike e por isso não precisa de recarga própria. O anúncio tem versões para os sistemas Bosch, Shimano, Brose, Yamaha e Giant: escolha a do motor da sua bike antes de comprar.",
+  "ficha": [
+    {
+      "rotulo": "Brilho",
+      "valor": "Até 1.000 lúmens"
+    },
+    {
+      "rotulo": "Recarga",
+      "valor": "Pela bateria da e-bike"
+    }
+  ],
+  "imagem": {
+    "arquivo": "acessorios/magicshine-me-1000.webp",
+    "fonte_url": "https://magicshine.com/products/me-1000-v2-0-e-bike-light"
+  },
   "links": [
     {
       "url": "https://pt.aliexpress.com/item/1005011699887518.html",
       "rotulo": "Ver no AliExpress"
     }
   ],
-  "atualizado_em": "2026-11-11"
+  "atualizado_em": "2026-11-17"
 }

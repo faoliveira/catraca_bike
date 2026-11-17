@@ -158,14 +158,29 @@ Parâmetros que identificam o produto, como cor, variante ou `seller_id`, podem 
 
 ## Dica de acessório
 
-Uma dica por arquivo, em `acessorios/<slug>.json`, no formato de [`schemas/dica.schema.json`](schemas/dica.schema.json). A `categoria` é `capacete`, `luz`, `cadeado`, `bomba`, `ferramenta`, `bolsa` (inclui alforje e mochila de bike), `computador` (computador de bordo, GPS e sensores) ou `outro`. Os links seguem a regra de URL limpa; sem link, use `null`.
+Uma dica por arquivo, em `acessorios/<slug>.json`, no formato de [`schemas/dica.schema.json`](schemas/dica.schema.json). Cada dica fala de um produto só, e os links levam a esse produto em lojas diferentes.
+
+- `marca` e `modelo`: o nome como a marca o escreve, sem repetir a marca no modelo. Número e unidade vão separados (`18 L`, `600 ml`). Produto sem nome de modelo leva o tipo em minúsculas, como `alforje 27 L`.
+- `categoria`: `capacete`, `luz`, `cadeado`, `bomba`, `ferramenta`, `bolsa` (inclui alforje e mochila de bike), `computador` (computador de bordo, GPS e sensores) ou `outro`.
+- `subcategoria`: a prateleira dentro da categoria, obrigatória em três delas. Em `luz`, `farol` ou `lanterna-traseira`. Em `bolsa`, `carga` (mochila, alforje e bolsa de quadro grande, para o trabalho e as compras) ou `kit-do-pedal` (a bolsa pequena da câmara, da ferramenta e da chave). Em `computador`, `computador-de-bordo` ou `sensor`. Nas outras categorias, o campo fica de fora.
+- `papel` (opcional): o selo da dica na prateleira. `primeira-escolha` vale para uma dica só por prateleira; os outros são `opcao-barata`, `feito-no-brasil` e `para-ebike`. Use só quando o resumo sustenta o selo.
+- `resumo`: a primeira frase diz o que é o produto e por que vale a pena, em até 120 caracteres, e o site a mostra em destaque. As frases seguintes trazem o relato de quem usa, com o lugar de onde ele vem, e as ressalvas. Não cite preço.
+- `ficha` (opcional): até duas linhas de rótulo e valor, conferidas na página do produto. Use os rótulos da prateleira, para as dicas lado a lado se compararem: `Certificação` e `MIPS` no capacete; `Brilho` e `Recarga` na luz; `Tipo` e `Pressão máxima` na bomba; `Onde vai` e `Capacidade` na bolsa; `Tela` e `Navegação` no computador de bordo; `Mede` e `Conexão` no sensor. O rótulo tem até 16 caracteres e o valor, até 28. Valor desconhecido é `null`.
+- `imagem` (opcional): `{ "arquivo": "acessorios/<slug>.webp", "fonte_url": "<página de onde a foto veio>" }`. Não envie a imagem: cite a página do produto no Pull Request, e o mantenedor enquadra e publica a foto.
+- `links`: a URL limpa do produto, como nos modelos. Sem link, use `null`.
 
 ```json
 {
-  "titulo": "Luz traseira recarregável",
+  "marca": "Marca Exemplo",
+  "modelo": "luz traseira recarregável",
   "slug": "exemplo-luz-traseira",
   "categoria": "luz",
+  "subcategoria": "lanterna-traseira",
   "resumo": "Deixa a bike visível de trás à noite e com chuva. Prefira as que piscam e carregam por USB.",
+  "ficha": [
+    { "rotulo": "Brilho", "valor": null },
+    { "rotulo": "Recarga", "valor": "USB" }
+  ],
   "links": [
     { "url": "https://loja.example/produto/luz-traseira", "rotulo": "Loja Exemplo" }
   ],

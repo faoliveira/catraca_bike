@@ -1,13 +1,26 @@
 {
-  "titulo": "Rhinowalk bolsa de tubo superior 1 L",
+  "marca": "Rhinowalk",
+  "modelo": "bolsa de tubo superior 1 L",
   "slug": "rhinowalk-bolsa-tubo-superior-1l",
   "categoria": "bolsa",
+  "subcategoria": "kit-do-pedal",
+  "papel": "opcao-barata",
   "resumo": "Presa ao tubo superior, a bolsa impermeável de 1 L deixa a chave e o lanche ao alcance da mão durante o pedal. No r/bikepacking, a Rhinowalk é bem avaliada pelo preço, com a ressalva de que as presilhas de plástico merecem atenção.",
+  "ficha": [
+    {
+      "rotulo": "Onde vai",
+      "valor": "No tubo superior"
+    },
+    {
+      "rotulo": "Capacidade",
+      "valor": "1 L"
+    }
+  ],
   "links": [
     {
       "url": "https://pt.aliexpress.com/item/1005008906263935.html",
       "rotulo": "Ver no AliExpress"
     }
   ],
-  "atualizado_em": "2026-11-11"
+  "atualizado_em": "2026-11-17"
 }

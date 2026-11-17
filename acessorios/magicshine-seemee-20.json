@@ -1,13 +1,30 @@
 {
-  "titulo": "Magicshine SEEMEE 20 V2.0",
+  "marca": "Magicshine",
+  "modelo": "SEEMEE 20 V2.0",
   "slug": "magicshine-seemee-20",
   "categoria": "luz",
+  "subcategoria": "lanterna-traseira",
+  "papel": "opcao-barata",
   "resumo": "É a lanterna traseira de entrada da linha SEEMEE, pequena e com recarga por USB-C. No r/cycling, ela aparece como a alternativa barata às versões maiores da linha.",
+  "ficha": [
+    {
+      "rotulo": "Brilho",
+      "valor": null
+    },
+    {
+      "rotulo": "Recarga",
+      "valor": "USB-C"
+    }
+  ],
+  "imagem": {
+    "arquivo": "acessorios/magicshine-seemee-20.webp",
+    "fonte_url": "https://pt.aliexpress.com/item/1005008490341833.html"
+  },
   "links": [
     {
       "url": "https://pt.aliexpress.com/item/1005008490341833.html",
       "rotulo": "Ver no AliExpress"
     }
   ],
-  "atualizado_em": "2026-11-11"
+  "atualizado_em": "2026-11-17"
 }

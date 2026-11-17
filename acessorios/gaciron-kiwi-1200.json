@@ -1,13 +1,26 @@
 {
-  "titulo": "Gaciron Kiwi 1200",
+  "marca": "Gaciron",
+  "modelo": "Kiwi 1200",
   "slug": "gaciron-kiwi-1200",
   "categoria": "luz",
+  "subcategoria": "farol",
+  "papel": "opcao-barata",
   "resumo": "Com 1.200 lúmens, facho antiofuscante e recarga por USB-C, sai bem mais barato que o EVO 1700. Quem já usa faróis da Gaciron elogia, no r/cycling, o brilho e a duração da bateria pelo preço.",
+  "ficha": [
+    {
+      "rotulo": "Brilho",
+      "valor": "1.200 lúmens"
+    },
+    {
+      "rotulo": "Recarga",
+      "valor": "USB-C"
+    }
+  ],
   "links": [
     {
       "url": "https://pt.aliexpress.com/item/1005010263036367.html",
       "rotulo": "Ver no AliExpress"
     }
   ],
-  "atualizado_em": "2026-11-11"
+  "atualizado_em": "2026-11-17"
 }

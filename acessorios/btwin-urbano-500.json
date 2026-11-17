@@ -1,13 +1,29 @@
 {
-  "titulo": "Btwin Urbano 500",
+  "marca": "Btwin",
+  "modelo": "Urbano 500",
   "slug": "btwin-urbano-500",
   "categoria": "capacete",
-  "resumo": "Este capacete urbano tem certificado EN 1078 e encaixe para luz traseira, e a nota na Decathlon é 4,8 em mais de 2 mil avaliações. Não tem MIPS e custa bem menos que o Align II.",
+  "papel": "opcao-barata",
+  "resumo": "Capacete urbano com encaixe para luz traseira e nota 4,8 em mais de 2 mil avaliações na Decathlon. Não tem MIPS e custa bem menos que o Align II.",
+  "ficha": [
+    {
+      "rotulo": "Certificação",
+      "valor": "EN 1078"
+    },
+    {
+      "rotulo": "MIPS",
+      "valor": "Não"
+    }
+  ],
+  "imagem": {
+    "arquivo": "acessorios/btwin-urbano-500.webp",
+    "fonte_url": "https://www.decathlon.com.br/capacete-de-ciclismo-urbano-500-preta-8326832-btwin/p"
+  },
   "links": [
     {
       "url": "https://www.decathlon.com.br/capacete-de-ciclismo-urbano-500-preta-8326832-btwin/p",
       "rotulo": "Ver na Decathlon"
     }
   ],
-  "atualizado_em": "2026-11-11"
+  "atualizado_em": "2026-11-17"
 }

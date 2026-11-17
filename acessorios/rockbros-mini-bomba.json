@@ -1,13 +1,24 @@
 {
-  "titulo": "Rockbros minibomba de alumínio",
+  "marca": "Rockbros",
+  "modelo": "minibomba de alumínio",
   "slug": "rockbros-mini-bomba",
   "categoria": "bomba",
   "resumo": "É uma bomba manual pequena, de alumínio, para ir junto em todo pedal. Quem tem bomba elétrica recomenda, no r/cycling, levar uma manual também, porque a bateria pode acabar no meio do caminho.",
+  "ficha": [
+    {
+      "rotulo": "Tipo",
+      "valor": "Manual"
+    },
+    {
+      "rotulo": "Pressão máxima",
+      "valor": "150 ou 260 psi"
+    }
+  ],
   "links": [
     {
       "url": "https://pt.aliexpress.com/item/32889348243.html",
       "rotulo": "Ver no AliExpress"
     }
   ],
-  "atualizado_em": "2026-11-11"
+  "atualizado_em": "2026-11-17"
 }
