@@ -1,6 +1,6 @@
 {
   "ano": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-18",
   "categoria": "infantil",
   "componentes": {
     "grupo": null,
@@ -14,11 +14,16 @@
       "acessado_em": "2026-11-08",
       "tipo": "fabricante",
       "url": "https://verdenbikes.com/balance-george-azul/"
+    },
+    {
+      "url": "https://www.amazon.com.br/dp/B0DYBFHTK2",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "marca": "Verden",
   "modelo": "Balance George",
-  "preco_sugerido_brl": null,
+  "preco_sugerido_brl": 100,
   "quadro": {
     "aro": null,
     "curso_mm": null,
@@ -31,5 +36,10 @@
   "imagem": {
     "arquivo": "verden/balance-george.webp",
     "fonte_url": "https://verdenbikes.com/balance-george-azul/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.amazon.com.br/dp/B0DYBFHTK2"
+    }
+  ]
 }

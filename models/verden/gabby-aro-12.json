@@ -1,6 +1,6 @@
 {
   "ano": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-18",
   "categoria": "infantil",
   "componentes": {
     "grupo": null,
@@ -14,11 +14,16 @@
       "acessado_em": "2026-11-08",
       "tipo": "fabricante",
       "url": "https://verdenbikes.com/casa-magica-da-gabby-tiffany-aro-12/"
+    },
+    {
+      "url": "https://www.amazon.com.br/dp/B0DYB4M3ZZ",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "marca": "Verden",
   "modelo": "Casa Mágica da Gabby Aro 12",
-  "preco_sugerido_brl": null,
+  "preco_sugerido_brl": 230,
   "quadro": {
     "aro": "12",
     "curso_mm": null,
@@ -31,5 +36,10 @@
   "imagem": {
     "arquivo": "verden/gabby-aro-12.webp",
     "fonte_url": "https://verdenbikes.com/casa-magica-da-gabby-tiffany-aro-12/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.amazon.com.br/dp/B0DYB4M3ZZ"
+    }
+  ]
 }

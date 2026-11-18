@@ -1,6 +1,6 @@
 {
   "ano": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-18",
   "categoria": "infantil",
   "componentes": {
     "grupo": null,
@@ -29,11 +29,16 @@
       "acessado_em": "2026-11-08",
       "tipo": "fabricante",
       "url": "https://verdenbikes.com/folks-aro-20-rosa/"
+    },
+    {
+      "url": "https://www.amazon.com.br/dp/B08VM1HB7J",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "marca": "Verden",
   "modelo": "Folks Aro 20",
-  "preco_sugerido_brl": null,
+  "preco_sugerido_brl": 530,
   "quadro": {
     "aro": "20",
     "curso_mm": null,
@@ -46,5 +51,10 @@
   "imagem": {
     "arquivo": "verden/folks-aro-20.webp",
     "fonte_url": "https://verdenbikes.com/folks-aro-20-preto/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.amazon.com.br/dp/B08VM1HB7J"
+    }
+  ]
 }

@@ -1,6 +1,6 @@
 {
   "ano": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-18",
   "categoria": "infantil",
   "componentes": {
     "grupo": null,
@@ -14,11 +14,16 @@
       "acessado_em": "2026-11-08",
       "tipo": "fabricante",
       "url": "https://verdenbikes.com/danny-aro-16-preto-e-lilas/"
+    },
+    {
+      "url": "https://www.amazon.com.br/dp/B0CXRD9666",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "marca": "Verden",
   "modelo": "Danny Aro 16",
-  "preco_sugerido_brl": null,
+  "preco_sugerido_brl": 390,
   "quadro": {
     "aro": "16",
     "curso_mm": null,
@@ -31,5 +36,10 @@
   "imagem": {
     "arquivo": "verden/danny-aro-16.webp",
     "fonte_url": "https://verdenbikes.com/danny-aro-16-preto-e-lilas/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.amazon.com.br/dp/B0CXRD9666"
+    }
+  ]
 }

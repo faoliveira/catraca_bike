@@ -1,6 +1,6 @@
 {
   "ano": null,
-  "atualizado_em": "2026-11-10",
+  "atualizado_em": "2026-11-18",
   "categoria": "infantil",
   "componentes": {
     "grupo": null,
@@ -14,11 +14,16 @@
       "acessado_em": "2026-11-10",
       "tipo": "fabricante",
       "url": "https://verdenbikes.com/sonic-aro-12-preto-e-azul/"
+    },
+    {
+      "url": "https://www.amazon.com.br/dp/B0CMR2L8VC",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "marca": "Verden",
   "modelo": "Sonic Aro 12",
-  "preco_sugerido_brl": null,
+  "preco_sugerido_brl": 220,
   "quadro": {
     "aro": "12",
     "curso_mm": null,
@@ -31,5 +36,10 @@
   "imagem": {
     "arquivo": "verden/sonic-aro-12.webp",
     "fonte_url": "https://verdenbikes.com/sonic-aro-12-preto-e-azul/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.amazon.com.br/dp/B0CMR2L8VC"
+    }
+  ]
 }

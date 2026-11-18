@@ -1,6 +1,6 @@
 {
   "ano": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-18",
   "categoria": "infantil",
   "componentes": {
     "grupo": null,
@@ -24,11 +24,16 @@
       "url": "https://www.buscape.com.br/bicicleta/bicicleta-verden-bikes-aro-20-eagle",
       "tipo": "loja",
       "acessado_em": "2026-11-10"
+    },
+    {
+      "url": "https://www.amazon.com.br/dp/B07GFZBPYM",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "marca": "Verden",
   "modelo": "Eagle Aro 20",
-  "preco_sugerido_brl": null,
+  "preco_sugerido_brl": 760,
   "quadro": {
     "aro": "20",
     "curso_mm": null,
@@ -41,5 +46,10 @@
   "imagem": {
     "arquivo": "verden/eagle-aro-20.webp",
     "fonte_url": "https://verdenbikes.com/eagle-aro-20-amarelo-e-preto/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.amazon.com.br/dp/B07GFZBPYM"
+    }
+  ]
 }

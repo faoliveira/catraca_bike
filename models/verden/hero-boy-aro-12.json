@@ -1,6 +1,6 @@
 {
   "ano": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-18",
   "categoria": "infantil",
   "componentes": {
     "grupo": "Catraca fixa",
@@ -14,11 +14,16 @@
       "acessado_em": "2026-11-10",
       "tipo": "fabricante",
       "url": "https://verdenbikes.com/hero-boy-aro-12-vermelho-e-dourado/"
+    },
+    {
+      "url": "https://www.amazon.com.br/dp/B0CXRH11GD",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "marca": "Verden",
   "modelo": "Hero Boy Aro 12",
-  "preco_sugerido_brl": null,
+  "preco_sugerido_brl": 210,
   "quadro": {
     "aro": "12",
     "curso_mm": null,
@@ -31,5 +36,10 @@
   "imagem": {
     "arquivo": "verden/hero-boy-aro-12.webp",
     "fonte_url": "https://verdenbikes.com/hero-boy-aro-12-vermelho-e-dourado/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.amazon.com.br/dp/B0CXRH11GD"
+    }
+  ]
 }

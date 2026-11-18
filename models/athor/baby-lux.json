@@ -1,6 +1,6 @@
 {
   "ano": null,
-  "atualizado_em": "2026-11-10",
+  "atualizado_em": "2026-11-18",
   "categoria": "infantil",
   "componentes": {
     "grupo": null,
@@ -29,11 +29,16 @@
       "acessado_em": "2026-11-10",
       "tipo": "fabricante",
       "url": "https://athorbikes.com.br/bicicleta/baby-lux-vermelha-azul/"
+    },
+    {
+      "url": "https://www.amazon.com.br/dp/B08SXRK19Y",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "marca": "Athor",
   "modelo": "Baby Lux",
-  "preco_sugerido_brl": null,
+  "preco_sugerido_brl": 520,
   "quadro": {
     "aro": "16",
     "curso_mm": null,
@@ -46,5 +51,10 @@
   "imagem": {
     "arquivo": "athor/baby-lux.webp",
     "fonte_url": "https://athorbikes.com.br/bicicleta/baby-lux-rosa/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.amazon.com.br/dp/B08SXRK19Y"
+    }
+  ]
 }

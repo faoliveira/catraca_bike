@@ -1,6 +1,6 @@
 {
   "ano": null,
-  "atualizado_em": "2026-11-10",
+  "atualizado_em": "2026-11-18",
   "categoria": "infantil",
   "componentes": {
     "grupo": null,
@@ -14,11 +14,16 @@
       "acessado_em": "2026-11-10",
       "tipo": "fabricante",
       "url": "https://athorbikes.com.br/bicicleta/atx/"
+    },
+    {
+      "url": "https://www.mercadolivre.com.br/bmx-infantil-athor-bikes-atx-aro-20-freios-v-brakes-vermelho-cor-pretovermelho/p/MLB17000461",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "marca": "Athor",
   "modelo": "ATX",
-  "preco_sugerido_brl": null,
+  "preco_sugerido_brl": 960,
   "quadro": {
     "aro": "20",
     "curso_mm": null,

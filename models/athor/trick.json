@@ -1,6 +1,6 @@
 {
   "ano": null,
-  "atualizado_em": "2026-11-10",
+  "atualizado_em": "2026-11-18",
   "categoria": "infantil",
   "componentes": {
     "grupo": null,
@@ -14,11 +14,16 @@
       "acessado_em": "2026-11-10",
       "tipo": "fabricante",
       "url": "https://athorbikes.com.br/bicicleta/trick/"
+    },
+    {
+      "url": "https://www.amazon.com.br/dp/B0GRBR1WB3",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "marca": "Athor",
   "modelo": "Trick",
-  "preco_sugerido_brl": null,
+  "preco_sugerido_brl": 800,
   "quadro": {
     "aro": "20",
     "curso_mm": null,
@@ -31,5 +36,10 @@
   "imagem": {
     "arquivo": "athor/trick.webp",
     "fonte_url": "https://athorbikes.com.br/bicicleta/trick/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.amazon.com.br/dp/B0GRBR1WB3"
+    }
+  ]
 }

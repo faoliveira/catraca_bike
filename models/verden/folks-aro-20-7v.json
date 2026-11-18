@@ -1,6 +1,6 @@
 {
   "ano": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-18",
   "categoria": "infantil",
   "componentes": {
     "grupo": "7 velocidades",
@@ -24,11 +24,16 @@
       "acessado_em": "2026-11-08",
       "tipo": "fabricante",
       "url": "https://verdenbikes.com/folks-aro-20-preta-e-rosa-7-velocidades/"
+    },
+    {
+      "url": "https://www.amazon.com.br/dp/B08VM1LVSD",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "marca": "Verden",
   "modelo": "Folks Aro 20 7V",
-  "preco_sugerido_brl": null,
+  "preco_sugerido_brl": 470,
   "quadro": {
     "aro": "20",
     "curso_mm": null,
@@ -41,5 +46,10 @@
   "imagem": {
     "arquivo": "verden/folks-aro-20-7v.webp",
     "fonte_url": "https://verdenbikes.com/folks-aro-20-preto-7-velocidades/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.amazon.com.br/dp/B08VM1LVSD"
+    }
+  ]
 }

@@ -1,6 +1,6 @@
 {
   "ano": null,
-  "atualizado_em": "2026-11-10",
+  "atualizado_em": "2026-11-18",
   "categoria": "urbana",
   "componentes": {
     "grupo": "3x6V (18 velocidades)",
@@ -19,11 +19,16 @@
       "acessado_em": "2026-11-10",
       "tipo": "fabricante",
       "url": "https://verdenbikes.com/live-grafite-aro-24/"
+    },
+    {
+      "url": "https://www.amazon.com.br/dp/B0FB67V3QT",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "marca": "Verden",
   "modelo": "Live Aro 24",
-  "preco_sugerido_brl": null,
+  "preco_sugerido_brl": 650,
   "quadro": {
     "aro": "24",
     "curso_mm": null,
@@ -36,5 +41,10 @@
   "imagem": {
     "arquivo": "verden/live-aro-24.webp",
     "fonte_url": "https://verdenbikes.com/live-azul-bebe-aro-24/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.amazon.com.br/dp/B0FB67V3QT"
+    }
+  ]
 }

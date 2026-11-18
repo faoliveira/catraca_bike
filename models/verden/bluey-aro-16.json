@@ -1,6 +1,6 @@
 {
   "ano": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-18",
   "categoria": "infantil",
   "componentes": {
     "grupo": null,
@@ -14,11 +14,16 @@
       "acessado_em": "2026-11-08",
       "tipo": "fabricante",
       "url": "https://verdenbikes.com/bluey-azul-aro-16/"
+    },
+    {
+      "url": "https://www.amazon.com.br/dp/B0H4RW551H",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "marca": "Verden",
   "modelo": "Bluey Aro 16",
-  "preco_sugerido_brl": null,
+  "preco_sugerido_brl": 520,
   "quadro": {
     "aro": "16",
     "curso_mm": null,
@@ -31,5 +36,10 @@
   "imagem": {
     "arquivo": "verden/bluey-aro-16.webp",
     "fonte_url": "https://verdenbikes.com/bluey-azul-aro-16/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.amazon.com.br/dp/B0H4RW551H"
+    }
+  ]
 }

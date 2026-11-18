@@ -1,6 +1,6 @@
 {
   "ano": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-18",
   "categoria": "urbana",
   "componentes": {
     "grupo": null,
@@ -14,11 +14,16 @@
       "acessado_em": "2026-11-08",
       "tipo": "fabricante",
       "url": "https://verdenbikes.com/breeze-aro-24-branco-e-pink/"
+    },
+    {
+      "url": "https://www.amazon.com.br/dp/B07G3FPBS5",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "marca": "Verden",
   "modelo": "Breeze Aro 24",
-  "preco_sugerido_brl": null,
+  "preco_sugerido_brl": 1100,
   "quadro": {
     "aro": "24",
     "curso_mm": null,
@@ -31,5 +36,10 @@
   "imagem": {
     "arquivo": "verden/breeze-aro-24.webp",
     "fonte_url": "https://verdenbikes.com/breeze-aro-24-branco-e-pink/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.amazon.com.br/dp/B07G3FPBS5"
+    }
+  ]
 }

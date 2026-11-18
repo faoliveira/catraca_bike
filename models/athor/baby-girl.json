@@ -1,6 +1,6 @@
 {
   "ano": null,
-  "atualizado_em": "2026-11-10",
+  "atualizado_em": "2026-11-18",
   "categoria": "infantil",
   "componentes": {
     "grupo": null,
@@ -14,11 +14,16 @@
       "acessado_em": "2026-11-10",
       "tipo": "fabricante",
       "url": "https://athorbikes.com.br/bicicleta/baby-girl/"
+    },
+    {
+      "url": "https://www.mercadolivre.com.br/loja/athor",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "marca": "Athor",
   "modelo": "Baby Girl",
-  "preco_sugerido_brl": null,
+  "preco_sugerido_brl": 670,
   "quadro": {
     "aro": "16",
     "curso_mm": null,
