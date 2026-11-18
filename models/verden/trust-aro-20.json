@@ -1,6 +1,6 @@
 {
   "ano": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-18",
   "categoria": "infantil",
   "componentes": {
     "grupo": "3x6V (18 velocidades)",
@@ -19,11 +19,16 @@
       "acessado_em": "2026-11-08",
       "tipo": "fabricante",
       "url": "https://verdenbikes.com/trust-vd-neon-aro-20/"
+    },
+    {
+      "url": "https://www.amazon.com.br/dp/B0DYBDTT5H",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "marca": "Verden",
   "modelo": "Trust Aro 20",
-  "preco_sugerido_brl": null,
+  "preco_sugerido_brl": 710,
   "quadro": {
     "aro": "20",
     "curso_mm": null,
@@ -36,5 +41,10 @@
   "imagem": {
     "arquivo": "verden/trust-aro-20.webp",
     "fonte_url": "https://verdenbikes.com/trust-azul-mistral-aro-20/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.amazon.com.br/dp/B0DYBDTT5H"
+    }
+  ]
 }

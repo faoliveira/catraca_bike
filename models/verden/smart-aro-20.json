@@ -1,6 +1,6 @@
 {
   "ano": null,
-  "atualizado_em": "2026-11-10",
+  "atualizado_em": "2026-11-18",
   "categoria": "infantil",
   "componentes": {
     "grupo": null,
@@ -14,11 +14,16 @@
       "acessado_em": "2026-11-10",
       "tipo": "fabricante",
       "url": "https://verdenbikes.com/smart-aro-20-pink-e-branco/"
+    },
+    {
+      "url": "https://www.amazon.com.br/dp/B081J11R8S",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "marca": "Verden",
   "modelo": "Smart Aro 20",
-  "preco_sugerido_brl": null,
+  "preco_sugerido_brl": 720,
   "quadro": {
     "aro": "20",
     "curso_mm": null,
@@ -31,5 +36,10 @@
   "imagem": {
     "arquivo": "verden/smart-aro-20.webp",
     "fonte_url": "https://verdenbikes.com/smart-aro-20-pink-e-branco/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.amazon.com.br/dp/B081J11R8S"
+    }
+  ]
 }

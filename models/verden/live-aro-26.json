@@ -1,6 +1,6 @@
 {
   "ano": null,
-  "atualizado_em": "2026-11-10",
+  "atualizado_em": "2026-11-18",
   "categoria": "urbana",
   "componentes": {
     "grupo": "3x6 (18 velocidades)",
@@ -29,11 +29,16 @@
       "url": "https://www.centauro.com.br/bicicleta-aro-26-live-amarelo-e-preto-verden-bikes-m000r6-mktp.html",
       "tipo": "loja",
       "acessado_em": "2026-11-10"
+    },
+    {
+      "url": "https://www.amazon.com.br/dp/B0FTL64CD6",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "marca": "Verden",
   "modelo": "Live Aro 26",
-  "preco_sugerido_brl": null,
+  "preco_sugerido_brl": 810,
   "quadro": {
     "aro": "26",
     "curso_mm": null,
@@ -46,5 +51,10 @@
   "imagem": {
     "arquivo": "verden/live-aro-26.webp",
     "fonte_url": "https://verdenbikes.com/live-rosa-aro-26/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.amazon.com.br/dp/B0FTL64CD6"
+    }
+  ]
 }

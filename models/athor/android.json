@@ -1,6 +1,6 @@
 {
   "ano": null,
-  "atualizado_em": "2026-11-10",
+  "atualizado_em": "2026-11-18",
   "categoria": "mtb",
   "componentes": {
     "grupo": "Shimano Tourney 3x7V (TY301/EF-41)",
@@ -14,11 +14,16 @@
       "acessado_em": "2026-11-10",
       "tipo": "fabricante",
       "url": "https://athorbikes.com.br/bicicleta/android2/"
+    },
+    {
+      "url": "https://produto.mercadolivre.com.br/MLB-2655007033-bicicleta-aro-29-athor-android-shimano-q19-aluminio-preto-_JM",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "marca": "Athor",
   "modelo": "Android",
-  "preco_sugerido_brl": null,
+  "preco_sugerido_brl": 1000,
   "quadro": {
     "aro": "29",
     "curso_mm": 100,

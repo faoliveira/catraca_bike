@@ -1,6 +1,6 @@
 {
   "ano": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-18",
   "categoria": "infantil",
   "componentes": {
     "grupo": null,
@@ -19,11 +19,16 @@
       "acessado_em": "2026-11-08",
       "tipo": "fabricante",
       "url": "https://verdenbikes.com/fofys-aro-16-rosa-e-fucsia/"
+    },
+    {
+      "url": "https://www.amazon.com.br/dp/B0B4YV52V7",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "marca": "Verden",
   "modelo": "Fofys Aro 16",
-  "preco_sugerido_brl": null,
+  "preco_sugerido_brl": 430,
   "quadro": {
     "aro": "16",
     "curso_mm": null,
@@ -36,5 +41,10 @@
   "imagem": {
     "arquivo": "verden/fofys-aro-16.webp",
     "fonte_url": "https://verdenbikes.com/fofys-aro-16-verde-tiffany-e-lilas/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.amazon.com.br/dp/B0B4YV52V7"
+    }
+  ]
 }

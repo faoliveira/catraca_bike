@@ -1,6 +1,6 @@
 {
   "ano": null,
-  "atualizado_em": "2026-11-10",
+  "atualizado_em": "2026-11-18",
   "categoria": "urbana",
   "componentes": {
     "grupo": null,
@@ -14,11 +14,21 @@
       "acessado_em": "2026-11-10",
       "tipo": "fabricante",
       "url": "https://athorbikes.com.br/bicicleta/rustic/"
+    },
+    {
+      "url": "https://www.amazon.com.br/dp/B077Z6ZFXV",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
+    },
+    {
+      "url": "https://www.decathlon.com.br/bicicleta-carga-athor-rustic-2-freios-2145893204/p",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "marca": "Athor",
   "modelo": "Rustic",
-  "preco_sugerido_brl": null,
+  "preco_sugerido_brl": 1710,
   "quadro": {
     "aro": "26",
     "curso_mm": null,
@@ -31,5 +41,13 @@
   "imagem": {
     "arquivo": "athor/rustic.webp",
     "fonte_url": "https://athorbikes.com.br/bicicleta/rustic/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.amazon.com.br/dp/B077Z6ZFXV"
+    },
+    {
+      "url": "https://www.decathlon.com.br/bicicleta-carga-athor-rustic-2-freios-2145893204/p"
+    }
+  ]
 }

@@ -1,6 +1,6 @@
 {
   "ano": null,
-  "atualizado_em": "2026-11-08",
+  "atualizado_em": "2026-11-18",
   "categoria": "infantil",
   "componentes": {
     "grupo": null,
@@ -19,11 +19,21 @@
       "acessado_em": "2026-11-08",
       "tipo": "fabricante",
       "url": "https://verdenbikes.com/jack-aro-12-preto-e-verde-limao/"
+    },
+    {
+      "url": "https://www.amazon.com.br/dp/B0B4YJ4424",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
+    },
+    {
+      "url": "https://www.magazineluiza.com.br/bicicleta-infantil-aro-12-verden-jack-vermelha-e-preta-com-rodinhas/p/220648100/",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "marca": "Verden",
   "modelo": "Jack Aro 12",
-  "preco_sugerido_brl": null,
+  "preco_sugerido_brl": 140,
   "quadro": {
     "aro": "12",
     "curso_mm": null,
@@ -36,5 +46,10 @@
   "imagem": {
     "arquivo": "verden/jack-aro-12.webp",
     "fonte_url": "https://verdenbikes.com/jack-aro-12-azul-e-vermelho/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.amazon.com.br/dp/B0B4YJ4424"
+    }
+  ]
 }
