@@ -5,8 +5,8 @@
   "slug": "fun-comp-1sszp",
   "categoria": "mtb",
   "url_fabricante": "https://www.sensebike.com.br/produtos/fun-comp-1sszp/",
-  "preco_sugerido_brl": 2790,
-  "atualizado_em": "2026-11-10",
+  "preco_sugerido_brl": 2650,
+  "atualizado_em": "2026-11-18",
   "quadro": {
     "material": "Alumínio Sense 6061 T4/T6",
     "tamanhos": [
@@ -32,10 +32,20 @@
       "url": "https://www.sensebike.com.br/produtos/fun-comp-1sszp/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-10"
+    },
+    {
+      "url": "https://www.decathlon.com.br/bicicleta-mtb-sense-fun-comp-2024-16v-freio-hidraulico---cinza-roxo---m-17--171---176cm--2146029045/p",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "imagem": {
     "arquivo": "sense/fun-comp-1sszp.webp",
     "fonte_url": "https://www.sensebike.com.br/produtos/fun-comp-1sszp/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.decathlon.com.br/bicicleta-mtb-sense-fun-comp-2024-16v-freio-hidraulico---cinza-roxo---m-17--171---176cm--2146029045/p"
+    }
+  ]
 }

@@ -5,8 +5,8 @@
   "slug": "arenita",
   "categoria": "gravel",
   "url_fabricante": "https://caloi.com/produto/arenita/",
-  "preco_sugerido_brl": 10990,
-  "atualizado_em": "2026-11-10",
+  "preco_sugerido_brl": 10660,
+  "atualizado_em": "2026-11-18",
   "quadro": {
     "material": "Alumínio 7005",
     "tamanhos": [
@@ -31,10 +31,20 @@
       "url": "https://caloi.com/produto/arenita/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-10"
+    },
+    {
+      "url": "https://www.decathlon.com.br/bicicleta-gravel-aro-700-caloi-arenita-shimano-grx-12v-2145990295/p",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "imagem": {
     "arquivo": "caloi/arenita.webp",
     "fonte_url": "https://caloi.com/produto/arenita/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.decathlon.com.br/bicicleta-gravel-aro-700-caloi-arenita-shimano-grx-12v-2145990295/p"
+    }
+  ]
 }

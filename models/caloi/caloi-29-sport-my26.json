@@ -5,8 +5,8 @@
   "slug": "caloi-29-sport-my26",
   "categoria": "mtb",
   "url_fabricante": "https://caloi.com/produto/caloi-29-sport-my26/",
-  "preco_sugerido_brl": 1790,
-  "atualizado_em": "2026-11-10",
+  "preco_sugerido_brl": 1700,
+  "atualizado_em": "2026-11-18",
   "quadro": {
     "material": "Alumínio 6061",
     "tamanhos": [
@@ -30,10 +30,20 @@
       "url": "https://caloi.com/produto/caloi-29-sport-my26/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-10"
+    },
+    {
+      "url": "https://www.amazon.com.br/dp/B0GXL71FWD",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "imagem": {
     "arquivo": "caloi/caloi-29-sport-my26.webp",
     "fonte_url": "https://caloi.com/produto/caloi-29-sport-my26/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.amazon.com.br/dp/B0GXL71FWD"
+    }
+  ]
 }
