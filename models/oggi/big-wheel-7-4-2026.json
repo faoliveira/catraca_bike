@@ -5,8 +5,8 @@
   "slug": "big-wheel-7-4-2026",
   "categoria": "mtb",
   "url_fabricante": "https://oggibikes.com.br/bike/big-wheel-7-4-2026/",
-  "preco_sugerido_brl": 10990,
-  "atualizado_em": "2026-11-10",
+  "preco_sugerido_brl": 10640,
+  "atualizado_em": "2026-11-18",
   "quadro": {
     "material": "Alumínio 6061 T6 tratado triplo butted",
     "tamanhos": [
@@ -36,6 +36,11 @@
       "url": "https://oggibikes.com.br/modelos-mtb/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-10"
+    },
+    {
+      "url": "https://www.mercadolivre.com.br/loja/oggi",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "imagem": {

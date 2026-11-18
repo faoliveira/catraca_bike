@@ -5,8 +5,8 @@
   "slug": "e-bike-big-wheel-8-0-c-acelerador-2026",
   "categoria": "ebike",
   "url_fabricante": "https://oggibikes.com.br/bike/e-bike-big-wheel-8-0-c-acelerador-2026/",
-  "preco_sugerido_brl": 8499,
-  "atualizado_em": "2026-11-11",
+  "preco_sugerido_brl": 8500,
+  "atualizado_em": "2026-11-18",
   "quadro": {
     "material": "Alumínio",
     "tamanhos": [
@@ -51,10 +51,20 @@
       "url": "https://www.allsports.com.br/produto/mtb-eletrica-big-wheel-8-0-com-acelerador-2026/",
       "tipo": "loja",
       "acessado_em": "2026-11-11"
+    },
+    {
+      "url": "https://www.decathlon.com.br/bicicleta-eletrica-aro-29-bw-80-vermelha-9079536-oggi/p",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "imagem": {
     "arquivo": "oggi/e-bike-big-wheel-8-0-c-acelerador-2026.webp",
     "fonte_url": "https://oggibikes.com.br/bike/e-bike-big-wheel-8-0-c-acelerador-2026/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.decathlon.com.br/bicicleta-eletrica-aro-29-bw-80-vermelha-9079536-oggi/p"
+    }
+  ]
 }

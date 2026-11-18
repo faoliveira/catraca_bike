@@ -5,8 +5,8 @@
   "slug": "e-bike-big-wheel-8-2-2026",
   "categoria": "ebike",
   "url_fabricante": "https://oggibikes.com.br/bike/e-bike-big-wheel-8-2-2026/",
-  "preco_sugerido_brl": 16999,
-  "atualizado_em": "2026-11-10",
+  "preco_sugerido_brl": 16330,
+  "atualizado_em": "2026-11-18",
   "quadro": {
     "material": "Alumínio",
     "tamanhos": [
@@ -46,6 +46,16 @@
       "url": "https://oggibikes.com.br/modelos-eletricas/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-10"
+    },
+    {
+      "url": "https://www.decathlon.com.br/bicicleta-eletrica-aro-29-bw-82-10v-prata-9083799-oggi/p",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
+    }
+  ],
+  "links_compra": [
+    {
+      "url": "https://www.decathlon.com.br/bicicleta-eletrica-aro-29-bw-82-10v-prata-9083799-oggi/p"
     }
   ]
 }
