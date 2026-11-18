@@ -5,8 +5,8 @@
   "slug": "balance-power-rex",
   "categoria": "infantil",
   "url_fabricante": "https://caloi.com/produto/balance-power-rex/",
-  "preco_sugerido_brl": 269.9,
-  "atualizado_em": "2026-11-10",
+  "preco_sugerido_brl": 260,
+  "atualizado_em": "2026-11-18",
   "quadro": {
     "material": "Aço carbono",
     "tamanhos": null,
@@ -26,10 +26,20 @@
       "url": "https://caloi.com/produto/balance-power-rex/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-10"
+    },
+    {
+      "url": "https://www.amazon.com.br/dp/B083KMV6J8",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "imagem": {
     "arquivo": "caloi/balance-power-rex.webp",
     "fonte_url": "https://caloi.com/produto/balance-power-rex/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.amazon.com.br/dp/B083KMV6J8"
+    }
+  ]
 }

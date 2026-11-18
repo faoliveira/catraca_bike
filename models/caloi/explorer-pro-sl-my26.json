@@ -5,8 +5,8 @@
   "slug": "explorer-pro-sl-my26",
   "categoria": "mtb",
   "url_fabricante": "https://caloi.com/produto/explorer-pro-sl-my26/",
-  "preco_sugerido_brl": 6590,
-  "atualizado_em": "2026-11-10",
+  "preco_sugerido_brl": 6350,
+  "atualizado_em": "2026-11-18",
   "quadro": {
     "material": "Alumínio 6069 hidroformado, tapered, Boost, cabeamento interno",
     "tamanhos": [
@@ -32,6 +32,11 @@
       "url": "https://caloi.com/produto/explorer-pro-sl-my26/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-10"
+    },
+    {
+      "url": "https://www.mercadolivre.com.br/bicicleta-explorer-pro-sl-12v-cinza-tamanho-17-2026-caloi-cinza-17/p/MLB70240650",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "imagem": {

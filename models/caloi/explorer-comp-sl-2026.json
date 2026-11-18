@@ -5,8 +5,8 @@
   "slug": "explorer-comp-sl-2026",
   "categoria": "mtb",
   "url_fabricante": "https://caloi.com/produto/explorer-comp-sl-2026/",
-  "preco_sugerido_brl": 4490,
-  "atualizado_em": "2026-11-10",
+  "preco_sugerido_brl": 4150,
+  "atualizado_em": "2026-11-18",
   "quadro": {
     "material": "Alumínio 6069, cabeçote tapered, boost, thru-axle, cabeamento interno",
     "tamanhos": [
@@ -32,6 +32,11 @@
       "url": "https://caloi.com/produto/explorer-comp-sl-2026/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-10"
+    },
+    {
+      "url": "https://www.mercadolivre.com.br/bicicleta-aro-29-caloi-explorer-comp-sl-10v-mtb-2026-cor-azul-tamanho-do-quadro-m-17/p/MLB63473074",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "imagem": {
