@@ -5,8 +5,8 @@
   "slug": "colli-athena",
   "categoria": "urbana",
   "url_fabricante": "https://collibike.com.br/bicicletas/colli-athena/",
-  "preco_sugerido_brl": 1199.9,
-  "atualizado_em": "2026-11-08",
+  "preco_sugerido_brl": 1200,
+  "atualizado_em": "2026-11-18",
   "quadro": {
     "material": "Aço carbono",
     "tamanhos": null,
@@ -26,6 +26,16 @@
       "url": "https://collibike.com.br/bicicletas/colli-athena/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-08"
+    },
+    {
+      "url": "https://www.amazon.com.br/dp/B097779FP2",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
+    }
+  ],
+  "links_compra": [
+    {
+      "url": "https://www.amazon.com.br/dp/B097779FP2"
     }
   ]
 }

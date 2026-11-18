@@ -5,8 +5,8 @@
   "slug": "colli-aurora",
   "categoria": "infantil",
   "url_fabricante": "https://collibike.com.br/bicicletas/colli-aurora/",
-  "preco_sugerido_brl": 679.9,
-  "atualizado_em": "2026-11-08",
+  "preco_sugerido_brl": 620,
+  "atualizado_em": "2026-11-18",
   "quadro": {
     "material": "Aço carbono",
     "tamanhos": null,
@@ -26,6 +26,16 @@
       "url": "https://collibike.com.br/bicicletas/colli-aurora/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-08"
+    },
+    {
+      "url": "https://www.amazon.com.br/dp/B0B4411BBG",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
+    }
+  ],
+  "links_compra": [
+    {
+      "url": "https://www.amazon.com.br/dp/B0B4411BBG"
     }
   ]
 }

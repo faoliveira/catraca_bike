@@ -5,8 +5,8 @@
   "slug": "gps-aro-20",
   "categoria": "infantil",
   "url_fabricante": "https://collibike.com.br/bicicletas/colli-gps/",
-  "preco_sugerido_brl": 999.9,
-  "atualizado_em": "2026-11-08",
+  "preco_sugerido_brl": 890,
+  "atualizado_em": "2026-11-18",
   "quadro": {
     "material": "Aço carbono",
     "tamanhos": null,
@@ -26,6 +26,16 @@
       "url": "https://collibike.com.br/bicicletas/colli-gps/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-08"
+    },
+    {
+      "url": "https://www.amazon.com.br/dp/B07BR968JV",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
+    }
+  ],
+  "links_compra": [
+    {
+      "url": "https://www.amazon.com.br/dp/B07BR968JV"
     }
   ]
 }

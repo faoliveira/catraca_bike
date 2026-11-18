@@ -5,8 +5,8 @@
   "slug": "colli-eudora",
   "categoria": "urbana",
   "url_fabricante": "https://collibike.com.br/bicicletas/colli-eudora/",
-  "preco_sugerido_brl": 1599.9,
-  "atualizado_em": "2026-11-08",
+  "preco_sugerido_brl": 1540,
+  "atualizado_em": "2026-11-18",
   "quadro": {
     "material": "Alumínio 6061",
     "tamanhos": [
@@ -30,6 +30,11 @@
       "url": "https://collibike.com.br/bicicletas/colli-eudora/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-08"
+    },
+    {
+      "url": "https://www.mercadolivre.com.br/bicicleta-colli-eudora-aluminio-aro-29-disco-shimano-21v-cor-azul-champanhe-com-rosa-neon-tamanho-do-quadro-155/p/MLB37282275",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ]
 }

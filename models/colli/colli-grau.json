@@ -5,8 +5,8 @@
   "slug": "colli-grau",
   "categoria": "urbana",
   "url_fabricante": "https://collibike.com.br/bicicletas/colli-grau/",
-  "preco_sugerido_brl": 1799.9,
-  "atualizado_em": "2026-11-08",
+  "preco_sugerido_brl": 1800,
+  "atualizado_em": "2026-11-18",
   "quadro": {
     "material": "Aço carbono 13,5",
     "tamanhos": null,
@@ -26,6 +26,16 @@
       "url": "https://collibike.com.br/bicicletas/colli-grau/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-08"
+    },
+    {
+      "url": "https://www.amazon.com.br/dp/B0DXY7BBW2",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
+    }
+  ],
+  "links_compra": [
+    {
+      "url": "https://www.amazon.com.br/dp/B0DXY7BBW2"
     }
   ]
 }
