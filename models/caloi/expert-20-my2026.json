@@ -6,7 +6,7 @@
   "categoria": "infantil",
   "url_fabricante": "https://caloi.com/produto/expert-20-my2026/",
   "preco_sugerido_brl": 899,
-  "atualizado_em": "2026-11-10",
+  "atualizado_em": "2026-11-18",
   "quadro": {
     "material": "Aço",
     "tamanhos": [
@@ -28,10 +28,20 @@
       "url": "https://caloi.com/produto/expert-20-my2026/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-10"
+    },
+    {
+      "url": "https://www.amazon.com.br/dp/B0DQQVYYBH",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "imagem": {
     "arquivo": "caloi/expert-20-my2026.webp",
     "fonte_url": "https://caloi.com/produto/expert-20-my2026/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.amazon.com.br/dp/B0DQQVYYBH"
+    }
+  ]
 }

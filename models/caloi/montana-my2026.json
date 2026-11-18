@@ -6,7 +6,7 @@
   "categoria": "mtb",
   "url_fabricante": "https://caloi.com/produto/montana-my2026/",
   "preco_sugerido_brl": 1499,
-  "atualizado_em": "2026-11-10",
+  "atualizado_em": "2026-11-18",
   "quadro": {
     "material": "Alumínio 6061",
     "tamanhos": [
@@ -28,10 +28,20 @@
       "url": "https://caloi.com/produto/montana-my2026/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-10"
+    },
+    {
+      "url": "https://www.amazon.com.br/dp/B0DQR76LN6",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "imagem": {
     "arquivo": "caloi/montana-my2026.webp",
     "fonte_url": "https://caloi.com/produto/montana-my2026/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.amazon.com.br/dp/B0DQR76LN6"
+    }
+  ]
 }

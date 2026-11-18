@@ -6,7 +6,7 @@
   "categoria": "mtb",
   "url_fabricante": "https://oggibikes.com.br/bike/hacker-sport/",
   "preco_sugerido_brl": 1999,
-  "atualizado_em": "2026-11-10",
+  "atualizado_em": "2026-11-18",
   "quadro": {
     "material": "Alumínio 6061 T6 tratado",
     "tamanhos": [
@@ -35,10 +35,20 @@
       "url": "https://oggibikes.com.br/modelos-mtb/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-10"
+    },
+    {
+      "url": "https://www.magazineluiza.com.br/bicicleta-aro-29-bike-aro-29-bicicleta-oggi-hacker-sport-29/p/jbdce4j62h/es/bclt/",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "imagem": {
     "arquivo": "oggi/hacker-sport.webp",
     "fonte_url": "https://oggibikes.com.br/bike/hacker-sport/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.magazineluiza.com.br/bicicleta-aro-29-bike-aro-29-bicicleta-oggi-hacker-sport-29/p/jbdce4j62h/es/bclt/"
+    }
+  ]
 }

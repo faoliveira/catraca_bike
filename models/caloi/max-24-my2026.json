@@ -6,7 +6,7 @@
   "categoria": "urbana",
   "url_fabricante": "https://caloi.com/produto/max-24-my2026/",
   "preco_sugerido_brl": 1119,
-  "atualizado_em": "2026-11-10",
+  "atualizado_em": "2026-11-18",
   "quadro": {
     "material": "Aço",
     "tamanhos": [
@@ -28,10 +28,20 @@
       "url": "https://caloi.com/produto/max-24-my2026/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-10"
+    },
+    {
+      "url": "https://www.amazon.com.br/dp/B0DQQZML6S",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "imagem": {
     "arquivo": "caloi/max-24-my2026.webp",
     "fonte_url": "https://caloi.com/produto/max-24-my2026/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.amazon.com.br/dp/B0DQQZML6S"
+    }
+  ]
 }
