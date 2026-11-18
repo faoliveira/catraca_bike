@@ -4,8 +4,7 @@
   "slug": "gaciron-kiwi-1200",
   "categoria": "luz",
   "subcategoria": "farol",
-  "papel": "opcao-barata",
-  "resumo": "Com 1.200 lúmens, facho antiofuscante e recarga por USB-C, sai bem mais barato que o EVO 1700. Quem já usa faróis da Gaciron elogia, no r/cycling, o brilho e a duração da bateria pelo preço.",
+  "resumo": "Farol de 1.200 lúmens, com facho antiofuscante e recarga por USB-C. Quem já usa faróis da Gaciron elogia, no r/cycling, o brilho e a duração da bateria.",
   "ficha": [
     {
       "rotulo": "Brilho",
@@ -16,6 +15,10 @@
       "valor": "USB-C"
     }
   ],
+  "imagem": {
+    "arquivo": "acessorios/gaciron-kiwi-1200.webp",
+    "fonte_url": "https://www.gaciron-shop.com/products/kiwi-1200-anti-glare-bike-front-light"
+  },
   "links": [
     {
       "url": "https://pt.aliexpress.com/item/1005010263036367.html",

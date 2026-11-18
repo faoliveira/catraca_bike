@@ -4,8 +4,7 @@
   "slug": "rhinowalk-alforje-27l",
   "categoria": "bolsa",
   "subcategoria": "carga",
-  "papel": "opcao-barata",
-  "resumo": "O alforje de 27 L encaixa no bagageiro com engate rápido e leva as compras ou a muda de roupa do trabalho. As bolsas da marca têm fama, no r/bikepacking, de render bem pelo que custam.",
+  "resumo": "O alforje de 27 L encaixa no bagageiro com engate rápido e leva as compras ou a muda de roupa do trabalho. As bolsas da marca têm boa fama no r/bikepacking.",
   "ficha": [
     {
       "rotulo": "Onde vai",
@@ -16,6 +15,10 @@
       "valor": "27 L"
     }
   ],
+  "imagem": {
+    "arquivo": "acessorios/rhinowalk-alforje-27l.webp",
+    "fonte_url": "https://pt.aliexpress.com/item/1005008848026619.html"
+  },
   "links": [
     {
       "url": "https://pt.aliexpress.com/item/1005008848026619.html",

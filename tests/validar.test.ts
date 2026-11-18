@@ -165,6 +165,11 @@ describe("acessórios e comparações", () => {
       expect(await com((d) => (d.titulo = "Velho"))).toContainEqual({ arquivo: DICA, campo: "titulo", mensagem: expect.stringContaining("não existe no schema") });
     });
 
+    test("opcao-barata saiu do contrato: a dica não leva selo de preço", async () => {
+      expect(await com((d) => (d.papel = "opcao-barata"))).toContainEqual({ arquivo: DICA, campo: "papel", mensagem: expect.stringContaining("use um destes valores") });
+      expect(await com((d) => (d.papel = "para-ebike"))).toEqual([]);
+    });
+
     test("foto fora do caminho da dica", async () => {
       const problemas = await com((d) => (d.imagem = { arquivo: "acessorios/outra.webp", fonte_url: "https://loja.example/p" }));
       expect(problemas).toContainEqual({ arquivo: DICA, campo: "imagem.arquivo", mensagem: "o caminho da foto desta dica é acessorios/exemplo-luz-traseira.webp" });
