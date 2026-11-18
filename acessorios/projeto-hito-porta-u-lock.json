@@ -15,6 +15,10 @@
       "valor": "P, M e G"
     }
   ],
+  "imagem": {
+    "arquivo": "acessorios/projeto-hito-porta-u-lock.webp",
+    "fonte_url": "https://projetohito.com.br/products/porta-ulock"
+  },
   "links": [
     {
       "url": "https://projetohito.com.br/products/porta-ulock",

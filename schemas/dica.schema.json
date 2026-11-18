@@ -49,7 +49,6 @@
       "type": "string",
       "enum": [
         "primeira-escolha",
-        "opcao-barata",
         "feito-no-brasil",
         "para-ebike"
       ]
@@ -57,7 +56,7 @@
     "resumo": {
       "type": "string",
       "minLength": 1,
-      "description": "A primeira frase diz o que é e por que vale a pena, em até 120 caracteres; as seguintes trazem o relato de quem usa e as ressalvas. Sem preço."
+      "description": "A primeira frase diz o que é e por que vale a pena, em até 120 caracteres; as seguintes trazem o relato de quem usa e as ressalvas. Sem preço e sem comparar preço com outra dica."
     },
     "ficha": {
       "description": "Opcional. Até duas linhas de rótulo e valor, conferidas na página do produto.",

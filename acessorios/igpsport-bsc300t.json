@@ -4,7 +4,7 @@
   "slug": "igpsport-bsc300t",
   "categoria": "computador",
   "subcategoria": "computador-de-bordo",
-  "resumo": "Tem GPS, mapa e tela sensível ao toque, para quem segue rotas longas. No Reddit, é a alternativa barata ao Garmin mais citada, mas o recálculo de rota é básico.",
+  "resumo": "Computador de bordo com GPS, mapa e tela sensível ao toque, para quem segue rotas longas. No Reddit, aparece entre as alternativas ao Garmin mais citadas, mas o recálculo de rota é básico.",
   "ficha": [
     {
       "rotulo": "Tela",
@@ -15,6 +15,10 @@
       "valor": "Com mapa"
     }
   ],
+  "imagem": {
+    "arquivo": "acessorios/igpsport-bsc300t.webp",
+    "fonte_url": "https://us.igpsport.com/products/bsc300t"
+  },
   "links": [
     {
       "url": "https://pt.aliexpress.com/item/1005008153155499.html",
