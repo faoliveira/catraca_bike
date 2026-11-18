@@ -5,8 +5,8 @@
   "slug": "steps-12-ii",
   "categoria": "infantil",
   "url_fabricante": "https://tswbike.com/p/1202/steps-12-ii",
-  "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-10",
+  "preco_sugerido_brl": 650,
+  "atualizado_em": "2026-11-18",
   "quadro": {
     "material": "Alumínio 6061",
     "tamanhos": null,
@@ -26,10 +26,20 @@
       "url": "https://tswbike.com/p/1202/steps-12-ii",
       "tipo": "fabricante",
       "acessado_em": "2026-11-10"
+    },
+    {
+      "url": "https://www.amazon.com.br/dp/B0DP35DS8X",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "imagem": {
     "arquivo": "tsw/steps-12-ii.webp",
     "fonte_url": "https://tswbike.com/p/1202/steps-12-ii"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.amazon.com.br/dp/B0DP35DS8X"
+    }
+  ]
 }
