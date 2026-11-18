@@ -5,8 +5,8 @@
   "slug": "colli-munique",
   "categoria": "urbana",
   "url_fabricante": "https://collibike.com.br/bicicletas/colli-munique/",
-  "preco_sugerido_brl": 1999.9,
-  "atualizado_em": "2026-11-08",
+  "preco_sugerido_brl": 2000,
+  "atualizado_em": "2026-11-18",
   "quadro": {
     "material": "Alumínio 6061 (Colli Slim)",
     "tamanhos": [
@@ -33,6 +33,16 @@
       "url": "https://web.archive.org/web/20260213063434/https://collibike.com.br/bicicletas/colli-munique/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-10"
+    },
+    {
+      "url": "https://www.amazon.com.br/dp/B0CGMJNJF6",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
+    }
+  ],
+  "links_compra": [
+    {
+      "url": "https://www.amazon.com.br/dp/B0CGMJNJF6"
     }
   ]
 }

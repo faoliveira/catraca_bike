@@ -5,8 +5,8 @@
   "slug": "colli-berlim",
   "categoria": "urbana",
   "url_fabricante": "https://collibike.com.br/bicicletas/colli-berlim-2/",
-  "preco_sugerido_brl": 1249.9,
-  "atualizado_em": "2026-11-08",
+  "preco_sugerido_brl": 1370,
+  "atualizado_em": "2026-11-18",
   "quadro": {
     "material": "Aço carbono 26''",
     "tamanhos": null,
@@ -26,6 +26,16 @@
       "url": "https://collibike.com.br/bicicletas/colli-berlim-2/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-08"
+    },
+    {
+      "url": "https://www.amazon.com.br/dp/B0BW2NBCYH",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
+    }
+  ],
+  "links_compra": [
+    {
+      "url": "https://www.amazon.com.br/dp/B0BW2NBCYH"
     }
   ]
 }

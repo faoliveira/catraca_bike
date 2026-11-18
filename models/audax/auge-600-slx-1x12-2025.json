@@ -5,8 +5,8 @@
   "slug": "auge-600-slx-1x12-2025",
   "categoria": "mtb",
   "url_fabricante": "https://audaxbike.com/bike/217/auge-600-slx-1x12-2025",
-  "preco_sugerido_brl": 14667,
-  "atualizado_em": "2026-11-10",
+  "preco_sugerido_brl": 13610,
+  "atualizado_em": "2026-11-18",
   "quadro": {
     "material": "Carbono Toray T800 UD",
     "tamanhos": [
@@ -31,6 +31,11 @@
       "url": "https://audaxbike.com/bike/217/auge-600-slx-1x12-2025",
       "tipo": "fabricante",
       "acessado_em": "2026-11-10"
+    },
+    {
+      "url": "https://produto.mercadolivre.com.br/MLB-3626036753-bicicleta-aro-29-audax-auge-600-aluminio-2025-1x12-vel-shimano-slx-_JM",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "imagem": {

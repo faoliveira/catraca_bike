@@ -5,8 +5,8 @@
   "slug": "colli-max-boy",
   "categoria": "infantil",
   "url_fabricante": "https://collibike.com.br/bicicletas/colli-max-boy/",
-  "preco_sugerido_brl": 749.9,
-  "atualizado_em": "2026-11-08",
+  "preco_sugerido_brl": 690,
+  "atualizado_em": "2026-11-18",
   "quadro": {
     "material": "Aço carbono",
     "tamanhos": null,
@@ -26,6 +26,16 @@
       "url": "https://collibike.com.br/bicicletas/colli-max-boy/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-08"
+    },
+    {
+      "url": "https://www.amazon.com.br/dp/B07NHYKX4B",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
+    }
+  ],
+  "links_compra": [
+    {
+      "url": "https://www.amazon.com.br/dp/B07NHYKX4B"
     }
   ]
 }

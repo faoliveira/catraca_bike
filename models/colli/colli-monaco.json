@@ -5,8 +5,8 @@
   "slug": "colli-monaco",
   "categoria": "urbana",
   "url_fabricante": "https://collibike.com.br/bicicletas/colli-monoco/",
-  "preco_sugerido_brl": 1099.99,
-  "atualizado_em": "2026-11-08",
+  "preco_sugerido_brl": 1100,
+  "atualizado_em": "2026-11-18",
   "quadro": {
     "material": "Aço carbono",
     "tamanhos": null,
@@ -26,6 +26,16 @@
       "url": "https://collibike.com.br/bicicletas/colli-monoco/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-08"
+    },
+    {
+      "url": "https://www.amazon.com.br/dp/B0CZP9SBVG",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
+    }
+  ],
+  "links_compra": [
+    {
+      "url": "https://www.amazon.com.br/dp/B0CZP9SBVG"
     }
   ]
 }

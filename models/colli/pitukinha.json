@@ -5,8 +5,8 @@
   "slug": "pitukinha",
   "categoria": "infantil",
   "url_fabricante": "https://collibike.com.br/bicicletas/pitukinha/",
-  "preco_sugerido_brl": 459.9,
-  "atualizado_em": "2026-11-08",
+  "preco_sugerido_brl": 420,
+  "atualizado_em": "2026-11-18",
   "quadro": {
     "material": "Nylon",
     "tamanhos": null,
@@ -31,6 +31,16 @@
       "url": "https://web.archive.org/web/20260211173935/https://collibike.com.br/bicicletas/pitukinha/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-10"
+    },
+    {
+      "url": "https://www.amazon.com.br/dp/B0FXH3TDZY",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
+    }
+  ],
+  "links_compra": [
+    {
+      "url": "https://www.amazon.com.br/dp/B0FXH3TDZY"
     }
   ]
 }
