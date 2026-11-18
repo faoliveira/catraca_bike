@@ -1,0 +1,29 @@
+{
+  "marca": "Rockrider",
+  "modelo": "Confort 900",
+  "slug": "rockrider-confort-900",
+  "categoria": "conforto",
+  "subcategoria": "manopla",
+  "resumo": "Manopla de conforto de 125 mm com abraçadeiras, para quem quer uma opção simples antes de uma ergonômica. Tem nota 4,6 em 393 avaliações na Decathlon.",
+  "ficha": [
+    {
+      "rotulo": "Tamanho",
+      "valor": "125 mm"
+    },
+    {
+      "rotulo": "Fixação",
+      "valor": "Abraçadeira"
+    }
+  ],
+  "imagem": {
+    "arquivo": "acessorios/rockrider-confort-900.webp",
+    "fonte_url": "https://www.decathlon.com.br/manopla-de-ciclismo-confort-900-preto-preta-8381216-rockrider/p"
+  },
+  "links": [
+    {
+      "url": "https://www.decathlon.com.br/manopla-de-ciclismo-confort-900-preto-preta-8381216-rockrider/p",
+      "rotulo": "Ver na Decathlon"
+    }
+  ],
+  "atualizado_em": "2026-11-18"
+}

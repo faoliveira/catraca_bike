@@ -1,0 +1,30 @@
+{
+  "marca": "Projeto Hito",
+  "modelo": "Pochito",
+  "slug": "projeto-hito-pochito",
+  "categoria": "bolsa",
+  "subcategoria": "kit-do-pedal",
+  "papel": "feito-no-brasil",
+  "resumo": "Bolsa de guidão compacta, com bolsos internos, feita sob encomenda no ateliê do Projeto Hito, em São Paulo. Tem duas medidas, P e G, e prende com tiras no guidão.",
+  "ficha": [
+    {
+      "rotulo": "Onde vai",
+      "valor": "No guidão"
+    },
+    {
+      "rotulo": "Tamanhos",
+      "valor": "P e G"
+    }
+  ],
+  "imagem": {
+    "arquivo": "acessorios/projeto-hito-pochito.webp",
+    "fonte_url": "https://projetohito.com.br/products/pochito"
+  },
+  "links": [
+    {
+      "url": "https://projetohito.com.br/products/pochito",
+      "rotulo": "Ver na loja do Projeto Hito"
+    }
+  ],
+  "atualizado_em": "2026-11-18"
+}

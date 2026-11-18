@@ -1,0 +1,35 @@
+{
+  "marca": "Rockbros",
+  "modelo": "alforje 27 L",
+  "slug": "rockbros-alforje-27l",
+  "categoria": "bolsa",
+  "subcategoria": "carga",
+  "resumo": "Alforje impermeável de 27 L, com engate rápido, faixa refletiva e alça para levar no ombro. Nos relatos, quem usa em viagem elogia a vedação; confira o encaixe no seu bagageiro.",
+  "ficha": [
+    {
+      "rotulo": "Onde vai",
+      "valor": "No bagageiro"
+    },
+    {
+      "rotulo": "Capacidade",
+      "valor": "27 L"
+    }
+  ],
+  "imagem": {
+    "arquivo": "acessorios/rockbros-alforje-27l.webp",
+    "fonte_url": "https://pt.aliexpress.com/item/1005004840404105.html"
+  },
+  "relatos": [
+    {
+      "url": "https://www.reddit.com/r/cycling/comments/1ufcsij/rockbros_yay_or_nay/",
+      "subreddit": "r/cycling"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://pt.aliexpress.com/item/1005004840404105.html",
+      "rotulo": "Ver no AliExpress"
+    }
+  ],
+  "atualizado_em": "2026-11-18"
+}

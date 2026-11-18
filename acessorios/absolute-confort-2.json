@@ -1,0 +1,35 @@
+{
+  "marca": "Absolute",
+  "modelo": "Confort 2",
+  "slug": "absolute-confort-2",
+  "categoria": "conforto",
+  "subcategoria": "selim",
+  "resumo": "Selim largo e acolchoado, com desenho antiprostático, para quem pedala sentado e quer mais conforto. Um dono conta que faz 100 km por fim de semana sem dor; selim é escolha pessoal, então meça os ísquios antes.",
+  "ficha": [
+    {
+      "rotulo": "Largura",
+      "valor": "190 mm"
+    },
+    {
+      "rotulo": "Uso",
+      "valor": "Urbano"
+    }
+  ],
+  "imagem": {
+    "arquivo": "acessorios/absolute-confort-2.webp",
+    "fonte_url": "https://www.mercadolivre.com.br/selim-absolute-comfort-2-modelo-2025-mais-confortavel-comprimento-252-mm-cor-preto-largura-190-mm/p/MLB45303185"
+  },
+  "relatos": [
+    {
+      "url": "https://www.reddit.com/r/BicicletasBrasil/comments/1wav9r8/ajuda_com_selim/",
+      "subreddit": "r/BicicletasBrasil"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://www.mercadolivre.com.br/selim-absolute-comfort-2-modelo-2025-mais-confortavel-comprimento-252-mm-cor-preto-largura-190-mm/p/MLB45303185",
+      "rotulo": "Ver no Mercado Livre"
+    }
+  ],
+  "atualizado_em": "2026-11-18"
+}

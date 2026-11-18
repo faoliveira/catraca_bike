@@ -1,0 +1,34 @@
+{
+  "marca": "Specialized",
+  "modelo": "Chamonix 3",
+  "slug": "specialized-chamonix-3",
+  "categoria": "capacete",
+  "resumo": "Capacete com MIPS e viseira, para estrada, gravel e cidade, com formato mais arredondado. A Specialized vende no site oficial; confira o tamanho no guia da marca.",
+  "ficha": [
+    {
+      "rotulo": "MIPS",
+      "valor": "Sim"
+    },
+    {
+      "rotulo": "Viseira",
+      "valor": "Sim"
+    }
+  ],
+  "imagem": {
+    "arquivo": "acessorios/specialized-chamonix-3.webp",
+    "fonte_url": "https://www.specialized.com/br/pt/chamonix-3/p/1000208478"
+  },
+  "relatos": [
+    {
+      "url": "https://www.reddit.com/r/BicicletasBrasil/comments/1w4zfx8/recomenda%C3%A7%C3%A3o_de_capacetes_at%C3%A9_250_temers/",
+      "subreddit": "r/BicicletasBrasil"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://www.specialized.com/br/pt/chamonix-3/p/1000208478",
+      "rotulo": "Ver na Specialized"
+    }
+  ],
+  "atualizado_em": "2026-11-18"
+}

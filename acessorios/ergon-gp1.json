@@ -1,0 +1,35 @@
+{
+  "marca": "Ergon",
+  "modelo": "GP1",
+  "slug": "ergon-gp1",
+  "categoria": "conforto",
+  "subcategoria": "manopla",
+  "resumo": "Manopla ergonômica com apoio de palma, que reduz a pressão no nervo da mão e a dormência. Tem duas medidas; escolha pelo tamanho da mão no guia da Ergon.",
+  "ficha": [
+    {
+      "rotulo": "Tamanho",
+      "valor": "S ou L"
+    },
+    {
+      "rotulo": "Apoio",
+      "valor": "Palma"
+    }
+  ],
+  "imagem": {
+    "arquivo": "acessorios/ergon-gp1.webp",
+    "fonte_url": "https://www.mercadolivre.com.br/ergon-gp1-mountain-bike-grips-small-blackgray/p/MLB2096006287"
+  },
+  "relatos": [
+    {
+      "url": "https://www.reddit.com/r/BicicletasBrasil/comments/1wya5om/manopla_ergon%C3%B4mica/",
+      "subreddit": "r/BicicletasBrasil"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://www.mercadolivre.com.br/ergon-gp1-mountain-bike-grips-small-blackgray/p/MLB2096006287",
+      "rotulo": "Ver no Mercado Livre"
+    }
+  ],
+  "atualizado_em": "2026-11-18"
+}

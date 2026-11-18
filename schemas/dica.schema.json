@@ -28,12 +28,13 @@
         "ferramenta",
         "bolsa",
         "computador",
+        "conforto",
         "outro"
       ],
-      "description": "bolsa inclui alforje e mochila de bike; computador inclui computador de bordo, GPS e sensores."
+      "description": "bolsa inclui alforje e mochila de bike; computador inclui computador de bordo, GPS e sensores; conforto inclui manopla, selim, canote e fita."
     },
     "subcategoria": {
-      "description": "A prateleira dentro da categoria. Obrigatória em luz (farol, lanterna-traseira), bolsa (carga, kit-do-pedal) e computador (computador-de-bordo, sensor); fora delas, tire o campo.",
+      "description": "A prateleira dentro da categoria. Obrigatória em luz (farol, lanterna-traseira), bolsa (carga, kit-do-pedal), computador (computador-de-bordo, sensor) e conforto (manopla, selim, canote, fita); fora delas, tire o campo.",
       "type": "string",
       "enum": [
         "farol",
@@ -41,7 +42,11 @@
         "carga",
         "kit-do-pedal",
         "computador-de-bordo",
-        "sensor"
+        "sensor",
+        "manopla",
+        "selim",
+        "canote",
+        "fita"
       ]
     },
     "papel": {

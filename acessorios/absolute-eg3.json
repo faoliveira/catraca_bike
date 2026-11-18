@@ -1,0 +1,35 @@
+{
+  "marca": "Absolute",
+  "modelo": "EG3",
+  "slug": "absolute-eg3",
+  "categoria": "conforto",
+  "subcategoria": "manopla",
+  "resumo": "Manopla ergonômica com apoio de palma e bar end, para quem sente a mão dormente em pedal longo. Tem tamanho único e é vendida pela Decathlon.",
+  "ficha": [
+    {
+      "rotulo": "Tamanho",
+      "valor": "Único"
+    },
+    {
+      "rotulo": "Bar end",
+      "valor": "Sim"
+    }
+  ],
+  "imagem": {
+    "arquivo": "acessorios/absolute-eg3.webp",
+    "fonte_url": "https://www.decathlon.com.br/manopla-punho-de-ciclismo-urbano-absolute-eg3-ergonomica-8682211-elleven/p"
+  },
+  "relatos": [
+    {
+      "url": "https://www.reddit.com/r/BicicletasBrasil/comments/1wya5om/manopla_ergon%C3%B4mica/",
+      "subreddit": "r/BicicletasBrasil"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://www.decathlon.com.br/manopla-punho-de-ciclismo-urbano-absolute-eg3-ergonomica-8682211-elleven/p",
+      "rotulo": "Ver na Decathlon"
+    }
+  ],
+  "atualizado_em": "2026-11-18"
+}

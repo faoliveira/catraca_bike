@@ -205,6 +205,10 @@ export const SUBCATEGORIA_MAE: Record<string, string> = {
   "kit-do-pedal": "bolsa",
   "computador-de-bordo": "computador",
   sensor: "computador",
+  manopla: "conforto",
+  selim: "conforto",
+  canote: "conforto",
+  fita: "conforto",
 };
 const subcategoriasDe = (categoria: string) => Object.keys(SUBCATEGORIA_MAE).filter((sub) => SUBCATEGORIA_MAE[sub] === categoria);
 
