@@ -5,8 +5,8 @@
   "slug": "big-wheel-7-0-2026",
   "categoria": "mtb",
   "url_fabricante": "https://oggibikes.com.br/bike/big-wheel-7-0-2026/",
-  "preco_sugerido_brl": 3399,
-  "atualizado_em": "2026-11-10",
+  "preco_sugerido_brl": 3340,
+  "atualizado_em": "2026-11-18",
   "quadro": {
     "material": "Alumínio 6061 T6 tratado",
     "tamanhos": [
@@ -36,6 +36,11 @@
       "url": "https://oggibikes.com.br/modelos/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-10"
+    },
+    {
+      "url": "https://www.mercadolivre.com.br/bicicleta-mtb-29-oggi-bw-70-cues-9v-ptoverm-155-2026/up/MLBU3567050870",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "imagem": {

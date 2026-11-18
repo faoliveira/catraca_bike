@@ -5,8 +5,8 @@
   "slug": "velloce-disc-22",
   "categoria": "speed",
   "url_fabricante": "https://oggibikes.com.br/bike/velloce-disc-22/",
-  "preco_sugerido_brl": 5390,
-  "atualizado_em": "2026-11-10",
+  "preco_sugerido_brl": 5300,
+  "atualizado_em": "2026-11-18",
   "quadro": {
     "material": "Alumínio",
     "tamanhos": [
@@ -38,6 +38,11 @@
       "url": "https://oggibikes.com.br/modelos-speed/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-10"
+    },
+    {
+      "url": "https://www.mercadolivre.com.br/loja/oggi",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "imagem": {
