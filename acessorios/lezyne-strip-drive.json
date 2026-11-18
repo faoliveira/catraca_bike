@@ -1,0 +1,35 @@
+{
+  "marca": "Lezyne",
+  "modelo": "Strip Drive",
+  "slug": "lezyne-strip-drive",
+  "categoria": "luz",
+  "subcategoria": "lanterna-traseira",
+  "resumo": "Lanterna traseira leve, com 150 lúmens e modos para o dia, que recarrega por micro-USB. O suporte de elástico é o ponto fraco: quem usa relata que a luz pode soltar em buracos.",
+  "ficha": [
+    {
+      "rotulo": "Brilho",
+      "valor": "150 lúmens"
+    },
+    {
+      "rotulo": "Recarga",
+      "valor": "Micro USB"
+    }
+  ],
+  "imagem": {
+    "arquivo": "acessorios/lezyne-strip-drive.webp",
+    "fonte_url": "https://www.mercadolivre.com.br/lanterna-bike-sinalizador-traseiro-lezyne-strip-drive-150-lm/up/MLBU1298771078"
+  },
+  "relatos": [
+    {
+      "url": "https://www.reddit.com/r/cycling/comments/vf6anr/why_does_the_lezyne_strip_drive_pro_tail_light/",
+      "subreddit": "r/cycling"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://www.mercadolivre.com.br/lanterna-bike-sinalizador-traseiro-lezyne-strip-drive-150-lm/up/MLBU1298771078",
+      "rotulo": "Ver no Mercado Livre"
+    }
+  ],
+  "atualizado_em": "2026-11-18"
+}

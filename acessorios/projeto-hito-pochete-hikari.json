@@ -1,0 +1,30 @@
+{
+  "marca": "Projeto Hito",
+  "modelo": "Pochete Hikari",
+  "slug": "projeto-hito-pochete-hikari",
+  "categoria": "bolsa",
+  "subcategoria": "kit-do-pedal",
+  "papel": "feito-no-brasil",
+  "resumo": "Pochete de 8 L que vira bolsa de guidão e tem suporte para U-lock, feita sob encomenda em São Paulo. Tem bolso frontal, faixa refletiva e alça para levar a tiracolo.",
+  "ficha": [
+    {
+      "rotulo": "Onde vai",
+      "valor": "Na cintura ou no guidão"
+    },
+    {
+      "rotulo": "Capacidade",
+      "valor": "8 L"
+    }
+  ],
+  "imagem": {
+    "arquivo": "acessorios/projeto-hito-pochete-hikari.webp",
+    "fonte_url": "https://projetohito.com.br/products/pochete-hikari"
+  },
+  "links": [
+    {
+      "url": "https://projetohito.com.br/products/pochete-hikari",
+      "rotulo": "Ver na loja do Projeto Hito"
+    }
+  ],
+  "atualizado_em": "2026-11-18"
+}

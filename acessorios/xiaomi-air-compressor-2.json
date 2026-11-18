@@ -1,0 +1,38 @@
+{
+  "marca": "Xiaomi",
+  "modelo": "Air Compressor 2",
+  "slug": "xiaomi-air-compressor-2",
+  "categoria": "bomba",
+  "resumo": "Compressor elétrico para deixar em casa, que enche pneu de bike, carro e bola e desliga na pressão escolhida. É grande e pesado para levar no pedal; a bateria não é substituível.",
+  "ficha": [
+    {
+      "rotulo": "Tipo",
+      "valor": "Elétrico"
+    },
+    {
+      "rotulo": "Pressão máxima",
+      "valor": "150 psi"
+    }
+  ],
+  "imagem": {
+    "arquivo": "acessorios/xiaomi-air-compressor-2.webp",
+    "fonte_url": "https://www.mi.com/global/product/xiaomi-portable-electric-air-compressor-2/"
+  },
+  "relatos": [
+    {
+      "url": "https://www.reddit.com/r/cycling/comments/1xu7g0n/xiaomi_air_compressor_2_vs_ugreen_which_electric/",
+      "subreddit": "r/cycling"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://www.mercadolivre.com.br/bomba-de-ar-mijia-air-pump-2--compressor-xiaomi-new-edition/up/MLBU3047106254",
+      "rotulo": "Ver no Mercado Livre"
+    },
+    {
+      "url": "https://www.mi.com/global/product/xiaomi-portable-electric-air-compressor-2/",
+      "rotulo": "Ver na Xiaomi"
+    }
+  ],
+  "atualizado_em": "2026-11-18"
+}

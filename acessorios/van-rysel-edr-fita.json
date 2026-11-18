@@ -1,0 +1,29 @@
+{
+  "marca": "Van Rysel",
+  "modelo": "EDR",
+  "slug": "van-rysel-edr-fita",
+  "categoria": "conforto",
+  "subcategoria": "fita",
+  "resumo": "Fita de guidão de EVA, com toque macio e plugs, para guidão de estrada. Quem usa elogia a aderência, mas reclama que os plugs podem soltar; reuse os antigos se eles ficarem firmes.",
+  "ficha": [
+    {
+      "rotulo": "Material",
+      "valor": "EVA"
+    },
+    {
+      "rotulo": "Comprimento",
+      "valor": "Universal"
+    }
+  ],
+  "imagem": {
+    "arquivo": "acessorios/van-rysel-edr-fita.webp",
+    "fonte_url": "https://www.decathlon.com.br/fita-de-guidao-edr-preta-preto-8852880-van-rysel/p"
+  },
+  "links": [
+    {
+      "url": "https://www.decathlon.com.br/fita-de-guidao-edr-preta-preto-8852880-van-rysel/p",
+      "rotulo": "Ver na Decathlon"
+    }
+  ],
+  "atualizado_em": "2026-11-18"
+}

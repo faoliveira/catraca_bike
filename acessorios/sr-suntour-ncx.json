@@ -1,0 +1,39 @@
+{
+  "marca": "SR Suntour",
+  "modelo": "NCX",
+  "slug": "sr-suntour-ncx",
+  "categoria": "conforto",
+  "subcategoria": "canote",
+  "resumo": "Canote com 50 mm de curso e paralelogramo, que absorve os buracos e reduz o impacto no selim. Um dono conta que a esposa usa e gosta; confira o diâmetro do quadro antes de comprar.",
+  "ficha": [
+    {
+      "rotulo": "Curso",
+      "valor": "50 mm"
+    },
+    {
+      "rotulo": "Diâmetro",
+      "valor": "27,2 a 31,6 mm"
+    }
+  ],
+  "imagem": {
+    "arquivo": "acessorios/sr-suntour-ncx.webp",
+    "fonte_url": "https://pt.aliexpress.com/item/1005010332475129.html"
+  },
+  "relatos": [
+    {
+      "url": "https://www.reddit.com/r/cycling/comments/1wdofmy/seatpost_suspensions/",
+      "subreddit": "r/cycling"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://pt.aliexpress.com/item/1005010332475129.html",
+      "rotulo": "Ver no AliExpress"
+    },
+    {
+      "url": "https://www.mercadolivre.com.br/espigao-de-suspensao-sr-suntour-sp12-ncx-272-mm-x-350-mm/p/MLB2033205005",
+      "rotulo": "Ver no Mercado Livre"
+    }
+  ],
+  "atualizado_em": "2026-11-18"
+}

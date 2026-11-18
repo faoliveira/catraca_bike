@@ -1,0 +1,30 @@
+{
+  "marca": "Projeto Hito",
+  "modelo": "Pochete Hito",
+  "slug": "projeto-hito-pochete-hito",
+  "categoria": "bolsa",
+  "subcategoria": "carga",
+  "papel": "feito-no-brasil",
+  "resumo": "Pochete de 8 L para o dia a dia, na cintura ou a tiracolo, feita sob encomenda em São Paulo. Tem bolso frontal com mosquetão para a chave e fechamento em zíper com trava.",
+  "ficha": [
+    {
+      "rotulo": "Onde vai",
+      "valor": "Na cintura ou a tiracolo"
+    },
+    {
+      "rotulo": "Capacidade",
+      "valor": "8 L"
+    }
+  ],
+  "imagem": {
+    "arquivo": "acessorios/projeto-hito-pochete-hito.webp",
+    "fonte_url": "https://projetohito.com.br/products/pochete-hito"
+  },
+  "links": [
+    {
+      "url": "https://projetohito.com.br/products/pochete-hito",
+      "rotulo": "Ver na loja do Projeto Hito"
+    }
+  ],
+  "atualizado_em": "2026-11-18"
+}

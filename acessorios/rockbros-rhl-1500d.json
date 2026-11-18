@@ -1,0 +1,35 @@
+{
+  "marca": "Rockbros",
+  "modelo": "RHL 1500D",
+  "slug": "rockbros-rhl-1500d",
+  "categoria": "luz",
+  "subcategoria": "farol",
+  "resumo": "Farol de 1.500 lúmens com corte de facho, que ilumina a pista sem ofuscar quem vem de frente. O suporte é preso no guidão com uma cinta; confira o diâmetro antes de comprar.",
+  "ficha": [
+    {
+      "rotulo": "Brilho",
+      "valor": "1.500 lúmens"
+    },
+    {
+      "rotulo": "Recarga",
+      "valor": "USB-C"
+    }
+  ],
+  "imagem": {
+    "arquivo": "acessorios/rockbros-rhl-1500d.webp",
+    "fonte_url": "https://pt.aliexpress.com/item/33010819226.html"
+  },
+  "relatos": [
+    {
+      "url": "https://www.reddit.com/r/BicicletasBrasil/comments/1o8c12p/indica%C3%A7%C3%A3o_de_farol_e_luz_traseira/",
+      "subreddit": "r/BicicletasBrasil"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://pt.aliexpress.com/item/33010819226.html",
+      "rotulo": "Ver no AliExpress"
+    }
+  ],
+  "atualizado_em": "2026-11-18"
+}

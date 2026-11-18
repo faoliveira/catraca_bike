@@ -1,0 +1,34 @@
+{
+  "marca": "Van Rysel",
+  "modelo": "EDR MIPS",
+  "slug": "van-rysel-edr-mips",
+  "categoria": "capacete",
+  "resumo": "Capacete de estrada com MIPS e boa ventilação, para pedais longos no asfalto. A Decathlon vende no Brasil, e o ajuste é por roda na parte de trás.",
+  "ficha": [
+    {
+      "rotulo": "Certificação",
+      "valor": "EN 1078"
+    },
+    {
+      "rotulo": "MIPS",
+      "valor": "Sim"
+    }
+  ],
+  "imagem": {
+    "arquivo": "acessorios/van-rysel-edr-mips.webp",
+    "fonte_url": "https://www.decathlon.com.br/capacete-de-ciclismo-estrada-edr-mips-verde-8881265-van-rysel/p"
+  },
+  "relatos": [
+    {
+      "url": "https://www.reddit.com/r/BicicletasBrasil/comments/1w3pdkx/esses_capacetes_baratos_protegem_e_valem_a_pena/",
+      "subreddit": "r/BicicletasBrasil"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://www.decathlon.com.br/capacete-de-ciclismo-estrada-edr-mips-verde-8881265-van-rysel/p",
+      "rotulo": "Ver na Decathlon"
+    }
+  ],
+  "atualizado_em": "2026-11-18"
+}

@@ -1,0 +1,35 @@
+{
+  "marca": "Lizard Skins",
+  "modelo": "DSP 2,5 mm",
+  "slug": "lizard-skins-dsp-25",
+  "categoria": "conforto",
+  "subcategoria": "fita",
+  "resumo": "Fita de guidão de 2,5 mm, aderente e acolchoada, para quem pedala com as mãos no capô por muito tempo. É à prova d'água e vem com plugs; há quem diga que ela desgasta rápido.",
+  "ficha": [
+    {
+      "rotulo": "Material",
+      "valor": "DSP"
+    },
+    {
+      "rotulo": "Espessura",
+      "valor": "2,5 mm"
+    }
+  ],
+  "imagem": {
+    "arquivo": "acessorios/lizard-skins-dsp-25.webp",
+    "fonte_url": "https://www.mercadolivre.com.br/fita-de-guidao-para-bicicleta-lizard-skins-dsp-25mm/up/MLBU3379336863"
+  },
+  "relatos": [
+    {
+      "url": "https://www.reddit.com/r/cycling/comments/1w8bdj9/what_bar_tape_do_you_use/",
+      "subreddit": "r/cycling"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://www.mercadolivre.com.br/fita-de-guidao-para-bicicleta-lizard-skins-dsp-25mm/up/MLBU3379336863",
+      "rotulo": "Ver no Mercado Livre"
+    }
+  ],
+  "atualizado_em": "2026-11-18"
+}

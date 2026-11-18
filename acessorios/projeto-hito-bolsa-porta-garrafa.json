@@ -16,11 +16,15 @@
       "valor": "1,5 L"
     }
   ],
+  "imagem": {
+    "arquivo": "acessorios/projeto-hito-bolsa-porta-garrafa.webp",
+    "fonte_url": "https://projetohito.com.br/products/bolsa-com-porta-garrafa"
+  },
   "links": [
     {
       "url": "https://projetohito.com.br/products/bolsa-com-porta-garrafa",
       "rotulo": "Ver na loja do Projeto Hito"
     }
   ],
-  "atualizado_em": "2026-11-17"
+  "atualizado_em": "2026-11-18"
 }

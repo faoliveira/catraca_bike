@@ -1,0 +1,39 @@
+{
+  "marca": "Selle Royal",
+  "modelo": "Respiro Moderate",
+  "slug": "selle-royal-respiro-moderate",
+  "categoria": "conforto",
+  "subcategoria": "selim",
+  "resumo": "Selim largo com canal central e gel, para posição urbana, que alivia a pressão no períneo. É mais indicado para quem pedala sentado; em bike de estrada, o formato largo pode atrapalhar.",
+  "ficha": [
+    {
+      "rotulo": "Largura",
+      "valor": "230 mm"
+    },
+    {
+      "rotulo": "Canal",
+      "valor": "Sim"
+    }
+  ],
+  "imagem": {
+    "arquivo": "acessorios/selle-royal-respiro-moderate.webp",
+    "fonte_url": "https://www.selleroyal.com/products/saddles-respiro-stracciatella-moderate-black-5131hetb391q7"
+  },
+  "relatos": [
+    {
+      "url": "https://www.reddit.com/r/BicicletasBrasil/comments/1wav9r8/ajuda_com_selim/",
+      "subreddit": "r/BicicletasBrasil"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://www.mercadolivre.com.br/selim-respiro-moderate-men-60-selle-royal-gel-vazado/up/MLBU3017951435",
+      "rotulo": "Ver no Mercado Livre"
+    },
+    {
+      "url": "https://www.selleroyal.com/products/saddles-respiro-stracciatella-moderate-black-5131hetb391q7",
+      "rotulo": "Ver na Selle Royal"
+    }
+  ],
+  "atualizado_em": "2026-11-18"
+}

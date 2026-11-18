@@ -1,0 +1,39 @@
+{
+  "marca": "Garmin",
+  "modelo": "Varia RTL515",
+  "slug": "garmin-varia-rtl515",
+  "categoria": "luz",
+  "subcategoria": "lanterna-traseira",
+  "resumo": "Luz traseira com radar que avisa o computador quando um carro se aproxima, até 140 m. O radar não substitui olhar e ouvir, e exige um computador compatível.",
+  "ficha": [
+    {
+      "rotulo": "Alcance",
+      "valor": "140 m"
+    },
+    {
+      "rotulo": "Bateria",
+      "valor": "16 h no flash diurno"
+    }
+  ],
+  "imagem": {
+    "arquivo": "acessorios/garmin-varia-rtl515.webp",
+    "fonte_url": "https://www.garmin.com/en-US/p/698001/"
+  },
+  "relatos": [
+    {
+      "url": "https://www.reddit.com/r/cycling/comments/1xsggwt/whats_the_best_rear_light/",
+      "subreddit": "r/cycling"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://www.mercadolivre.com.br/lanterna-traseira-radar-retrovisor-garmin-varia-rtl515-cnf-cor-preto/p/MLB27054717",
+      "rotulo": "Ver no Mercado Livre"
+    },
+    {
+      "url": "https://www.garmin.com/en-US/p/698001/",
+      "rotulo": "Ver na Garmin"
+    }
+  ],
+  "atualizado_em": "2026-11-18"
+}
