@@ -38,6 +38,8 @@ const MENSAGENS_DE_PADRAO: Array<[(padrao: string) => boolean, string]> = [
   [(p) => p.includes("700c"), "use o aro em polegadas (29, 27.5, 27.5/29) ou 700c, sem aspas"],
   // Antes da foto de modelo: o padrão da dica também contém "\\.webp", e vale a primeira mensagem que casa.
   [(p) => p.startsWith("^acessorios"), "use o caminho da foto no formato acessorios/<slug>.webp"],
+  [(p) => p.includes("reddit\\.com"), "use o endereço de uma conversa do Reddit, sem parâmetros: https://www.reddit.com/r/<subreddit>/comments/<id>/"],
+  [(p) => p.startsWith("^r\\/"), "use o subreddit no formato r/<nome>, como r/cycling"],
   [(p) => p.includes("\\.webp"), "use o caminho da foto no formato <pasta-da-marca>/<slug>.webp"],
 ];
 
@@ -51,9 +53,11 @@ const LISTA_VAZIA: Record<string, string> = {
   links_compra: "lista vazia: tire o campo quando não houver link de compra",
   links: "lista vazia: use null quando a dica não tiver link",
   ficha: "lista vazia: tire o campo quando a dica não tiver ficha",
+  relatos: "lista vazia: tire o campo quando a dica não tiver conversa para citar",
 };
 const LISTA_LONGA: Record<string, string> = {
   ficha: "use no máximo duas linhas na ficha",
+  relatos: "use no máximo três relatos",
 };
 const TEXTO_LONGO: Record<string, string> = {
   rotulo: "use um rótulo de até 16 caracteres",
@@ -187,6 +191,7 @@ interface Dica {
   papel?: string;
   atualizado_em: string;
   imagem?: { arquivo: string };
+  relatos?: Array<{ url: string; subreddit: string }>;
 }
 
 /**
@@ -219,6 +224,14 @@ function regrasDaDica(dica: Dica, arquivo: string): Array<{ campo: string; mensa
   if (subcategoria === undefined && irmas.length > 0) {
     erros.push({ campo: "subcategoria", mensagem: `a categoria ${dica.categoria} pede subcategoria: ${irmas.join(" ou ")}` });
   }
+
+  // O subreddit do texto é o da URL (o schema já garantiu o formato de uma e de outro); maiúscula não conta.
+  dica.relatos?.forEach(({ url, subreddit }, i) => {
+    const daUrl = `r/${new URL(url).pathname.split("/")[2]}`;
+    if (daUrl.toLowerCase() !== subreddit.toLowerCase()) {
+      erros.push({ campo: `relatos.${i}.subreddit`, mensagem: `"${subreddit}" não é o subreddit da conversa (${daUrl}); use ${daUrl}` });
+    }
+  });
 
   if (dica.imagem && dica.imagem.arquivo !== `acessorios/${dica.slug}.webp`) {
     erros.push({ campo: "imagem.arquivo", mensagem: `o caminho da foto desta dica é acessorios/${dica.slug}.webp` });

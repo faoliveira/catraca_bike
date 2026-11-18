@@ -4,7 +4,7 @@
   "slug": "onguard-neon-8154",
   "categoria": "cadeado",
   "papel": "primeira-escolha",
-  "resumo": "U-lock com cabo de aço de 120 cm, para prender o quadro e a roda. Prenda o quadro com o U-lock e use o cabo só na roda, porque um cabo sozinho se corta com alicate. No r/BicicletasBrasil, o U-lock é a primeira recomendação de cadeado, e a OnGuard é uma das marcas citadas pelo nome.",
+  "resumo": "U-lock com cabo de aço de 120 cm, que prende o quadro e a roda com um cadeado só. Prenda o quadro com o U-lock e use o cabo só na roda, porque um cabo sozinho se corta com alicate. Um usuário de uma conversa sobre cadeados indica um U-lock da OnGuard pelo nome e dá o mesmo aviso sobre o cabo.",
   "ficha": [
     {
       "rotulo": "Tipo",
@@ -19,11 +19,17 @@
     "arquivo": "acessorios/onguard-neon-8154.webp",
     "fonte_url": "https://www.amazon.com/ONGUARD-U-Lock-Standard-Shackle-Cable/dp/B0721CDFC5"
   },
+  "relatos": [
+    {
+      "url": "https://www.reddit.com/r/BicicletasBrasil/comments/1vo8tle/qual_cadeado_comprar/",
+      "subreddit": "r/BicicletasBrasil"
+    }
+  ],
   "links": [
     {
       "url": "https://www.mercadolivre.com.br/onguard-8154-u-lock-trava-cadeado-chave-reforcado-cabo-120cm-cor-preto/p/MLB22334582",
       "rotulo": "Ver no Mercado Livre"
     }
   ],
-  "atualizado_em": "2026-11-17"
+  "atualizado_em": "2026-11-18"
 }

@@ -4,8 +4,7 @@
   "slug": "igpsport-bsc200s",
   "categoria": "computador",
   "subcategoria": "computador-de-bordo",
-  "papel": "primeira-escolha",
-  "resumo": "Computador de bordo com GPS, tela colorida e navegação por rota, que se conecta a sensores ANT+ e Bluetooth. É o mais indicado no r/BicicletasBrasil. Para configurar, depende do aplicativo e de uma conta da iGPSport, e um usuário de lá achou a navegação ruim de usar.",
+  "resumo": "Computador de bordo com GPS, tela colorida e navegação por rota, que se conecta a sensores ANT+ e Bluetooth. Para configurar, depende do aplicativo e de uma conta da iGPSport. Um dono do BSC200S conta que a navegação não recalcula a rota quando você sai do trajeto.",
   "ficha": [
     {
       "rotulo": "Tela",
@@ -20,11 +19,17 @@
     "arquivo": "acessorios/igpsport-bsc200s.webp",
     "fonte_url": "https://bikeforcejoondalup.com.au/products/bsc200s-cycling-computer"
   },
+  "relatos": [
+    {
+      "url": "https://www.reddit.com/r/cycling/comments/1ov0v4x/igpsport_bcs300/",
+      "subreddit": "r/cycling"
+    }
+  ],
   "links": [
     {
       "url": "https://pt.aliexpress.com/item/1005008405013199.html",
       "rotulo": "Ver no AliExpress"
     }
   ],
-  "atualizado_em": "2026-11-17"
+  "atualizado_em": "2026-11-18"
 }

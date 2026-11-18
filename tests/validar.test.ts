@@ -62,6 +62,15 @@ describe("catálogo", () => {
     expect(mensagemDoPadrao(schema.properties.imagem.properties.arquivo.pattern)).toBe("use o caminho da foto no formato acessorios/<slug>.webp");
   });
 
+  test("os padrões do relato recebem a mensagem do relato", async () => {
+    const schema = JSON.parse(await readFile(join(SCHEMAS, "dica.schema.json"), "utf8")) as {
+      properties: { relatos: { items: { properties: { url: { allOf: Array<{ pattern: string }> }; subreddit: { pattern: string } } } } };
+    };
+    const { url, subreddit } = schema.properties.relatos.items.properties;
+    expect(url.allOf.map((r) => mensagemDoPadrao(r.pattern))).toContain("use o endereço de uma conversa do Reddit, sem parâmetros: https://www.reddit.com/r/<subreddit>/comments/<id>/");
+    expect(mensagemDoPadrao(subreddit.pattern)).toBe("use o subreddit no formato r/<nome>, como r/cycling");
+  });
+
   test("pasta da marca sem acento, espaço nem hífen", () => {
     expect(pastaDaMarca("Two Dogs")).toBe("twodogs");
     expect(pastaDaMarca("Pinarello-São")).toBe("pinarellosao");
@@ -190,6 +199,46 @@ describe("acessórios e comparações", () => {
       expect(bolsa).toContainEqual({ arquivo: DICA, campo: "subcategoria", mensagem: "a categoria bolsa pede subcategoria: carga ou kit-do-pedal" });
       const cadeado = await com((d) => { d.categoria = "cadeado"; delete d.subcategoria; });
       expect(cadeado).toEqual([]);
+    });
+
+    describe("relatos", () => {
+      const THREAD = "https://www.reddit.com/r/cycling/comments/134o6jb/xoss_magene_cycplus_which_of_these_makes_the_best/";
+      const MENSAGEM_URL = "use o endereço de uma conversa do Reddit, sem parâmetros: https://www.reddit.com/r/<subreddit>/comments/<id>/";
+      const relatos = (valor: unknown) => com((d) => (d.relatos = valor));
+
+      test("de uma a três conversas, com ou sem título e barra final", async () => {
+        expect(await relatos([{ url: THREAD, subreddit: "r/cycling" }])).toEqual([]);
+        expect(await relatos([{ url: "https://www.reddit.com/r/cycling/comments/134o6jb/", subreddit: "r/cycling" }])).toEqual([]);
+        expect(await relatos([{ url: "https://www.reddit.com/r/cycling/comments/134o6jb", subreddit: "r/cycling" }])).toEqual([]);
+      });
+
+      test("lista vazia e mais de três", async () => {
+        expect(await relatos([])).toContainEqual({ arquivo: DICA, campo: "relatos", mensagem: "lista vazia: tire o campo quando a dica não tiver conversa para citar" });
+        const um = { url: THREAD, subreddit: "r/cycling" };
+        expect(await relatos([um, um, um, um])).toContainEqual({ arquivo: DICA, campo: "relatos", mensagem: "use no máximo três relatos" });
+      });
+
+      test("só conversa do Reddit, sem parâmetros", async () => {
+        for (const url of [
+          "https://www.reddit.com/r/cycling/",
+          "https://old.reddit.com/r/cycling/comments/134o6jb/x/",
+          "https://www.reddit.com/r/cycling/comments/134o6jb/x/?context=3",
+          "https://loja.example/r/cycling/comments/134o6jb/x/",
+        ]) {
+          expect(await relatos([{ url, subreddit: "r/cycling" }])).toContainEqual({ arquivo: DICA, campo: "relatos.0.url", mensagem: MENSAGEM_URL });
+        }
+      });
+
+      test("o subreddit tem o formato r/<nome>", async () => {
+        expect(await relatos([{ url: THREAD, subreddit: "cycling" }])).toContainEqual({ arquivo: DICA, campo: "relatos.0.subreddit", mensagem: "use o subreddit no formato r/<nome>, como r/cycling" });
+      });
+
+      test("regra cruzada: o subreddit do texto é o da URL, sem distinguir maiúscula", async () => {
+        expect(await relatos([{ url: THREAD, subreddit: "r/bikepacking" }])).toEqual([
+          { arquivo: DICA, campo: "relatos.0.subreddit", mensagem: '"r/bikepacking" não é o subreddit da conversa (r/cycling); use r/cycling' },
+        ]);
+        expect(await relatos([{ url: THREAD, subreddit: "r/Cycling" }])).toEqual([]);
+      });
     });
 
     test("duas primeiras escolhas na mesma prateleira", async () => {
