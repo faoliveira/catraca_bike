@@ -4,7 +4,7 @@
   "slug": "specialized-align-ii-mips",
   "categoria": "capacete",
   "papel": "primeira-escolha",
-  "resumo": "Capacete urbano com MIPS, a camada interna que reduz a rotação da cabeça no impacto. É um dos capacetes com MIPS de marca conhecida mais indicados no r/BicicletasBrasil. A Specialized vende direto no próprio site, e as queixas de quem usa são o peso e a ventilação.",
+  "resumo": "Capacete urbano com MIPS, a camada interna que reduz a rotação da cabeça no impacto. Um usuário o recomenda pelo nome numa conversa sobre capacetes. A Specialized vende direto no próprio site, e as queixas de quem usa são o peso e a ventilação.",
   "ficha": [
     {
       "rotulo": "Virginia Tech",
@@ -19,11 +19,17 @@
     "arquivo": "acessorios/specialized-align-ii-mips.webp",
     "fonte_url": "https://www.specialized.com/br/pt/align-ii/p/1000207922"
   },
+  "relatos": [
+    {
+      "url": "https://www.reddit.com/r/BicicletasBrasil/comments/1w3pdkx/esses_capacetes_baratos_protegem_e_valem_a_pena/",
+      "subreddit": "r/BicicletasBrasil"
+    }
+  ],
   "links": [
     {
       "url": "https://www.specialized.com/br/pt/align-ii/p/1000207922",
       "rotulo": "Ver na Specialized"
     }
   ],
-  "atualizado_em": "2026-11-17"
+  "atualizado_em": "2026-11-18"
 }

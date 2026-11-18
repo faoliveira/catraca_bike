@@ -4,7 +4,7 @@
   "slug": "coospo-h808s",
   "categoria": "computador",
   "subcategoria": "sensor",
-  "resumo": "A cinta cardíaca é resistente à água e se conecta por ANT+ e Bluetooth ao computador de bordo, ao relógio ou ao celular. A proteção é IP67. Num teste lado a lado publicado no Reddit, as leituras dela ficaram próximas das de uma cinta da Garmin.",
+  "resumo": "Cinta cardíaca com ANT+ e Bluetooth, que fala com o computador de bordo, o relógio ou o celular. É resistente à água (IP67). Num teste lado a lado de um usuário, com uma cinta Garmin antiga e uma hora de corrida virtual, as leituras praticamente não diferiram.",
   "ficha": [
     {
       "rotulo": "Mede",
@@ -19,11 +19,17 @@
     "arquivo": "acessorios/coospo-h808s.webp",
     "fonte_url": "https://pt.aliexpress.com/item/1005005196821469.html"
   },
+  "relatos": [
+    {
+      "url": "https://www.reddit.com/r/Garmin/comments/1og4w5m/side_by_side_measurement_of_my_wife_and_myself/",
+      "subreddit": "r/Garmin"
+    }
+  ],
   "links": [
     {
       "url": "https://pt.aliexpress.com/item/1005005196821469.html",
       "rotulo": "Ver no AliExpress"
     }
   ],
-  "atualizado_em": "2026-11-17"
+  "atualizado_em": "2026-11-18"
 }

@@ -5,7 +5,7 @@
   "categoria": "computador",
   "subcategoria": "sensor",
   "papel": "primeira-escolha",
-  "resumo": "Mede velocidade ou cadência, conforme o modo, e se conecta por ANT+ e Bluetooth a aparelhos Garmin, Wahoo e iGPSport. Funciona também com aplicativos de celular. É um dos sensores mais elogiados no r/cycling, onde um dono conta que usa os seus desde 2020 sem problema; outros reclamam que a bateria acaba rápido.",
+  "resumo": "Mede velocidade ou cadência, conforme o modo, e se conecta por ANT+ e Bluetooth a aparelhos Garmin, Wahoo e iGPSport. Funciona também com aplicativos de celular. Um dono conta que usa os dele desde 2020 sem problema, e que a pilha que acompanha dura pouco.",
   "ficha": [
     {
       "rotulo": "Mede",
@@ -20,11 +20,17 @@
     "arquivo": "acessorios/magene-s3-plus.webp",
     "fonte_url": "https://www.magene.com/en/sensors/59-s3-speed-cadence-dual-mode-sensor.html"
   },
+  "relatos": [
+    {
+      "url": "https://www.reddit.com/r/cycling/comments/134o6jb/xoss_magene_cycplus_which_of_these_makes_the_best/",
+      "subreddit": "r/cycling"
+    }
+  ],
   "links": [
     {
       "url": "https://pt.aliexpress.com/item/4000561044840.html",
       "rotulo": "Ver no AliExpress"
     }
   ],
-  "atualizado_em": "2026-11-17"
+  "atualizado_em": "2026-11-18"
 }

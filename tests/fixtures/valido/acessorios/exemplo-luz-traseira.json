@@ -9,6 +9,9 @@
     { "rotulo": "Brilho", "valor": null },
     { "rotulo": "Recarga", "valor": "USB" }
   ],
+  "relatos": [
+    { "url": "https://www.reddit.com/r/cycling/comments/abc123/luz_traseira/", "subreddit": "r/cycling" }
+  ],
   "links": [
     { "url": "https://loja.example/produto/luz-traseira", "rotulo": "Loja Exemplo" }
   ],

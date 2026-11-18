@@ -164,7 +164,8 @@ Uma dica por arquivo, em `acessorios/<slug>.json`, no formato de [`schemas/dica.
 - `categoria`: `capacete`, `luz`, `cadeado`, `bomba`, `ferramenta`, `bolsa` (inclui alforje e mochila de bike), `computador` (computador de bordo, GPS e sensores) ou `outro`.
 - `subcategoria`: a prateleira dentro da categoria, obrigatória em três delas. Em `luz`, `farol` ou `lanterna-traseira`. Em `bolsa`, `carga` (mochila, alforje e bolsa de quadro grande, para o trabalho e as compras) ou `kit-do-pedal` (a bolsa pequena da câmara, da ferramenta e da chave). Em `computador`, `computador-de-bordo` ou `sensor`. Nas outras categorias, o campo fica de fora.
 - `papel` (opcional): o selo da dica na prateleira. `primeira-escolha` vale para uma dica só por prateleira; os outros são `feito-no-brasil` e `para-ebike`. Não existe selo de preço. Use só quando o resumo sustenta o selo.
-- `resumo`: a primeira frase diz o que é o produto e por que vale a pena, em até 120 caracteres, e o site a mostra em destaque. As frases seguintes trazem o relato de quem usa, com o lugar de onde ele vem, e as ressalvas. A frase de abertura diz o que o produto faz por quem pedala, e a fonte do relato ("No r/cycling, ...") entra nas frases seguintes. Sem preço e sem comparar preço com outra dica: nada de "barato", "custa menos", "em conta" nem "R$".
+- `resumo`: a primeira frase diz o que é o produto e por que vale a pena, em até 120 caracteres, e o site a mostra em destaque. As frases seguintes trazem a ressalva ou o elogio específico de quem usa. Sem preço e sem comparar preço com outra dica: nada de "barato", "custa menos", "em conta" nem "R$". Não abra frase com a origem ("No r/cycling, ...", "É dos mais citados no r/..."): o topo da página de acessórios já diz que o relato de quem usa leva à conversa no Reddit, e a fonte de cada relato vai no campo `relatos`. Atribuição só entra no texto quando ela mantém o relato honesto, como "um dono conta que...", para um relato isolado. Afirmação específica sem conversa para linkar sai do texto ou fica no que dá para sustentar sem o link.
+- `relatos` (opcional): de uma a três conversas do Reddit em que a dica se apoia, cada uma como `{ "url": "...", "subreddit": "r/cycling" }`. A URL é a da conversa, `https://www.reddit.com/r/<subreddit>/comments/<id>/`, com ou sem o título e sem parâmetro (nada de `?context=3` nem `#comentário`). O `subreddit` tem de ser o da própria URL. Só entra a conversa que você leu e que sustenta o que o resumo diz.
 - `ficha` (opcional): até duas linhas de rótulo e valor, conferidas na página do produto. Use os rótulos da prateleira, para as dicas lado a lado se compararem: `Certificação` e `MIPS` no capacete; `Brilho` e `Recarga` na luz; `Tipo` e `Pressão máxima` na bomba; `Onde vai` e `Capacidade` na bolsa; `Tela` e `Navegação` no computador de bordo; `Mede` e `Conexão` no sensor. O rótulo tem até 16 caracteres e o valor, até 28. Valor desconhecido é `null`. Quando a página do produto não confirma a linha padrão da prateleira (a certificação de um capacete, por exemplo), troque-a por outra linha que a página confirme, para a dica não parecer a única sem a certificação.
 - `imagem` (opcional): `{ "arquivo": "acessorios/<slug>.webp", "fonte_url": "<página de onde a foto veio>" }`. Não envie a imagem: cite a página do produto no Pull Request, e o mantenedor enquadra e publica a foto.
 - `links`: a URL limpa do produto, como nos modelos. Sem link, use `null`.
@@ -180,6 +181,9 @@ Uma dica por arquivo, em `acessorios/<slug>.json`, no formato de [`schemas/dica.
   "ficha": [
     { "rotulo": "Brilho", "valor": null },
     { "rotulo": "Recarga", "valor": "USB" }
+  ],
+  "relatos": [
+    { "url": "https://www.reddit.com/r/cycling/comments/abc123/luz_traseira/", "subreddit": "r/cycling" }
   ],
   "links": [
     { "url": "https://loja.example/produto/luz-traseira", "rotulo": "Loja Exemplo" }

@@ -123,6 +123,46 @@
       ],
       "additionalProperties": false
     },
+    "relatos": {
+      "description": "Opcional. De uma a três conversas do Reddit em que a dica se apoia; o subreddit do texto é o da URL. A fonte do relato vai aqui, e o resumo não abre frase com \"No r/...\".",
+      "minItems": 1,
+      "maxItems": 3,
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "url": {
+            "type": "string",
+            "allOf": [
+              {
+                "pattern": "^https?:\\/\\/"
+              },
+              {
+                "pattern": "^(?![^#]*[?&](?:utm_[^=&#]*|tag|ref|matt_[^=&#]*|partner_id)=)"
+              },
+              {
+                "pattern": "^(?!https?:\\/\\/(?:amzn\\.to|a\\.co|shope\\.ee|s\\.shopee\\.com\\.br)(?:[/?#:]|$))(?!https?:\\/\\/(?:www\\.)?mercadolivre\\.com\\/sec\\/)"
+              },
+              {
+                "pattern": "^(?!https?:\\/\\/(?:[^/?#]*\\.)?magazinevoce\\.com\\.br(?:[/?#:]|$))"
+              },
+              {
+                "pattern": "^https:\\/\\/www\\.reddit\\.com\\/r\\/[A-Za-z0-9_]+\\/comments\\/[a-z0-9]+(?:\\/[^/?#]+)?\\/?$"
+              }
+            ]
+          },
+          "subreddit": {
+            "type": "string",
+            "pattern": "^r\\/[A-Za-z0-9_]+$"
+          }
+        },
+        "required": [
+          "url",
+          "subreddit"
+        ],
+        "additionalProperties": false
+      }
+    },
     "links": {
       "anyOf": [
         {

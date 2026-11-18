@@ -4,7 +4,7 @@
   "slug": "cycplus-c3",
   "categoria": "computador",
   "subcategoria": "sensor",
-  "resumo": "O sensor é à prova d'água, mede velocidade ou cadência e se conecta por ANT+ e Bluetooth. No r/cycling, um usuário relata que ele aguenta lama no mountain bike. É 1 mm mais grosso que o Magene S3+, então confira a folga entre o pedivela e o quadro.",
+  "resumo": "O sensor é à prova d'água, mede velocidade ou cadência e se conecta por ANT+ e Bluetooth. É 1 mm mais grosso que o Magene S3+, então confira a folga entre o pedivela e o quadro.",
   "ficha": [
     {
       "rotulo": "Mede",
@@ -25,5 +25,5 @@
       "rotulo": "Ver no AliExpress"
     }
   ],
-  "atualizado_em": "2026-11-17"
+  "atualizado_em": "2026-11-18"
 }

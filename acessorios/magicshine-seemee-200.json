@@ -4,16 +4,15 @@
   "slug": "magicshine-seemee-200",
   "categoria": "luz",
   "subcategoria": "lanterna-traseira",
-  "papel": "primeira-escolha",
-  "resumo": "Lanterna traseira recarregável, visível de todos os ângulos. A SEEMEE é a linha de lanterna traseira mais recomendada no r/cycling. O suporte da caixa prende com cinta de borracha; quem quer encaixe rápido compra um adaptador à parte.",
+  "resumo": "Lanterna traseira de 200 lúmens, visível de todos os ângulos, com sensor de freio. Recarrega por USB, prende no canote e tem proteção IPX6.",
   "ficha": [
     {
       "rotulo": "Brilho",
-      "valor": null
+      "valor": "Até 200 lúmens"
     },
     {
       "rotulo": "Recarga",
-      "valor": null
+      "valor": "USB"
     }
   ],
   "imagem": {
@@ -26,5 +25,5 @@
       "rotulo": "Ver no AliExpress"
     }
   ],
-  "atualizado_em": "2026-11-17"
+  "atualizado_em": "2026-11-18"
 }

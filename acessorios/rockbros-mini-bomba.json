@@ -3,7 +3,7 @@
   "modelo": "minibomba de alumínio",
   "slug": "rockbros-mini-bomba",
   "categoria": "bomba",
-  "resumo": "É uma bomba manual pequena, de alumínio, para ir junto em todo pedal. Quem tem bomba elétrica recomenda, no r/cycling, levar uma manual também, porque a bateria pode acabar no meio do caminho.",
+  "resumo": "Bomba manual de alumínio, pequena o bastante para ir com você em todo pedal e resolver um furo no caminho. Donos de bomba elétrica recomendam levar uma manual de reserva, porque a bateria pode acabar no meio do caminho.",
   "ficha": [
     {
       "rotulo": "Tipo",
@@ -18,11 +18,17 @@
     "arquivo": "acessorios/rockbros-mini-bomba.webp",
     "fonte_url": "https://pt.aliexpress.com/item/32889348243.html"
   },
+  "relatos": [
+    {
+      "url": "https://www.reddit.com/r/cycling/comments/1lwfxq5/electronic_mini_pump_which_one_you_recommend/",
+      "subreddit": "r/cycling"
+    }
+  ],
   "links": [
     {
       "url": "https://pt.aliexpress.com/item/32889348243.html",
       "rotulo": "Ver no AliExpress"
     }
   ],
-  "atualizado_em": "2026-11-17"
+  "atualizado_em": "2026-11-18"
 }
