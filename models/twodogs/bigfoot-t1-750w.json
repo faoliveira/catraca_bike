@@ -5,8 +5,8 @@
   "slug": "bigfoot-t1-750w",
   "categoria": "ebike",
   "url_fabricante": "https://twodogs.com/produto/bicicleta-eletrica-two-dogs-bigfoot-t1-750w/",
-  "preco_sugerido_brl": 8740,
-  "atualizado_em": "2026-11-18",
+  "preco_sugerido_brl": null,
+  "atualizado_em": "2026-11-19",
   "quadro": {
     "material": "Aço carbono",
     "tamanhos": null,
@@ -37,11 +37,6 @@
       "url": "https://twodogs.com/produto/bicicleta-eletrica-two-dogs-bigfoot-t1-750w/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-11"
-    },
-    {
-      "url": "https://www.mercadolivre.com.br/bicicleta-eletrica-bigfoot-t1-750w-48v-two-dogs-aro-20-nf/up/MLBU4856828294",
-      "tipo": "loja",
-      "acessado_em": "2026-11-18"
     }
   ]
 }

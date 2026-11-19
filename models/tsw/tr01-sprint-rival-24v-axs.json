@@ -5,8 +5,8 @@
   "slug": "tr01-sprint-rival-24v-axs",
   "categoria": "speed",
   "url_fabricante": "https://tswbike.com/p/1343/tr01-sprint-rival-24v-axs",
-  "preco_sugerido_brl": 39900,
-  "atualizado_em": "2026-11-10",
+  "preco_sugerido_brl": 35780,
+  "atualizado_em": "2026-11-19",
   "quadro": {
     "material": "Carbono Toray",
     "tamanhos": [
@@ -32,6 +32,11 @@
       "url": "https://tswbike.com/p/1343/tr01-sprint-rival-24v-axs",
       "tipo": "fabricante",
       "acessado_em": "2026-11-10"
+    },
+    {
+      "url": "https://produto.mercadolivre.com.br/MLB-3887673579-bicicleta-tsw-speed-tr1-sprint-sram-rival-24v-eletr-tam-49-pretolaranja-49-cm-_JM",
+      "tipo": "loja",
+      "acessado_em": "2026-11-19"
     }
   ],
   "imagem": {

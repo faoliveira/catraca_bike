@@ -5,8 +5,8 @@
   "slug": "e-vibe-rush",
   "categoria": "ebike",
   "url_fabricante": "https://caloi.com/produto/e-vibe-rush/",
-  "preco_sugerido_brl": 5200,
-  "atualizado_em": "2026-11-18",
+  "preco_sugerido_brl": 5490,
+  "atualizado_em": "2026-11-19",
   "quadro": {
     "material": "Alumínio hidroformado, liga 6061, tapered",
     "tamanhos": [
@@ -52,5 +52,10 @@
   "imagem": {
     "arquivo": "caloi/e-vibe-rush.webp",
     "fonte_url": "https://caloi.com/produto/e-vibe-rush/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://produto.mercadolivre.com.br/MLB-4298717287-bicicleta-eletrica-aro-700-caloi-e-vibe-rush-7v-2026-_JM"
+    }
+  ]
 }
