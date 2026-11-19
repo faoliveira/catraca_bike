@@ -5,8 +5,8 @@
   "slug": "bigfoot-t2-cargo-750w",
   "categoria": "ebike",
   "url_fabricante": "https://twodogs.com/produto/bicicleta-eletrica-two-dogs-bigfoot-t2-cargo-750w-48v/",
-  "preco_sugerido_brl": 13990,
-  "atualizado_em": "2026-11-11",
+  "preco_sugerido_brl": 14160,
+  "atualizado_em": "2026-11-18",
   "quadro": {
     "material": "Liga 6061 de alumínio dobrável",
     "tamanhos": null,
@@ -37,6 +37,11 @@
       "url": "https://twodogs.com/produto/bicicleta-eletrica-two-dogs-bigfoot-t2-cargo-750w-48v/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-11"
+    },
+    {
+      "url": "https://www.mercadolivre.com.br/bicicleta-eletrica-dobravel-two-dogs-bigfoot-t2-cargo-750w/up/MLBU3412660636",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ]
 }
