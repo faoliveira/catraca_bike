@@ -6,7 +6,7 @@
   "categoria": "infantil",
   "url_fabricante": "https://www.sensebike.com.br/produtos/grom-20-race-g2/",
   "preco_sugerido_brl": 4590,
-  "atualizado_em": "2026-11-10",
+  "atualizado_em": "2026-11-18",
   "quadro": {
     "material": "Alumínio hidroformado 6061 T4-T6",
     "tamanhos": [
@@ -28,10 +28,20 @@
       "url": "https://www.sensebike.com.br/produtos/grom-20-race-g2/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-10"
+    },
+    {
+      "url": "https://www.magazineluiza.com.br/bicicleta-infantil-sense-grom-race-g2-aro-20-shimano-cues/p/jjj2dhj780/es/elbi/",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "imagem": {
     "arquivo": "sense/grom-20-race-g2.webp",
     "fonte_url": "https://www.sensebike.com.br/produtos/grom-20-race-g2/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.magazineluiza.com.br/bicicleta-infantil-sense-grom-race-g2-aro-20-shimano-cues/p/jjj2dhj780/es/elbi/"
+    }
+  ]
 }

@@ -6,7 +6,7 @@
   "categoria": "mtb",
   "url_fabricante": "https://caloi.com/produto/explorer-sport-2026/",
   "preco_sugerido_brl": 3590,
-  "atualizado_em": "2026-11-10",
+  "atualizado_em": "2026-11-18",
   "quadro": {
     "material": "Alumínio 6061 e 6069, tubos hidroformados",
     "tamanhos": [
@@ -32,10 +32,20 @@
       "url": "https://caloi.com/produto/explorer-sport-2026/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-10"
+    },
+    {
+      "url": "https://www.decathlon.com.br/bicicleta-mtb-caloi-explorer-sport-aro-29-shimano-1x9-vel-2145974049/p",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "imagem": {
     "arquivo": "caloi/explorer-sport-2026.webp",
     "fonte_url": "https://caloi.com/produto/explorer-sport-2026/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.decathlon.com.br/bicicleta-mtb-caloi-explorer-sport-aro-29-shimano-1x9-vel-2145974049/p"
+    }
+  ]
 }

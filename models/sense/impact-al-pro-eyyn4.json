@@ -6,7 +6,7 @@
   "categoria": "mtb",
   "url_fabricante": "https://www.sensebike.com.br/produtos/impact-al-pro-eyyn4/",
   "preco_sugerido_brl": 7290,
-  "atualizado_em": "2026-11-10",
+  "atualizado_em": "2026-11-18",
   "quadro": {
     "material": "Alumínio 6069",
     "tamanhos": [
@@ -32,10 +32,20 @@
       "url": "https://www.sensebike.com.br/produtos/impact-al-pro-eyyn4/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-10"
+    },
+    {
+      "url": "https://www.decathlon.com.br/bicicleta-mtb-sense-impact-pro-2025-aro-29-shimano-cues-11v-2145744691/p",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "imagem": {
     "arquivo": "sense/impact-al-pro-eyyn4.webp",
     "fonte_url": "https://www.sensebike.com.br/produtos/impact-al-pro-eyyn4/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.decathlon.com.br/bicicleta-mtb-sense-impact-pro-2025-aro-29-shimano-cues-11v-2145744691/p"
+    }
+  ]
 }
