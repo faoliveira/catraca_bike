@@ -1,6 +1,6 @@
 {
   "ano": null,
-  "atualizado_em": "2026-11-18",
+  "atualizado_em": "2026-11-19",
   "categoria": "infantil",
   "componentes": {
     "grupo": null,
@@ -24,16 +24,11 @@
       "url": "https://www.amazon.com.br/dp/B0B4YDCG6X",
       "tipo": "loja",
       "acessado_em": "2026-11-18"
-    },
-    {
-      "url": "https://www.magazineluiza.com.br/bicicleta-infantil-aro-12-verden-paty-rosa-e-lilas-com-rodinhas-e-cesta/p/220648400/",
-      "tipo": "loja",
-      "acessado_em": "2026-11-18"
     }
   ],
   "marca": "Verden",
   "modelo": "Paty Aro 12",
-  "preco_sugerido_brl": 160,
+  "preco_sugerido_brl": 170,
   "quadro": {
     "aro": "12",
     "curso_mm": null,
