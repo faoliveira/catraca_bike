@@ -5,7 +5,7 @@
   "slug": "aluminum-pro",
   "categoria": "mtb",
   "url_fabricante": "https://caloi.com/produto/aluminum-pro/",
-  "preco_sugerido_brl": 2400,
+  "preco_sugerido_brl": 2090,
   "atualizado_em": "2026-11-18",
   "quadro": {
     "material": "Alumínio",
@@ -28,10 +28,20 @@
       "url": "https://caloi.com/produto/aluminum-pro/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-10"
+    },
+    {
+      "url": "https://www.amazon.com.br/dp/B0DQQV7GDF",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "imagem": {
     "arquivo": "caloi/aluminum-pro.webp",
     "fonte_url": "https://caloi.com/produto/aluminum-pro/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.amazon.com.br/dp/B0DQQV7GDF"
+    }
+  ]
 }

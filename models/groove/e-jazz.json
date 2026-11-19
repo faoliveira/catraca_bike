@@ -5,8 +5,8 @@
   "slug": "e-jazz",
   "categoria": "ebike",
   "url_fabricante": "https://groovebikes.com.br/produto/bicicleta-eletrica-groove-e-jazz/",
-  "preco_sugerido_brl": 9499.9,
-  "atualizado_em": "2026-11-11",
+  "preco_sugerido_brl": 9170,
+  "atualizado_em": "2026-11-18",
   "quadro": {
     "material": "Alumínio",
     "tamanhos": [
@@ -39,6 +39,11 @@
       "url": "https://groovebikes.com.br/produto/bicicleta-eletrica-groove-e-jazz/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-11"
+    },
+    {
+      "url": "https://www.mercadolivre.com.br/loja/groove-297922",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "imagem": {

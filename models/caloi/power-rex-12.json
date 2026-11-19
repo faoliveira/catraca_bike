@@ -5,7 +5,7 @@
   "slug": "power-rex-12",
   "categoria": "infantil",
   "url_fabricante": "https://caloi.com/produto/power-rex-12/",
-  "preco_sugerido_brl": 300,
+  "preco_sugerido_brl": 280,
   "atualizado_em": "2026-11-18",
   "quadro": {
     "material": "Aço",
@@ -28,10 +28,20 @@
       "url": "https://caloi.com/produto/power-rex-12/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-10"
+    },
+    {
+      "url": "https://www.amazon.com.br/dp/B083KN6X6K",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "imagem": {
     "arquivo": "caloi/power-rex-12.webp",
     "fonte_url": "https://caloi.com/produto/power-rex-12/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.amazon.com.br/dp/B083KN6X6K"
+    }
+  ]
 }

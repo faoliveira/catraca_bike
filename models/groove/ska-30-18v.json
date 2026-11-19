@@ -5,8 +5,8 @@
   "slug": "ska-30-18v",
   "categoria": "mtb",
   "url_fabricante": "https://groovebikes.com.br/produto/bicicleta-mountain-bike-aro-29-groove-ska-30-18-marchas/",
-  "preco_sugerido_brl": 3499.9,
-  "atualizado_em": "2026-11-10",
+  "preco_sugerido_brl": 3600,
+  "atualizado_em": "2026-11-18",
   "quadro": {
     "material": "Alumínio",
     "tamanhos": [
@@ -31,6 +31,11 @@
       "url": "https://groovebikes.com.br/produto/bicicleta-mountain-bike-aro-29-groove-ska-30-18-marchas/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-10"
+    },
+    {
+      "url": "https://www.mercadolivre.com.br/loja/groove-297922",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "imagem": {

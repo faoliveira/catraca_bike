@@ -5,8 +5,8 @@
   "slug": "ksw-xlt-100-21v-shimano",
   "categoria": "mtb",
   "url_fabricante": "https://www.kswbikes.com.br/bicicletas/mtb/xlt-100/bicicleta-ksw-xlt-100-21v-shimano-aro-29-freio-a-disco",
-  "preco_sugerido_brl": 1899,
-  "atualizado_em": "2026-11-10",
+  "preco_sugerido_brl": 1570,
+  "atualizado_em": "2026-11-18",
   "quadro": {
     "material": "Alumínio liga 6061 T4 e T6",
     "tamanhos": [
@@ -31,10 +31,28 @@
       "url": "https://www.kswbikes.com.br/bicicletas/mtb/xlt-100/bicicleta-ksw-xlt-100-21v-shimano-aro-29-freio-a-disco",
       "tipo": "fabricante",
       "acessado_em": "2026-11-10"
+    },
+    {
+      "url": "https://www.amazon.com.br/dp/B0BF5Z8VSD",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
+    },
+    {
+      "url": "https://www.magazineluiza.com.br/bicicleta-ksw-aro-29-xlt-100-mtb-unissex-aluminio-21-velocidades-freio-a-disco-mecanico/p/fa994gg49e/es/elbk/",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "imagem": {
     "arquivo": "ksw/ksw-xlt-100-21v-shimano.webp",
     "fonte_url": "https://www.kswbikes.com.br/bicicletas/mtb/xlt-100/bicicleta-ksw-xlt-100-21v-shimano-aro-29-freio-a-disco"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.amazon.com.br/dp/B0BF5Z8VSD"
+    },
+    {
+      "url": "https://www.magazineluiza.com.br/bicicleta-ksw-aro-29-xlt-100-mtb-unissex-aluminio-21-velocidades-freio-a-disco-mecanico/p/fa994gg49e/es/elbk/"
+    }
+  ]
 }
