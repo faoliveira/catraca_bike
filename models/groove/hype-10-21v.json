@@ -5,8 +5,8 @@
   "slug": "hype-10-21v",
   "categoria": "mtb",
   "url_fabricante": "https://groovebikes.com.br/produto/bicicleta-mountain-bike-aro-29-groove-hype-10-21v/",
-  "preco_sugerido_brl": 2099.9,
-  "atualizado_em": "2026-11-10",
+  "preco_sugerido_brl": 2100,
+  "atualizado_em": "2026-11-18",
   "quadro": {
     "material": "Alumínio",
     "tamanhos": [
@@ -31,6 +31,11 @@
       "url": "https://groovebikes.com.br/produto/bicicleta-mountain-bike-aro-29-groove-hype-10-21v/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-10"
+    },
+    {
+      "url": "https://www.mercadolivre.com.br/loja/groove-297922",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "imagem": {

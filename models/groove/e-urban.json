@@ -5,8 +5,8 @@
   "slug": "e-urban",
   "categoria": "ebike",
   "url_fabricante": "https://groovebikes.com.br/produto/bicicleta-eletrica-groove-e-urban",
-  "preco_sugerido_brl": 8499.9,
-  "atualizado_em": "2026-11-11",
+  "preco_sugerido_brl": 8330,
+  "atualizado_em": "2026-11-18",
   "quadro": {
     "material": "Alumínio Groove Smart Welding",
     "tamanhos": [
@@ -45,6 +45,11 @@
       "url": "https://groovebikes.com.br/lancamento-bicicletas-eletricas-e-urban-e-to-go",
       "tipo": "fabricante",
       "acessado_em": "2026-11-11"
+    },
+    {
+      "url": "https://www.mercadolivre.com.br/loja/groove-297922",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "imagem": {

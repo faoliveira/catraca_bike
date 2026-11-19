@@ -5,8 +5,8 @@
   "slug": "ksw-xlt-100-24v-disco",
   "categoria": "mtb",
   "url_fabricante": "https://www.kswbikes.com.br/bicicletas/mtb/xlt-100/bicicleta-ksw-xlt-100-24v-roda-livre-aro-29-freio-a-disco",
-  "preco_sugerido_brl": 1749,
-  "atualizado_em": "2026-11-10",
+  "preco_sugerido_brl": 1470,
+  "atualizado_em": "2026-11-18",
   "quadro": {
     "material": "Alumínio liga 6061 T4 e T6",
     "tamanhos": [
@@ -31,6 +31,11 @@
       "url": "https://www.kswbikes.com.br/bicicletas/mtb/xlt-100/bicicleta-ksw-xlt-100-24v-roda-livre-aro-29-freio-a-disco",
       "tipo": "fabricante",
       "acessado_em": "2026-11-10"
+    },
+    {
+      "url": "https://www.mercadolivre.com.br/bicicleta-aro-29-ksw-xlt-100-24-marchas-freio-a-disco-quadro-aluminio-cor-grafite-com-preto-tamanho-do-quadro-17/p/MLB24216985",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "imagem": {

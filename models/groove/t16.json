@@ -5,8 +5,8 @@
   "slug": "t16",
   "categoria": "infantil",
   "url_fabricante": "https://groovebikes.com.br/produto/bicicleta-infantil-groove-t16/",
-  "preco_sugerido_brl": 999.9,
-  "atualizado_em": "2026-11-10",
+  "preco_sugerido_brl": 970,
+  "atualizado_em": "2026-11-18",
   "quadro": {
     "material": "Aço Carbono",
     "tamanhos": [
@@ -28,6 +28,11 @@
       "url": "https://groovebikes.com.br/produto/bicicleta-infantil-groove-t16/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-10"
+    },
+    {
+      "url": "https://www.centauro.com.br/bicicleta-infantil-groove-camuflada-aro-16-verde-m0ne62-mktp.html",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "imagem": {

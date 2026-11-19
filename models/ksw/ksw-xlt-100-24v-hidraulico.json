@@ -5,8 +5,8 @@
   "slug": "ksw-xlt-100-24v-hidraulico",
   "categoria": "mtb",
   "url_fabricante": "https://www.kswbikes.com.br/bicicletas/mtb/xlt-100/bicicleta-ksw-xlt-100-24v-roda-livre-aro-29-freio-hidraulico",
-  "preco_sugerido_brl": 1690,
-  "atualizado_em": "2026-11-10",
+  "preco_sugerido_brl": 1530,
+  "atualizado_em": "2026-11-18",
   "quadro": {
     "material": "Alumínio liga 6061 T4 e T6",
     "tamanhos": [
@@ -31,6 +31,16 @@
       "url": "https://www.kswbikes.com.br/bicicletas/mtb/xlt-100/bicicleta-ksw-xlt-100-24v-roda-livre-aro-29-freio-hidraulico",
       "tipo": "fabricante",
       "acessado_em": "2026-11-10"
+    },
+    {
+      "url": "https://www.mercadolivre.com.br/bicicleta-aro-29-ksw-xlt-100-24v-shimano-freio-hidraulico-trava-k7-cor-rosa-e-preto-tamanho-do-quadro-17/p/MLB47354313",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
+    },
+    {
+      "url": "https://shopee.com.br/Bicicleta-Aro-29-KSW-XLT100-24-Marchas-Freios-Hidr%C3%A1ulicos-i.1229260824.20399382173",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "imagem": {

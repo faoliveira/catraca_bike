@@ -5,7 +5,7 @@
   "slug": "aspen-my2026",
   "categoria": "mtb",
   "url_fabricante": "https://caloi.com/produto/aspen-my2026/",
-  "preco_sugerido_brl": 1800,
+  "preco_sugerido_brl": 1640,
   "atualizado_em": "2026-11-18",
   "quadro": {
     "material": "Alumínio 6061",
@@ -26,10 +26,20 @@
       "url": "https://caloi.com/produto/aspen-my2026/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-10"
+    },
+    {
+      "url": "https://www.amazon.com.br/dp/B0DQRBY4PN",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "imagem": {
     "arquivo": "caloi/aspen-my2026.webp",
     "fonte_url": "https://caloi.com/produto/aspen-my2026/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.amazon.com.br/dp/B0DQRBY4PN"
+    }
+  ]
 }

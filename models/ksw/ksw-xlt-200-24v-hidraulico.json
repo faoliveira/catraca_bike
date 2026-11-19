@@ -5,8 +5,8 @@
   "slug": "ksw-xlt-200-24v-hidraulico",
   "categoria": "mtb",
   "url_fabricante": "https://www.kswbikes.com.br/bicicletas/mtb/xlt-200/bicicleta-ksw-xlt-200-24v-shimano-roda-livre-29-freio-hidraulico",
-  "preco_sugerido_brl": 1989,
-  "atualizado_em": "2026-11-10",
+  "preco_sugerido_brl": 1960,
+  "atualizado_em": "2026-11-18",
   "quadro": {
     "material": "Alumínio liga 6061 T4 e T6",
     "tamanhos": [
@@ -31,6 +31,11 @@
       "url": "https://www.kswbikes.com.br/bicicletas/mtb/xlt-200/bicicleta-ksw-xlt-200-24v-shimano-roda-livre-29-freio-hidraulico",
       "tipo": "fabricante",
       "acessado_em": "2026-11-10"
+    },
+    {
+      "url": "https://www.mercadolivre.com.br/bicicleta-aro-29-ksw-xlt-200-shimano-24v-freio-disco-hidr-cor-azul-pantone-tamanho-do-quadro-21/p/MLB25262850",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "imagem": {

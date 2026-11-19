@@ -5,8 +5,8 @@
   "slug": "hype-30-21v-hd",
   "categoria": "mtb",
   "url_fabricante": "https://groovebikes.com.br/produto/bicicleta-groove-hype-30-21v-hd-mountain-bike-aro-29-r2-19990-2025/",
-  "preco_sugerido_brl": 2199.9,
-  "atualizado_em": "2026-11-10",
+  "preco_sugerido_brl": 2200,
+  "atualizado_em": "2026-11-18",
   "quadro": {
     "material": "Alumínio",
     "tamanhos": [
@@ -36,6 +36,11 @@
       "url": "https://groovebikes.com.br/produto/bicicleta-mountain-bike-aro-29-groove-hype-30-21-marchas/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-10"
+    },
+    {
+      "url": "https://www.mercadolivre.com.br/loja/groove-297922",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "imagem": {
