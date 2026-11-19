@@ -1,0 +1,39 @@
+{
+  "marca": "Garmin",
+  "modelo": "Edge Explore 2",
+  "slug": "garmin-edge-explore-2",
+  "categoria": "computador",
+  "subcategoria": "computador-de-bordo",
+  "resumo": "Computador de navegação com tela grande e rotas, o mais fácil de usar da Garmin. Tem menos recursos de treino que os Edge de performance; o mapa e o roteamento são o foco.",
+  "ficha": [
+    {
+      "rotulo": "Tela",
+      "valor": "3 pol. sensível"
+    },
+    {
+      "rotulo": "Navegação",
+      "valor": "Com mapa"
+    }
+  ],
+  "imagem": {
+    "arquivo": "acessorios/garmin-edge-explore-2.webp",
+    "fonte_url": "https://www.garmin.com/en-US/p/802162/"
+  },
+  "relatos": [
+    {
+      "url": "https://www.reddit.com/r/cycling/comments/1ksqaow/garmin_edge_explore_2_users_any_regrets/",
+      "subreddit": "r/cycling"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://www.mercadolivre.com.br/computador-de-ciclismo-garmin-edge-explore-2-preto-010-02/p/MLB27501396",
+      "rotulo": "Ver no Mercado Livre"
+    },
+    {
+      "url": "https://www.garmin.com/en-US/p/802162/",
+      "rotulo": "Ver na Garmin"
+    }
+  ],
+  "atualizado_em": "2026-11-18"
+}

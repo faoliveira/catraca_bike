@@ -1,0 +1,39 @@
+{
+  "marca": "iGPSport",
+  "modelo": "BSC500",
+  "slug": "igpsport-bsc500",
+  "categoria": "computador",
+  "subcategoria": "computador-de-bordo",
+  "resumo": "Computador com tela maior e mapa, o passo acima do BSC300T, que monta no suporte Garmin. Um dono conta que desligou o Edge 830 e desinstalou o app da Garmin depois de usar o BSC500.",
+  "ficha": [
+    {
+      "rotulo": "Tela",
+      "valor": "3,3 pol. sensível"
+    },
+    {
+      "rotulo": "Navegação",
+      "valor": "Com mapa"
+    }
+  ],
+  "imagem": {
+    "arquivo": "acessorios/igpsport-bsc500.webp",
+    "fonte_url": "https://us.igpsport.com/products/bsc500"
+  },
+  "relatos": [
+    {
+      "url": "https://www.reddit.com/r/cycling/comments/1xqvmej/igpsport_bsc300t_vs_bsc500/",
+      "subreddit": "r/cycling"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://pt.aliexpress.com/item/1005006749222998.html",
+      "rotulo": "Ver no AliExpress"
+    },
+    {
+      "url": "https://us.igpsport.com/products/bsc500",
+      "rotulo": "Ver na iGPSport"
+    }
+  ],
+  "atualizado_em": "2026-11-18"
+}
