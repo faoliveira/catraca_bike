@@ -31,7 +31,7 @@ O contrato completo está em [`schemas/bike.schema.json`](schemas/bike.schema.js
 | `slug` | sim | Igual ao nome do arquivo |
 | `categoria` | sim | `mtb`, `urbana`, `speed`, `gravel`, `ebike` ou `infantil` |
 | `url_fabricante` | sim | Página do modelo no fabricante, ou `null` |
-| `preco_sugerido_brl` | sim | Preço público sugerido pelo fabricante, em reais, ou `null` |
+| `preco_sugerido_brl` | sim | Média ponderada em reais: `(2 × preço do fabricante + média dos marketplaces) ÷ 3`, arredondada na dezena; sem preço no fabricante, usa só a média dos marketplaces; sem preço em lugar nenhum, `null` |
 | `atualizado_em` | sim | Data da última verificação, `AAAA-MM-DD`, não futura |
 | `quadro` | sim | `material`, `tamanhos`, `aro`, `suspensao`, `curso_mm` (cada um pode ser `null`) |
 | `componentes` | sim | `grupo`, `velocidades`, `tipo_freio`, `peso_kg` (cada um pode ser `null`) |
@@ -110,10 +110,10 @@ Numa e-bike, `categoria` é `"ebike"` e o bloco `ebike` traz todos os campos aba
 ## Regras editoriais
 
 - PT-BR nos textos e BRL nos preços.
-- `preco_sugerido_brl` é o preço público sugerido pelo fabricante, não promoção de loja.
+- `preco_sugerido_brl` é a média ponderada entre o preço do fabricante (peso 2) e a média dos preços nos marketplaces (peso 1), arredondada na dezena. Sem preço no fabricante, vale só a média dos marketplaces; sem preço em lugar nenhum, use `null`, nunca estime.
 - `autonomia_declarada_km` guarda só o valor declarado, nunca uma medição.
 - Não use `0`, texto vazio ou lista vazia para dado desconhecido: use `null`.
-- `ebike.bateria_wh` pode ser calculado quando a fonte dá tensão e carga (48 V × 15,6 Ah = 748,8 Wh). Nenhum outro valor é calculado ou estimado.
+- `ebike.bateria_wh` pode ser calculado quando a fonte dá tensão e carga (48 V × 15,6 Ah = 748,8 Wh). Nenhum outro valor é calculado ou estimado, exceto `preco_sugerido_brl` (média ponderada, veja acima).
 - O catálogo aceita só bicicletas completas: quadro avulso, scooter e triciclo ficam de fora.
 - `categoria` é `infantil` para bikes sem motor de aro até 20 ou balance, exceto as dobráveis. E-bike continua `ebike`, mesmo com aro pequeno.
 - `quadro.aro` vai em polegadas (`"29"`, `"27.5"`, `"27.5/29"` quando muda com o tamanho) ou `"700c"`.
