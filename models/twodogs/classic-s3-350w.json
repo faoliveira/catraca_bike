@@ -5,8 +5,8 @@
   "slug": "classic-s3-350w",
   "categoria": "ebike",
   "url_fabricante": "https://twodogs.com/produto/bicicleta-eletrica-two-dogs-classic-s3-350w/",
-  "preco_sugerido_brl": 6990,
-  "atualizado_em": "2026-11-11",
+  "preco_sugerido_brl": 6940,
+  "atualizado_em": "2026-11-18",
   "quadro": {
     "material": "Aço carbono",
     "tamanhos": null,
@@ -37,6 +37,11 @@
       "url": "https://twodogs.com/produto/bicicleta-eletrica-two-dogs-classic-s3-350w/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-11"
+    },
+    {
+      "url": "https://www.casasbahia.com.br/bicicleta-eletrica-29-quot-classic-s3-350w-36v-two-dogs-branco/p/1577541223",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ]
 }
