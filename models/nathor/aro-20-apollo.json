@@ -5,8 +5,8 @@
   "slug": "aro-20-apollo",
   "categoria": "infantil",
   "url_fabricante": "https://nathor.com/produto/bicicleta-aro-20-apollo/",
-  "preco_sugerido_brl": null,
-  "atualizado_em": "2026-11-10",
+  "preco_sugerido_brl": 880,
+  "atualizado_em": "2026-11-18",
   "quadro": {
     "material": "Aço carbono",
     "tamanhos": null,
@@ -31,10 +31,20 @@
       "url": "https://nathor.com/linha/aro-20/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-10"
+    },
+    {
+      "url": "https://www.amazon.com.br/dp/B07LC2LW62",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "imagem": {
     "arquivo": "nathor/aro-20-apollo.webp",
     "fonte_url": "https://nathor.com/produto/bicicleta-aro-20-apollo/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.amazon.com.br/dp/B07LC2LW62"
+    }
+  ]
 }
