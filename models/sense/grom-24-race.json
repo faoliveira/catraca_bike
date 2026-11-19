@@ -6,7 +6,7 @@
   "categoria": "mtb",
   "url_fabricante": "https://www.sensebike.com.br/produtos/grom-24-race/",
   "preco_sugerido_brl": 4290,
-  "atualizado_em": "2026-11-10",
+  "atualizado_em": "2026-11-18",
   "quadro": {
     "material": "Alumínio 6061",
     "tamanhos": [
@@ -28,10 +28,20 @@
       "url": "https://www.sensebike.com.br/produtos/grom-24-race/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-10"
+    },
+    {
+      "url": "https://www.magazineluiza.com.br/bicicleta-infantil-sense-grom-race-2025-aro-24-shimano-10v/p/kcffg1fc30/es/elbi/",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "imagem": {
     "arquivo": "sense/grom-24-race.webp",
     "fonte_url": "https://www.sensebike.com.br/produtos/grom-24-race/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.magazineluiza.com.br/bicicleta-infantil-sense-grom-race-2025-aro-24-shimano-10v/p/kcffg1fc30/es/elbi/"
+    }
+  ]
 }
