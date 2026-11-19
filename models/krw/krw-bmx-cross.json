@@ -5,8 +5,8 @@
   "slug": "krw-bmx-cross",
   "categoria": "infantil",
   "url_fabricante": "https://www.krwbikes.com.br/produtos/bicicleta-infantil-aro-20-aero-krw-bmx-cross-freio-v-brake-sem-marchas/",
-  "preco_sugerido_brl": 999,
-  "atualizado_em": "2026-11-10",
+  "preco_sugerido_brl": 860,
+  "atualizado_em": "2026-11-18",
   "quadro": {
     "material": "Aço carbono",
     "tamanhos": null,
@@ -26,10 +26,20 @@
       "url": "https://www.krwbikes.com.br/produtos/bicicleta-infantil-aro-20-aero-krw-bmx-cross-freio-v-brake-sem-marchas/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-10"
+    },
+    {
+      "url": "https://www.decathlon.com.br/bicicleta-aro-20-krw-bmx-cross-v-brake-sem-marchas-2145538896/p",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "imagem": {
     "arquivo": "krw/krw-bmx-cross.webp",
     "fonte_url": "https://www.krwbikes.com.br/produtos/bicicleta-infantil-aro-20-aero-krw-bmx-cross-freio-v-brake-sem-marchas/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.decathlon.com.br/bicicleta-aro-20-krw-bmx-cross-v-brake-sem-marchas-2145538896/p"
+    }
+  ]
 }

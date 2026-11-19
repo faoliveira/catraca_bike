@@ -5,8 +5,8 @@
   "slug": "krw-f16-lara",
   "categoria": "infantil",
   "url_fabricante": "https://www.krwbikes.com.br/produtos/bicicleta-krw-infantil-aro-16-lara-menina-aco-carbono-freio-v-brake-rodas-laterais-f16-6g8w8/",
-  "preco_sugerido_brl": 1099,
-  "atualizado_em": "2026-11-10",
+  "preco_sugerido_brl": 1100,
+  "atualizado_em": "2026-11-18",
   "quadro": {
     "material": "Aço carbono",
     "tamanhos": [
@@ -28,10 +28,20 @@
       "url": "https://www.krwbikes.com.br/produtos/bicicleta-krw-infantil-aro-16-lara-menina-aco-carbono-freio-v-brake-rodas-laterais-f16-6g8w8/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-10"
+    },
+    {
+      "url": "https://www.decathlon.com.br/bicicleta-krw-infantil-aro-16-lara-menina-aco-carbono-freio-v-brake-com-rodas-laterais-f16-2145674004/p",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "imagem": {
     "arquivo": "krw/krw-f16-lara.webp",
     "fonte_url": "https://www.krwbikes.com.br/produtos/bicicleta-krw-infantil-aro-16-lara-menina-aco-carbono-freio-v-brake-rodas-laterais-f16-6g8w8/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.decathlon.com.br/bicicleta-krw-infantil-aro-16-lara-menina-aco-carbono-freio-v-brake-com-rodas-laterais-f16-2145674004/p"
+    }
+  ]
 }

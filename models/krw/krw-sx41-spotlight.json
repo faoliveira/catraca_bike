@@ -5,8 +5,8 @@
   "slug": "krw-sx41-spotlight",
   "categoria": "mtb",
   "url_fabricante": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-spotlight-aluminio-27-vel-freio-hidraulico-sx41-outlet-13y2k/",
-  "preco_sugerido_brl": 2699,
-  "atualizado_em": "2026-11-10",
+  "preco_sugerido_brl": 2200,
+  "atualizado_em": "2026-11-18",
   "quadro": {
     "material": "Alumínio 6061",
     "tamanhos": [
@@ -28,10 +28,20 @@
       "url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-spotlight-aluminio-27-vel-freio-hidraulico-sx41-outlet-13y2k/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-10"
+    },
+    {
+      "url": "https://www.decathlon.com.br/bicicleta-aro-29-krw-spotlight-aluminio-27-vel-freio-a-disco-hidraulico-sx41-2145462675/p",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "imagem": {
     "arquivo": "krw/krw-sx41-spotlight.webp",
     "fonte_url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-spotlight-aluminio-27-vel-freio-hidraulico-sx41-outlet-13y2k/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.decathlon.com.br/bicicleta-aro-29-krw-spotlight-aluminio-27-vel-freio-a-disco-hidraulico-sx41-2145462675/p"
+    }
+  ]
 }

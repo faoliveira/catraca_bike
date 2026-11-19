@@ -5,8 +5,8 @@
   "slug": "krw-s37",
   "categoria": "mtb",
   "url_fabricante": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-24v-shimano-altus-freio-hidraulico-cassete-s37-outlet/",
-  "preco_sugerido_brl": 2599,
-  "atualizado_em": "2026-11-10",
+  "preco_sugerido_brl": 2600,
+  "atualizado_em": "2026-11-18",
   "quadro": {
     "material": "Alumínio 6061",
     "tamanhos": [
@@ -30,10 +30,20 @@
       "url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-24v-shimano-altus-freio-hidraulico-cassete-s37-outlet/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-10"
+    },
+    {
+      "url": "https://www.decathlon.com.br/bicicleta-aro-29-krw-aluminio-shimano-altus-24-vel-freio-hidraulico-e-cassete-s37-2145694321/p",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "imagem": {
     "arquivo": "krw/krw-s37.webp",
     "fonte_url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-24v-shimano-altus-freio-hidraulico-cassete-s37-outlet/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.decathlon.com.br/bicicleta-aro-29-krw-aluminio-shimano-altus-24-vel-freio-hidraulico-e-cassete-s37-2145694321/p"
+    }
+  ]
 }

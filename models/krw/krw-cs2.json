@@ -5,8 +5,8 @@
   "slug": "krw-cs2",
   "categoria": "mtb",
   "url_fabricante": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-shimano-cues-freio-hidraulico-suspensao-trava-de-guidao-18-velocidades-cs2/",
-  "preco_sugerido_brl": 4699,
-  "atualizado_em": "2026-11-10",
+  "preco_sugerido_brl": 4700,
+  "atualizado_em": "2026-11-18",
   "quadro": {
     "material": "Alumínio 6061 K 4.0",
     "tamanhos": [
@@ -31,10 +31,20 @@
       "url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-shimano-cues-freio-hidraulico-suspensao-trava-de-guidao-18-velocidades-cs2/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-10"
+    },
+    {
+      "url": "https://www.decathlon.com.br/bicicleta-krw-cs2-aro-29-aluminio-shimano-cues-18v-2145855792/p",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "imagem": {
     "arquivo": "krw/krw-cs2.webp",
     "fonte_url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-shimano-cues-freio-hidraulico-suspensao-trava-de-guidao-18-velocidades-cs2/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.decathlon.com.br/bicicleta-krw-cs2-aro-29-aluminio-shimano-cues-18v-2145855792/p"
+    }
+  ]
 }
