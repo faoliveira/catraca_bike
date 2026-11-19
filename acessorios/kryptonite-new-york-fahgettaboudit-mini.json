@@ -1,0 +1,34 @@
+{
+  "marca": "Kryptonite",
+  "modelo": "New York Fahgettaboudit Mini",
+  "slug": "kryptonite-new-york-fahgettaboudit-mini",
+  "categoria": "cadeado",
+  "resumo": "U-lock de 18 mm, o mais reforçado da linha New York, para deixar a bike na rua por mais tempo. Pesa cerca de 2 kg e é importado; confira o peso antes de levar todo dia.",
+  "ficha": [
+    {
+      "rotulo": "Tipo",
+      "valor": "U-lock"
+    },
+    {
+      "rotulo": "Cabo",
+      "valor": "Não incluso"
+    }
+  ],
+  "imagem": {
+    "arquivo": "acessorios/kryptonite-new-york-fahgettaboudit-mini.webp",
+    "fonte_url": "https://www.mercadolivre.com.br/cadeado-kryptonite-new-york-fahgettaboudit-mini-ulock-chave/up/MLBU1275207927"
+  },
+  "relatos": [
+    {
+      "url": "https://www.reddit.com/r/BicicletasBrasil/comments/1vo8tle/qual_cadeado_comprar/",
+      "subreddit": "r/BicicletasBrasil"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://www.mercadolivre.com.br/cadeado-kryptonite-new-york-fahgettaboudit-mini-ulock-chave/up/MLBU1275207927",
+      "rotulo": "Ver no Mercado Livre"
+    }
+  ],
+  "atualizado_em": "2026-11-18"
+}
