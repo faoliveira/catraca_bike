@@ -4,9 +4,9 @@
   "ano": null,
   "slug": "krw-s11",
   "categoria": "mtb",
-  "url_fabricante": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-24-vel-freio-a-disco-hidraulico-s11-mxfbm/",
+  "url_fabricante": null,
   "preco_sugerido_brl": 2999,
-  "atualizado_em": "2026-11-10",
+  "atualizado_em": "2026-11-19",
   "quadro": {
     "material": "Alumínio 6061",
     "tamanhos": [
@@ -28,14 +28,9 @@
   "ebike": null,
   "fontes": [
     {
-      "url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-24-vel-freio-a-disco-hidraulico-s11-mxfbm/",
+      "url": "https://www.krwbikes.com.br/produtos/",
       "tipo": "fabricante",
-      "acessado_em": "2026-11-10"
-    }
-  ],
-  "links_compra": [
-    {
-      "url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-24-vel-freio-a-disco-hidraulico-s11-mxfbm/"
+      "acessado_em": "2026-11-19"
     }
   ]
 }
