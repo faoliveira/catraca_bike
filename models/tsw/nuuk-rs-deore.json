@@ -6,7 +6,7 @@
   "categoria": "mtb",
   "url_fabricante": "https://tswbike.com/p/1045/nuuk-rs-deore",
   "preco_sugerido_brl": 7100,
-  "atualizado_em": "2026-11-18",
+  "atualizado_em": "2026-11-19",
   "quadro": {
     "material": "Alumínio 6061 T4-T6",
     "tamanhos": [
@@ -33,13 +33,18 @@
       "acessado_em": "2026-11-10"
     },
     {
-      "url": "https://produto.mercadolivre.com.br/MLB-3638343897-bicicleta-tsw-nuuk-12v-deore-susp-rockshox-mtb-linha-2024-_JM",
+      "url": "https://produto.mercadolivre.com.br/MLB-5660549302-bicicleta-aro-29-tsw-nuuk-deore-12v-rock-shox-_JM",
       "tipo": "loja",
-      "acessado_em": "2026-11-18"
+      "acessado_em": "2026-11-19"
     }
   ],
   "imagem": {
     "arquivo": "tsw/nuuk-rs-deore.webp",
     "fonte_url": "https://tswbike.com/p/1045/nuuk-rs-deore"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://produto.mercadolivre.com.br/MLB-5660549302-bicicleta-aro-29-tsw-nuuk-deore-12v-rock-shox-_JM"
+    }
+  ]
 }

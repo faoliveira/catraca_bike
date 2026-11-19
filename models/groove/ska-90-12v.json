@@ -5,8 +5,8 @@
   "slug": "ska-90-12v",
   "categoria": "mtb",
   "url_fabricante": "https://groovebikes.com.br/produto/bicicleta-mountain-bike-aro-29-groove-ska-90-12-velocidade/",
-  "preco_sugerido_brl": 6670,
-  "atualizado_em": "2026-11-18",
+  "preco_sugerido_brl": 7000,
+  "atualizado_em": "2026-11-19",
   "quadro": {
     "material": "Alumínio",
     "tamanhos": [
@@ -31,11 +31,6 @@
       "url": "https://groovebikes.com.br/produto/bicicleta-mountain-bike-aro-29-groove-ska-90-12-velocidade/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-10"
-    },
-    {
-      "url": "https://produto.mercadolivre.com.br/MLB-3688634229-bicicleta-groove-ska-90-12v-aro-29-verdepreto-quadro-19-_JM",
-      "tipo": "loja",
-      "acessado_em": "2026-11-18"
     }
   ],
   "imagem": {
