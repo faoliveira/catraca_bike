@@ -5,8 +5,8 @@
   "slug": "krw-sx1-spotlight",
   "categoria": "mtb",
   "url_fabricante": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-spotlight-aluminio-shimano-tz-24v-freio-a-disco-sx1-outlet-92xmb/",
-  "preco_sugerido_brl": 1699,
-  "atualizado_em": "2026-11-10",
+  "preco_sugerido_brl": 1800,
+  "atualizado_em": "2026-11-18",
   "quadro": {
     "material": "Alumínio 6061",
     "tamanhos": [
@@ -31,10 +31,20 @@
       "url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-spotlight-aluminio-shimano-tz-24v-freio-a-disco-sx1-outlet-92xmb/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-10"
+    },
+    {
+      "url": "https://www.decathlon.com.br/bicicleta-aro-29-krw-spotlight-aluminio-shimano-tz-24-vel-freio-a-disco-sx1-2145462669/p",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "imagem": {
     "arquivo": "krw/krw-sx1-spotlight.webp",
     "fonte_url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-spotlight-aluminio-shimano-tz-24v-freio-a-disco-sx1-outlet-92xmb/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.decathlon.com.br/bicicleta-aro-29-krw-spotlight-aluminio-shimano-tz-24-vel-freio-a-disco-sx1-2145462669/p"
+    }
+  ]
 }

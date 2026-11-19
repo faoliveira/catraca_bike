@@ -5,8 +5,8 @@
   "slug": "krw-x21",
   "categoria": "mtb",
   "url_fabricante": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-21-velocidades-freio-a-disco-x21-outlet/",
-  "preco_sugerido_brl": 1499,
-  "atualizado_em": "2026-11-10",
+  "preco_sugerido_brl": 1310,
+  "atualizado_em": "2026-11-18",
   "quadro": {
     "material": "Alumínio 6061",
     "tamanhos": [
@@ -31,10 +31,20 @@
       "url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-21-velocidades-freio-a-disco-x21-outlet/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-10"
+    },
+    {
+      "url": "https://www.decathlon.com.br/bicicleta-aro-29-krw-aluminio-21-velocidades-freio-a-disco-x21-2144953249/p",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "imagem": {
     "arquivo": "krw/krw-x21.webp",
     "fonte_url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-21-velocidades-freio-a-disco-x21-outlet/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.decathlon.com.br/bicicleta-aro-29-krw-aluminio-21-velocidades-freio-a-disco-x21-2144953249/p"
+    }
+  ]
 }

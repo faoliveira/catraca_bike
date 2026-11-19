@@ -5,8 +5,8 @@
   "slug": "krw-kr1",
   "categoria": "mtb",
   "url_fabricante": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-24-vel-freio-a-disco-kr1/",
-  "preco_sugerido_brl": 1594,
-  "atualizado_em": "2026-11-10",
+  "preco_sugerido_brl": 1340,
+  "atualizado_em": "2026-11-18",
   "quadro": {
     "material": "Alumínio 6061",
     "tamanhos": [
@@ -31,10 +31,25 @@
       "url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-24-vel-freio-a-disco-kr1/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-10"
+    },
+    {
+      "url": "https://www.decathlon.com.br/bicicleta-aro-29-krw-aluminio-24-velocidades-freio-a-disco-suspensao-dianteira-mountain-bike-kr1-2145674006/p",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
+    },
+    {
+      "url": "https://www.magazineluiza.com.br/bicicleta-aro-29-krw-aluminio-24-vel-freio-a-disco-mountain-bike-kr1/p/ebh6kjegch/es/elbk/",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "imagem": {
     "arquivo": "krw/krw-kr1.webp",
     "fonte_url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-aluminio-24-vel-freio-a-disco-kr1/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.decathlon.com.br/bicicleta-aro-29-krw-aluminio-24-velocidades-freio-a-disco-suspensao-dianteira-mountain-bike-kr1-2145674006/p"
+    }
+  ]
 }

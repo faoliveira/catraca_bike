@@ -5,8 +5,8 @@
   "slug": "krw-sx5-spotlight",
   "categoria": "mtb",
   "url_fabricante": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-spotlight-aluminio-shimano-tz-24v-freio-hidraulico-sx5-outlet/",
-  "preco_sugerido_brl": 2399,
-  "atualizado_em": "2026-11-10",
+  "preco_sugerido_brl": 1970,
+  "atualizado_em": "2026-11-18",
   "quadro": {
     "material": "Alumínio 6061",
     "tamanhos": [
@@ -31,10 +31,20 @@
       "url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-spotlight-aluminio-shimano-tz-24v-freio-hidraulico-sx5-outlet/",
       "tipo": "fabricante",
       "acessado_em": "2026-11-10"
+    },
+    {
+      "url": "https://www.decathlon.com.br/bicicleta-aro-29-krw-spotlight-aluminio-shimano-tz-24-vel-freio-hidraulico-sx5-2145455921-569478/p",
+      "tipo": "loja",
+      "acessado_em": "2026-11-18"
     }
   ],
   "imagem": {
     "arquivo": "krw/krw-sx5-spotlight.webp",
     "fonte_url": "https://www.krwbikes.com.br/produtos/bicicleta-aro-29-krw-spotlight-aluminio-shimano-tz-24v-freio-hidraulico-sx5-outlet/"
-  }
+  },
+  "links_compra": [
+    {
+      "url": "https://www.decathlon.com.br/bicicleta-aro-29-krw-spotlight-aluminio-shimano-tz-24-vel-freio-hidraulico-sx5-2145455921-569478/p"
+    }
+  ]
 }
